@@ -48,7 +48,7 @@ An Awesome List of Celestia Resources
 #### Community
 * [Telegram](https://t.me/celestia_vn)
 
-### Japan 🏴
+### Japan 🇯🇵
 #### Resources
 * [Celestia Japan blog](https://medium.com/@celestia.japan)
 
