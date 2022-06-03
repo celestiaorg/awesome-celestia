@@ -27,14 +27,18 @@ An Awesome List of Celestia Resources
 ### France
 #### Community
 * [Telegram](https://t.me/celestia_fra)
+* [Twitter](https://twitter.com/celestia_fra)
 
 ### Turkey
 #### Community
 * [Telegram](https://t.me/celestiaturkey)
+#### Resources
+* [Celestia Public Testnet Katılım Videosu](https://www.youtube.com/watch?v=VH9Ar6phK00)
 
 ### China
 #### Community
 * [Telegram](https://t.me/CelestiaCommunityCN)
+* [Twitter](https://twitter.com/CelestiaChinese)
 #### Resources
 * [Blogs from project Celestia. 中文翻译版](https://mahogany-pig-5dd.notion.site/Celestia-Navigate-CN-00b137062a784b9d98bd96938a221a1a)
 * [Celestia 中文白皮书](https://yi-cheng.notion.site/LazyLedger-A-Distributed-Data-Availability-Ledger-With-Client-Side-Smart-Contracts-7f17b58da66d41608b603fdde05d0a9e)
@@ -52,7 +56,11 @@ An Awesome List of Celestia Resources
 #### Resources
 * [Celestia Japan blog](https://medium.com/@celestia.japan)
 
-### Italy
+### Germany
+#### Resources
+* [Celestia Community | D-A-CH](https://medium.com/@celestia.dach)
+
+### Italy 
 #### Community
 * [Telegram](https://t.me/Celestia_ITA)
 
@@ -64,3 +72,10 @@ An Awesome List of Celestia Resources
 #### Community
 * [Telegram](https://t.me/Celestia_Spanish)
 
+### Thailand
+#### Community
+* [Telegram](https://t.me/celestiathailand)
+
+### Arabic
+#### Community
+* [Telegram](https://t.me/CelestiaArabic)
