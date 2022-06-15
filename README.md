@@ -28,6 +28,9 @@ An Awesome List of Celestia Resources
 #### Community
 * [Telegram](https://t.me/celestia_fra)
 * [Twitter](https://twitter.com/celestia_fra)
+#### Unofficial translations (In progress)
+* [Website](https://github.com/Gunter038/celestia.org-French.git)
+* [Documentation](https://github.com/Gunter038/docs-French.git)
 
 ### Turkey
 #### Community
