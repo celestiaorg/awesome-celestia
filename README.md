@@ -47,6 +47,7 @@ An Awesome List of Celestia Resources
 * [Celestia 中文白皮书](https://yi-cheng.notion.site/LazyLedger-A-Distributed-Data-Availability-Ledger-With-Client-Side-Smart-Contracts-7f17b58da66d41608b603fdde05d0a9e)
 * [Celestia 研究材料 - 上](https://l0o54m125p.feishu.cn/docs/doccnFKBkHmYv1rBoa467caDqvM#)
 * [Celestia 的研究报告](https://feng2012.notion.site/Celestia-069064edc76c4de2ab72618b2e50817b)
+* [一个很棒的文档](https://youthful-piranha-928.notion.site/Celestia-d1503d064808414c87fd2eccc4da2d94)
 
 ### Korea
 #### Community
@@ -61,6 +62,8 @@ An Awesome List of Celestia Resources
 * [Celestia Japan blog](https://medium.com/@celestia.japan)
 
 ### Germany
+#### Community
+* [Telegram](https://t.me/celestia_dach)
 #### Resources
 * [Celestia Community | D-A-CH](https://medium.com/@celestia.dach)
 
