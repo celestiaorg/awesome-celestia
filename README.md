@@ -37,7 +37,7 @@ An Awesome List of Celestia Resources
 * [Telegram](https://t.me/celestiaturkey)
 #### Resources
 * [Celestia Public Testnet Katılım Videosu](https://www.youtube.com/watch?v=VH9Ar6phK00)
-
+* [Turkish blog with translations](https://www.celestiaturkiye.com/)
 ### China
 #### Community
 * [Telegram](https://t.me/CelestiaCommunityCN)
