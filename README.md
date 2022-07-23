@@ -46,6 +46,8 @@ An Awesome List of Celestia Resources
 * [Blogs from project Celestia. 中文翻译版](https://mahogany-pig-5dd.notion.site/Celestia-Navigate-CN-00b137062a784b9d98bd96938a221a1a)
 * [Celestia 中文白皮书](https://yi-cheng.notion.site/LazyLedger-A-Distributed-Data-Availability-Ledger-With-Client-Side-Smart-Contracts-7f17b58da66d41608b603fdde05d0a9e)
 * [Celestia 研究材料 - 上](https://l0o54m125p.feishu.cn/docs/doccnFKBkHmYv1rBoa467caDqvM#)
+* [Celestia Chinese blog](https://celestiachinese.substack.com/)
+* [Celestia 研究文档](https://www.notion.so/Celestia-d1503d064808414c87fd2eccc4da2d94)
 
 ### Korea
 #### Community
