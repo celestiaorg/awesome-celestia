@@ -78,6 +78,7 @@ An Awesome List of Celestia Resources
 ### Thailand
 #### Community
 * [Telegram](https://t.me/celestiathailand)
+#### Resources
 * [Thailand blog with translations](https://medium.com/celestia-thailand)
 
 ### Arabic
