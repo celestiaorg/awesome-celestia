@@ -17,6 +17,11 @@ An Awesome List of Celestia Resources
 * [Reading Lists](https://celestia.org/resources/reading-list/)
 * [Glossary](https://celestia.org/glossary/)
 
+
+## Translations
+
+https://crowdin.com/profile/Yazanator
+
 ## International (unofficial)
 ### Russia
 #### Community
@@ -28,9 +33,6 @@ An Awesome List of Celestia Resources
 #### Community
 * [Telegram](https://t.me/celestia_fra)
 * [Twitter](https://twitter.com/celestia_fra)
-#### Unofficial translations (In progress)
-* [Website](https://github.com/Gunter038/celestia.org-French.git)
-* [Documentation](https://github.com/Gunter038/docs-French.git)
 
 ### Turkey
 #### Community
@@ -38,6 +40,7 @@ An Awesome List of Celestia Resources
 #### Resources
 * [Celestia Public Testnet Katılım Videosu](https://www.youtube.com/watch?v=VH9Ar6phK00)
 * [Turkish blog with translations](https://www.celestiaturkiye.com/)
+
 ### China
 #### Community
 * [Telegram](https://t.me/CelestiaCommunityCN)
