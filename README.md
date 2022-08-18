@@ -86,3 +86,9 @@ An Awesome List of Celestia Resources
 ### Arabic
 #### Community
 * [Telegram](https://t.me/CelestiaArabic)
+
+### Ukraine 
+#### Community
+* [Telegram](https://t.me/celestiaua)
+#### Resources
+* [Ukrainian Newsletter](https://teletype.in/@celestiaua)
