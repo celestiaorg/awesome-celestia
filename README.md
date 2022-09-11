@@ -92,3 +92,7 @@ An Awesome List of Celestia Resources
 * [Telegram](https://t.me/celestiaua)
 #### Resources
 * [Ukrainian Newsletter](https://teletype.in/@celestiaua)
+
+### Brazil
+#### Community
+* [Telegram](https://t.me/CelestiaBrazil)
