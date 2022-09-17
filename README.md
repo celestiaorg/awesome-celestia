@@ -35,9 +35,14 @@ An Awesome List of Celestia Resources
 ### Turkey
 #### Community
 * [Telegram](https://t.me/celestiaturkey)
+* [Twitter](https://twitter.com/celestiaturkiye)
 #### Resources
-* [Celestia Public Testnet Katılım Videosu](https://www.youtube.com/watch?v=VH9Ar6phK00)
-* [Turkish blog with translations](https://www.celestiaturkiye.com/)
+* [Celestia Türkiye Medium Sayfası](https://medium.com/@celestiaturkiye)
+* [Celestia Devnet Katılım Videosu](https://www.youtube.com/watch?v=dFoE9wwbLzs)
+* [Celestia Devnet Full Node ve Light Client Kurma Rehberi](https://www.youtube.com/watch?v=C2f6KhNJ0pc&t=2s)
+* [Celestia Public Testnet Mamaki Katılım Videosu](https://www.youtube.com/watch?v=VH9Ar6phK00)
+* [Celestia Mamaki Light Node Kurulum Videosu](https://www.youtube.com/watch?v=LQqGYLCL7So)
+
 ### China
 #### Community
 * [Telegram](https://t.me/CelestiaCommunityCN)
