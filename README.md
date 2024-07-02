@@ -105,7 +105,7 @@ An Awesome List of Celestia Resources
 ## Node operator contributions
 
 ___
-### Contributions by [CroutonDigital](https://crouton.digital)
+### [CroutonDigital](https://crouton.digital)
 
 **Terraform for Celestia:**   
 https://registry.terraform.io/modules/Crouton-Digital/celestia/ssh/latest/examples/celestia-node   
