@@ -103,3 +103,54 @@ An Awesome List of Celestia Resources
 * [Telegram](https://t.me/CelestiaBrazil)
 
 ## Node operator contributions
+
+___
+### Contributions by [CroutonDigital](https://crouton.digital)
+
+### Mainnet
+
+**Terraform for Celestia:**   
+https://registry.terraform.io/modules/Crouton-Digital/celestia/ssh/latest/examples/celestia-node   
+https://github.com/Crouton-Digital/terraform-ssh-celestia   
+
+**Tested Code of Celestia:**    
+https://drive.google.com/drive/u/0/folders/1881mgxtVEY9QqU2xywFw9s0ZScBzCLik
+
+**Guide:**    
+https://crouton.digital/services/mainnets/celestia
+
+**Endpoints:** 
+```
+RPC:  https://celestia-mainnet-rpc.crouton.digital
+API:  https://celestia-mainnet-api.crouton.digital
+gRPC: celestia-mainnet-api.crouton.digital:11690
+peer: d6d8536233c8529f8a436a31065ecb365a96f71e@148.251.53.24:11656
+```
+**Files:**
+```
+Snapshot: https://storage.crouton.digital/mainnet/celestia/snapshots/celestia_latest.tar.lz4
+Genesis:  https://storage.crouton.digital/mainnet/celestia/files/genesis.json
+Addrbook: https://storage.crouton.digital/mainnet/celestia/files/addrbook.json
+Prebuilt Binary: https://storage.crouton.digital/mainnet/celestia/bin/celestia-appd
+```
+
+### Testnet
+
+**Guide:**    
+https://crouton.digital/services/testnets/celestia
+
+**Endpoints:** 
+```
+RPC:  https://celestia-testnet-rpc.crouton.digital
+API:  https://celestia-testnet-api.crouton.digital
+gRPC: celestia-testnet-api.crouton.digital:28690
+peer: 854f67cdd27f568f2aa4f46a9d35cc727604958e@65.109.93.124:28656
+```
+**Files:**
+```
+Snapshot: https://storage.crouton.digital/testnet/celestia/snapshots/celestia_latest.tar.lz4
+Genesis:  https://storage.crouton.digital/testnet/celestia/files/genesis.json
+Addrbook: https://storage.crouton.digital/testnet/celestia/files/addrbook.json
+Prebuilt Binary: https://storage.crouton.digital/testnet/celestia/bin/celestia-appd
+```
+___
