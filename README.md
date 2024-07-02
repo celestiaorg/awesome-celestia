@@ -103,3 +103,42 @@ An Awesome List of Celestia Resources
 * [Telegram](https://t.me/CelestiaBrazil)
 
 ## Node operator contributions
+___
+
+### Contributions by [BlackBlocks](https://blackblocks.io)
+
+#### Mainnet
+Wiki: https://wiki.blackblocks.io/en/public/services/mainnet/celestia
+
+##### Endpoints
+Bridge: https://bridge.celestia-mainnet.blackblocks.io/
+
+Fullnode: https://rpc.celestia-mainnet.blackblocks.io/](https://rpc.celestia-mainnet.blackblocks.io/
+
+##### Snapshots
+
+Bridge Archival: https://wiki.blackblocks.io/en/public/services/mainnet/celestia#bridge-node-archival-snapshot
+
+Full Node Archival: https://wiki.blackblocks.io/en/public/services/mainnet/celestia#full-node-archival-snapshot
+
+##### Explorer
+Dexplorer Fork: https://explorer.celestia-mainnet.blackblocks.io/
+
+___ 
+
+#### Testnet
+Wiki: https://wiki.blackblocks.io/en/public/services/testnet/celestia
+
+##### Endpoints
+Bridge: https://bridge.celestia-mocha-4.blackblocks.io/
+
+Fullnode: (https://rpc.celestia-mocha-4.blackblocks.io/
+
+##### Snapshots
+
+Bridge Archival: https://wiki.blackblocks.io/en/public/services/testnet/celestia#bridge-node-archival-snapshot
+
+Full Node Archival: https://wiki.blackblocks.io/en/public/services/testnet/celestia#full-node-archival-snapshot
+
+___
+
