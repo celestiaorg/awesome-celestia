@@ -107,6 +107,8 @@ An Awesome List of Celestia Resources
 #### Testnet (technical)
 * [RPC](https://celestia-mocha-rpc.cryptomolot.com/)
 * [Community guidelines](https://cryptomolot.gitbook.io/cryptomolot-docs/testnets/celestia)
+* [Issue1633](https://github.com/celestiaorg/docs/issues/1633)
+* [PR1639](https://github.com/celestiaorg/docs/pull/1639)
 #### Community
 - Galxe campaign: https://app.galxe.com/quest/kBZDkhZ8FD7AaBqaEX4Uk9/GCT9wtdmFw
 #### Content
