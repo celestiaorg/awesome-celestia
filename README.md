@@ -103,3 +103,10 @@ An Awesome List of Celestia Resources
 * [Telegram](https://t.me/CelestiaBrazil)
 
 ## Node operator contributions
+### Nodes.Guru
+#### Mainnet
+* [NG Explorer](https://celestia.explorers.guru/)
+* [NodesChecker Bot](https://t.me/NodesGuru_bot)
+#### Testnet
+* [NG Explorer](https://testnet.celestia.explorers.guru/)
+* [NodesChecker Bot](https://t.me/NodesGuru_bot)
