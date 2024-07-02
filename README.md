@@ -107,8 +107,6 @@ An Awesome List of Celestia Resources
 ___
 ### Contributions by [CroutonDigital](https://crouton.digital)
 
-### Mainnet
-
 **Terraform for Celestia:**   
 https://registry.terraform.io/modules/Crouton-Digital/celestia/ssh/latest/examples/celestia-node   
 https://github.com/Crouton-Digital/terraform-ssh-celestia   
@@ -116,6 +114,14 @@ https://github.com/Crouton-Digital/terraform-ssh-celestia
 **Tested Code of Celestia:**    
 https://drive.google.com/drive/u/0/folders/1881mgxtVEY9QqU2xywFw9s0ZScBzCLik
 
+
+
+### Mainnet
+
+We support Celstia by providing relayers channels , this is our relayers wallet for Celestia 
+```
+celestia1fq6ddllcan5fkmjyu93gwd7fyz06mu7xt95e9w
+```
 **Guide:**    
 https://crouton.digital/services/mainnets/celestia
 
@@ -153,4 +159,8 @@ Genesis:  https://storage.crouton.digital/testnet/celestia/files/genesis.json
 Addrbook: https://storage.crouton.digital/testnet/celestia/files/addrbook.json
 Prebuilt Binary: https://storage.crouton.digital/testnet/celestia/bin/celestia-appd
 ```
+
+### Community contributions
+Helped to prepare this video about Celestia:   
+https://www.youtube.com/watch?v=nmpfNXf797U
 ___
