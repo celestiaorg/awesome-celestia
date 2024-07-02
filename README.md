@@ -103,3 +103,11 @@ An Awesome List of Celestia Resources
 * [Telegram](https://t.me/CelestiaBrazil)
 
 ## Node operator contributions
+### [cryptomolot](https://cryptomolotstake.com/)
+#### Testnet (technical)
+* [RPC](https://celestia-mocha-rpc.cryptomolot.com/)
+* [Community guidelines](https://cryptomolot.gitbook.io/cryptomolot-docs/testnets/celestia)
+#### Community
+- Galxe campaign: https://app.galxe.com/quest/kBZDkhZ8FD7AaBqaEX4Uk9/GCT9wtdmFw
+#### Content
+https://telegra.ph/Content-contributions-for-Celestia-by-cryptomolot-07-02
