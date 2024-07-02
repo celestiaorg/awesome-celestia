@@ -107,6 +107,14 @@ An Awesome List of Celestia Resources
 #### Mainnet
 * [NG Explorer](https://celestia.explorers.guru/)
 * [NodesChecker Bot](https://t.me/NodesGuru_bot)
+##### Endpoints
+- RPC:  [https://rpc-1.celestia.nodes.guru](https://rpc-1.celestia.nodes.guru)
+- API:  [https://api-1.celestia.nodes.guru](https://api-1.celestia.nodes.guru)
+- GRPC: `grpc-1.celestia.nodes.guru:10790`
 #### Testnet
 * [NG Explorer](https://testnet.celestia.explorers.guru/)
 * [NodesChecker Bot](https://t.me/NodesGuru_bot)
+##### Endpoints
+- RPC:  [https://rpc-1.testnet.celestia.nodes.guru](https://rpc-1.testnet.celestia.nodes.guru)
+- API:  [https://api-1.testnet.celestia.nodes.guru](https://api-1.testnet.celestia.nodes.guru)
+- GRPC: `grpc-1.testnet.celestia.nodes.guru:10790`
