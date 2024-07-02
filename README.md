@@ -103,3 +103,16 @@ An Awesome List of Celestia Resources
 * [Telegram](https://t.me/CelestiaBrazil)
 
 ## Node operator contributions
+
+### Contributions by [Lavender.Five Nodes](https://lavenderfive.com)
+### Mainnet
+##### Services(Snapshot, State-sync, Installation Guide): https://services.lavenderfive.com/mainnet/celestia
+##### RPC: https://celestia-rpc.lavenderfive.com:443
+##### gRPC: celestia-grpc.lavenderfive.com:443
+##### API: https://celestia-api.lavenderfive.com:443
+
+### Testnet
+##### Services(Snapshot, State-sync, Installation Guide): https://services.lavenderfive.com/testnet/celestia
+##### RPC: https://testnet-celestia-rpc.lavenderfive.com:443
+##### gRPC: testnet-celestia-grpc.lavenderfive.com:443
+##### API: https://testnet-celestia-api.lavenderfive.com:443
