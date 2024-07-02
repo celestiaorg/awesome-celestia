@@ -101,3 +101,5 @@ An Awesome List of Celestia Resources
 ### Brazil
 #### Community
 * [Telegram](https://t.me/CelestiaBrazil)
+
+## Node operator contributions
