@@ -103,3 +103,25 @@ An Awesome List of Celestia Resources
 * [Telegram](https://t.me/CelestiaBrazil)
 
 ## Node operator contributions
+
+### Contributions by [Openbitlab](https://openbitlab.com)
+
+##### Srvcheck monitoring tool: https://github.com/openbitlab/celestia-srvcheck
+##### Celestia Validator Monitor (Telegram bot): https://t.me/celestia_validator_monitor_bot
+##### Admin of Italian telegra group: https://t.me/Celestia_ITA
+
+### Mainnet
+##### Relayer Node: https://relayers.smartstake.io/relayer/0C293487659F3386
+##### Snapshot service: https://openbitlab.com/network/58/Celestia/snapshot
+##### RPC: https://celestia-rpc.openbitlab.com
+##### gRPC: celestia-grpc.openbitlab.com:443
+##### API: https://celestia-api.openbitlab.com
+##### Srvcheck monitoring tool: https://github.com/openbitlab/celestia-srvcheck
+##### Docuemntation: https://openbitlab.com/network/58/Celestia/docs
+
+### Testnet
+##### Snapshot service: https://openbitlab.com/network/24/Celestia/snapshot
+##### RPC: https://celestia-testnet-rpc.openbitlab.com
+##### gRPC: celestia-testnet-grpc.openbitlab.com:443
+##### API: https://celestia-testnet-api.openbitlab.com
+##### Docuemntation: https://openbitlab.com/network/24/Celestia/docs
