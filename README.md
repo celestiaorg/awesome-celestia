@@ -102,11 +102,13 @@ An Awesome List of Celestia Resources
 #### Community
 * [Telegram](https://t.me/CelestiaBrazil)
 
+## Node operator contributions
+
 ### Contributions by [Moonlet](https://moonlet.io/)
 
 #### Mainnet
 - **Dashboard**: https://dashboard.moonlet.app/dashboard/?blockchain=TIA
+- **Snapshots**: https://dashboard.moonlet.app/dashboard/snapshots/?blockchain=TIA
 - **RPC**: https://celestia-rpc.pub.moonlet.cloud/celestia-public
 - **API**: https://celestia-api.pub.moonlet.cloud/celestia-public
-- **gRPC**: https://celestia-grpc.pub.moonlet.cloud/celestia-public
-- **Snapshots**: https://dashboard.moonlet.app/dashboard/snapshots/?blockchain=TIA
+- **gRPC**: celestia-grpc.pub.moonlet.cloud:9099/celestia-public
