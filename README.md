@@ -103,3 +103,31 @@ An Awesome List of Celestia Resources
 * [Telegram](https://t.me/CelestiaBrazil)
 
 ## Node operator contributions
+### DTEAM
+#### Mainnet
+* [Services (Installation guides, snapshot, state sync and etc.)](https://dteam.tech/services/mainnet/overview/celestia)
+* [Mainnet explorer](https://explorer.mainnet.dteam.tech/celestia)
+##### Tools
+- Bridge node checker / website: [https://celestia-bridge-checker.dteam.tech/](https://celestia-bridge-checker.dteam.tech/) / [Usage](https://github.com/DTEAMTECH/contributions/blob/main/celestia/README.md#celestia-bridge-health-checker-usage)
+- Bridge node checker / Discord: [https://discord.com/invite/BCeXe63Mm8](https://discord.com/invite/BCeXe63Mm8) / [Usage](https://github.com/DTEAMTECH/contributions/blob/main/celestia/README.md#celestia-bridge-health-checker-usage)
+##### Endpoints
+- RPC / Archive:  [https://rpc.archive.celestia.mainnet.dteam.tech](https://rpc.archive.celestia.mainnet.dteam.tech)
+- API / Archive:  [https://api.archive.celestia.mainnet.dteam.tech](https://api.archive.celestia.mainnet.dteam.tech)
+- GRPC / Archive: `grpc.archive.celestia.mainnet.dteam.tech:28090`
+##### Seed / Peer
+- Seed: `9b1d22c3a78487d1a664a4b6a331fce527d14fb4@seed.celestia.mainnet.dteam.tech:27656`
+- Peer: `076c9cc9de3039819a98522aeea39e8c72b49682@peer.celestia.mainnet.dteam.tech:28656`
+#### Testnet
+* [Services (Installation guides, snapshot, state sync and etc.)](https://dteam.tech/services/testnet/overview/celestia)
+* [Testnet explorer](https://explorer.testnet.dteam.tech/celestia)
+##### Tools
+- Bridge node checker / website: [https://celestia-bridge-checker.dteam.tech/](https://celestia-bridge-checker.dteam.tech/) / [Usage](https://github.com/DTEAMTECH/contributions/blob/main/celestia/README.md#celestia-bridge-health-checker-usage)
+- Bridge node checker / Discord: [https://discord.com/invite/BCeXe63Mm8](https://discord.com/invite/BCeXe63Mm8) / [Usage](https://github.com/DTEAMTECH/contributions/blob/main/celestia/README.md#celestia-bridge-health-checker-usage)
+- Community faucet(10TIA / 24h): [https://discord.com/invite/BCeXe63Mm8](https://discord.com/invite/BCeXe63Mm8) / [Usage](https://github.com/DTEAMTECH/contributions/blob/main/celestia/README.md#celestia-community-discord-faucet-usage)
+##### Endpoints
+- RPC / Archive:  [https://rpc.archive.celestia.testnet.dteam.tech](https://rpc.archive.celestia.testnet.dteam.tech)
+- API / Archive:  [https://api.archive.celestia.testnet.dteam.tech](https://api.archive.celestia.testnet.dteam.tech)
+- GRPC / Archive: `grpc.archive.celestia.testnet.dteam.tech:27090`
+##### Seed / Peer
+- Seed: `70e8a8941f32dc5f696e46ee836c27620e773065@seed.celestia.testnet.dteam.tech:26656`
+- Peer: `76ed983017167d96c62b166725250940deb783563@peer.celestia.testnet.dteam.tech:27656`
