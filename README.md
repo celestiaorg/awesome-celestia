@@ -61,7 +61,12 @@ An Awesome List of Celestia Resources
 ### Vietnam
 #### Community
 * [Telegram](https://t.me/celestia_vn)
-
+* [Twitter](https://twitter.com/tia_insight)
+#### Tools & Services
+##### Mainnet
+* [TTT](https://services.tienthuattoan.com/mainnet/celestia)
+##### Testnet
+* [TTT](https://services.tienthuattoan.com/testnet/celestia)
 ### Japan
 #### Resources
 * [Celestia Japan blog](https://medium.com/@celestia.japan)
