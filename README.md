@@ -112,3 +112,4 @@ An Awesome List of Celestia Resources
 - **RPC**: https://celestia-rpc.pub.moonlet.cloud/celestia-public
 - **API**: https://celestia-api.pub.moonlet.cloud/celestia-public
 - **gRPC**: celestia-grpc.pub.moonlet.cloud:9099/celestia-public
+- **peer**: cd37f245a236b7f695d06d99064c7d00af1ffb01@65.108.68.213:26657
