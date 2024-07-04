@@ -103,8 +103,6 @@ An Awesome List of Celestia Resources
 * [Telegram](https://t.me/CelestiaBrazil)
 
 ## Node operator contributions
-
-## Node operator contributions
 ___
 ### STAKEME
 #### Mainnet
