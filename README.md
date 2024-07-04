@@ -130,8 +130,8 @@ ___
 * [RPC scanner & peers](https://testnet.celestia.exploreme.pro/network)
 * [Self-written faucet](https://celestia-testnet.faucetme.pro)
 ##### Endpoints
-- Archive RPC:  [https://celestia-rpc.stakeme.pro](https://celestia-testnet-rpc.stakeme.pro)
-- Archive API:  [https://celestia-rest.stakeme.pro](https://celestia-testnet-rest.stakeme.pro)
+- Archive RPC:  [https://celestia-testnet-rpc.stakeme.pro](https://celestia-testnet-rpc.stakeme.pro)
+- Archive API:  [https://celestia-testnet-rest.stakeme.pro](https://celestia-testnet-rest.stakeme.pro)
 - Peer: `83cda75ef0cb3826858eaafe60f0f14a2018d53f@celestia-testnet-peer.stakeme.pro:11656`
 - Seed: `83cda75ef0cb3826858eaafe60f0f14a2018d53f@celestia-testnet-seed.stakeme.pro:11656`
 ##### DA Nodes
