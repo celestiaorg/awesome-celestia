@@ -105,7 +105,7 @@ An Awesome List of Celestia Resources
 ## Node operator contributions
 
 ######
-### Contributions by [AutoStake](https://autostake.com)
+### Contributions by [AutoStake.com](https://autostake.com)
 ######
 
 ### Mainnet:
