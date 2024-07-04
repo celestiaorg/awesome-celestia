@@ -103,3 +103,19 @@ An Awesome List of Celestia Resources
 * [Telegram](https://t.me/CelestiaBrazil)
 
 ## Node operator contributions
+
+######
+### Contributions by [AutoStake](https://autostake.com)
+######
+
+### Mainnet:
+##### Services(Snapshot, addrbook, State-sync, Seed, Peer, RPC, API, gRPC): https://autostake.com/networks/celestia/#services
+##### RPC: https://celestia-mainnet-rpc.autostake.com:443
+##### gRPC: https://celestia-mainnet-grpc.autostake.com:443
+##### API: https://celestia-mainnet-lcd.autostake.com:443
+
+### Testnet:
+##### Services(Snapshot, addrbook, Seed, Peer): https://autostake.com/networks/testnets/celestia/#services
+##### RPC: https://celestia-testnet-rpc.autostake.com:443
+##### gRPC: https://celestia-testnet-grpc.autostake.com:443
+##### API: https://celestia-testnet-lcd.autostake.com:443
