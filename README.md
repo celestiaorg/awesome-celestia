@@ -103,3 +103,25 @@ An Awesome List of Celestia Resources
 * [Telegram](https://t.me/CelestiaBrazil)
 
 ## Node operator contributions
+### CrypTech
+#### Technical
+##### Mainnet
+* [Explorer.Fork.Ping.Pub](https://explorers.cryptech.com.ua/Celestia-Mainnet)
+- RPC: [https://rpc-celestia.cryptech.com.ua](https://rpc-celestia.cryptech.com.ua)
+- API: [https://api-celestia.cryptech.com.ua](https://api-celestia.cryptech.com.ua)
+- GPRC: [https://grpc-celestia.cryptech.com.ua](https://grpc-celestia.cryptech.com.ua)
+- Snapshots: [https://services.cryptech.com.ua/mainnet/celestia/snapshot/README/](https://services.cryptech.com.ua/mainnet/celestia/snapshot/README/)
+- Guide: [https://services.cryptech.com.ua/mainnet/celestia/installation/README/](https://services.cryptech.com.ua/mainnet/celestia/installation/README/)
+- Proposal_Bot: [https://t.me/Cryptech_ProposalBot](https://t.me/Cryptech_ProposalBot)
+##### Testnet
+* [Explorer.Fork.Ping.Pub - with Archive Node](https://explorers.cryptech.com.ua/Celestia-Testnet)
+- Snapshots: [https://services.cryptech.com.ua/testnet/celestia/snapshot/README/](https://services.cryptech.com.ua/testnet/celestia/snapshot/README/)
+- Guide: [https://services.cryptech.com.ua/testnet/celestia/installation/README/](https://services.cryptech.com.ua/testnet/celestia/installation/README/)
+- Proposal_Bot: [https://t.me/Cryptech_ProposalBot](https://t.me/Cryptech_ProposalBot)
+- CosmosNodeMonitoring: [https://github.com/dvjromashkin/cosmos-monitoring](https://github.com/dvjromashkin/cosmos-monitoring)
+###### Archive Node Endpoints
+- RPC: [https://rpc-celestia-testnet.cryptech.com.ua](https://rpc-celestia-testnet.cryptech.com.ua)
+- API: [https://api-celestia-testnet.cryptech.com.ua](https://api-celestia-testnet.cryptech.com.ua)
+- GRPC: [https://grpc-celestia-testnet.cryptech.com.ua](https://grpc-celestia-testnet.cryptech.com.ua)
+#### Content
+- [Medium](https://cryptech-nodes.medium.com/%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-%D1%81%D0%B5%D1%82%D0%B8-celestia-3b5a0865c7f1)
