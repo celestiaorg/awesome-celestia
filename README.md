@@ -105,6 +105,7 @@ An Awesome List of Celestia Resources
 ## Node operator contributions
 
 ### Contributions by [Stakeflow](https://validator.stakeflow.io/) validator
+
 ### Mainnet
 #### Explorer: https://stakeflow.io/celestia
 #### Public endpoints (pruned):
@@ -121,8 +122,6 @@ An Awesome List of Celestia Resources
 - Seed: 24a607a217cf12be29bae5b2e8151391bde2d8c8@seed-celestia-01.stakeflow.io:15007
 - Peer: 24a607a217cf12be29bae5b2e8151391bde2d8c8@peer-celestia-01.stakeflow.io:15007
 
-
-
 ### Testnet
 #### Explorer: https://stakeflow.io/celestia-testnet
 #### Public enpoints:
@@ -134,7 +133,6 @@ An Awesome List of Celestia Resources
 #### Seed & Peer:
 - Seed: edebca7508b70df9659c1293b0d8cbc05c77c91f@seed-celestia-testnet-01.stakeflow.io:16007
 - Peer: edebca7508b70df9659c1293b0d8cbc05c77c91f@peer-celestia-testnet-01.stakeflow.io:16007
-
 
 ### Content contributions
 #### [Stakeflow blog](https://blog.stakeflow.io/) articles:
