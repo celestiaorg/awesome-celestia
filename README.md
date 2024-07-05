@@ -110,7 +110,7 @@ An Awesome List of Celestia Resources
 
 ### Mainnet:
 
-##### Relayers: We support Celstia by providing relayers channels, this is our relayers wallet for Celestia 
+##### Relayers: We support Celestia by providing relayers channels, this is our relayers wallet for Celestia 
 ```
 celestia1q6cc9u0x5r3fkjcex0rgxee5qlu86w8rxq438l
 ```
