@@ -18,7 +18,7 @@
 
 ## Public Useguides and toolkits
 1. Celestia toolkit [Link](https://github.com/spidey-169/testnets/tree/main/celestia_network/celestia_tools)
-2. Public guides for node installation, node migration,commands cheatlist [Link](https://github.com/spidey-169/mainnets/tree/main/celestia-mainnet)
+2. Public guides for node installation, node migration,PORTS settings etc [Link](https://github.com/spidey-169/mainnets/tree/main/celestia-mainnet)
 3. Node Migration Best Practices [Link](https://github.com/spidey-169/mainnets/tree/main/celestia-mainnet)
 4. Medium articles for setting up Proxmox VM and RPC node, professional node operator for beginners [Link] (https://medium.com/@spidey169/detailed-guide-for-configuring-proxmox-and-running-rpc-full-node-on-proxmox-container-installing-7bc22d30be5f)
 
