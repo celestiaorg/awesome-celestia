@@ -103,3 +103,7 @@ An Awesome List of Celestia Resources
 * [Telegram](https://t.me/CelestiaBrazil)
 
 ## Node operator contributions
+#### Smart Stake
+* [Smart Stake Analytics](https://analytics.smartstake.io/celestia) - validator, network, richlists, and decentralization analytics for Celestia
+* [Decentralization Analytics](https://analytics.smartstake.io/celestia) - decentralization analytics for 35+ networks
+* [Relayer Analytics](https://analytics.smartstake.io/celestia) - IBC Relayer analytics for Celestia Relayers and Relayers contributing to 100+ other networks
