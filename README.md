@@ -103,3 +103,31 @@ An Awesome List of Celestia Resources
 * [Telegram](https://t.me/CelestiaBrazil)
 
 ## Node operator contributions
+
+######
+### Contributions by [Stakin](https://stakin.com)
+######
+
+### Mainnet:
+
+##### Relayers: We support Celstia by providing relayers channels, this is our relayers wallet for Celestia 
+```
+celestia1q6cc9u0x5r3fkjcex0rgxee5qlu86w8rxq438l
+```
+#### RPC: https://celestia.rpc.stakin-nodes.com
+#### gRPC: celestia.grpc.stakin-nodes.com:443
+#### API: https://celestia.rest.stakin-nodes.com
+#### Dashboard and staking interface: 
+- Stakers can monitor their staked TIA and staking rewards on the staking, a free-to-use validator-agnostic tool that anybody can use. [https://dashboard.stakin.com](https://dashboard.stakin.com)
+- The dashboard also features institutional-grade staking features via Fireblocks raw signing
+##### Blog/Articles: [https://stakin.com/blog/tag/celestia](https://stakin.com/blog/tag/celestia)
+
+
+### Testnet:
+
+#### Validator: [celestiavaloper1wf5az63pmykhnevyjcja68wdgs7h8y4w565lha](https://testnet.celestia.explorers.guru/validator/celestiavaloper1wf5az63pmykhnevyjcja68wdgs7h8y4w565lha)
+##### Bridge: 
+```12D3KooWH4wjJvFMwRsxpF78X4BBVpXswNFTM3QbAcashftUFf9u```
+
+
+
