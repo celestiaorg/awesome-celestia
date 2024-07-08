@@ -107,16 +107,17 @@ An Awesome List of Celestia Resources
 #### Technical
 - Validator and Bridge Monitoring Tools: [https://github.com/Chainode/CelestiaTools](https://github.com/Chainode/CelestiaTools)
 
-#### Endpoints
+#### Endpoints Mainnet
+```
 - Peer: `48b55ac8d12b2f2cd28841891c0a68e1dffa912c@84.32.186.37:26856`
-- Archive RPC: [https://celestia-rpc.chainode.tech:33373/](https://celestia-rpc.chainode.tech:33373/)
-- Archive WSS: [wss://celestia-ws.chainode.tech:33373/websocket](wss://celestia-ws.chainode.tech:33373/websocket)
-- Archive API: [https://celestia-api.chainode.tech](https://celestia-api.chainode.tech)
-- Archive GRPC: [celestia-grpc.chainode.tech:443](celestia-grpc.chainode.tech:443)
-- Archive GRPC Web: [celestia-grpcweb.chainode.tech:443](celestia-grpcweb.chainode.tech:443)
-
+- Archive RPC: https://celestia-rpc.chainode.tech:33373/
+- Archive WSS: wss://celestia-ws.chainode.tech:33373/websocket
+- Archive API: https://celestia-api.chainode.tech
+- Archive GRPC: celestia-grpc.chainode.tech:443
+- Archive GRPC Web: celestia-grpcweb.chainode.tech:443
+```
 ### Community
-- Explanatory Guide for Monitoring: https://medium.com/chainode-tech/chainode-tech-develops-a-validator-and-bridge-status-monitoring-solution-using-grafana-ad561f327c31
+- Explanatory Guide for Validator and Bridge Monitoring: https://medium.com/chainode-tech/chainode-tech-develops-a-validator-and-bridge-status-monitoring-solution-using-grafana-ad561f327c31
 - Insights and Opportunities for Community Participation and Growth: https://medium.com/chainode-tech/celestia-explored-insights-and-opportunities-for-community-participation-and-growth-3f42b6b29deb
 - Celestia and Blockchain Modularity: https://medium.com/chainode-tech/celestia-and-blockchain-modularity-5c055cdcd124
 - Supporting Celestia integration in various cross-chain messaging protocols like Wormhole
