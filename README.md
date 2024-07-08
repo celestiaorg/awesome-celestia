@@ -109,7 +109,7 @@ An Awesome List of Celestia Resources
 
 #### Endpoints Mainnet
 ```
-- Peer: `48b55ac8d12b2f2cd28841891c0a68e1dffa912c@84.32.186.37:26856`
+- Peer: 48b55ac8d12b2f2cd28841891c0a68e1dffa912c@84.32.186.37:26856
 - Archive RPC: https://celestia-rpc.chainode.tech:33373/
 - Archive WSS: wss://celestia-ws.chainode.tech:33373/websocket
 - Archive API: https://celestia-api.chainode.tech
