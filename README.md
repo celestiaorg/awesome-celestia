@@ -103,3 +103,16 @@ An Awesome List of Celestia Resources
 * [Telegram](https://t.me/CelestiaBrazil)
 
 ## Node operator contributions
+
+### Contributions by [Decentrio](https://decentrio.ventures/)
+### Mainnet
+##### Services(Snapshot, State-sync, Installation Guide): https://backend.decentrio.ventures/snapshots/celestia/celestia_1820907.tar.lz4
+##### RPC: https://celestia.rpc.decentrio.ventures:443
+##### gRPC: celestia-grpc.lavenderfive.com:443
+##### API: https://celestia.api.decentrio.ventures:443
+
+### Code Contributions
+##### We are working with Rollkit to assist them with various development, our team won the best Development Tooling Prize (https://x.com/RollkitDev/status/1798007102612656476)
+##### We also contribute to Celestia ecosystem by doing public good https://decentrio.notion.site/Celestia-public-good-3cc3aa45c8cb4738b77d6c8946a1dcfd?pvs=4
+
+
