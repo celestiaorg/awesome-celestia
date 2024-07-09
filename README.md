@@ -144,8 +144,8 @@ An Awesome List of Celestia Resources
 #### Services
 - https://noders.services/testnet-networks/celestia
 #### Consensus node
-celestia-consensus-testnet.noders.services:26357
-celestia-consensus-testnet.noders.services:9070
+- celestia-consensus-testnet.noders.services:26357
+- celestia-consensus-testnet.noders.services:9070
 #### DA node
 - celestia-t-da-full-rpc.noders.services
 - celestia-t-da-full-api.noders.services
