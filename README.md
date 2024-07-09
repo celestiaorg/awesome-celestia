@@ -106,7 +106,7 @@ An Awesome List of Celestia Resources
 
 ### Contributions by [NODERS](https://noders.team/) validator
 
-#### Celestia CommunityHub and Advanced Explorer
+#### Celestia CommunityHub, Advanced Explorer and Ecosystem Overview
 - Production: https://celestiahub.org
 - Staging: https://noders-app-staging.web.app/explorer
 
@@ -149,3 +149,16 @@ An Awesome List of Celestia Resources
 #### DA node
 - celestia-t-da-full-rpc.noders.services
 - celestia-t-da-full-api.noders.services
+
+### Community:
+#### Zelay Company
+- https://zealy.io/cw/noders/questboard
+#### X/Twitter Celestia HUB
+- https://x.com/CelestiaHub - Giveaways And Hubs 
+- 43 tweets - https://docs.google.com/document/d/1IbV7vW6VWm0blQYFmwJRkArZotmrfjdCuYbApKTmhQs
+#### Medium
+- 2 articles - https://docs.google.com/document/d/1VIYunKnLWbz65_C98CQ8MbANYnEbmc3StEteVByC57c
+#### Celestia Hub Academy
+- 17 articles - https://docs.google.com/document/d/1Q77MnVxqu6-ACvfYFzgJIProniNEB8uju9fLymCoATU
+#### X/Twitter & Telegram NODERS
+- 10 Tweets | 31 Posts about Celesta - https://docs.google.com/document/d/14p16KHUhZ0Wn3kQ-v4mwcLkJfiduHwCAKJ3RJio4O04
