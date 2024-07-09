@@ -151,7 +151,7 @@ An Awesome List of Celestia Resources
 - celestia-t-da-full-api.noders.services
 
 ### Community:
-#### Zelay Company
+#### Zelay Company (Celestia - Essential Module №3)
 - https://zealy.io/cw/noders/questboard
 #### X/Twitter Celestia HUB
 - https://x.com/CelestiaHub - Giveaways And Hubs 
