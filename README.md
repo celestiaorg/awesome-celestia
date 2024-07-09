@@ -103,3 +103,49 @@ An Awesome List of Celestia Resources
 * [Telegram](https://t.me/CelestiaBrazil)
 
 ## Node operator contributions
+
+### Contributions by [NODERS](https://noders.team/) validator
+
+#### Celestia CommunityHub and Advanced Explorer
+- Production: https://celestiahub.org
+- Staging: https://noders-app-staging.web.app/explorer
+
+### Mainnet
+#### Validator: https://celestia.explorers.guru/validator/celestiavaloper139mu0a0ucz0gmrkavm5wjar2lpx7yvxq3e25e5
+#### Bridge: 12D3KooWDLxFz1bjSGBpNJD8qs2JaVdMRgVt59oZszvMmxSqqWp4
+#### Public endpoints
+- https://celestia-rpc.noders.services
+- https://celestia-api.noders.services
+- celestia-grpc.noders.services:11090
+#### Seed node
+- e27a5da20a00afbfe2b9ca81cf8bc2e23de831c4@65.109.54.91:11059
+#### Endpoints list
+- https://cosmoslist.co/mainnet/celestia
+#### Services
+- https://noders.services/mainnet-networks/celestia
+#### Consensus node
+- celestia-consensus-mainnet.noders.services:26557
+- celestia-consensus-mainnet.noders.services:9080
+#### DA node
+- celestia-da-full-rpc.noders.services
+- celestia-da-full-api.noders.services
+
+### Testnet
+#### Validator: https://testnet.celestia.explorers.guru/validator/celestiavaloper1zzxrq7tjlsqvv0jtqtlt8gjaa68racukf5n9xh
+#### Bridge: 12D3KooWBhUb82ozNWR52s7MWkTsGhpoXz6EYB4w2rTJaVWLMwgH
+#### Public endpoints
+- https://celestia-t-rpc.noders.services
+- https://celestia-t-api.noders.services
+- celestia-t-grpc.noders.services:21090
+#### Seed node
+- 8587162e70023e301fa7265ac5750a438e5b2692@65.109.54.91:21059
+#### Endpoints list
+- https://cosmoslist.co/testnet/celestia
+#### Services
+- https://noders.services/testnet-networks/celestia
+#### Consensus node
+celestia-consensus-testnet.noders.services:26357
+celestia-consensus-testnet.noders.services:9070
+#### DA node
+- celestia-t-da-full-rpc.noders.services
+- celestia-t-da-full-api.noders.services
