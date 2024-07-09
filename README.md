@@ -161,4 +161,4 @@ An Awesome List of Celestia Resources
 #### Celestia Hub Academy
 - 17 articles - https://docs.google.com/document/d/1Q77MnVxqu6-ACvfYFzgJIProniNEB8uju9fLymCoATU
 #### X/Twitter & Telegram NODERS
-- 10 Tweets | 31 Posts about Celesta - https://docs.google.com/document/d/14p16KHUhZ0Wn3kQ-v4mwcLkJfiduHwCAKJ3RJio4O04
+- 10 Tweets and 31 Posts about Celesta - https://docs.google.com/document/d/14p16KHUhZ0Wn3kQ-v4mwcLkJfiduHwCAKJ3RJio4O04
