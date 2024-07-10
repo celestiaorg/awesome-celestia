@@ -13,7 +13,31 @@ Blockchain Fundamentals https://doc.decry.io/recursos/desarrollo/fundamentos-en-
 Cosmos Hub Introdution https://doc.decry.io/recursos/desarrollo/introduccion-a-cosmos-hub
 Programming in Rust https://doc.decry.io/recursos/desarrollo/clases-de-rust
 CosmWasm Guide https://doc.decry.io/recursos/desarrollo/cosmwasm-documentacion
-Celestia Guide (General Description, Running Nodes, Developer) https://doc.decry.io/recursos/desarrollo/guia-celestia
+# Introduction
+# Monolitic vs Modular Blockchains
+# DA
+# Additional resources
+https://doc.decry.io/recursos/desarrollo/guia-celestia/descripcion-general-de-celestia
+
+## Node Execution:
+# General Description of Running Nodes in Celestia
+# Quick Start Guide
+# Mainnets and Testnets
+# Types of Nodes
+# Resources
+https://doc.decry.io/recursos/desarrollo/guia-celestia/ejecutar-un-nodo
+
+## Developers:
+# Build Modular
+# Sending Data “Blobs” to Celestia
+# Transaction Forwarding Guidelines
+# Node API
+# Bloodstream Integration
+# Rollup Implementation
+# Wallets
+# Integrate Celestia for Service Providers
+https://doc.decry.io/recursos/desarrollo/guia-celestia/desarrolladores
+
 
 #### Community 
 Modular MeetUp Medellín: https://www.canva.com/design/DAGErMRS4Ac/eiNe2KnD1QChVOlC5SiqNQ/edit
