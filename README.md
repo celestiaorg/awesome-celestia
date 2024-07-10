@@ -106,9 +106,9 @@ An Awesome List of Celestia Resources
 
 ### Contributions by [LuckyResearch.org](https://luckyresearch.org/)
 
-#### Technical
+#### * Technical
 
-#### Mainnet:
+#### + Mainnet:
 
 #### RPC: https://rpc-celestia-mainnet.luckyresearch.org/
 #### API: https://api-celestia-mainnet.luckyresearch.org/
@@ -120,7 +120,7 @@ An Awesome List of Celestia Resources
 
 https://celestia.explorers.guru/validator/celestiavaloper17hw6htgj2vadkutyurtq7568g9gz9kz4x7d5tm
 
-#### Testnet:
+#### + Testnet:
 
 #### RPC: https://rpc-celestia-mocha.luckyresearch.org/
 #### API: https://api-celestia-mocha.luckyresearch.org/
@@ -132,16 +132,17 @@ https://celestia.explorers.guru/validator/celestiavaloper17hw6htgj2vadkutyurtq75
 
 https://testnet.celestia.explorers.guru/validator/celestiavaloper16kzqyl6rf8ph385v60u3r8sjgj5w9enq6znf6l
 
-#### Community
+#### * Community
 
-#### LuckyResearch is a Moderator community on the official Discord Celestia for both general and local channels ( Vietnamese channel), besides, I am also an admin on telegram Vietnamese community unoffical , dedicating my time and effort to supporting a active, clean, and positive community. 
+#### LuckyResearch is a Moderator community on the official Discord Celestia for both general and local channels ( Vietnamese channel) , dedicating my time and effort to supporting a active, clean, and positive community. 
+* Admin on telegram Vietnamese community unoffical [Telegram](https://t.me/celestia_vn)
 * LuckyResearch strong support and building a Modular Blockchain community, diligently contributing to support the development of the Vietnamese community.
 * LuckyResearch is committed to contributing to the development of the blockchain community in Vietnam by sharing knowledge and supporting its continuous growth.
 * My goal is to create a friendly environment where ideas can grow and community members can thrive.
 
-#### Translator Diamon role in discord Celestia and Proofreader Vietnamese in Crowdin Celestia
+#### * Translator Diamon role in discord Celestia and Proofreader Vietnamese in Crowdin Celestia
 
-#### Content Celestia Vietnamese and Instruction community: 
+#### * Content Celestia Vietnamese and Instruction community: 
 
 - https://luckyresearch.notion.site/H-ng-d-n-c-ch-ki-m-tra-i-u-ki-n-Claim-Genesis-Drop-c-a-Celestia-056c0de1863d42faaae150683e7bdb60
 
@@ -170,6 +171,7 @@ https://testnet.celestia.explorers.guru/validator/celestiavaloper16kzqyl6rf8ph38
 - https://x.com/LuckyResearchVN/status/1770134658145300735
 
 -----------------------------------------
+* Contact official and just only. If anyone impersonates from an address other than this one, please block and disregard it.
 
 🔭 X: https://twitter.com/LuckyResearchVN
 
