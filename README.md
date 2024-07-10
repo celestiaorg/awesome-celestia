@@ -106,7 +106,7 @@ An Awesome List of Celestia Resources
 
 ### Contributions by [LuckyResearch.org](https://luckyresearch.org/)
 
-#### * Technical
+#### * Technical contributions
 
 #### + Mainnet:
 
@@ -128,19 +128,22 @@ https://celestia.explorers.guru/validator/celestiavaloper17hw6htgj2vadkutyurtq75
 #### Services guide: https://services.luckyresearch.org/lucky-research-services/testnet/celestia
 #### Bridge node: `12D3KooW9tcjEJSjLtXDQtrqxiGULcgqQV11u8yQBztpcs8p53W3`
 
-* We are operating the Mocha testnet validator in Active set: 
+#### We are operating the Mocha testnet validator in Active set: 
 
 https://testnet.celestia.explorers.guru/validator/celestiavaloper16kzqyl6rf8ph385v60u3r8sjgj5w9enq6znf6l
 
-#### * Community
+* LuckyResearch participate Testnet Incentivized BlockSpace Race: Full Node
+
+#### * Community contributions
 
 #### LuckyResearch is a Moderator community on the official Discord Celestia for both general and local channels ( Vietnamese channel) , dedicating my time and effort to supporting a active, clean, and positive community. 
-* Admin on telegram Vietnamese community unoffical [Telegram](https://t.me/celestia_vn)
+
+* Admin on telegram Vietnamese community Unoffical [Telegram](https://t.me/celestia_vn)
 * LuckyResearch strong support and building a Modular Blockchain community, diligently contributing to support the development of the Vietnamese community.
 * LuckyResearch is committed to contributing to the development of the blockchain community in Vietnam by sharing knowledge and supporting its continuous growth.
 * My goal is to create a friendly environment where ideas can grow and community members can thrive.
 
-#### * Translator Diamon role in discord Celestia and Proofreader Vietnamese in Crowdin Celestia
+#### * Translator Diamond role in discord Celestia and Proofreader Vietnamese in Crowdin Celestia
 
 #### * Content Celestia Vietnamese and Instruction community: 
 
