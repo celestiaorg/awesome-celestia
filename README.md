@@ -103,3 +103,6 @@ An Awesome List of Celestia Resources
 * [Telegram](https://t.me/CelestiaBrazil)
 
 ## Node operator contributions
+
+### Contributions by [LuckyResearch.org](https://luckyresearch.org/)
+
