@@ -87,6 +87,11 @@ An Awesome List of Celestia Resources
 * [Telegram](https://t.me/celestiathailand)
 #### Resources
 * [Thailand blog with translations](https://medium.com/celestia-thailand)
+* [Community Celestia Installer Guide](https://github.com/Contribution-DAO/Celestia/blob/main/Thai/README.md)
+* [Community Call](https://www.facebook.com/watch/live/?ref=watch_permalink&v=3322366417978768)
+* [Community Research call](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1286203905513461)
+* [Community VDO Guide](https://www.youtube.com/watch?v=A4xJxUMgWPs&ab_channel=ContributionDAO)
+* [Community Bounty Activity](https://mirror.xyz/contributiondaoblog.eth/R6FLvr_b4Y9dEGzgF7BvlGrUEK5_TV3gLRSOVlyxKws)
 
 ### Arabic
 #### Community
