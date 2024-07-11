@@ -111,33 +111,33 @@ An Awesome List of Celestia Resources
 ### ContributionDAO
 #### Mainnet
 ##### Snapshots
-- Pruning node snapshot(Every 6 hours):[https://services.contributiondao.com/mainnet/celestia/snapshots](https://services.contributiondao.com/mainnet/celestia/snapshots)
-- Archive node snapshot(Every day):[https://services.contributiondao.com/mainnet/celestia/archive-snapshots](https://services.contributiondao.com/mainnet/celestia/archive-snapshots)
-- Bridge node snapshot(Every 5 days):[https://services.contributiondao.com/mainnet/celestia/bridge-snapshots](https://services.contributiondao.com/mainnet/celestia/bridge-snapshots)
+- Pruning node snapshot(Every 6 hours): [https://services.contributiondao.com/mainnet/celestia/snapshots](https://services.contributiondao.com/mainnet/celestia/snapshots)
+- Archive node snapshot(Every day): [https://services.contributiondao.com/mainnet/celestia/archive-snapshots](https://services.contributiondao.com/mainnet/celestia/archive-snapshots)
+- Bridge node snapshot(Every 5 days): [https://services.contributiondao.com/mainnet/celestia/bridge-snapshots](https://services.contributiondao.com/mainnet/celestia/bridge-snapshots)
 ##### Endpoint
-- RPC URL Endpoint (Archive Node):[https://celestia-archive-mainnet-rpc.contributiondao.com/](https://celestia-archive-mainnet-rpc.contributiondao.com/)
-- API URL Endpoint (Archive Node):[https://celestia-archive-mainnet-api.contributiondao.com/](https://celestia-archive-mainnet-api.contributiondao.com/)
-- GRPC URL Endpoint (Archive Node):[https://celestia-archive-mainnet-grpc.contributiondao.com/](https://celestia-archive-mainnet-grpc.contributiondao.com/)
-- RPC URL Endpoint:[https://celestia-rpc.contributiondao.com](https://celestia-rpc.contributiondao.com)
-- API URL Endpoint:[https://celestia-api.contributiondao.com](https://celestia-api.contributiondao.com)
+- RPC URL Endpoint (Archive Node): [https://celestia-archive-mainnet-rpc.contributiondao.com/](https://celestia-archive-mainnet-rpc.contributiondao.com/)
+- API URL Endpoint (Archive Node): [https://celestia-archive-mainnet-api.contributiondao.com/](https://celestia-archive-mainnet-api.contributiondao.com/)
+- GRPC URL Endpoint (Archive Node): [https://celestia-archive-mainnet-grpc.contributiondao.com/](https://celestia-archive-mainnet-grpc.contributiondao.com/)
+- RPC URL Endpoint: [https://celestia-rpc.contributiondao.com](https://celestia-rpc.contributiondao.com)
+- API URL Endpoint: [https://celestia-api.contributiondao.com](https://celestia-api.contributiondao.com)
 ##### Seed/Live peers
-- Seed Node:[https://services.contributiondao.com/mainnet/celestia/peers](https://services.contributiondao.com/mainnet/celestia/peers)
-- Live Peers (Update every day):[https://services.contributiondao.com/mainnet/celestia/peers](https://services.contributiondao.com/mainnet/celestia/peers)
+- Seed Node: [https://services.contributiondao.com/mainnet/celestia/peers](https://services.contributiondao.com/mainnet/celestia/peers)
+- Live Peers (Update every day): [https://services.contributiondao.com/mainnet/celestia/peers](https://services.contributiondao.com/mainnet/celestia/peers)
 ##### Installation Guide
-- Celestia node:[https://services.contributiondao.com/mainnet/celestia/installation](https://services.contributiondao.com/mainnet/celestia/installation)
+- Celestia node: [https://services.contributiondao.com/mainnet/celestia/installation](https://services.contributiondao.com/mainnet/celestia/installation)
 ##### Relayer 
-- Celestia Mainnet Relayer:[https://relayers.smartstake.io/relayer/3034BD2560DD86B4](https://relayers.smartstake.io/relayer/3034BD2560DD86B4)
+- Celestia Mainnet Relayer: [https://relayers.smartstake.io/relayer/3034BD2560DD86B4](https://relayers.smartstake.io/relayer/3034BD2560DD86B4)
 #### Testnet
 ##### Snapshots
-- Pruning node snapshot(Every 6 hours):[https://services.contributiondao.com/testnet/celestia/snapshots](https://services.contributiondao.com/testnet/celestia/snapshots)
+- Pruning node snapshot(Every 6 hours): [https://services.contributiondao.com/testnet/celestia/snapshots](https://services.contributiondao.com/testnet/celestia/snapshots)
 ##### Endpoint
-- RPC URL Endpoint:[https://celestia-testnet-rpc.contributiondao.com](https://celestia-testnet-rpc.contributiondao.com)
-- API URL Endpoint:[https://celestia-testnet-api.contributiondao.com](https://celestia-testnet-api.contributiondao.com)
+- RPC URL Endpoint: [https://celestia-testnet-rpc.contributiondao.com](https://celestia-testnet-rpc.contributiondao.com)
+- API URL Endpoint: [https://celestia-testnet-api.contributiondao.com](https://celestia-testnet-api.contributiondao.com)
 ##### Seed/Live peers
-- Seed Node:[https://services.contributiondao.com/testnet/celestia/peers](https://services.contributiondao.com/testnet/celestia/peers)
-- Live Peers (Update every day):[https://services.contributiondao.com/testnet/celestia/peers](https://services.contributiondao.com/testnet/celestia/peers)
+- Seed Node: [https://services.contributiondao.com/testnet/celestia/peers](https://services.contributiondao.com/testnet/celestia/peers)
+- Live Peers (Update every day): [https://services.contributiondao.com/testnet/celestia/peers](https://services.contributiondao.com/testnet/celestia/peers)
 ##### Installation Guide
-- Celestia node:[https://services.contributiondao.com/testnet/celestia/installation](https://services.contributiondao.com/testnet/celestia/installation)
+- Celestia node: [https://services.contributiondao.com/testnet/celestia/installation](https://services.contributiondao.com/testnet/celestia/installation)
 
 
 
