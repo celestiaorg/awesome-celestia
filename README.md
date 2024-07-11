@@ -103,3 +103,10 @@ An Awesome List of Celestia Resources
 * [Telegram](https://t.me/CelestiaBrazil)
 
 ## Node operator contributions
+### Conqueror
+#### Mainnet
+Mainnet Beta DA nodes setup script with a single click:
+https://github.com/DasRasyo/Celestia-Mainnet-DA-Nodes/tree/main
+#### Testnet
+Mocha-4 nodes setup script with a single click(including validator and all DA nodes):
+https://github.com/DasRasyo/Celestia-mocha-4
