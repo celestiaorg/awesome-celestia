@@ -103,3 +103,21 @@ An Awesome List of Celestia Resources
 * [Telegram](https://t.me/CelestiaBrazil)
 
 ## Node operator contributions
+### Cosmostation
+#### Services
+* Mintscan Explorer ([Mainnet](https://www.mintscan.io/celestia/) & [Testnet](https://www.mintscan.io/celestia-testnet/))
+* [Mobile Wallet](https://cosmostation.io/products/cosmostation_mobile)
+* [Web Extension](https://cosmostation.io/products/cosmostation_extension)
+
+#### Mainnet
+##### Snapshots
+- [Pruning node snapshot(Every day)](https://snapshot.cosmostation.io/celestia/)
+
+##### Peers
+- Peer: d364357f55e37a038d9dbd143448ea792bb8edcf@15.235.115.156:16400
+- Bridge: `12D3KooWDnc9NAjoqN1f1LuVvsmKgFzFsu1KX99jqKSXDNUS6SJz`
+
+#### Testnet
+##### Peers
+- Peer: 20b4f9207cdc9d0310399f848f057621f7251846@158.247.233.222:10000
+- Bridge: `12D3KooWDBrsgL6KpbbQK4fgBwCjMMVT5rFpYbvKbzLSzF9gexje`
