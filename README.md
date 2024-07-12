@@ -103,3 +103,10 @@ An Awesome List of Celestia Resources
 * [Telegram](https://t.me/CelestiaBrazil)
 
 ## Node operator contributions
+
+### Contributions by [moonli.me](https://moonli.me/)
+
+#### Mainnet
+- **RPC**: https://celestia.moonli.me
+- **API**: https://celestia.moonli.me/api
+- **peer**: 31ad09853c5f5a728048d2ec94772944e762737b@195.3.221.146:26657
