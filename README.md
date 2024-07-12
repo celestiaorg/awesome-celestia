@@ -108,10 +108,6 @@ An Awesome List of Celestia Resources
 1. Archive RPC [https://celestia-rpc.0xcryptovestor.com]
 2. Archive gRPC [https://celestia-grpc.0xcryptovestor.com]
 3. Archive API [https://celestia-api.0xcryptovestor.com]
-4. Full Storage Node `12D3KooWNZ4Hzr3nZF4yWGarWr9efjqPSDCWtJJQTExPeNZNDBBQ`
-   (API access available upon request)
-5. Peer `b833d0cac06e9831550f3273de21792cec23211d@wg-sco-backup-01.wavefive.co:26656`
 
 #### Testnet
-1. RPC `https://celestia-testnet-rpc.0xcryptovestor.com`
-2. Peer `5786e4780a8d12f89d6263bb31ac58cf4f8331a3@wg-sco.wavefive.co:36656`
+1. RPC [https://celestia-testnet-rpc.0xcryptovestor.com]
