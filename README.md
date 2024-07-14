@@ -110,9 +110,9 @@ Tools
 * [Peer scanner](https://docs.services-ernventures.com/testnets/celestia/api-snapshot-addrbook) 
 * [RPC Scanner](https://docs.services-ernventures.com/testnets/celestia/rpc-scanner)
 #### Snapshots
-*[Consensus Node Snapshot](https://docs.services-ernventures.com/testnets/celestia/api-snapshot-addrbook#for-full-node) #archive
-*[Consensus Node Snapshot](https://docs.services-ernventures.com/testnets/celestia/api-snapshot-addrbook#snapshot-1) #pruned
-*[Bridge Node Snapshot](https://docs.services-ernventures.com/testnets/celestia/api-snapshot-addrbook#for-bridge-node) #archive
+* [Consensus Node Snapshot](https://docs.services-ernventures.com/testnets/celestia/api-snapshot-addrbook#for-full-node) #archive
+* [Consensus Node Snapshot](https://docs.services-ernventures.com/testnets/celestia/api-snapshot-addrbook#snapshot-1) #pruned
+*[ Bridge Node Snapshot](https://docs.services-ernventures.com/testnets/celestia/api-snapshot-addrbook#for-bridge-node) #archive
 #### Endpoints
 RPC: https://celestia.rpc.testnets.services-ernventures.com
 API: https://celestia.api.testnets.services-ernventures.com 
