@@ -118,8 +118,8 @@ RPC: https://celestia.rpc.testnets.services-ernventures.com
 API: https://celestia.api.testnets.services-ernventures.com 
 Peer: 46e5a89a4a9bfad45864316ca596e5392890b06f@85.10.196.25:26656
 #### Guides
-* [Consensus Node installation] (https://docs.services-ernventures.com/testnets/celestia/install) #pruned
-* [Consensus Node installation] (https://docs.services-ernventures.com/testnets/celestia/install/full-node) #archive
+* [Consensus Node installation](https://docs.services-ernventures.com/testnets/celestia/install) #pruned
+* [Consensus Node installation](https://docs.services-ernventures.com/testnets/celestia/install/full-node) #archive
 * [Bridge Node installation](https://docs.services-ernventures.com/testnets/celestia/install/bridge-node)
 * [Monitoring a Celestia consensus node](https://docs.services-ernventures.com/testnets/celestia/monitoring-a-celestia-consensus-node) #with Grafana
 * [Celestia Validator monitoring guide](https://docs.services-ernventures.com/testnets/celestia/celestia-validator-monitoring-guide-with-tenderduty) #with tenderduty
