@@ -112,11 +112,11 @@ Tools
 #### Snapshots
 * [Consensus Node Snapshot](https://docs.services-ernventures.com/testnets/celestia/api-snapshot-addrbook#for-full-node) #archive
 * [Consensus Node Snapshot](https://docs.services-ernventures.com/testnets/celestia/api-snapshot-addrbook#snapshot-1) #pruned
-*[ Bridge Node Snapshot](https://docs.services-ernventures.com/testnets/celestia/api-snapshot-addrbook#for-bridge-node) #archive
+* [Bridge Node Snapshot](https://docs.services-ernventures.com/testnets/celestia/api-snapshot-addrbook#for-bridge-node) #archive
 #### Endpoints
-RPC: https://celestia.rpc.testnets.services-ernventures.com
-API: https://celestia.api.testnets.services-ernventures.com 
-Peer: 46e5a89a4a9bfad45864316ca596e5392890b06f@85.10.196.25:26656
+* RPC: https://celestia.rpc.testnets.services-ernventures.com
+* API: https://celestia.api.testnets.services-ernventures.com 
+* Peer: 46e5a89a4a9bfad45864316ca596e5392890b06f@85.10.196.25:26656
 #### Guides
 * [Consensus Node installation](https://docs.services-ernventures.com/testnets/celestia/install) #pruned
 * [Consensus Node installation](https://docs.services-ernventures.com/testnets/celestia/install/full-node) #archive
