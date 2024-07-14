@@ -104,8 +104,7 @@ An Awesome List of Celestia Resources
 
 ## Node operator contributions
 ### ERN VENTURES
-#### Testnet
-Tools
+#### Testnet tools
 * [Decentralization map](https://ernventures.com/celestia/testnet/map) #_beta_
 * [Peer scanner](https://docs.services-ernventures.com/testnets/celestia/api-snapshot-addrbook) 
 * [RPC Scanner](https://docs.services-ernventures.com/testnets/celestia/rpc-scanner)
