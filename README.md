@@ -106,22 +106,22 @@ An Awesome List of Celestia Resources
 ### ERN VENTURES
 #### Testnet
 Tools
-* [Decentralization map](https://ernventures.com/celestia/testnet/map) #beta
+* [Decentralization map](https://ernventures.com/celestia/testnet/map) #_beta
 * [Peer scanner](https://docs.services-ernventures.com/testnets/celestia/api-snapshot-addrbook) 
 * [RPC Scanner](https://docs.services-ernventures.com/testnets/celestia/rpc-scanner)
 #### Snapshots
-* [Consensus Node Snapshot](https://docs.services-ernventures.com/testnets/celestia/api-snapshot-addrbook#for-full-node) #archive
-* [Consensus Node Snapshot](https://docs.services-ernventures.com/testnets/celestia/api-snapshot-addrbook#snapshot-1) #pruned
-* [Bridge Node Snapshot](https://docs.services-ernventures.com/testnets/celestia/api-snapshot-addrbook#for-bridge-node) #archive
+* [Consensus Node Snapshot](https://docs.services-ernventures.com/testnets/celestia/api-snapshot-addrbook#for-full-node) #_archive
+* [Consensus Node Snapshot](https://docs.services-ernventures.com/testnets/celestia/api-snapshot-addrbook#snapshot-1) #_pruned
+* [Bridge Node Snapshot](https://docs.services-ernventures.com/testnets/celestia/api-snapshot-addrbook#for-bridge-node) #_archive
 #### Endpoints
-* RPC: https://celestia.rpc.testnets.services-ernventures.com
-* API: https://celestia.api.testnets.services-ernventures.com 
-* Peer: 46e5a89a4a9bfad45864316ca596e5392890b06f@85.10.196.25:26656
+* RPC: `https://celestia.rpc.testnets.services-ernventures.com`
+* API: `https://celestia.api.testnets.services-ernventures.com` 
+* Peer: `46e5a89a4a9bfad45864316ca596e5392890b06f@85.10.196.25:26656`
 #### Guides
-* [Consensus Node installation](https://docs.services-ernventures.com/testnets/celestia/install) #pruned
-* [Consensus Node installation](https://docs.services-ernventures.com/testnets/celestia/install/full-node) #archive
+* [Consensus Node installation](https://docs.services-ernventures.com/testnets/celestia/install) #_pruned
+* [Consensus Node installation](https://docs.services-ernventures.com/testnets/celestia/install/full-node) #_archive
 * [Bridge Node installation](https://docs.services-ernventures.com/testnets/celestia/install/bridge-node)
-* [Monitoring a Celestia consensus node](https://docs.services-ernventures.com/testnets/celestia/monitoring-a-celestia-consensus-node) #with Grafana
-* [Celestia Validator monitoring guide](https://docs.services-ernventures.com/testnets/celestia/celestia-validator-monitoring-guide-with-tenderduty) #with tenderduty
+* [Monitoring a Celestia consensus node](https://docs.services-ernventures.com/testnets/celestia/monitoring-a-celestia-consensus-node) #_with Grafana
+* [Celestia Validator monitoring guide](https://docs.services-ernventures.com/testnets/celestia/celestia-validator-monitoring-guide-with-tenderduty) #_with tenderduty
 * [Celestia bridge alert](https://docs.services-ernventures.com/testnets/celestia/celestia-bridge-alert)
 * [Useful command](https://docs.services-ernventures.com/testnets/celestia/useful-commands) 
