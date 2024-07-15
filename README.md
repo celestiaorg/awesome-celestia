@@ -95,11 +95,31 @@ An Awesome List of Celestia Resources
 ### Ukraine 
 #### Community
 * [Telegram](https://t.me/celestiaua)
+* [Telegram Chat](https://t.me/celestia_ua)
 #### Resources
 * [Ukrainian Newsletter](https://teletype.in/@celestiaua)
+* [Celestia Ukrainian Space](https://notion.f5nodes.com/celestia/space)
 
 ### Brazil
 #### Community
 * [Telegram](https://t.me/CelestiaBrazil)
 
 ## Node operator contributions
+
+### [F5 Nodes](https://f5nodes.com)
+#### Tools
+* [Monitoring tool for Celestia DA nodes](https://github.com/f5nodes/celestia-collector) - a robust monitoring tool designed to enhance the performance tracking of all types of Celestia data availability nodes with installation script and public Grafana dashboard: https://celestia.f5nodes.com.
+* [Celestia Wiki](https://wiki.f5nodes.com/celestia) - an open-source platform that provides a collection of developer resources, troubleshooting tips, useful validator tools, and all things Celestia network in one place.
+* [DA Nodes Management Script](https://github.com/f5nodes/celestia) - automated script to deploy, update and manage your Full, Bridge, and Light nodes in a few clicks.
+#### Mainnet Endpoints (archive node)
+- RPC: [https://celestia-rpc.f5nodes.com](https://celestia-rpc.f5nodes.com)
+- API: [https://celestia-api.f5nodes.com](https://celestia-api.f5nodes.com)
+- gRPC: `celestia-grpc.f5nodes.com:9390`
+- Seed node: `ec39096b831861bcda43896d098771fa9587ebce@seed.f5nodes.com:61456`
+#### Mainnet Snapshots
+- Archive snapshots (taken every 24 hours): https://celestia-snapshots-archive.f5nodes.com 
+- Pruned snapshots (taken every 6 hours): https://celestia-snapshots.f5nodes.com 
+#### Testnet Endpoints
+- RPC: [https://celestia-testnet-rpc.f5nodes.com](https://celestia-testnet-rpc.f5nodes.com)
+- API: [https://celestia-testnet-api.f5nodes.com](https://celestia-testnet-api.f5nodes.com)
+- gRPC: `celestia-testnet-grpc.f5nodes.com`
