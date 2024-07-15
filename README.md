@@ -129,7 +129,7 @@ An Awesome List of Celestia Resources
 #### DA node
 - celestia-da-full-rpc.noders.services
 - celestia-da-full-api.noders.services
-#### Relayer networks
+#### Relayer networks `celestia14n8p425hz5l6xxcrq4ml00djkmwezm0mta38sc`
 - Axelar
 - Dymension
 - Injective
