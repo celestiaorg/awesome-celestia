@@ -163,5 +163,6 @@ An Awesome List of Celestia Resources
 #### X/Twitter & Telegram NODERS
 X/Twitter - https://x.com/NODERS_TEAM 
 - 10 Tweets about Celesta - https://docs.google.com/document/d/1PIkfDi6o0JoW46B0K-wO-CmBCO6ZLX3nD77d_rDw00s
+
 Telegram - https://t.me/nodersteam
 - 31 Posts about Celesta - https://docs.google.com/document/d/1BYJ9o4NAngU6Ma7BcPycwAQFdzLeIH_QG7WcTgDVuRw
