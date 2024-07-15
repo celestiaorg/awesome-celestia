@@ -129,6 +129,12 @@ An Awesome List of Celestia Resources
 #### DA node
 - celestia-da-full-rpc.noders.services
 - celestia-da-full-api.noders.services
+#### Relayer networks
+- Axelar
+- Dymension
+- Injective
+- Jackal
+- Osmosis
 
 ### Testnet
 #### Validator: https://testnet.celestia.explorers.guru/validator/celestiavaloper1zzxrq7tjlsqvv0jtqtlt8gjaa68racukf5n9xh
@@ -153,16 +159,13 @@ An Awesome List of Celestia Resources
 ### Community:
 #### Zealy (Celestia - Essential Module №3)
 - https://zealy.io/cw/noders/questboard
-#### X/Twitter Celestia HUB
-- https://x.com/CelestiaHub - Giveaways And Hubs 
+#### X/Twitter Celestia HUB https://x.com/CelestiaHub - Giveaways And Tweets (Temporarily suspended)
 - 43 tweets - https://docs.google.com/document/d/1IbV7vW6VWm0blQYFmwJRkArZotmrfjdCuYbApKTmhQs
 #### Medium
 - 2 articles - https://docs.google.com/document/d/1VIYunKnLWbz65_C98CQ8MbANYnEbmc3StEteVByC57c
 #### Celestia Hub Academy
 - 17 articles - https://docs.google.com/document/d/1Q77MnVxqu6-ACvfYFzgJIProniNEB8uju9fLymCoATU
-#### X/Twitter & Telegram NODERS
-- https://x.com/NODERS_TEAM 
+#### X/Twitter https://x.com/NODERS_TEAM 
 - 10 Tweets about Celesta - https://docs.google.com/document/d/1PIkfDi6o0JoW46B0K-wO-CmBCO6ZLX3nD77d_rDw00s
-
-- Telegram - https://t.me/nodersteam
+#### Telegram https://t.me/nodersteam
 - 31 Posts about Celesta - https://docs.google.com/document/d/1BYJ9o4NAngU6Ma7BcPycwAQFdzLeIH_QG7WcTgDVuRw
