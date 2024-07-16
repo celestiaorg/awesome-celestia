@@ -105,7 +105,7 @@ An Awesome List of Celestia Resources
 ## Node operator contributions
 ### Enigma
 #### Services
-* IBC Client Monitoring [Monitor and Update IBC client automatically](https://discord.com/channels/638338779505229824/1176595874823028817/1262579736891228293)
+* IBC Client Monitoring & Update [Monitor and Update IBC client automatically](https://discord.com/channels/638338779505229824/1176595874823028817/1262579736891228293)
 * [GenesisDrop Checker](https://celestia.genesisdrop.enigma-validator.com/)
 
 #### Mainnet
@@ -123,6 +123,10 @@ An Awesome List of Celestia Resources
 ##### Public RPC/LCD
 - [RPC](https://celestia-rpc.enigma-validator.com/)
 - [LCD](https://celestia-lcd.enigma-validator.com/)
+
+##### Public Archive RPC
+- [Archive RPC](https://celestia-rpc-archive.enigma-validator.com/)
+
 
 ##### Genesis
 - [Genesis Link](https://doc.enigma-validator.com/docs/mainnets/Celestia/genesis)
