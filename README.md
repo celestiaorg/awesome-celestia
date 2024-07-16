@@ -103,3 +103,18 @@ An Awesome List of Celestia Resources
 * [Telegram](https://t.me/CelestiaBrazil)
 
 ## Node operator contributions
+
+# List of Contributions from Brightlystake([Brightlystake.com](https://brightlystake.com/))
+
+## Mainnet:
+
+1. Mainnet RPC [https://celestia-rpc.brightlystake.com](https://celestia-rpc.brightlystake.com)
+2. Mainnet gRPC [celestia-rpc.brightlystake.com:9090](celestia-rpc.brightlystake.com:9090)
+
+## Testnet:
+1. Mocha-4 testnet RPC: [http://celestia-testnet.brightlystake.com](http://celestia-testnet.brightlystake.com)
+2. Mocha-4 testnet gRPC: [celestia-testnet.brightlystake.com:9090](celestia-testnet.brightlystake.com)
+
+## Public tools
+1. Celestia rpc status checker [Link](https://celestia-tools.brightlystake.com/rpc-status)
+2. Celestia grpc status checker [Link](https://celestia-tools.brightlystake.com/grpc-status)
