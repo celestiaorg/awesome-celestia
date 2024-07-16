@@ -103,3 +103,28 @@ An Awesome List of Celestia Resources
 * [Telegram](https://t.me/CelestiaBrazil)
 
 ## Node operator contributions
+### Enigma
+#### Services
+* IBC Client Monitoring [Monitor and Update IBC client automatically](https://discord.com/channels/638338779505229824/1176595874823028817/1262579736891228293)
+* [GenesisDrop Checker](https://celestia.genesisdrop.enigma-validator.com/)
+
+#### Mainnet
+##### Snapshots
+- [Pruning node snapshot(Every day)](https://doc.enigma-validator.com/docs/mainnets/Celestia/snapshot)
+
+##### Addrbooks
+- [Fresh Address Book](https://doc.enigma-validator.com/docs/mainnets/Celestia/addrbooks)
+
+##### Public RPC/LCD
+- [RPC](https://celestia-rpc.enigma-validator.com/)
+- [LCD](https://celestia-lcd.enigma-validator.com/)
+
+##### Installation guide
+- [How to launch a node](https://doc.enigma-validator.com/docs/mainnets/Celestia/setup-node)
+
+##### Bridge Node
+- Bridge node ID: `12D3KooWDLSsP2LjWkbke9xGbFCNaujo8ga4MuFUf4xNX1CCeHvB`
+
+#### Testnet
+##### Bridge Node
+- Bridge node ID: `12D3KooWCd9ZsXu1jKqhv387ZpzC1TBe3Ci9MMx2XdytqBdPp7uL`
