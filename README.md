@@ -107,7 +107,7 @@ An Awesome List of Celestia Resources
 #### Testnet tools
 * [Decentralization map](https://ernventures.com/celestia/testnet/map) #_beta_
 * [Peer scanner](https://docs.services-ernventures.com/testnets/celestia/api-snapshot-addrbook) 
-* [RPC Scanner](https://docs.services-ernventures.com/testnets/celestia/rpc-scanner)
+* [RPC Scanner](https://ernventures.com/celestia/rpcscanner)
 #### Snapshots
 * [Consensus Node Snapshot](https://docs.services-ernventures.com/testnets/celestia/api-snapshot-addrbook#for-full-node) #_archive_
 * [Consensus Node Snapshot](https://docs.services-ernventures.com/testnets/celestia/api-snapshot-addrbook#snapshot-1) #_pruned_
