@@ -120,12 +120,12 @@ An Awesome List of Celestia Resources
 ##### Addrbooks
 - [Fresh Address Book](https://doc.enigma-validator.com/docs/mainnets/Celestia/addrbooks)
 
+##### Public Archive RPC
+- [Archive RPC](https://celestia-rpc-archive.enigma-validator.com/)
+
 ##### Public RPC/LCD
 - [RPC](https://celestia-rpc.enigma-validator.com/)
 - [LCD](https://celestia-lcd.enigma-validator.com/)
-
-##### Public Archive RPC
-- [Archive RPC](https://celestia-rpc-archive.enigma-validator.com/)
 
 
 ##### Genesis
