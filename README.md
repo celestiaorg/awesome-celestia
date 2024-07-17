@@ -42,10 +42,6 @@ An Awesome List of Celestia Resources
 * [Celestia Devnet Full Node ve Light Client Kurma Rehberi](https://www.youtube.com/watch?v=C2f6KhNJ0pc&t=2s)
 * [Celestia Public Testnet Mamaki Katılım Videosu](https://www.youtube.com/watch?v=VH9Ar6phK00)
 * [Celestia Mamaki Light Node Kurulum Videosu](https://www.youtube.com/watch?v=LQqGYLCL7So)
-* [Celestia Mainnet Beta Turkish Validator, Bridge, Full Storage ve Light Node Step by Step Guide ](https://github.com/okannako/celestiamainnet)
-* [Celestia Mainnet Beta Turkish Validator, Bridge, Full Storage ve Light Node Script Guide ](https://github.com/okannako/celestiamainnetscript)
-* [Celestia Mocha Testnet Turkish Validator, Bridge, Full Storage ve Light Node Step by Step Guide ](https://github.com/okannako/celestiamocha)
-* [Celestia Mocha Testnet Turkish Validator, Bridge, Full Storage ve Light Node Script Guide ](https://github.com/okannako/celestiamochascript)
 
 ### China
 #### Community
@@ -107,3 +103,10 @@ An Awesome List of Celestia Resources
 * [Telegram](https://t.me/CelestiaBrazil)
 
 ## Node operator contributions
+### NakoTurk
+#### Mainnet
+* [Celestia Mainnet Beta Turkish Validator, Bridge, Full Storage ve Light Node Step by Step Guide ](https://github.com/okannako/celestiamainnet)
+* [Celestia Mainnet Beta Turkish Validator, Bridge, Full Storage ve Light Node Script Guide ](https://github.com/okannako/celestiamainnetscript)
+#### Testnet
+* [Celestia Mocha Testnet Turkish Validator, Bridge, Full Storage ve Light Node Step by Step Guide ](https://github.com/okannako/celestiamocha)
+* [Celestia Mocha Testnet Turkish Validator, Bridge, Full Storage ve Light Node Script Guide ](https://github.com/okannako/celestiamochascript)
