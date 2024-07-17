@@ -105,8 +105,15 @@ An Awesome List of Celestia Resources
 ## Node operator contributions
 ### NakoTurk
 #### Mainnet
-* [Celestia Mainnet Beta Turkish Validator, Bridge, Full Storage ve Light Node Step by Step Guide ](https://github.com/okannako/celestiamainnet)
-* [Celestia Mainnet Beta Turkish Validator, Bridge, Full Storage ve Light Node Script Guide ](https://github.com/okannako/celestiamainnetscript)
+Celestia Mainnet Beta Turkish Validator, Bridge, Full Storage ve Light Node Step by Step Guide
+https://github.com/okannako/celestiamainnet
+
+Celestia Mainnet Beta Turkish Validator, Bridge, Full Storage ve Light Node Script Guide
+https://github.com/okannako/celestiamainnetscript
+
 #### Testnet
-* [Celestia Mocha Testnet Turkish Validator, Bridge, Full Storage ve Light Node Step by Step Guide ](https://github.com/okannako/celestiamocha)
-* [Celestia Mocha Testnet Turkish Validator, Bridge, Full Storage ve Light Node Script Guide ](https://github.com/okannako/celestiamochascript)
+Celestia Mocha Testnet Turkish Validator, Bridge, Full Storage ve Light Node Step by Step Guide
+https://github.com/okannako/celestiamocha
+
+Celestia Mocha Testnet Turkish Validator, Bridge, Full Storage ve Light Node Script Guide 
+https://github.com/okannako/celestiamochascript
