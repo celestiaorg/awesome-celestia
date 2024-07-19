@@ -103,3 +103,24 @@ An Awesome List of Celestia Resources
 * [Telegram](https://t.me/CelestiaBrazil)
 
 ## Node operator contributions
+
+#### [Pro-Nodes75](https://node75.org/)
+##### Tools
+Celestia Cluster [monitoring tool](https://github.com/the-node75/mon_celestia)
+Celestia IBC [information matrix](https://services.node75.org/ibc-matrix/celestia)
+
+##### Mainnet
+###### Endpoints
+- RPC:  https://rpc.celestia.node75.org
+- API:  https://api.celestia.node75.org
+- GRPC: `grpc.celestia.node75.org:9220`
+  
+###### Bootstrap node
+- Peer: `ce99d7da2530f75d05880d13d9eda384d5a1afe4@peer.celestia.node75.org:23356`
+- Seed: `86bd5cb6e762f673f1706e5889e039d5406b4b90@seed.celestia.node75.org:20356`
+
+##### Testnet
+###### Bootstrap node
+- Peer: `27971306bc55695fa7ca38b14df9181043aab5a1@peer.celestia.testnet.node75.org:26656`
+- Seed: `86bd5cb6e762f673f1706e5889e039d5406b4b90@seed.celestia.testnet.node75.org:37116`
+
