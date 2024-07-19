@@ -106,8 +106,8 @@ An Awesome List of Celestia Resources
 
 #### [Pro-Nodes75](https://node75.org/)
 ##### Tools
-Celestia Cluster [monitoring tool](https://github.com/the-node75/mon_celestia)
-Celestia IBC [information matrix](https://services.node75.org/ibc-matrix/celestia)
+* Celestia Cluster [monitoring tool](https://github.com/the-node75/mon_celestia)
+* Celestia IBC [information matrix](https://services.node75.org/ibc-matrix/celestia)
 
 ##### Mainnet
 ###### Endpoints
