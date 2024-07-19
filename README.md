@@ -104,7 +104,7 @@ An Awesome List of Celestia Resources
 
 ## Node operator contributions
 
-#### [Pro-Nodes75](https://node75.org/)
+#### [Pro-Nodes75](https://services.node75.org/chains/celestia-mainnet)
 ##### Tools
 * Celestia Cluster [monitoring tool](https://github.com/the-node75/mon_celestia)
 * Celestia IBC [information matrix](https://services.node75.org/ibc-matrix/celestia)
@@ -118,6 +118,10 @@ An Awesome List of Celestia Resources
 ###### Bootstrap node
 - Peer: `ce99d7da2530f75d05880d13d9eda384d5a1afe4@peer.celestia.node75.org:23356`
 - Seed: `86bd5cb6e762f673f1706e5889e039d5406b4b90@seed.celestia.node75.org:20356`
+
+###### Ecosystem
+
+* Kyve' [Celestia Data pools](https://app.kyve.network/#/pools/9/validators)
 
 ##### Testnet
 ###### Bootstrap node
