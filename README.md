@@ -104,6 +104,10 @@ An Awesome List of Celestia Resources
 
 ## Node operator contributions
 
+### IBC
+**[General IBC table](https://relayers.smartstake.io/network/TIA)** of Celestia Relayers from [SmartStake.io](https://smartstake.io/)
+
+
 #### [Pro-Nodes75](https://services.node75.org/chains/celestia-mainnet)
 ##### Tools
 * Celestia Cluster [monitoring tool](https://github.com/the-node75/mon_celestia)
