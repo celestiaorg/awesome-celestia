@@ -103,3 +103,9 @@ An Awesome List of Celestia Resources
 * [Telegram](https://t.me/CelestiaBrazil)
 
 ## Node operator contributions
+
+### Contributions by [Maple Nodes](https://maplenodes.com/)
+
+#### Tooling
+- [Celestia Network Analytics Dashboard](https://celestia.maplenodes.com/analytics/)
+- [Custom API Endpoints for Celestia](https://docs.maplenodes.com/#celestia)
