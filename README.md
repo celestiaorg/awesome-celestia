@@ -103,3 +103,11 @@ An Awesome List of Celestia Resources
 * [Telegram](https://t.me/CelestiaBrazil)
 
 ## Node operator contributions
+
+### Contributions by [Staking Facilities](https://stakingfacilities.com/)
+#### Tooling
+- [Tiascan](https://tiascan.com) - Blockspace Race Dashboard [-> announcement](https://x.com/CelestiaOrg/status/1635676898541080576)
+#### Education
+- [Tutorials](https://stakingfacilities.com/blog/celestia-x-keplr-wallet-staking-guide) in our blog for TIA staking
+#### Social & Events
+- [Multichain Event](https://lu.ma/guardians) during BerlinBlockchainWeek with Viet representing Celestia
