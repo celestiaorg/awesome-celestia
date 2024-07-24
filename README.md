@@ -103,3 +103,33 @@ An Awesome List of Celestia Resources
 * [Telegram](https://t.me/CelestiaBrazil)
 
 ## Node operator contributions
+
+## [ChainTrails](https://chaintrails.io)
+* [Documentation](https://docs-celestia.chaintrails.io/)
+* [Ansible Playbooks](https://github.com/chaintrails/celestia-validator-playbooks)
+### Services
+#### [Snapshots](https://docs-celestia.chaintrails.io/snapshots.html)
+#### Endpoints
+
+> **Testnet**
+
+| Service | URL |
+|---------|-----|
+| **RPC** | [`rpc-mocha.chaintrails.io`](http://rpc-mocha.chaintrails.io/) |
+| **API** | [`api-mocha.chaintrails.io`](https://api-mocha.chaintrails.io/) |
+| **gRPC** | `grpc-mocha.chaintrails.io:8088` |
+
+> **Mainnet**
+
+| Service | URL |
+|---------|-----|
+| **RPC** | [`rpc-celestia.chaintrails.io`](https://rpc-celestia.chaintrails.io/) |
+| **API** | [`api-celestia.chaintrails.io`](https://api-celestia.chaintrails.io/) |
+| **gRPC** | `grpc-celestia.chaintrails.io:8088` |
+### Observability
+
+* [Setups](https://docs-celestia.chaintrails.io/monitoring/architecture.html)
+* [Implementations](https://github.com/chaintrails/celestia-monitoring)
+### Code Contributions
+
+* [gist](https://gist.github.com/00x-dx/8ffcce9e03af80f448942fa7d607cf0a)
