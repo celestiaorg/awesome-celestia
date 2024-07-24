@@ -104,34 +104,32 @@ An Awesome List of Celestia Resources
 
 ## Node operator contributions
 
-## ChainTrails
+## [ChainTrails](https://chaintrails.io)
 * [Documentation](https://docs-celestia.chaintrails.io/)
 * [Ansible Playbooks](https://github.com/chaintrails/celestia-validator-playbooks)
 ### Services
-#### Snapshots
+#### [Snapshots](https://docs-celestia.chaintrails.io/snapshots.html)
+#### Endpoints
 
-* [Snapshots Documentation](https://docs-celestia.chaintrails.io/snapshots.html)
-#### RPC, API, gRPC
-
-> **Testnet (Mocha)**
+> **Testnet**
 
 | Service | URL |
 |---------|-----|
-| **RPC** | [`https://rpc-mocha.chaintrails.io`](https://rpc-mocha.chaintrails.io/) |
-| **API** | [`https://api-mocha.chaintrails.io`](https://api-mocha.chaintrails.io/) |
+| **RPC** | [`rpc-mocha.chaintrails.io`](http://rpc-mocha.chaintrails.io/) |
+| **API** | [`api-mocha.chaintrails.io`](https://api-mocha.chaintrails.io/) |
 | **gRPC** | `grpc-mocha.chaintrails.io:8088` |
 
-> **Mainnet (Celestia)**
+> **Mainnet**
 
 | Service | URL |
 |---------|-----|
-| **RPC** | [`https://rpc-celestia.chaintrails.io`](https://rpc-celestia.chaintrails.io/) |
-| **API** | [`https://api-celestia.chaintrails.io`](https://api-celestia.chaintrails.io/) |
+| **RPC** | [`rpc-celestia.chaintrails.io`](https://rpc-celestia.chaintrails.io/) |
+| **API** | [`api-celestia.chaintrails.io`](https://api-celestia.chaintrails.io/) |
 | **gRPC** | `grpc-celestia.chaintrails.io:8088` |
 ### Observability
 
-* [Architecture](https://docs-celestia.chaintrails.io/monitoring/architecture.html)
+* [Setups](https://docs-celestia.chaintrails.io/monitoring/architecture.html)
 * [Implementations](https://github.com/chaintrails/celestia-monitoring)
 ### Code Contributions
 
-* [Pull Requests](https://gist.github.com/00x-dx/8ffcce9e03af80f448942fa7d607cf0a)
+* [gist](https://gist.github.com/00x-dx/8ffcce9e03af80f448942fa7d607cf0a)
