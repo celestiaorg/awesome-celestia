@@ -82,6 +82,8 @@ An Awesome List of Celestia Resources
 ### Spain
 #### Community
 * [Telegram](https://t.me/Celestia_Spanish)
+* [Celestia Spanish medium](https://medium.com/@celestia.esp)
+* [Twitter](https://x.com/CelestiaOrg_Esp)
 
 ### Thailand
 #### Community
