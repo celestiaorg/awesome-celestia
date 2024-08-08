@@ -150,3 +150,30 @@ An Awesome List of Celestia Resources
 - Galxe campaign: https://app.galxe.com/quest/kBZDkhZ8FD7AaBqaEX4Uk9/GCT9wtdmFw
 #### Content
 https://telegra.ph/Content-contributions-for-Celestia-by-cryptomolot-07-02
+
+### BlackNodes Contribution https://blacknodes.net
+
+### Mainnet
+* Celestia Faucet By BlackNodes: https://celestia-faucet.blacknodes.net
+* Explorer (Ping-Pub based): https://explorer.blacknodes.net/celestia
+
+### Testnet
+* Services(Snapshot,State-Sync,Endpoints,LivePeers,Node-Monitoring): https://services.blacknodes.net/Celestia
+* Node Tutorial Guide: https://github.com/blacknodes/Node-Services/tree/main/Projects/celestia
+* Node-Monitoring Guide: https://github.com/blacknodes/Node-Services/tree/main/Projects/celestia/Celestia-Node-Monitoring
+* BlackNodes Peer: af73ecc4d2084643fe77657d260a07240872d91f@celestia-testnet.blacknodes.net:26656
+* Snapshot (Pruned): https://files.blacknodes.net/celestia/celestia_mocha-4.tar.lz4
+
+#### Endpoints
+* RPC: https://celestia-testnet-rpc.blacknodes.net
+* gRPC: celestia-testnet-grpc.blacknodes.net:17090
+* API: https://celestia-testnet-api.blacknodes.net
+* Archival-Node-RPC(for DA nodes to connect with): consensus-full-mocha.blacknodes.net
+
+#### Explorer
+* Explorer (Ping-Pub based): https://explorer.blacknodes.net/Celestia-Testnet
+
+### BlockSpace Race
+* Blob CelestiaPFB_UI prototype: https://github.com/blacknodes/CelestiaPFB_UI
+* Sovereign Rollup: https://github.com/blacknodes/loanme
+* OneClickNode: https://github.com/blacknodes/OneClickNodeCelestia
