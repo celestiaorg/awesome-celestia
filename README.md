@@ -603,3 +603,33 @@ https://testnet.celestia.explorers.guru/validator/celestiavaloper16kzqyl6rf8ph38
 - Bridge: `12D3KooWDBrsgL6KpbbQK4fgBwCjMMVT5rFpYbvKbzLSzF9gexje`
 
 ---
+
+### Contributions by [Provalidator](https://www.provalidator.com/)
+#### Technical contributions
+Governance Alert Bots(TG): https://github.com/Zenon-provalidator/celelstia_proposal_bot
+#### Mainnet
+* We are currently not operating on Mainnet
+* Upcoming support for RPC, API, Explorer, Bridge Node, and more 
+#### Testnet:
+* Public Goods(RPC, API, Snapshots, and more)
+https://nodeservice.provalidator.com/docs/Network/Celestia
+* We are operating the Mocha testnet validator in Active set( With +99% uptime ): 
+https://testnet.celestia.explorers.guru/validator/celestiavaloper1my99pndu4jeex2vmnrk2ej5j4rhl43w4qancc0e
+#### Community contributions
+* Although Provalidator does not currently manage a dedicated Celestia Korea Community, we actively engage with and amplify messages from the Celestia Ecosystem through our Cosmos & IBC Korea Communities, which boast over 6,000 active members.
+Cosmos Korea(TG): https://t.me/Cosmos_Korea
+IBC Korea(TG): https://t.me/cobling
+* We have consistently updated Celesita on its developments, partnerships, aidrops and more to the Korean Communtiy.
+- Developments
+https://t.me/cobling/5482 | https://t.me/cobling/5414 | https://t.me/Cosmos_Korea/125145 | https://t.me/Cosmos_Korea/117453 | https://t.me/Cosmos_Korea/110068 | https://t.me/Cosmos_Korea/109291 and more..
+- Partnerships
+https://t.me/cobling/5448 | https://t.me/cobling/4761 | https://t.me/Cosmos_Korea/125322 |  | https://t.me/Cosmos_Korea/124945 | https://t.me/Cosmos_Korea/114826 | https://t.me/Cosmos_Korea/124419 and more..
+- Airdrops
+https://t.me/Cosmos_Korea/125241 | https://t.me/Cosmos_Korea/125298 | https://t.me/cobling/5385 | https://t.me/Cosmos_Korea/117330 | https://t.me/Cosmos_Korea/116373 | https://t.me/Cosmos_Korea/115834 and more..
+-----------------------------------------
+* Contact 
+X: https://twitter.com/Provaliadtor
+E-mail: Business@provalidator.com
+Telegram: @Brian_Provalidator
+
+---
