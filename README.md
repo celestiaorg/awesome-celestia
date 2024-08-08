@@ -360,3 +360,42 @@ Examples:
 - GRPC: [https://grpc-celestia-testnet.cryptech.com.ua](https://grpc-celestia-testnet.cryptech.com.ua)
 #### Content
 - [Medium](https://cryptech-nodes.medium.com/%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-%D1%81%D0%B5%D1%82%D0%B8-celestia-3b5a0865c7f1)
+
+### Contributions by [Stakeflow](https://validator.stakeflow.io/) validator
+#### Mainnet
+* Explorer: https://stakeflow.io/celestia
+
+Public endpoints (pruned):
+* API: https://api-celestia-01.stakeflow.io
+* RPC: https://rpc-celestia-01.stakeflow.io
+* gRPC: grpc-celestia-01.stakeflow.io:15002
+
+Public enpoints (archive):
+* API: https://api-celestia-archive-01.stakeflow.io
+* RPC: https://rpc-celestia-archive-01.stakeflow.io
+* gRPC: grpc-celestia-archive-01.stakeflow.io:9090
+
+Bridge: 
+```12D3KooWEzrRi7jfZRKYTLAKY3nXfQ2Ahnv2c55pKEr6kvAWQFm9```
+Seed & Peer: 
+- Seed: 24a607a217cf12be29bae5b2e8151391bde2d8c8@seed-celestia-01.stakeflow.io:15007
+- Peer: 24a607a217cf12be29bae5b2e8151391bde2d8c8@peer-celestia-01.stakeflow.io:15007
+#### Testnet
+*  Explorer: https://stakeflow.io/celestia-testnet
+*  
+Public enpoints:
+- API: https://api-celestia-testnet-01.stakeflow.io
+- RPC: https://rpc-celestia-testnet-01.stakeflow.io
+- gRPC: grpc-celestia-testnet-01.stakeflow.io:16002
+
+* Bridge: 
+```12D3KooWAr3x7XHtxpHBcuhnjnbFFF11srhCKKG1YSreZ81AUsHK```
+* Seed & Peer:
+- Seed: edebca7508b70df9659c1293b0d8cbc05c77c91f@seed-celestia-testnet-01.stakeflow.io:16007
+- Peer: edebca7508b70df9659c1293b0d8cbc05c77c91f@peer-celestia-testnet-01.stakeflow.io:16007
+#### Content contributions
+[Stakeflow blog](https://blog.stakeflow.io/) articles:
+- [How Celestia Solves the Data Availability Problem](https://blog.stakeflow.io/how-celestia-solves-the-data-availability-problem-ad844202751b)
+- [Celestia Staking Guide](https://blog.stakeflow.io/celestia-tia-staking-guide-b6e8a1e9c5fe)
+- [How to choose your Celestia validator](https://blog.stakeflow.io/how-to-choose-your-tia-celestia-validator-f03b47b37fb5)
+- [Basics of Celestia with Stakeflow explorer](https://blog.stakeflow.io/basics-of-celestia-with-stakeflow-explorer-8942dbc688f2)
