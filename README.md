@@ -23,6 +23,7 @@ An Awesome List of Celestia Resources
 * [Telegram](https://t.me/celestiaru)
 #### Resources
 * [Тестовая сеть Calestia Представляет доступные API альфа –данных](https://medium.com/@savelenns/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D1%8F-%D1%81%D0%B5%D1%82%D1%8C-calestia-%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D1%82-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BD%D1%8B%D0%B5-api-%D0%B0%D0%BB%D1%8C%D1%84%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-372f99f581fd)
+* [Перевод документации Celestia](https://itrocket.gitbook.io/celestia-docs-ru)
 
 ### France
 #### Community
@@ -103,20 +104,193 @@ An Awesome List of Celestia Resources
 * [Telegram](https://t.me/CelestiaBrazil)
 
 ## Node operator contributions
+
+### Nodes.Guru
+#### Mainnet
+* [NG Explorer](https://celestia.explorers.guru/)
+* [NodesChecker Bot](https://t.me/NodesGuru_bot)
+##### Endpoints
+* RPC:  [https://rpc-1.celestia.nodes.guru](https://rpc-1.celestia.nodes.guru)
+* API:  [https://api-1.celestia.nodes.guru](https://api-1.celestia.nodes.guru)
+* GRPC: `grpc-1.celestia.nodes.guru:10790`
+#### Testnet
+* [NG Explorer](https://testnet.celestia.explorers.guru/)
+* [NodesChecker Bot](https://t.me/NodesGuru_bot)
+##### Endpoints
+* RPC:  [https://rpc-1.testnet.celestia.nodes.guru](https://rpc-1.testnet.celestia.nodes.guru)
+* API:  [https://api-1.testnet.celestia.nodes.guru](https://api-1.testnet.celestia.nodes.guru)
+* GRPC: `grpc-1.testnet.celestia.nodes.guru:10790`
+
+### Contributions by [BlackBlocks](https://blackblocks.io)
+#### Mainnet
+* Wiki: https://wiki.blackblocks.io/en/public/services/mainnet/celestia
+##### Endpoints
+* Bridge: https://bridge.celestia-mainnet.blackblocks.io/
+* Fullnode: https://rpc.celestia-mainnet.blackblocks.io/](https://rpc.celestia-mainnet.blackblocks.io/
+##### Snapshots
+* Bridge Archival: https://wiki.blackblocks.io/en/public/services/mainnet/celestia#bridge-node-archival-snapshot
+* Full Node Archival: https://wiki.blackblocks.io/en/public/services/mainnet/celestia#full-node-archival-snapshot
+##### Explorer
+* Dexplorer Fork: https://explorer.celestia-mainnet.blackblocks.io/ 
+#### Testnet
+* Wiki: https://wiki.blackblocks.io/en/public/services/testnet/celestia
+##### Endpoints
+* Bridge: https://bridge.celestia-mocha-4.blackblocks.io/
+* Fullnode: (https://rpc.celestia-mocha-4.blackblocks.io/
+##### Snapshots
+* Bridge Archival: https://wiki.blackblocks.io/en/public/services/testnet/celestia#bridge-node-archival-snapshot
+* Full Node Archival: https://wiki.blackblocks.io/en/public/services/testnet/celestia#full-node-archival-snapshot
+
+### [cryptomolot](https://cryptomolotstake.com/)
+#### Testnet (technical)
+* [RPC](https://celestia-mocha-rpc.cryptomolot.com/)
+* [Community guidelines](https://cryptomolot.gitbook.io/cryptomolot-docs/testnets/celestia)
+* [Issue1633](https://github.com/celestiaorg/docs/issues/1633)
+* [PR1639](https://github.com/celestiaorg/docs/pull/1639)
+#### Community
+- Galxe campaign: https://app.galxe.com/quest/kBZDkhZ8FD7AaBqaEX4Uk9/GCT9wtdmFw
+#### Content
+https://telegra.ph/Content-contributions-for-Celestia-by-cryptomolot-07-02
+
+### BlackNodes Contribution https://blacknodes.net
+
+### Mainnet
+* Celestia Faucet By BlackNodes: https://celestia-faucet.blacknodes.net
+* Explorer (Ping-Pub based): https://explorer.blacknodes.net/celestia
+
+### Testnet
+* Services(Snapshot,State-Sync,Endpoints,LivePeers,Node-Monitoring): https://services.blacknodes.net/Celestia
+* Node Tutorial Guide: https://github.com/blacknodes/Node-Services/tree/main/Projects/celestia
+* Node-Monitoring Guide: https://github.com/blacknodes/Node-Services/tree/main/Projects/celestia/Celestia-Node-Monitoring
+* BlackNodes Peer: af73ecc4d2084643fe77657d260a07240872d91f@celestia-testnet.blacknodes.net:26656
+* Snapshot (Pruned): https://files.blacknodes.net/celestia/celestia_mocha-4.tar.lz4
+
+#### Endpoints
+* RPC: https://celestia-testnet-rpc.blacknodes.net
+* gRPC: celestia-testnet-grpc.blacknodes.net:17090
+* API: https://celestia-testnet-api.blacknodes.net
+* Archival-Node-RPC(for DA nodes to connect with): consensus-full-mocha.blacknodes.net
+
+#### Explorer
+* Explorer (Ping-Pub based): https://explorer.blacknodes.net/Celestia-Testnet
+
+### BlockSpace Race
+* Blob CelestiaPFB_UI prototype: https://github.com/blacknodes/CelestiaPFB_UI
+* Sovereign Rollup: https://github.com/blacknodes/loanme
+* OneClickNode: https://github.com/blacknodes/OneClickNodeCelestia
+
+### Contributions by [Lavender.Five Nodes](https://lavenderfive.com)
+### Mainnet
+* Services(Snapshot, State-sync, Installation Guide): https://services.lavenderfive.com/mainnet/celestia
+* RPC: https://celestia-rpc.lavenderfive.com:443
+* gRPC: celestia-grpc.lavenderfive.com:443
+* API: https://celestia-api.lavenderfive.com:443
+
+### Testnet
+* Services(Snapshot, State-sync, Installation Guide): https://services.lavenderfive.com/testnet/celestia
+* RPC: https://testnet-celestia-rpc.lavenderfive.com:443
+* gRPC: testnet-celestia-grpc.lavenderfive.com:443
+* API: https://testnet-celestia-api.lavenderfive.com:443
+
+### DTEAM
+#### Mainnet
+* [Services (Installation guides, snapshot, state sync and etc.)](https://dteam.tech/services/mainnet/overview/celestia)
+* [Mainnet explorer](https://explorer.mainnet.dteam.tech/celestia)
+##### Tools
+- Bridge node checker / website: [https://celestia-bridge-checker.dteam.tech/](https://celestia-bridge-checker.dteam.tech/) / [Usage](https://github.com/DTEAMTECH/contributions/blob/main/celestia/README.md#celestia-bridge-health-checker-usage)
+- Bridge node checker / Discord: [https://discord.com/invite/BCeXe63Mm8](https://discord.com/invite/BCeXe63Mm8) / [Usage](https://github.com/DTEAMTECH/contributions/blob/main/celestia/README.md#celestia-bridge-health-checker-usage)
+##### Endpoints
+- RPC / Archive:  [https://rpc.archive.celestia.mainnet.dteam.tech](https://rpc.archive.celestia.mainnet.dteam.tech)
+- API / Archive:  [https://api.archive.celestia.mainnet.dteam.tech](https://api.archive.celestia.mainnet.dteam.tech)
+- GRPC / Archive: `grpc.archive.celestia.mainnet.dteam.tech:28090`
+##### Seed / Peer
+- Seed: `9b1d22c3a78487d1a664a4b6a331fce527d14fb4@seed.celestia.mainnet.dteam.tech:27656`
+- Peer: `076c9cc9de3039819a98522aeea39e8c72b49682@peer.celestia.mainnet.dteam.tech:28656`
+#### Testnet
+* [Services (Installation guides, snapshot, state sync and etc.)](https://dteam.tech/services/testnet/overview/celestia)
+* [Testnet explorer](https://explorer.testnet.dteam.tech/celestia)
+##### Tools
+- Bridge node checker / website: [https://celestia-bridge-checker.dteam.tech/](https://celestia-bridge-checker.dteam.tech/) / [Usage](https://github.com/DTEAMTECH/contributions/blob/main/celestia/README.md#celestia-bridge-health-checker-usage)
+- Bridge node checker / Discord: [https://discord.com/invite/BCeXe63Mm8](https://discord.com/invite/BCeXe63Mm8) / [Usage](https://github.com/DTEAMTECH/contributions/blob/main/celestia/README.md#celestia-bridge-health-checker-usage)
+- Community faucet(10TIA / 24h): [https://discord.com/invite/BCeXe63Mm8](https://discord.com/invite/BCeXe63Mm8) / [Usage](https://github.com/DTEAMTECH/contributions/blob/main/celestia/README.md#celestia-community-discord-faucet-usage)
+##### Endpoints
+- RPC / Archive:  [https://rpc.archive.celestia.testnet.dteam.tech](https://rpc.archive.celestia.testnet.dteam.tech)
+- API / Archive:  [https://api.archive.celestia.testnet.dteam.tech](https://api.archive.celestia.testnet.dteam.tech)
+- GRPC / Archive: `grpc.archive.celestia.testnet.dteam.tech:27090`
+##### Seed / Peer
+- Seed: `70e8a8941f32dc5f696e46ee836c27620e773065@seed.celestia.testnet.dteam.tech:26656`
+- Peer: `76ed983017167d96c62b166725250940deb783563@peer.celestia.testnet.dteam.tech:27656`
+
+
+### ITRocket
+#### Mainnet
+#### Tools
+* [Decentralization Analytics](https://itrocket.net/services/mainnet/celestia/decentralization/) #_validators, RPC, and all nodes_
+* [Governance Bot](https://t.me/itrocket_mainnet_proposal_bot) #_with status & UPD timer notifications_
+* [Peer scanner](https://itrocket.net/services/mainnet/celestia/#peer) #_with real time peer uptime verification_
+* [RPC Scanner](https://itrocket.net/services/mainnet/celestia/public-rpc/) #_with Raw scan results_
+* [Explorer](https://mainnet.itrocket.net/celestia/staking)
+##### Snapshots
+- [Consensus Node Snapshot](https://itrocket.net/services/mainnet/celestia/#snap) #_pruned, upd every 4h_
+- [Bridge Node Snapshot](https://itrocket.net/services/mainnet/celestia/#snap-bridge) #_archive, upd every 2d_
+##### Endpoints
+- RPC:  [https://celestia-mainnet-rpc.itrocket.net](https://celestia-mainnet-rpc.itrocket.net) #_archive node_
+- API:  [https://celestia-mainnet-api.itrocket.net](https://celestia-mainnet-api.itrocket.net) #_archive node_
+- gRPC: `celestia-mainnet-grpc.itrocket.net:443`
+- Peer: `d535cbf8d0efd9100649aa3f53cb5cbab33ef2d6@celestia-mainnet-peer.itrocket.net:40656`
+- Seed: `12ad7c73c7e1f2460941326937a039139aa78884@celestia-mainnet-seed.itrocket.net:40656`
+##### RPC for DA nodes
+- Core IP:  `celestia-mainnet-consensus.itrocket.net`
+- gRPC Port: `9090`
+- RPC Port: `26657`
+##### Guides
+- [Consensus Node installation](https://itrocket.net/services/mainnet/celestia/installation/) #_with Cheat sheet & upgrade guides_
+- [Bridhe Node installation](https://itrocket.net/services/mainnet/celestia/bridge-node/) #_with Cheat sheet & upgrade guides_
+- [Full Storage Node installation](https://itrocket.net/services/mainnet/celestia/full-node/) #_with Cheat sheet & upgrade guides_
+- [Light Node installation](https://itrocket.net/services/mainnet/celestia/light-node/) #_with Cheat sheet & upgrade guides_
+##### DA Nodes Monitoring
+- [Bridge, Full, Light Node monitoring script](https://itrocket.net/services/mainnet/celestia/monitoring/)
+
+#### Testnet
+#### Tools
+* [Decentralization Analytics](https://itrocket.net/services/testnet/celestia/decentralization/) #_validators, RPC, and all nodes_
+* [Governance Bot](https://t.me/itrocket_testnet_proposal_bot) #_with status & UPD timer notifications_
+* [Peer scanner](https://itrocket.net/services/testnet/celestia/#peer) #_with real time peer uptime verification_
+* [RPC Scanner](https://itrocket.net/services/testnet/celestia/public-rpc/) #_with Raw scan results_
+* [Explorer](https://testnet.itrocket.net/celestia/staking)
+##### Snapshots
+- [Consensus Node Snapshot](https://itrocket.net/services/testnet/celestia/#snap) #_pruned, upd every 4h_
+- [Bridge Node Snapshot](https://itrocket.net/services/testnet/celestia/#snap-bridge) #_archive, upd every 2d_
+##### Endpoints
+- RPC:  [https://celestia-testnet-rpc.itrocket.net](https://celestia-testnet-rpc.itrocket.net) #_archive node_
+- API:  [https://celestia-testnet-api.itrocket.net](https://celestia-testnet-api.itrocket.net) #_archive node_
+- gRPC: `celestia-testnet-grpc.itrocket.net:443`
+- Peer: `daf2cecee2bd7f1b3bf94839f993f807c6b15fbf@celestia-testnet-peer.itrocket.net:11656`
+- Seed: `5d0bf034d6e6a8b5ee31a2f42f753f1107b3a00e@celestia-testnet-seed.itrocket.net:11656`
+##### RPC for DA nodes
+- Core IP:  `celestia-testnet-consensus.itrocket.net`
+- gRPC Port: `9090`
+- RPC Port: `26657`
+##### Guides
+- [Consensus Node installation](https://itrocket.net/services/testnet/celestia/installation/) #_with Cheat sheet & upgrade guides_
+- [Bridhe Node installation](https://itrocket.net/services/testnet/celestia/bridge-node/) #_with Cheat sheet & upgrade guides_
+- [Full Storage Node installation](https://itrocket.net/services/testnet/celestia/full-node/) #_with Cheat sheet & upgrade guides_
+- [Light Node installation](https://itrocket.net/services/testnet/celestia/light-node/) #_with Cheat sheet & upgrade guides_
+- [Deploy your own Celestia sovereign rollup](https://github.com/itrocket-team/testnet_guides/tree/main/celestia/sovereign_rollup)
+##### DA Nodes Monitoring
+- [Bridge, Full, Light Node monitoring script](https://itrocket.net/services/testnet/celestia/monitoring/)
+
 ### Validatrium
 #### Technical
 - Archive node snapshot: [https://docs.validatrium.club/Celestia/archive-node-snapshot](https://docs.validatrium.club/Celestia/archive-node-snapshot)
 - Bridge archive snapshot: [https://docs.validatrium.club/Celestia/bridge-archive-snapshot](https://docs.validatrium.club/Celestia/bridge-archive-snapshot)
-
 #### Endpoints
 - Seed: `706c8fbaaf38d3a1bf3186ca4c4d55fc07891ea4@49.12.172.53:10256`
 - Archive RPC: [https://rpc-celestia-archive.mainnet.validatrium.club](https://rpc-celestia-archive.mainnet.validatrium.club)
 - Archive API: [https://api-celestia-archive.mainnet.validatrium.club](https://api-celestia-archive.mainnet.validatrium.club)
-
 ### Community
 - https://x.com/validatrium/status/1755236655454097840
 - Validatrium team offered hosting AMA session with Celestia team, we had a great response on hosting AMAs with Polygon and Axelar. waiting for a reply on AMA session with Celestia team via telegram channel “Celestia & Validatrium”
-
-examples:
+Examples:
 * axelar - https://x.com/validatrium/status/1744676938243809408?s=20
 * polygon - https://x.com/validatrium/status/1727718562121285635?s=20
