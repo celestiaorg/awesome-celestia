@@ -121,7 +121,6 @@ An Awesome List of Celestia Resources
 * GRPC: `grpc-1.testnet.celestia.nodes.guru:10790`
 
 ### Contributions by [BlackBlocks](https://blackblocks.io)
-
 #### Mainnet
 * Wiki: https://wiki.blackblocks.io/en/public/services/mainnet/celestia
 ##### Endpoints
@@ -140,3 +139,14 @@ An Awesome List of Celestia Resources
 ##### Snapshots
 * Bridge Archival: https://wiki.blackblocks.io/en/public/services/testnet/celestia#bridge-node-archival-snapshot
 * Full Node Archival: https://wiki.blackblocks.io/en/public/services/testnet/celestia#full-node-archival-snapshot
+
+### [cryptomolot](https://cryptomolotstake.com/)
+#### Testnet (technical)
+* [RPC](https://celestia-mocha-rpc.cryptomolot.com/)
+* [Community guidelines](https://cryptomolot.gitbook.io/cryptomolot-docs/testnets/celestia)
+* [Issue1633](https://github.com/celestiaorg/docs/issues/1633)
+* [PR1639](https://github.com/celestiaorg/docs/pull/1639)
+#### Community
+- Galxe campaign: https://app.galxe.com/quest/kBZDkhZ8FD7AaBqaEX4Uk9/GCT9wtdmFw
+#### Content
+https://telegra.ph/Content-contributions-for-Celestia-by-cryptomolot-07-02
