@@ -399,3 +399,21 @@ Public enpoints:
 - [Celestia Staking Guide](https://blog.stakeflow.io/celestia-tia-staking-guide-b6e8a1e9c5fe)
 - [How to choose your Celestia validator](https://blog.stakeflow.io/how-to-choose-your-tia-celestia-validator-f03b47b37fb5)
 - [Basics of Celestia with Stakeflow explorer](https://blog.stakeflow.io/basics-of-celestia-with-stakeflow-explorer-8942dbc688f2)
+
+### Contributions by [Openbitlab](https://openbitlab.com)
+- Srvcheck monitoring tool: https://github.com/openbitlab/celestia-srvcheck
+- Celestia Validator Monitor (Telegram bot): https://t.me/celestia_validator_monitor_bot
+- Admin of Italian telegra group: https://t.me/Celestia_ITA
+#### Mainnet
+- Relayer Node: https://relayers.smartstake.io/relayer/0C293487659F3386
+- Snapshot service: https://openbitlab.com/network/58/Celestia/snapshot
+- RPC: https://celestia-rpc.openbitlab.com
+- gRPC: celestia-grpc.openbitlab.com:443
+- API: https://celestia-api.openbitlab.com
+- Documentation: https://openbitlab.com/network/58/Celestia/docs
+#### Testnet
+- Snapshot service: https://openbitlab.com/network/24/Celestia/snapshot
+- RPC: https://celestia-testnet-rpc.openbitlab.com
+- gRPC: celestia-testnet-grpc.openbitlab.com:443
+- API: https://celestia-testnet-api.openbitlab.com
+- Documentation: https://openbitlab.com/network/24/Celestia/docs
