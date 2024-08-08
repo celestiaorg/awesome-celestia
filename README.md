@@ -279,3 +279,18 @@ https://telegra.ph/Content-contributions-for-Celestia-by-cryptomolot-07-02
 - [Deploy your own Celestia sovereign rollup](https://github.com/itrocket-team/testnet_guides/tree/main/celestia/sovereign_rollup)
 ##### DA Nodes Monitoring
 - [Bridge, Full, Light Node monitoring script](https://itrocket.net/services/testnet/celestia/monitoring/)
+
+### Validatrium
+#### Technical
+- Archive node snapshot: [https://docs.validatrium.club/Celestia/archive-node-snapshot](https://docs.validatrium.club/Celestia/archive-node-snapshot)
+- Bridge archive snapshot: [https://docs.validatrium.club/Celestia/bridge-archive-snapshot](https://docs.validatrium.club/Celestia/bridge-archive-snapshot)
+#### Endpoints
+- Seed: `706c8fbaaf38d3a1bf3186ca4c4d55fc07891ea4@49.12.172.53:10256`
+- Archive RPC: [https://rpc-celestia-archive.mainnet.validatrium.club](https://rpc-celestia-archive.mainnet.validatrium.club)
+- Archive API: [https://api-celestia-archive.mainnet.validatrium.club](https://api-celestia-archive.mainnet.validatrium.club)
+### Community
+- https://x.com/validatrium/status/1755236655454097840
+- Validatrium team offered hosting AMA session with Celestia team, we had a great response on hosting AMAs with Polygon and Axelar. waiting for a reply on AMA session with Celestia team via telegram channel “Celestia & Validatrium”
+Examples:
+* axelar - https://x.com/validatrium/status/1744676938243809408?s=20
+* polygon - https://x.com/validatrium/status/1727718562121285635?s=20
