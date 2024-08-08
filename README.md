@@ -294,3 +294,36 @@ https://telegra.ph/Content-contributions-for-Celestia-by-cryptomolot-07-02
 Examples:
 * axelar - https://x.com/validatrium/status/1744676938243809408?s=20
 * polygon - https://x.com/validatrium/status/1727718562121285635?s=20
+
+### STAKEME
+#### Mainnet
+#### Tools
+* [Self-written explorer](https://celestia.exploreme.pro) #_staking/voting directly through the explorer using Keplr is supported_
+* [Consensus](https://celestia.exploreme.pro/utilities?tab=consensus)
+* [Uptime validators](https://celestia.exploreme.pro/utilities?tab=uptime)
+* [RPC scanner & peers](https://celestia.exploreme.pro/network)
+##### Endpoints
+- Archive RPC:  [https://celestia-rpc.stakeme.pro](https://celestia-rpc.stakeme.pro)
+- Archive API:  [https://celestia-rest.stakeme.pro](https://celestia-rest.stakeme.pro)
+- Peer: `f9f6aa4a23f8ff2bc3137fa603bfa4014b8d05cb@celestia-mainnet-peer.stakeme.pro:40656`
+- Seed: `f9f6aa4a23f8ff2bc3137fa603bfa4014b8d05cb@celestia-mainnet-seed.stakeme.pro:40656`
+##### DA Nodes
+- Core IP:  `da-bridge-celestia.stakeme.pro` #_12D3KooWHw8pf1GbF56ssTijQQwvrj6k14pLDQmPQPuMUXNGfvaK_
+- gRPC Port: `9090`
+- RPC Port: `26657`
+#### Testnet (mocha-4)
+#### Tools
+* [Self-written explorer](https://testnet.celestia.exploreme.pro) #_staking/voting directly through the explorer using Keplr is supported_
+* [Consensus](https://testnet.celestia.exploreme.pro/utilities?tab=consensus)
+* [Uptime validators](https://testnet.celestia.exploreme.pro/utilities?tab=uptime)
+* [RPC scanner & peers](https://testnet.celestia.exploreme.pro/network)
+* [Self-written faucet](https://celestia-testnet.faucetme.pro)
+##### Endpoints
+- Archive RPC:  [https://celestia-testnet-rpc.stakeme.pro](https://celestia-testnet-rpc.stakeme.pro)
+- Archive API:  [https://celestia-testnet-rest.stakeme.pro](https://celestia-testnet-rest.stakeme.pro)
+- Peer: `83cda75ef0cb3826858eaafe60f0f14a2018d53f@celestia-testnet-peer.stakeme.pro:11656`
+- Seed: `83cda75ef0cb3826858eaafe60f0f14a2018d53f@celestia-testnet-seed.stakeme.pro:11656`
+##### DA Nodes
+- Core IP:  `da-bridge-mocha-4.stakeme.pro` #_12D3KooWDi3KsQk6wHCHSDs126MPnbBSSKxruMaKGvZKALM2LzKC_
+- gRPC Port: `9090`
+- RPC Port: `26657`
