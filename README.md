@@ -327,3 +327,17 @@ Examples:
 - Core IP:  `da-bridge-mocha-4.stakeme.pro` #_12D3KooWDi3KsQk6wHCHSDs126MPnbBSSKxruMaKGvZKALM2LzKC_
 - gRPC Port: `9090`
 - RPC Port: `26657`
+
+### Contributions by [AutoStake.com](https://autostake.com)
+
+#### Mainnet:
+* Services(Snapshot, addrbook, State-sync, Seed, Peer, RPC, API, gRPC): https://autostake.com/networks/celestia/#services
+* RPC: https://celestia-mainnet-rpc.autostake.com:443
+* gRPC: celestia-mainnet-grpc.autostake.com:443
+* API: https://celestia-mainnet-lcd.autostake.com:443
+
+#### Testnet:
+* Services(Snapshot, addrbook, Seed, Peer): https://autostake.com/networks/testnets/celestia/#services
+* RPC: https://celestia-testnet-rpc.autostake.com:443
+* gRPC: celestia-testnet-grpc.autostake.com:443
+* API: https://celestia-testnet-lcd.autostake.com:443
