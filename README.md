@@ -103,6 +103,94 @@ An Awesome List of Celestia Resources
 * [Telegram](https://t.me/CelestiaBrazil)
 
 ## Node operator contributions
+
+### Nodes.Guru
+#### Mainnet
+* [NG Explorer](https://celestia.explorers.guru/)
+* [NodesChecker Bot](https://t.me/NodesGuru_bot)
+##### Endpoints
+* RPC:  [https://rpc-1.celestia.nodes.guru](https://rpc-1.celestia.nodes.guru)
+* API:  [https://api-1.celestia.nodes.guru](https://api-1.celestia.nodes.guru)
+* GRPC: `grpc-1.celestia.nodes.guru:10790`
+#### Testnet
+* [NG Explorer](https://testnet.celestia.explorers.guru/)
+* [NodesChecker Bot](https://t.me/NodesGuru_bot)
+##### Endpoints
+* RPC:  [https://rpc-1.testnet.celestia.nodes.guru](https://rpc-1.testnet.celestia.nodes.guru)
+* API:  [https://api-1.testnet.celestia.nodes.guru](https://api-1.testnet.celestia.nodes.guru)
+* GRPC: `grpc-1.testnet.celestia.nodes.guru:10790`
+
+### Contributions by [BlackBlocks](https://blackblocks.io)
+#### Mainnet
+* Wiki: https://wiki.blackblocks.io/en/public/services/mainnet/celestia
+##### Endpoints
+* Bridge: https://bridge.celestia-mainnet.blackblocks.io/
+* Fullnode: https://rpc.celestia-mainnet.blackblocks.io/](https://rpc.celestia-mainnet.blackblocks.io/
+##### Snapshots
+* Bridge Archival: https://wiki.blackblocks.io/en/public/services/mainnet/celestia#bridge-node-archival-snapshot
+* Full Node Archival: https://wiki.blackblocks.io/en/public/services/mainnet/celestia#full-node-archival-snapshot
+##### Explorer
+* Dexplorer Fork: https://explorer.celestia-mainnet.blackblocks.io/ 
+#### Testnet
+* Wiki: https://wiki.blackblocks.io/en/public/services/testnet/celestia
+##### Endpoints
+* Bridge: https://bridge.celestia-mocha-4.blackblocks.io/
+* Fullnode: (https://rpc.celestia-mocha-4.blackblocks.io/
+##### Snapshots
+* Bridge Archival: https://wiki.blackblocks.io/en/public/services/testnet/celestia#bridge-node-archival-snapshot
+* Full Node Archival: https://wiki.blackblocks.io/en/public/services/testnet/celestia#full-node-archival-snapshot
+
+### [cryptomolot](https://cryptomolotstake.com/)
+#### Testnet (technical)
+* [RPC](https://celestia-mocha-rpc.cryptomolot.com/)
+* [Community guidelines](https://cryptomolot.gitbook.io/cryptomolot-docs/testnets/celestia)
+* [Issue1633](https://github.com/celestiaorg/docs/issues/1633)
+* [PR1639](https://github.com/celestiaorg/docs/pull/1639)
+#### Community
+- Galxe campaign: https://app.galxe.com/quest/kBZDkhZ8FD7AaBqaEX4Uk9/GCT9wtdmFw
+#### Content
+https://telegra.ph/Content-contributions-for-Celestia-by-cryptomolot-07-02
+
+### BlackNodes Contribution https://blacknodes.net
+
+### Mainnet
+* Celestia Faucet By BlackNodes: https://celestia-faucet.blacknodes.net
+* Explorer (Ping-Pub based): https://explorer.blacknodes.net/celestia
+
+### Testnet
+* Services(Snapshot,State-Sync,Endpoints,LivePeers,Node-Monitoring): https://services.blacknodes.net/Celestia
+* Node Tutorial Guide: https://github.com/blacknodes/Node-Services/tree/main/Projects/celestia
+* Node-Monitoring Guide: https://github.com/blacknodes/Node-Services/tree/main/Projects/celestia/Celestia-Node-Monitoring
+* BlackNodes Peer: af73ecc4d2084643fe77657d260a07240872d91f@celestia-testnet.blacknodes.net:26656
+* Snapshot (Pruned): https://files.blacknodes.net/celestia/celestia_mocha-4.tar.lz4
+
+#### Endpoints
+* RPC: https://celestia-testnet-rpc.blacknodes.net
+* gRPC: celestia-testnet-grpc.blacknodes.net:17090
+* API: https://celestia-testnet-api.blacknodes.net
+* Archival-Node-RPC(for DA nodes to connect with): consensus-full-mocha.blacknodes.net
+
+#### Explorer
+* Explorer (Ping-Pub based): https://explorer.blacknodes.net/Celestia-Testnet
+
+### BlockSpace Race
+* Blob CelestiaPFB_UI prototype: https://github.com/blacknodes/CelestiaPFB_UI
+* Sovereign Rollup: https://github.com/blacknodes/loanme
+* OneClickNode: https://github.com/blacknodes/OneClickNodeCelestia
+
+### Contributions by [Lavender.Five Nodes](https://lavenderfive.com)
+### Mainnet
+* Services(Snapshot, State-sync, Installation Guide): https://services.lavenderfive.com/mainnet/celestia
+* RPC: https://celestia-rpc.lavenderfive.com:443
+* gRPC: celestia-grpc.lavenderfive.com:443
+* API: https://celestia-api.lavenderfive.com:443
+
+### Testnet
+* Services(Snapshot, State-sync, Installation Guide): https://services.lavenderfive.com/testnet/celestia
+* RPC: https://testnet-celestia-rpc.lavenderfive.com:443
+* gRPC: testnet-celestia-grpc.lavenderfive.com:443
+* API: https://testnet-celestia-api.lavenderfive.com:443
+
 ### DTEAM
 #### Mainnet
 * [Services (Installation guides, snapshot, state sync and etc.)](https://dteam.tech/services/mainnet/overview/celestia)
