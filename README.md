@@ -105,6 +105,8 @@ An Awesome List of Celestia Resources
 
 ## Node operator contributions
 
+---
+
 ### Nodes.Guru
 #### Mainnet
 * [NG Explorer](https://celestia.explorers.guru/)
@@ -120,6 +122,8 @@ An Awesome List of Celestia Resources
 * RPC:  [https://rpc-1.testnet.celestia.nodes.guru](https://rpc-1.testnet.celestia.nodes.guru)
 * API:  [https://api-1.testnet.celestia.nodes.guru](https://api-1.testnet.celestia.nodes.guru)
 * GRPC: `grpc-1.testnet.celestia.nodes.guru:10790`
+
+---
 
 ### Contributions by [BlackBlocks](https://blackblocks.io)
 #### Mainnet
@@ -141,6 +145,8 @@ An Awesome List of Celestia Resources
 * Bridge Archival: https://wiki.blackblocks.io/en/public/services/testnet/celestia#bridge-node-archival-snapshot
 * Full Node Archival: https://wiki.blackblocks.io/en/public/services/testnet/celestia#full-node-archival-snapshot
 
+---
+
 ### [cryptomolot](https://cryptomolotstake.com/)
 #### Testnet (technical)
 * [RPC](https://celestia-mocha-rpc.cryptomolot.com/)
@@ -151,6 +157,8 @@ An Awesome List of Celestia Resources
 - Galxe campaign: https://app.galxe.com/quest/kBZDkhZ8FD7AaBqaEX4Uk9/GCT9wtdmFw
 #### Content
 https://telegra.ph/Content-contributions-for-Celestia-by-cryptomolot-07-02
+
+---
 
 ### BlackNodes Contribution https://blacknodes.net
 #### Mainnet
@@ -174,6 +182,8 @@ https://telegra.ph/Content-contributions-for-Celestia-by-cryptomolot-07-02
 * Sovereign Rollup: https://github.com/blacknodes/loanme
 * OneClickNode: https://github.com/blacknodes/OneClickNodeCelestia
 
+---
+
 ### Contributions by [Lavender.Five Nodes](https://lavenderfive.com)
 #### Mainnet
 * Services(Snapshot, State-sync, Installation Guide): https://services.lavenderfive.com/mainnet/celestia
@@ -185,6 +195,8 @@ https://telegra.ph/Content-contributions-for-Celestia-by-cryptomolot-07-02
 * RPC: https://testnet-celestia-rpc.lavenderfive.com:443
 * gRPC: testnet-celestia-grpc.lavenderfive.com:443
 * API: https://testnet-celestia-api.lavenderfive.com:443
+
+---
 
 ### DTEAM
 #### Mainnet
@@ -215,6 +227,8 @@ https://telegra.ph/Content-contributions-for-Celestia-by-cryptomolot-07-02
 - Seed: `70e8a8941f32dc5f696e46ee836c27620e773065@seed.celestia.testnet.dteam.tech:26656`
 - Peer: `76ed983017167d96c62b166725250940deb783563@peer.celestia.testnet.dteam.tech:27656`
 
+---
+
 ### ITRocket
 #### Mainnet
 #### Tools
@@ -243,6 +257,8 @@ https://telegra.ph/Content-contributions-for-Celestia-by-cryptomolot-07-02
 - [Light Node installation](https://itrocket.net/services/mainnet/celestia/light-node/) #_with Cheat sheet & upgrade guides_
 ##### DA Nodes Monitoring
 - [Bridge, Full, Light Node monitoring script](https://itrocket.net/services/mainnet/celestia/monitoring/)
+
+---
 
 #### Testnet
 #### Tools
@@ -273,6 +289,8 @@ https://telegra.ph/Content-contributions-for-Celestia-by-cryptomolot-07-02
 ##### DA Nodes Monitoring
 - [Bridge, Full, Light Node monitoring script](https://itrocket.net/services/testnet/celestia/monitoring/)
 
+---
+
 ### Validatrium
 #### Technical
 - Archive node snapshot: [https://docs.validatrium.club/Celestia/archive-node-snapshot](https://docs.validatrium.club/Celestia/archive-node-snapshot)
@@ -287,6 +305,8 @@ https://telegra.ph/Content-contributions-for-Celestia-by-cryptomolot-07-02
 Examples:
 * axelar - https://x.com/validatrium/status/1744676938243809408?s=20
 * polygon - https://x.com/validatrium/status/1727718562121285635?s=20
+
+---
 
 ### STAKEME
 #### Mainnet
@@ -321,6 +341,8 @@ Examples:
 - gRPC Port: `9090`
 - RPC Port: `26657`
 
+---
+
 ### Contributions by [AutoStake.com](https://autostake.com)
 #### Mainnet:
 * Services(Snapshot, addrbook, State-sync, Seed, Peer, RPC, API, gRPC): https://autostake.com/networks/celestia/#services
@@ -333,10 +355,14 @@ Examples:
 * gRPC: celestia-testnet-grpc.autostake.com:443
 * API: https://celestia-testnet-lcd.autostake.com:443
 
+---
+
 ### Smart Stake
 * [Smart Stake Analytics](https://analytics.smartstake.io/celestia) - validator, network, richlists, and decentralization analytics for Celestia
 * [Decentralization Analytics](https://decentralization.smartstake.io) - decentralization analytics for 35+ networks
 * [Relayer Analytics](https://analytics.smartstake.io/celestia) - IBC Relayer analytics for Celestia Relayers and Relayers contributing to 100+ other networks
+
+---
 
 ### CrypTech
 #### Technical
@@ -360,6 +386,8 @@ Examples:
 - GRPC: [https://grpc-celestia-testnet.cryptech.com.ua](https://grpc-celestia-testnet.cryptech.com.ua)
 #### Content
 - [Medium](https://cryptech-nodes.medium.com/%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-%D1%81%D0%B5%D1%82%D0%B8-celestia-3b5a0865c7f1)
+
+---
 
 ### Contributions by [Stakeflow](https://validator.stakeflow.io/) validator
 #### Mainnet
@@ -400,6 +428,8 @@ Public enpoints:
 - [How to choose your Celestia validator](https://blog.stakeflow.io/how-to-choose-your-tia-celestia-validator-f03b47b37fb5)
 - [Basics of Celestia with Stakeflow explorer](https://blog.stakeflow.io/basics-of-celestia-with-stakeflow-explorer-8942dbc688f2)
 
+---
+
 ### Contributions by [Openbitlab](https://openbitlab.com)
 - Srvcheck monitoring tool: https://github.com/openbitlab/celestia-srvcheck
 - Celestia Validator Monitor (Telegram bot): https://t.me/celestia_validator_monitor_bot
@@ -418,10 +448,11 @@ Public enpoints:
 - API: https://celestia-testnet-api.openbitlab.com
 - Documentation: https://openbitlab.com/network/24/Celestia/docs
 
+---
+
 ### Chainode Tech
 #### Technical
 - Validator and Bridge Monitoring Tools: [https://github.com/Chainode/CelestiaTools](https://github.com/Chainode/CelestiaTools)
-
 #### Endpoints Mainnet
 ```
 - Peer: 48b55ac8d12b2f2cd28841891c0a68e1dffa912c@84.32.186.37:26856
@@ -436,3 +467,54 @@ Public enpoints:
 - Insights and Opportunities for Community Participation and Growth: https://medium.com/chainode-tech/celestia-explored-insights-and-opportunities-for-community-participation-and-growth-3f42b6b29deb
 - Celestia and Blockchain Modularity: https://medium.com/chainode-tech/celestia-and-blockchain-modularity-5c055cdcd124
 - Supporting Celestia integration in various cross-chain messaging protocols like Wormhole
+
+---
+
+### Contributions by [LuckyResearch.org](https://luckyresearch.org/)
+Technical contributions
+#### Mainnet:
+* RPC: https://rpc-celestia-mainnet.luckyresearch.org/
+* API: https://api-celestia-mainnet.luckyresearch.org/
+* Explorer: https://explorer.luckyresearch.org/Celestia-Mainet
+* Services guide: https://services.luckyresearch.org/lucky-research-services/mainet/celestia
+* Bridge node: `12D3KooWPLLjhDvDtaPDNtr8o3ZfhDHXPa3ivJJRXVTmUaQECWPW`
+* We are operating the Mainnet validator in inactive set: ( Ensures immediate activation upon receiving  delegate program)
+https://celestia.explorers.guru/validator/celestiavaloper17hw6htgj2vadkutyurtq7568g9gz9kz4x7d5tm
+#### Testnet:
+* RPC: https://rpc-celestia-mocha.luckyresearch.org/
+* API: https://api-celestia-mocha.luckyresearch.org/
+* Explorer: https://explorer.luckyresearch.org/Celestia-Testnet
+* Services guide: https://services.luckyresearch.org/lucky-research-services/testnet/celestia
+* Bridge node: `12D3KooW9tcjEJSjLtXDQtrqxiGULcgqQV11u8yQBztpcs8p53W3`
+* We are operating the Mocha testnet validator in Active set: 
+https://testnet.celestia.explorers.guru/validator/celestiavaloper16kzqyl6rf8ph385v60u3r8sjgj5w9enq6znf6l
+* LuckyResearch participate Testnet Incentivized BlockSpace Race: Full Node
+#### Community contributions
+##### LuckyResearch is a Moderator community on the official Discord Celestia for both general and local channels ( Vietnamese channel) , dedicating my time and effort to supporting a active, clean, and positive community. 
+* Admin on telegram Vietnamese community Unoffical [Telegram](https://t.me/celestia_vn)
+* LuckyResearch strong support and building a Modular Blockchain community, diligently contributing to support the development of the Vietnamese community.
+* LuckyResearch is committed to contributing to the development of the blockchain community in Vietnam by sharing knowledge and supporting its continuous growth.
+* My goal is to create a friendly environment where ideas can grow and community members can thrive.
+* Translator Diamond role in discord Celestia and Proofreader Vietnamese in Crowdin Celestia
+* Content Celestia Vietnamese and Instruction community: 
+- https://luckyresearch.notion.site/H-ng-d-n-c-ch-ki-m-tra-i-u-ki-n-Claim-Genesis-Drop-c-a-Celestia-056c0de1863d42faaae150683e7bdb60
+- https://discord.com/channels/638338779505229824/804389559831232578/1168927959218913293
+- https://discord.com/channels/638338779505229824/1067048624841822238/1174218758089355285
+- https://luckyresearch.notion.site/Gi-i-thi-u-v-Celestia-v-Modular-Blockchain-c9bd267748e8471ea7da8ec85e75fa29?pvs=74
+- https://luckyresearch.notion.site/Chu-i-Nguy-n-kh-i-v-Chu-i-Modular-3fe8db677f01433ea581d9a56aa4baa1
+- https://luckyresearch.notion.site/Rollups-l-c-c-chu-i-c-ch-quy-n-8be093066c44400a9bee357d1812766a?pvs=74
+- https://luckyresearch.notion.site/Chu-i-Modular-c-l-i-ch-g-trong-s-ph-t-tri-n-blockchain-1595abadc3f34e36b165c8f09bd71ec6
+- https://luckyresearch.notion.site/Celestia-k-t-th-c-v-ng-g-i-v-n-h-t-gi-ng-tr-gi-1-5-tri-u-la-t-Interchain-Foundation-Binance-L-c9789aeb86f94cfc904536fa37b59538
+- https://luckyresearch.notion.site/Celestia-huy-ng-55-tri-u-la-ra-m-t-m-ng-l-i-blockchain-m-un-80dce22ed6c243e5867b99658023abe4?pvs=25
+- https://luckyresearch.notion.site/OKX-Ventures-th-ng-b-o-u-t-v-o-Celestia-cb89d911a08a49bf924a0cf6455edad2?pvs=25
+- https://x.com/LuckyResearchVN/status/1710620276491485297
+- https://x.com/LuckyResearchVN/status/1706859243155128789
+- https://x.com/LuckyResearchVN/status/1770134658145300735
+* Contact official and just only. If anyone impersonates from an address other than this one, please block and disregard it.
+🔭 X: https://twitter.com/LuckyResearchVN
+👯 Website: https://luckyresearch.org
+👯 LuckyResearch community Channel: https://t.me/luckyresearch_ann
+- Github: https://github.com/LuckyResearch
+- Email: contact@luckyresearch.org 
+
+---
