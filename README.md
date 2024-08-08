@@ -664,3 +664,14 @@ https://github.com/DasRasyo/Celestia-mocha-4
 - **peer**: 31ad09853c5f5a728048d2ec94772944e762737b@195.3.221.146:26657
 
 ---
+
+### Wavefive
+#### Mainnet
+1. Archive RPC [https://celestia-rpc.0xcryptovestor.com]
+2. Archive gRPC [https://celestia-grpc.0xcryptovestor.com]
+3. Archive API [https://celestia-api.0xcryptovestor.com]
+
+#### Testnet
+1. RPC [https://celestia-testnet-rpc.0xcryptovestor.com]
+
+---
