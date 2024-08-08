@@ -177,3 +177,16 @@ https://telegra.ph/Content-contributions-for-Celestia-by-cryptomolot-07-02
 * Blob CelestiaPFB_UI prototype: https://github.com/blacknodes/CelestiaPFB_UI
 * Sovereign Rollup: https://github.com/blacknodes/loanme
 * OneClickNode: https://github.com/blacknodes/OneClickNodeCelestia
+
+### Contributions by [Lavender.Five Nodes](https://lavenderfive.com)
+### Mainnet
+##### Services(Snapshot, State-sync, Installation Guide): https://services.lavenderfive.com/mainnet/celestia
+##### RPC: https://celestia-rpc.lavenderfive.com:443
+##### gRPC: celestia-grpc.lavenderfive.com:443
+##### API: https://celestia-api.lavenderfive.com:443
+
+### Testnet
+##### Services(Snapshot, State-sync, Installation Guide): https://services.lavenderfive.com/testnet/celestia
+##### RPC: https://testnet-celestia-rpc.lavenderfive.com:443
+##### gRPC: testnet-celestia-grpc.lavenderfive.com:443
+##### API: https://testnet-celestia-api.lavenderfive.com:443
