@@ -656,3 +656,11 @@ Mocha-4 nodes setup script with a single click (including validator and all DA n
 https://github.com/DasRasyo/Celestia-mocha-4
 
 ---
+
+### Contributions by [moonli.me](https://moonli.me/)
+#### Mainnet
+- **RPC**: https://celestia.moonli.me
+- **API**: https://celestia.moonli.me/api
+- **peer**: 31ad09853c5f5a728048d2ec94772944e762737b@195.3.221.146:26657
+
+---
