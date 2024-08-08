@@ -103,18 +103,40 @@ An Awesome List of Celestia Resources
 * [Telegram](https://t.me/CelestiaBrazil)
 
 ## Node operator contributions
+
 ### Nodes.Guru
 #### Mainnet
 * [NG Explorer](https://celestia.explorers.guru/)
 * [NodesChecker Bot](https://t.me/NodesGuru_bot)
 ##### Endpoints
-- RPC:  [https://rpc-1.celestia.nodes.guru](https://rpc-1.celestia.nodes.guru)
-- API:  [https://api-1.celestia.nodes.guru](https://api-1.celestia.nodes.guru)
-- GRPC: `grpc-1.celestia.nodes.guru:10790`
+* RPC:  [https://rpc-1.celestia.nodes.guru](https://rpc-1.celestia.nodes.guru)
+* API:  [https://api-1.celestia.nodes.guru](https://api-1.celestia.nodes.guru)
+* GRPC: `grpc-1.celestia.nodes.guru:10790`
 #### Testnet
 * [NG Explorer](https://testnet.celestia.explorers.guru/)
 * [NodesChecker Bot](https://t.me/NodesGuru_bot)
 ##### Endpoints
-- RPC:  [https://rpc-1.testnet.celestia.nodes.guru](https://rpc-1.testnet.celestia.nodes.guru)
-- API:  [https://api-1.testnet.celestia.nodes.guru](https://api-1.testnet.celestia.nodes.guru)
-- GRPC: `grpc-1.testnet.celestia.nodes.guru:10790`
+* RPC:  [https://rpc-1.testnet.celestia.nodes.guru](https://rpc-1.testnet.celestia.nodes.guru)
+* API:  [https://api-1.testnet.celestia.nodes.guru](https://api-1.testnet.celestia.nodes.guru)
+* GRPC: `grpc-1.testnet.celestia.nodes.guru:10790`
+
+### Contributions by [BlackBlocks](https://blackblocks.io)
+
+#### Mainnet
+* Wiki: https://wiki.blackblocks.io/en/public/services/mainnet/celestia
+##### Endpoints
+* Bridge: https://bridge.celestia-mainnet.blackblocks.io/
+* Fullnode: https://rpc.celestia-mainnet.blackblocks.io/](https://rpc.celestia-mainnet.blackblocks.io/
+##### Snapshots
+* Bridge Archival: https://wiki.blackblocks.io/en/public/services/mainnet/celestia#bridge-node-archival-snapshot
+* Full Node Archival: https://wiki.blackblocks.io/en/public/services/mainnet/celestia#full-node-archival-snapshot
+##### Explorer
+* Dexplorer Fork: https://explorer.celestia-mainnet.blackblocks.io/ 
+#### Testnet
+* Wiki: https://wiki.blackblocks.io/en/public/services/testnet/celestia
+##### Endpoints
+* Bridge: https://bridge.celestia-mocha-4.blackblocks.io/
+* Fullnode: (https://rpc.celestia-mocha-4.blackblocks.io/
+##### Snapshots
+* Bridge Archival: https://wiki.blackblocks.io/en/public/services/testnet/celestia#bridge-node-archival-snapshot
+* Full Node Archival: https://wiki.blackblocks.io/en/public/services/testnet/celestia#full-node-archival-snapshot
