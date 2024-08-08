@@ -646,3 +646,13 @@ Telegram: @Brian_Provalidator
 - **Genesis File**: https://snapshots.moonlet.cloud/mainnet/dymension/genesis.json
 
 ---
+
+### Conqueror
+#### Mainnet
+Mainnet Beta DA nodes setup script with a single click:
+https://github.com/DasRasyo/Celestia-Mainnet-DA-Nodes/tree/main
+#### Testnet
+Mocha-4 nodes setup script with a single click (including validator and all DA nodes):
+https://github.com/DasRasyo/Celestia-mocha-4
+
+---
