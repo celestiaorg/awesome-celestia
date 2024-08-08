@@ -520,3 +520,27 @@ https://testnet.celestia.explorers.guru/validator/celestiavaloper16kzqyl6rf8ph38
 - Email: contact@luckyresearch.org 
 
 ---
+
+### Suntzu
+#### Mainnet
+* [Services (Installation guides, snapshot, state sync and etc.)](https://services.suntzu.dev/mainnet/celestia/installation)
+* [Mainnet explorer](https://explorer.suntzu.dev/celestia-mainnet)
+##### Tools
+- Monitor bridge/validator/system : [https://github.com/suntzu93/system_monitor](https://github.com/suntzu93/system_monitor)
+##### Endpoints
+- RPC :  [https://celestia-mainnet-rpc.suntzu.dev](https://celestia-mainnet-rpc.suntzu.dev)
+- API :  [https://celestia-mainnet-api.suntzu.dev](https://celestia-mainnet-api.suntzu.dev)
+- GRPC : `celestia-mainnet-grpc.suntzu.dev:11190`
+##### Peer
+- Peer: `a479fb1fe8ecf372c72b954f1eea59099dc86f6a@95.217.204.154:11156`
+#### Testnet
+* [Services (Installation guides, snapshot, state sync and etc.)](https://services.suntzu.dev/testnet/celestia/installation)
+* [Testnet explorer](https://explorer.suntzu.dev/celestia-testnet)
+##### Endpoints
+- RPC :  [https://celestia-testnet-rpc.suntzu.dev](https://celestia-testnet-rpc.suntzu.dev)
+- API :  [https://celestia-testnet-api.suntzu.dev](https://celestia-testnet-api.suntzu.dev)
+- GRPC : `celestia-testnet-grpc.suntzu.dev:11290`
+##### Peer
+- Peer: `92372368693bf06cdcec3811695c70fa662d6e40@95.217.204.154:11256`
+
+---
