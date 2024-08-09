@@ -897,3 +897,10 @@ Speaker French Event WEB3connect :
 - Seed: `86bd5cb6e762f673f1706e5889e039d5406b4b90@seed.celestia.testnet.node75.org:37116`
 
 ---
+
+### Contributions by [Maple Nodes](https://maplenodes.com/)
+#### Tooling
+- [Celestia Network Analytics Dashboard](https://celestia.maplenodes.com/analytics/)
+- [Custom API Endpoints for Celestia](https://docs.maplenodes.com/#celestia)
+
+---
