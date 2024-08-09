@@ -935,6 +935,7 @@ Introducing Celestia Front Chain. Everything you need to know about Celestia in 
 [Modular Expansion](https://cumulo.pro/celestia/img/expansion.jpeg)  
 All the projects that use Celestia as a data availability layer  
 
+##### Other content  
 [Modular Summit](https://modular.cumulo.pro/)  
 Website dedicated to our content about Modular Summit events.
 
