@@ -755,3 +755,55 @@ https://github.com/okannako/celestiamochascript
 2. Celestia grpc status checker [Link](https://celestia-tools.brightlystake.com/grpc-status)
 
 ---
+
+### Enigma
+#### Services
+* IBC Client Monitoring & Update [Monitor and Update IBC client automatically](https://discord.com/channels/638338779505229824/1176595874823028817/1262579736891228293)
+* [GenesisDrop Checker](https://celestia.genesisdrop.enigma-validator.com/)
+
+#### Mainnet
+##### Validator
+- [Enigma](https://celestia.explorers.guru/validator/celestiavaloper107lwx458gy345ag2afx9a7e2kkl7x49y3433gj)
+##### Snapshots
+- [Pruning node snapshot(Every day)](https://doc.enigma-validator.com/docs/mainnets/Celestia/snapshot)
+##### Addrbooks
+- [Fresh Address Book](https://doc.enigma-validator.com/docs/mainnets/Celestia/addrbooks)
+##### Public Archive RPC
+- [Archive RPC](https://celestia-rpc-archive.enigma-validator.com/)
+##### Public RPC/LCD
+- [RPC](https://celestia-rpc.enigma-validator.com/)
+- [LCD](https://celestia-lcd.enigma-validator.com/)
+##### Genesis
+- [Genesis Link](https://doc.enigma-validator.com/docs/mainnets/Celestia/genesis)
+##### Installation guide
+- [How to launch a node](https://doc.enigma-validator.com/docs/mainnets/Celestia/setup-node)
+##### Relayer
+- celestia1v6m5u8l9ecdla8fem6ja8ruy7t04xk2xmndhen
+##### Bridge Node
+- Bridge node ID: `12D3KooWDLSsP2LjWkbke9xGbFCNaujo8ga4MuFUf4xNX1CCeHvB`
+#### Testnet
+##### Validator
+- [Enigma](https://testnet.celestia.explorers.guru/validator/celestiavaloper1jw6qaahxd4qw26aelfmrdpxxrnarfjnaruc5g2)
+##### Bridge Node
+- Bridge node ID: `12D3KooWCd9ZsXu1jKqhv387ZpzC1TBe3Ci9MMx2XdytqBdPp7uL`
+#### Community
+##### Tutorial
+- Add Celestia on Keplr : https://x.com/EnigmaValidator/status/1719340873597465024?s=20
+- How to Trade TIA on Osmosis : https://x.com/EnigmaValidator/status/1719377263362293780?s=20
+- How to Stake TIA - French Guide on how to stake TIA : https://enigmavalidator.substack.com/p/tutoriel-staking-tia
+##### Twitter: Celestia ecosystem Updates
+- December 15 : https://x.com/EnigmaValidator/status/1735653846301421796?s=20
+- Feb 13 : https://x.com/EnigmaValidator/status/1757373341516616114?s=20
+- Manta integration : https://x.com/EnigmaValidator/status/1736893392288690599?s=20
+- Altlayer airdrop : https://x.com/EnigmaValidator/status/1757768092938105024?s=20
+- Paris 2023 ModularSummit covering : https://x.com/EnigmaValidator/status/1686398964046626816?s=20
+##### French Content
+- Modular Meetup in France , Enigma was here : https://x.com/EnigmaValidator/status/1730286712197152969?s=20
+- Personnal Substack : French article on modularity, “2023, year of modularity” in Febuary 2023 https://huzmond.substack.com/p/fr-2023-lannee-de-la-modularite
+- cryptoLFDM : where we did some french content in collaboration with this channel where we create some dedicated content on celestia: https://www.youtube.com/watch?v=6S0Nl-MYnKw
+Speaker French Event WEB3connect : 
+- Our BD lead will talk on stage to bring awarness on Celestia 
+- Program Announcement : https://x.com/StephaneWinkel/status/1761721806304448901?s=20
+- Event Website : https://web3connect.fr/2024
+
+---
