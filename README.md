@@ -675,3 +675,27 @@ https://github.com/DasRasyo/Celestia-mocha-4
 1. RPC [https://celestia-testnet-rpc.0xcryptovestor.com]
 
 ---
+
+### ERN VENTURES
+#### Testnet tools
+* [Decentralization map](https://ernventures.com/celestia/testnet/map) #_beta_
+* [Peer scanner](https://docs.services-ernventures.com/testnets/celestia/api-snapshot-addrbook) 
+* [RPC Scanner](https://ernventures.com/celestia/rpcscanner)
+#### Snapshots
+* [Consensus Node Snapshot](https://docs.services-ernventures.com/testnets/celestia/api-snapshot-addrbook#for-full-node) #_archive_
+* [Consensus Node Snapshot](https://docs.services-ernventures.com/testnets/celestia/api-snapshot-addrbook#snapshot-1) #_pruned_
+* [Bridge Node Snapshot](https://docs.services-ernventures.com/testnets/celestia/api-snapshot-addrbook#for-bridge-node) #_archive_
+#### Endpoints
+* RPC: `https://celestia.rpc.testnets.services-ernventures.com`
+* API: `https://celestia.api.testnets.services-ernventures.com` 
+* Peer: `46e5a89a4a9bfad45864316ca596e5392890b06f@85.10.196.25:26656`
+#### Guides
+* [Consensus Node installation](https://docs.services-ernventures.com/testnets/celestia/install) #_pruned_
+* [Consensus Node installation](https://docs.services-ernventures.com/testnets/celestia/install/full-node) #_archive_
+* [Bridge Node installation](https://docs.services-ernventures.com/testnets/celestia/install/bridge-node)
+* [Monitoring a Celestia consensus node](https://docs.services-ernventures.com/testnets/celestia/monitoring-a-celestia-consensus-node) #_with Grafana_
+* [Celestia Validator monitoring guide](https://docs.services-ernventures.com/testnets/celestia/celestia-validator-monitoring-guide-with-tenderduty) #_with tenderduty_
+* [Celestia bridge alert](https://docs.services-ernventures.com/testnets/celestia/celestia-bridge-alert)
+* [Useful command](https://docs.services-ernventures.com/testnets/celestia/useful-commands) 
+
+---
