@@ -904,3 +904,34 @@ Speaker French Event WEB3connect :
 - [Custom API Endpoints for Celestia](https://docs.maplenodes.com/#celestia)
 
 ---
+
+### List of Contributions from [Encapsulate (fka KingSuper)](https://encapsulate.xyz/)
+
+#### Services
+
+##### Public RPC/LCD/gRPC
+| Service | URL |
+|---------|-----|
+| **RPC** | [`celestia-mainnet-rpc.kingsuper.services`](https://celestia-mainnet-rpc.kingsuper.services/) |
+| **LCD** | [`celestia-mainnet-lcd.kingsuper.services`](https://celestia-mainnet-lcd.kingsuper.services/) |
+| **gRPC** | [`celestia-mainnet-grpc.kingsuper.services`](https://celestia-mainnet-grpc.kingsuper.services/) |
+
+#### Snapshots
+##### Mainnet
+| **Snapshot** | URL |
+|--------------|-----|
+| **Celestia Bridge Mainnet** | [`celestia-bridge-mainnet`](https://encapsulate.xyz/snapshots/celestia-bridge-mainnet) |
+| **Celestia App Mainnet** | [`celestia-app-mainnet`](https://encapsulate.xyz/snapshots/celestia-app-mainnet) |
+
+##### Testnet
+| **Snapshot** | URL |
+|--------------|-----|
+| **Celestia Bridge Testnet** | [`celestia-bridge-testnet`](https://encapsulate.xyz/snapshots/celestia-bridge-testnet) |
+
+#### Community
+| **Tools** | URL |
+|-------------|-----|
+| **Submit Pay for Blob** | [`celestia-pfb.kingsuper.services`](https://celestia-pfb.kingsuper.services/) |
+| **Light Node Health Checker** | [`celestia-node-checker.kingsuper.services`](https://celestia-node-checker.kingsuper.services/) |
+
+---
