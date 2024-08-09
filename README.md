@@ -23,7 +23,6 @@ An Awesome List of Celestia Resources
 * [Telegram](https://t.me/celestiaru)
 #### Resources
 * [Тестовая сеть Calestia Представляет доступные API альфа –данных](https://medium.com/@savelenns/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D1%8F-%D1%81%D0%B5%D1%82%D1%8C-calestia-%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D1%82-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BD%D1%8B%D0%B5-api-%D0%B0%D0%BB%D1%8C%D1%84%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-372f99f581fd)
-* [Перевод документации Celestia](https://itrocket.gitbook.io/celestia-docs-ru)
 
 ### France
 #### Community
@@ -82,19 +81,12 @@ An Awesome List of Celestia Resources
 ### Spain
 #### Community
 * [Telegram](https://t.me/Celestia_Spanish)
-* [Celestia Spanish medium](https://medium.com/@celestia.esp)
-* [Twitter](https://x.com/CelestiaOrg_Esp)
 
 ### Thailand
 #### Community
 * [Telegram](https://t.me/celestiathailand)
 #### Resources
 * [Thailand blog with translations](https://medium.com/celestia-thailand)
-* [Community Celestia Installer Guide](https://github.com/Contribution-DAO/Celestia/blob/main/Thai/README.md)
-* [Community Call](https://www.facebook.com/watch/live/?ref=watch_permalink&v=3322366417978768)
-* [Community Research call](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1286203905513461)
-* [Community VDO Guideline to install Celestia node](https://www.youtube.com/watch?v=A4xJxUMgWPs&ab_channel=ContributionDAO)
-* [Community Local Activity Program](https://mirror.xyz/contributiondaoblog.eth/R6FLvr_b4Y9dEGzgF7BvlGrUEK5_TV3gLRSOVlyxKws)
 
 ### Arabic
 #### Community
@@ -103,10 +95,8 @@ An Awesome List of Celestia Resources
 ### Ukraine 
 #### Community
 * [Telegram](https://t.me/celestiaua)
-* [Telegram Chat](https://t.me/celestia_ua)
 #### Resources
 * [Ukrainian Newsletter](https://teletype.in/@celestiaua)
-* [Celestia Ukrainian Space](https://notion.f5nodes.com/celestia/space)
 
 ### Brazil
 #### Community
