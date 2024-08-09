@@ -721,3 +721,20 @@ https://github.com/DasRasyo/Celestia-mocha-4
 - gRPC: `celestia-testnet-grpc.f5nodes.com`
 
 ---
+
+### NakoTurk
+#### Mainnet
+Celestia Mainnet Beta Turkish Validator, Bridge, Full Storage ve Light Node Step by Step Guide
+https://github.com/okannako/celestiamainnet
+
+Celestia Mainnet Beta Turkish Validator, Bridge, Full Storage ve Light Node Script Guide
+https://github.com/okannako/celestiamainnetscript
+
+#### Testnet
+Celestia Mocha Testnet Turkish Validator, Bridge, Full Storage ve Light Node Step by Step Guide
+https://github.com/okannako/celestiamocha
+
+Celestia Mocha Testnet Turkish Validator, Bridge, Full Storage ve Light Node Script Guide 
+https://github.com/okannako/celestiamochascript
+
+---
