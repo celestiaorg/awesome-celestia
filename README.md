@@ -102,14 +102,17 @@ An Awesome List of Celestia Resources
 #### Community
 * [Telegram](https://t.me/CelestiaBrazil)
 
-## Node operator contributions
+## Node Operator Contributions
 
-## [ChainTrails](https://chaintrails.io)
+### [ChainTrails](https://chaintrails.io)
 * [Documentation](https://docs-celestia.chaintrails.io/)
 * [Ansible Playbooks](https://github.com/chaintrails/celestia-validator-playbooks)
-### Services
-#### [Snapshots](https://docs-celestia.chaintrails.io/snapshots.html)
-#### Endpoints
+
+#### Services
+
+##### [Snapshots](https://docs-celestia.chaintrails.io/snapshots.html)
+
+##### Endpoints
 
 > **Testnet**
 
@@ -126,10 +129,12 @@ An Awesome List of Celestia Resources
 | **RPC** | [`rpc-celestia.chaintrails.io`](https://rpc-celestia.chaintrails.io/) |
 | **API** | [`api-celestia.chaintrails.io`](https://api-celestia.chaintrails.io/) |
 | **gRPC** | `grpc-celestia.chaintrails.io:8088` |
-### Observability
+
+#### Observability
 
 * [Setups](https://docs-celestia.chaintrails.io/monitoring/architecture.html)
 * [Implementations](https://github.com/chaintrails/celestia-monitoring)
-### Code Contributions
 
-* [gist](https://gist.github.com/00x-dx/8ffcce9e03af80f448942fa7d607cf0a)
+#### Code Contributions
+
+* [Gist](https://gist.github.com/00x-dx/8ffcce9e03af80f448942fa7d607cf0a)
