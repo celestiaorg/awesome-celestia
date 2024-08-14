@@ -958,3 +958,41 @@ Speaker French Event WEB3connect :
 | **Light Node Health Checker** | [`celestia-node-checker.kingsuper.services`](https://celestia-node-checker.kingsuper.services/) |
 
 ---
+
+### Contributions by [Cumulo](https://cumulo.pro/)
+#### Mainnet  
+##### Endpoints  
+-  https://celestia.cumulo.org.es:443  
+-  https://celestia.api.cumulo.org.es:443  
+-  celestia.grpc.cumulo.org.es:443  
+
+#### Testnet  
+##### Endpoints  
+-  https://dym.rpc.cumulo.com.es:443  
+-  https://dym.api.cumulo.com.es:443  
+-  celestia.grpc.cumulo.org.es:443  
+
+##### Celestia monitoring system  
+Dashboard for Consensus Nodes with all available metrics for Celestia:  
+- [Monitoring System Documentation](https://github.com/Cumulo-pro/Celestia-monitoring/blob/main/grafana_consensus%20/README.md)  
+- [Medium Guide](https://medium.com/@cumulo.pro/monitoring-a-celestia-consensus-node-with-grafana-prometheus-f73069b150e1)  
+- [Dashboard in Grafana](https://grafana.com/grafana/dashboards/21116-celestia-consensus-validator-node/)
+
+Monitor Bridge Nodes:  
+- [Celestia Bridge Monitoring & Grafana](https://github.com/Cumulo-pro/Celestia-monitoring/blob/main/bridge-monitor/README.md)  
+- [Celestia Bridge Node Dashboard in Grafana](https://grafana.com/grafana/dashboards/21116-celestia-consensus-validator-node/)
+
+##### Dashboards  
+[Celestia Front Chain](https://roller.frontchain.cumulo.pro/)    
+Introducing Celestia Front Chain. Everything you need to know about Celestia in one place...  
+
+[Modular Expansion](https://cumulo.pro/celestia/img/expansion.jpeg)  
+All the projects that use Celestia as a data availability layer  
+
+##### Other content  
+[Modular Summit](https://modular.cumulo.pro/)  
+Website dedicated to our content about Modular Summit events.
+
+[Guides Cumulo](https://cumulo.pro/celestia/content.php)  
+Compilation of technical guides and resources, such as node guides, monitoring systems, ...
+
