@@ -112,7 +112,7 @@ An Awesome List of Celestia Resources
 #### Community
 * [Telegram](https://t.me/CelestiaBrazil)
 
-## Node Operator Contributions
+## Node Operator contributions
 
 ### Contributions by [ChainTrails](https://chaintrails.io)
 
