@@ -114,6 +114,30 @@ An Awesome List of Celestia Resources
 
 ## Node operator contributions
 
+### Contributions by [ChainTrails](https://chaintrails.io)
+
+### Testnet
+
+* RPC [`https://rpc-mocha.chaintrails.io`](http://rpc-mocha.chaintrails.io/)
+* API [`https://api-mocha.chaintrails.io`](https://api-mocha.chaintrails.io/)
+* gRPC `grpc-mocha.chaintrails.io:8088`
+
+### Mainnet
+
+* RPC [`https://rpc-celestia.chaintrails.io`](https://rpc-celestia.chaintrails.io/)
+* API [`https://api-celestia.chaintrails.io`](https://api-mocha.chaintrails.io/)
+* gRPC `grpc-celstia.chaintrails.io:8088`
+
+### Others
+* [Monitoring](https://docs-celestia.chaintrails.io/monitoring/architecture.html)
+* [DA Monitoring Setups](https://github.com/chaintrails/celestia-monitoring)
+
+* [Snapshots](https://docs-celestia.chaintrails.io/snapshots.html)
+* [Documentation](https://docs-celestia.chaintrails.io/)
+
+* [Ansible Playbooks](https://github.com/chaintrails/celestia-validator-playbooks)
+* [Pull Requests](https://gist.github.com/00x-dx/8ffcce9e03af80f448942fa7d607cf0a)
+
 ### Contributions by [Stakin](https://stakin.com)
 
 #### Mainnet
