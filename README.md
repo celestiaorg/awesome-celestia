@@ -113,6 +113,7 @@ An Awesome List of Celestia Resources
 * [Telegram](https://t.me/CelestiaBrazil)
 
 ## Node operator contributions
+
 ---
 
 ### Nodes.Guru
@@ -903,6 +904,7 @@ Speaker French Event WEB3connect :
 - [Custom API Endpoints for Celestia](https://docs.maplenodes.com/#celestia)
 
 ---
+
 ### CroutonDigital
 
 ##### Terraform for Celestia:
@@ -959,4 +961,6 @@ Prebuilt Binary: https://storage.crouton.digital/testnet/celestia/bin/celestia-a
 #### Community contributions
 Helped to prepare this video about Celestia:   
 https://www.youtube.com/watch?v=nmpfNXf797U
+=======
+
 ---
