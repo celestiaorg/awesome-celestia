@@ -114,6 +114,29 @@ An Awesome List of Celestia Resources
 
 ## Node operator contributions
 
+### Contributions by [Stakin](https://stakin.com)
+
+#### Mainnet
+
+* Relayers: We support Celestia by providing relayers channels, this is our relayers wallet for Celestia 
+```
+celestia1q6cc9u0x5r3fkjcex0rgxee5qlu86w8rxq438l
+```
+* RPC: https://celestia.rpc.stakin-nodes.com
+* gRPC: celestia.grpc.stakin-nodes.com:443
+* API: https://celestia.rest.stakin-nodes.com
+* Dashboard and staking interface: 
+- Stakers can monitor their staked TIA and staking rewards on the staking, a free-to-use validator-agnostic tool that anybody can use. [https://dashboard.stakin.com](https://dashboard.stakin.com)
+- The dashboard also features institutional-grade staking features via Fireblocks raw signing
+* Blog/Articles: [https://stakin.com/blog/tag/celestia](https://stakin.com/blog/tag/celestia)
+
+
+#### Testnet:
+
+* Validator: [celestiavaloper1wf5az63pmykhnevyjcja68wdgs7h8y4w565lha](https://testnet.celestia.explorers.guru/validator/celestiavaloper1wf5az63pmykhnevyjcja68wdgs7h8y4w565lha)
+* Bridge: 
+```12D3KooWH4wjJvFMwRsxpF78X4BBVpXswNFTM3QbAcashftUFf9u```
+
 ---
 
 ### Nodes.Guru
@@ -917,3 +940,35 @@ Speaker French Event WEB3connect :
 - [Custom API Endpoints for Celestia](https://docs.maplenodes.com/#celestia)
 
 ---
+
+### List of Contributions from [Encapsulate (fka KingSuper)](https://encapsulate.xyz/)
+
+#### Services
+
+##### Public RPC/LCD/gRPC
+| Service | URL |
+|---------|-----|
+| **RPC** | [`celestia-mainnet-rpc.kingsuper.services`](https://celestia-mainnet-rpc.kingsuper.services/) |
+| **LCD** | [`celestia-mainnet-lcd.kingsuper.services`](https://celestia-mainnet-lcd.kingsuper.services/) |
+| **gRPC** | [`celestia-mainnet-grpc.kingsuper.services`](https://celestia-mainnet-grpc.kingsuper.services/) |
+
+#### Snapshots
+##### Mainnet
+| **Snapshot** | URL |
+|--------------|-----|
+| **Celestia Bridge Mainnet** | [`celestia-bridge-mainnet`](https://encapsulate.xyz/snapshots/celestia-bridge-mainnet) |
+| **Celestia App Mainnet** | [`celestia-app-mainnet`](https://encapsulate.xyz/snapshots/celestia-app-mainnet) |
+
+##### Testnet
+| **Snapshot** | URL |
+|--------------|-----|
+| **Celestia Bridge Testnet** | [`celestia-bridge-testnet`](https://encapsulate.xyz/snapshots/celestia-bridge-testnet) |
+
+#### Community
+| **Tools** | URL |
+|-------------|-----|
+| **Submit Pay for Blob** | [`celestia-pfb.kingsuper.services`](https://celestia-pfb.kingsuper.services/) |
+| **Light Node Health Checker** | [`celestia-node-checker.kingsuper.services`](https://celestia-node-checker.kingsuper.services/) |
+
+---
+
