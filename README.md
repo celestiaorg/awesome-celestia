@@ -114,6 +114,27 @@ An Awesome List of Celestia Resources
 
 ## Node operator contributions
 
+### [StakingCabin](https://stakingcabin.com)
+#### Mainnet
+##### [Services(Snapshot, State-sync, Installation Guide)](https://www.stakingcabin.com/service/celestia)
+
+##### Endpoints
+- RPC:  [https://celestia-mainnet.stakingcabin.com](https://celestia-mainnet.stakingcabin.com)
+- API:  [https://celestia-mainnet.stakingcabin.com](https://celestia-mainnet.stakingcabin.com)
+- gRPC: `celestia-mainnet.stakingcabin.com:443`
+- Peer: `c5a23c66db975038c4eb131f65717059f597fe59@celestia-mainnet.stakingcabin.com:21656`
+
+- Bridge: bridge.mainnet.celestia.stakingcabin.com
+
+#### Testnet
+[Services(Snapshot, State-sync, Installation Guide)](https://www.stakingcabin.com/service/celestia-mocha)
+
+#### Tools
+[Validator sign block and consensus state check](https://github.com/stakingcabin/celestia-task)
+
+#### Community
+Supporting Celestia API integrations for Lava, Dymension, Router.Will continue to invest in these efforts in the future.
+
 ### Contributions by [Stakin](https://stakin.com)
 
 #### Mainnet
