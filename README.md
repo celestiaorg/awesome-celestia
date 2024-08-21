@@ -1000,3 +1000,15 @@ Speaker French Event WEB3connect :
 - RPC: https://celestia-testnet-rpc.stake-town.com:443
 - gRPC: celestia-testnet-grpc.stake-town.com:443
 - API: https://celestia-testnet-api.stake-town.com:443
+
+---
+
+### Contributions by [Staking Facilities](https://stakingfacilities.com/)
+#### Tooling
+- [Tiascan](https://tiascan.com) - Blockspace Race Dashboard [-> announcement](https://x.com/CelestiaOrg/status/1635676898541080576)
+#### Education
+- [Tutorials](https://stakingfacilities.com/blog/celestia-x-keplr-wallet-staking-guide) in our blog for TIA staking
+#### Social & Events
+- [Multichain Event](https://lu.ma/guardians) during BerlinBlockchainWeek with Viet representing Celestia
+
+---
