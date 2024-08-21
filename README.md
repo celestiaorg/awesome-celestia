@@ -114,6 +114,51 @@ An Awesome List of Celestia Resources
 
 ## Node operator contributions
 
+
+### [StakingCabin](https://stakingcabin.com)
+#### Mainnet
+##### [Services(Snapshot, State-sync, Installation Guide)](https://www.stakingcabin.com/service/celestia)
+
+##### Endpoints
+- RPC:  [https://celestia-mainnet.stakingcabin.com](https://celestia-mainnet.stakingcabin.com)
+- API:  [https://celestia-mainnet.stakingcabin.com](https://celestia-mainnet.stakingcabin.com)
+- gRPC: `celestia-mainnet.stakingcabin.com:443`
+- Peer: `c5a23c66db975038c4eb131f65717059f597fe59@celestia-mainnet.stakingcabin.com:21656`
+
+- Bridge: bridge.mainnet.celestia.stakingcabin.com
+
+#### Testnet
+[Services(Snapshot, State-sync, Installation Guide)](https://www.stakingcabin.com/service/celestia-mocha)
+
+#### Tools
+[Validator sign block and consensus state check](https://github.com/stakingcabin/celestia-task)
+
+#### Community
+Supporting Celestia API integrations for Lava, Dymension, Router.Will continue to invest in these efforts in the future.
+
+### Contributions by [Stakin](https://stakin.com)
+
+#### Mainnet
+
+* Relayers: We support Celestia by providing relayers channels, this is our relayers wallet for Celestia 
+```
+celestia1q6cc9u0x5r3fkjcex0rgxee5qlu86w8rxq438l
+```
+* RPC: https://celestia.rpc.stakin-nodes.com
+* gRPC: celestia.grpc.stakin-nodes.com:443
+* API: https://celestia.rest.stakin-nodes.com
+* Dashboard and staking interface: 
+- Stakers can monitor their staked TIA and staking rewards on the staking, a free-to-use validator-agnostic tool that anybody can use. [https://dashboard.stakin.com](https://dashboard.stakin.com)
+- The dashboard also features institutional-grade staking features via Fireblocks raw signing
+* Blog/Articles: [https://stakin.com/blog/tag/celestia](https://stakin.com/blog/tag/celestia)
+
+
+#### Testnet:
+
+* Validator: [celestiavaloper1wf5az63pmykhnevyjcja68wdgs7h8y4w565lha](https://testnet.celestia.explorers.guru/validator/celestiavaloper1wf5az63pmykhnevyjcja68wdgs7h8y4w565lha)
+* Bridge: 
+```12D3KooWH4wjJvFMwRsxpF78X4BBVpXswNFTM3QbAcashftUFf9u```
+
 ---
 
 ### Nodes.Guru
@@ -961,6 +1006,27 @@ Prebuilt Binary: https://storage.crouton.digital/testnet/celestia/bin/celestia-a
 #### Community contributions
 Helped to prepare this video about Celestia:   
 https://www.youtube.com/watch?v=nmpfNXf797U
-=======
+
 
 ---
+
+### StakeTown
+#### Tools
+- Monitoring stack for DA nodes based on custom exporter and default alerting to specified discord channel 
+  using prometheus, grafana, node exporter etc.: https://github.com/staketown/celestia-da-monitoring
+- Bot that has been deployed to celestia discord server for tracking health of important ibc paths:
+  https://discord.com/channels/638338779505229824/1176595874823028817
+#### Relaying
+- StakeTown relayer: https://relayers.smartstake.io/relayer/FE38D8D1E0E5011F
+#### Mainnet
+- Installation Guide: https://services.stake-town.com/home/mainnet/celestia/installation
+- Snapshots, state-sync: https://services.stake-town.com/home/mainnet/celestia/sync
+- RPC: https://celestia-rpc.stake-town.com:443
+- gRPC: celestia-grpc.stake-town.com:443
+- API: https://celestia-api.stake-town.com:443
+#### Testnet
+- Installation Guide: https://services.stake-town.com/home/testnet/celestia/installation 
+- Snapshots, state-sync: https://services.stake-town.com/home/testnet/celestia/sync
+- RPC: https://celestia-testnet-rpc.stake-town.com:443
+- gRPC: celestia-testnet-grpc.stake-town.com:443
+- API: https://celestia-testnet-api.stake-town.com:443
