@@ -114,6 +114,27 @@ An Awesome List of Celestia Resources
 
 ## Node operator contributions
 
+### [StakingCabin](https://stakingcabin.com)
+#### Mainnet
+##### [Services(Snapshot, State-sync, Installation Guide)](https://www.stakingcabin.com/service/celestia)
+
+##### Endpoints
+- RPC:  [https://celestia-mainnet.stakingcabin.com](https://celestia-mainnet.stakingcabin.com)
+- API:  [https://celestia-mainnet.stakingcabin.com](https://celestia-mainnet.stakingcabin.com)
+- gRPC: `celestia-mainnet.stakingcabin.com:443`
+- Peer: `c5a23c66db975038c4eb131f65717059f597fe59@celestia-mainnet.stakingcabin.com:21656`
+
+- Bridge: bridge.mainnet.celestia.stakingcabin.com
+
+#### Testnet
+[Services(Snapshot, State-sync, Installation Guide)](https://www.stakingcabin.com/service/celestia-mocha)
+
+#### Tools
+[Validator sign block and consensus state check](https://github.com/stakingcabin/celestia-task)
+
+#### Community
+Supporting Celestia API integrations for Lava, Dymension, Router.Will continue to invest in these efforts in the future.
+
 ### Contributions by [Stakin](https://stakin.com)
 
 #### Mainnet
@@ -176,19 +197,6 @@ celestia1q6cc9u0x5r3fkjcex0rgxee5qlu86w8rxq438l
 ##### Snapshots
 * Bridge Archival: https://wiki.blackblocks.io/en/public/services/testnet/celestia#bridge-node-archival-snapshot
 * Full Node Archival: https://wiki.blackblocks.io/en/public/services/testnet/celestia#full-node-archival-snapshot
-
----
-
-### Contributions by [Decentrio](https://decentrio.ventures/)
-### Mainnet
-* Services(Snapshot, Installation Guide): https://decentrio.ventures/services/celestia
-* RPC: https://celestia.rpc.decentrio.ventures:443
-* gRPC: celestia-grpc.lavenderfive.com:443
-* API: https://celestia.api.decentrio.ventures:443
-
-### Code Contributions
-* We are working with Rollkit to assist them with various development, our team won the best Development Tooling Prize (https://x.com/RollkitDev/status/1798007102612656476)
-* We also contribute to Celestia ecosystem by doing public good https://decentrio.notion.site/Celestia-public-good-3cc3aa45c8cb4738b77d6c8946a1dcfd?pvs=4
 
 ---
 
@@ -969,6 +977,91 @@ Speaker French Event WEB3connect :
 |-------------|-----|
 | **Submit Pay for Blob** | [`celestia-pfb.kingsuper.services`](https://celestia-pfb.kingsuper.services/) |
 | **Light Node Health Checker** | [`celestia-node-checker.kingsuper.services`](https://celestia-node-checker.kingsuper.services/) |
+
+---
+
+### Contributions by [Cumulo](https://cumulo.pro/)
+#### Mainnet  
+##### Endpoints  
+-  https://celestia.cumulo.org.es:443  
+-  https://celestia.api.cumulo.org.es:443  
+-  celestia.grpc.cumulo.org.es:443  
+
+#### Testnet  
+##### Endpoints  
+-  https://dym.rpc.cumulo.com.es:443  
+-  https://dym.api.cumulo.com.es:443  
+-  celestia.grpc.cumulo.org.es:443  
+
+##### Celestia monitoring system  
+Dashboard for Consensus Nodes with all available metrics for Celestia:  
+- [Monitoring System Documentation](https://github.com/Cumulo-pro/Celestia-monitoring/blob/main/grafana_consensus%20/README.md)  
+- [Medium Guide](https://medium.com/@cumulo.pro/monitoring-a-celestia-consensus-node-with-grafana-prometheus-f73069b150e1)  
+- [Dashboard in Grafana](https://grafana.com/grafana/dashboards/21116-celestia-consensus-validator-node/)
+
+Monitor Bridge Nodes:  
+- [Celestia Bridge Monitoring & Grafana](https://github.com/Cumulo-pro/Celestia-monitoring/blob/main/bridge-monitor/README.md)  
+- [Celestia Bridge Node Dashboard in Grafana](https://grafana.com/grafana/dashboards/21116-celestia-consensus-validator-node/)
+
+##### Dashboards  
+[Celestia Front Chain](https://roller.frontchain.cumulo.pro/)    
+Introducing Celestia Front Chain. Everything you need to know about Celestia in one place...  
+
+[Modular Expansion](https://cumulo.pro/celestia/img/expansion.jpeg)  
+All the projects that use Celestia as a data availability layer  
+
+##### Other content  
+[Modular Summit](https://modular.cumulo.pro/)  
+Website dedicated to our content about Modular Summit events.
+
+[Guides Cumulo](https://cumulo.pro/celestia/content.php)  
+Compilation of technical guides and resources, such as node guides, monitoring systems, ...
+
+---
+
+### StakeTown
+#### Tools
+- Monitoring stack for DA nodes based on custom exporter and default alerting to specified discord channel 
+  using prometheus, grafana, node exporter etc.: https://github.com/staketown/celestia-da-monitoring
+- Bot that has been deployed to celestia discord server for tracking health of important ibc paths:
+  https://discord.com/channels/638338779505229824/1176595874823028817
+#### Relaying
+- StakeTown relayer: https://relayers.smartstake.io/relayer/FE38D8D1E0E5011F
+#### Mainnet
+- Installation Guide: https://services.stake-town.com/home/mainnet/celestia/installation
+- Snapshots, state-sync: https://services.stake-town.com/home/mainnet/celestia/sync
+- RPC: https://celestia-rpc.stake-town.com:443
+- gRPC: celestia-grpc.stake-town.com:443
+- API: https://celestia-api.stake-town.com:443
+#### Testnet
+- Installation Guide: https://services.stake-town.com/home/testnet/celestia/installation 
+- Snapshots, state-sync: https://services.stake-town.com/home/testnet/celestia/sync
+- RPC: https://celestia-testnet-rpc.stake-town.com:443
+- gRPC: celestia-testnet-grpc.stake-town.com:443
+- API: https://celestia-testnet-api.stake-town.com:443
+
+---
+
+### Contributions by [Staking Facilities](https://stakingfacilities.com/)
+#### Tooling
+- [Tiascan](https://tiascan.com) - Blockspace Race Dashboard [-> announcement](https://x.com/CelestiaOrg/status/1635676898541080576)
+#### Education
+- [Tutorials](https://stakingfacilities.com/blog/celestia-x-keplr-wallet-staking-guide) in our blog for TIA staking
+#### Social & Events
+- [Multichain Event](https://lu.ma/guardians) during BerlinBlockchainWeek with Viet representing Celestia
+
+---
+
+### Contributions by [Decentrio](https://decentrio.ventures/)
+### Mainnet
+* Services(Snapshot, Installation Guide): https://decentrio.ventures/services/celestia
+* RPC: https://celestia.rpc.decentrio.ventures:443
+* gRPC: celestia-grpc.lavenderfive.com:443
+* API: https://celestia.api.decentrio.ventures:443
+
+### Code Contributions
+* We are working with Rollkit to assist them with various development, our team won the best Development Tooling Prize (https://x.com/RollkitDev/status/1798007102612656476)
+* We also contribute to Celestia ecosystem by doing public good https://decentrio.notion.site/Celestia-public-good-3cc3aa45c8cb4738b77d6c8946a1dcfd?pvs=4
 
 ---
 
