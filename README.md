@@ -114,7 +114,6 @@ An Awesome List of Celestia Resources
 
 ## Node operator contributions
 
-
 ### [StakingCabin](https://stakingcabin.com)
 #### Mainnet
 ##### [Services(Snapshot, State-sync, Installation Guide)](https://www.stakingcabin.com/service/celestia)
@@ -950,22 +949,52 @@ Speaker French Event WEB3connect :
 
 ---
 
-### CroutonDigital
+### List of Contributions from [Encapsulate (fka KingSuper)](https://encapsulate.xyz/)
+
+#### Services
+
+##### Public RPC/LCD/gRPC
+| Service | URL |
+|---------|-----|
+| **RPC** | [`celestia-mainnet-rpc.kingsuper.services`](https://celestia-mainnet-rpc.kingsuper.services/) |
+| **LCD** | [`celestia-mainnet-lcd.kingsuper.services`](https://celestia-mainnet-lcd.kingsuper.services/) |
+| **gRPC** | [`celestia-mainnet-grpc.kingsuper.services`](https://celestia-mainnet-grpc.kingsuper.services/) |
+
+#### Snapshots
+##### Mainnet
+| **Snapshot** | URL |
+|--------------|-----|
+| **Celestia Bridge Mainnet** | [`celestia-bridge-mainnet`](https://encapsulate.xyz/snapshots/celestia-bridge-mainnet) |
+| **Celestia App Mainnet** | [`celestia-app-mainnet`](https://encapsulate.xyz/snapshots/celestia-app-mainnet) |
+
+##### Testnet
+| **Snapshot** | URL |
+|--------------|-----|
+| **Celestia Bridge Testnet** | [`celestia-bridge-testnet`](https://encapsulate.xyz/snapshots/celestia-bridge-testnet) |
+
+#### Community
+| **Tools** | URL |
+|-------------|-----|
+| **Submit Pay for Blob** | [`celestia-pfb.kingsuper.services`](https://celestia-pfb.kingsuper.services/) |
+| **Light Node Health Checker** | [`celestia-node-checker.kingsuper.services`](https://celestia-node-checker.kingsuper.services/) |
+
+---
+### Contributions by [Crouton Digital](https://crouton.digital/)
 
 ##### Terraform for Celestia:
 https://registry.terraform.io/modules/Crouton-Digital/celestia/ssh/latest/examples/celestia-node   
-https://github.com/Crouton-Digital/terraform-ssh-celestia   
+https://github.com/Crouton-Digital/terraform-ssh-celestia
 
-##### Tested Code of Celestia: 
+##### Tested Code of Celestia:
 https://drive.google.com/drive/u/0/folders/1881mgxtVEY9QqU2xywFw9s0ZScBzCLik
 
 #### Mainnet
 
-We support Celstia by providing relayers channels , this is our relayers wallet for Celestia 
+We support Celstia by providing relayers channels , this is our relayers wallet for Celestia
 ```
 celestia1fq6ddllcan5fkmjyu93gwd7fyz06mu7xt95e9w
 ```
-##### Guide:    
+##### Guide:
 https://crouton.digital/services/mainnets/celestia
 
 ##### Endpoints:
@@ -985,7 +1014,7 @@ Prebuilt Binary: https://storage.crouton.digital/mainnet/celestia/bin/celestia-a
 
 #### Testnet
 
-##### Guide:  
+##### Guide:
 https://crouton.digital/services/testnets/celestia
 
 ##### Endpoints:
@@ -1006,7 +1035,6 @@ Prebuilt Binary: https://storage.crouton.digital/testnet/celestia/bin/celestia-a
 #### Community contributions
 Helped to prepare this video about Celestia:   
 https://www.youtube.com/watch?v=nmpfNXf797U
-
 
 ---
 
