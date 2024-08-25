@@ -1130,3 +1130,5 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 * **Threads**:
   1. [A Detailed Review of Celestia's Lemongrass Update](https://x.com/kkocality/status/1821985141293772983)
   2. [Optimizing Celestia's DA: CIP-4 and CIP-19 (Shwap)](https://x.com/kkocality/status/1827390555246174312)
+
+---
