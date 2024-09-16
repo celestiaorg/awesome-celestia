@@ -1123,3 +1123,12 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 
 ---
 
+### Contributions by [kocality](https://kocality.com)
+
+* **Celestia Light Node Script**: This script allows you to run a Celestia Light Node with a single command. It includes 5 different language options and an option to remove the node. You can find more details and the script here: [Celestia Light Node Script](https://github.com/kocality/celestia-light).
+
+#### **Threads**:
+* [A Detailed Review of Celestia's Lemongrass Update](https://x.com/kkocality/status/1821985141293772983)
+* [Optimizing Celestia's DA: CIP-4 and CIP-19 (Shwap)](https://x.com/kkocality/status/1827390555246174312)
+
+---
