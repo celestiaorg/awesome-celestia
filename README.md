@@ -1157,3 +1157,71 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 4. Medium articles for setting up Proxmox VM and RPC node, professional node operator for beginners [Link] (https://medium.com/@spidey169/detailed-guide-for-configuring-proxmox-and-running-rpc-full-node-on-proxmox-container-installing-7bc22d30be5f)
 
 ---
+
+### Contributions by [NODERS](https://noders.team/) validator
+
+#### Celestia CommunityHub, Advanced Explorer and Ecosystem Overview
+- Production: https://celestiahub.org
+- Staging: https://noders-app-staging.web.app/explorer
+
+### Mainnet
+#### Validator: https://celestia.explorers.guru/validator/celestiavaloper139mu0a0ucz0gmrkavm5wjar2lpx7yvxq3e25e5
+#### Bridge: 12D3KooWDLxFz1bjSGBpNJD8qs2JaVdMRgVt59oZszvMmxSqqWp4
+#### Public endpoints
+- https://celestia-rpc.noders.services
+- https://celestia-api.noders.services
+- celestia-grpc.noders.services:11090
+#### Seed node
+- e27a5da20a00afbfe2b9ca81cf8bc2e23de831c4@65.109.54.91:11059
+#### Endpoints list
+- https://cosmoslist.co/mainnet/celestia
+#### Services
+- https://noders.services/mainnet-networks/celestia
+#### Consensus node
+- celestia-consensus-mainnet.noders.services:26557
+- celestia-consensus-mainnet.noders.services:9080
+#### DA node
+- celestia-da-full-rpc.noders.services
+- celestia-da-full-api.noders.services
+#### Relayer networks `celestia14n8p425hz5l6xxcrq4ml00djkmwezm0mta38sc`
+- Axelar
+- Dymension
+- Injective
+- Jackal
+- Osmosis
+
+### Testnet
+#### Validator: https://testnet.celestia.explorers.guru/validator/celestiavaloper1zzxrq7tjlsqvv0jtqtlt8gjaa68racukf5n9xh
+#### Bridge: 12D3KooWBhUb82ozNWR52s7MWkTsGhpoXz6EYB4w2rTJaVWLMwgH
+#### Public endpoints
+- https://celestia-t-rpc.noders.services
+- https://celestia-t-api.noders.services
+- celestia-t-grpc.noders.services:21090
+#### Seed node
+- 8587162e70023e301fa7265ac5750a438e5b2692@65.109.54.91:21059
+#### Endpoints list
+- https://cosmoslist.co/testnet/celestia
+#### Services
+- https://noders.services/testnet-networks/celestia
+#### Consensus node
+- celestia-consensus-testnet.noders.services:26357
+- celestia-consensus-testnet.noders.services:9070
+#### DA node
+- celestia-t-da-full-rpc.noders.services
+- celestia-t-da-full-api.noders.services
+
+### Community:
+#### Zealy (Celestia - Essential Module №3)
+- https://zealy.io/cw/noders/questboard
+#### X/Twitter Celestia HUB https://x.com/CelestiaHub - Giveaways And Tweets (Temporarily suspended)
+- 43 tweets - https://docs.google.com/document/d/1IbV7vW6VWm0blQYFmwJRkArZotmrfjdCuYbApKTmhQs
+#### Medium
+- 2 articles - https://docs.google.com/document/d/1VIYunKnLWbz65_C98CQ8MbANYnEbmc3StEteVByC57c
+#### Celestia Hub Academy
+- 17 articles - https://docs.google.com/document/d/1Q77MnVxqu6-ACvfYFzgJIProniNEB8uju9fLymCoATU
+#### X/Twitter https://x.com/NODERS_TEAM
+- 10 Tweets about Celesta - https://docs.google.com/document/d/1PIkfDi6o0JoW46B0K-wO-CmBCO6ZLX3nD77d_rDw00s
+#### Telegram https://t.me/nodersteam
+- 31 Posts about Celesta - https://docs.google.com/document/d/1BYJ9o4NAngU6Ma7BcPycwAQFdzLeIH_QG7WcTgDVuRw
+
+---
