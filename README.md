@@ -1225,3 +1225,80 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 - 31 Posts about Celesta - https://docs.google.com/document/d/1BYJ9o4NAngU6Ma7BcPycwAQFdzLeIH_QG7WcTgDVuRw
 
 ---
+
+### Contributions by [UTSA](https://utsa.gitbook.io/services) & [Let's Node](https://letsnode.org/) validator
+
+### Mainnet
+
+#### Public endpoints
+- Explorer: https://exp.utsa.tech/celestia-main/
+- RPC archive: https://m-celestia.archive.rpc.utsa.tech/
+- API archive: https://m-celestia.archive.api.utsa.tech/
+- gRPC archive: m-celestia.archive.grpc.utsa.tech:443
+- Peer: 1f93b7a58025ab3349d764d7c8829730297c1a04@138.201.122.61:46656
+
+#### Public state-sync
+- State-sync: https://utsa.gitbook.io/services/mainnet/celestia/state-sync-consensus-node
+
+#### Public snapshots
+- Consensus pruned: https://utsa.gitbook.io/services/mainnet/celestia/snapshots#consensus-node
+- Consensus archive: https://utsa.gitbook.io/services/mainnet/celestia/snapshots#snapshot-archive
+- Bridge: https://utsa.gitbook.io/services/mainnet/celestia/snapshots#bridge-node
+- Full: https://utsa.gitbook.io/services/mainnet/celestia/snapshots#full-node
+- Light: https://utsa.gitbook.io/services/mainnet/celestia/snapshots#light-node
+
+#### Public useguides
+- Consensus node installation RU: https://teletype.in/@lesnik13utsa/5Az1NXvr9Af
+- Consensus node installation ENG: https://utsa.gitbook.io/services/mainnet/celestia/consensus-node
+- Bridge node installation RU: https://teletype.in/@lesnik13utsa/i1vho1lOpIy
+- Bridge node installation ENG: https://utsa.gitbook.io/services/mainnet/celestia/bridge-node
+- Full node installation RU: https://teletype.in/@lesnik13utsa/3RpCszFg89w#snap-bridge
+- Full node installation ENG: https://utsa.gitbook.io/services/mainnet/celestia/full-node
+- Light node installation RU: https://teletype.in/@lesnik13utsa/UPGiLcc9YFP
+- Light node installation ENG: https://utsa.gitbook.io/services/mainnet/celestia/light-node
+- Analysis of the Bridge Node ENG: https://utsa.gitbook.io/services/mainnet/celestia/analysis-of-the-bridge-node
+
+#### Relayer networks Celestia <> Osmosis `https://relayers.smartstake.io/relayer/A0B5FF00B5460153`
+
+#### Other public services
+- Consensus Dashboard Grafana: 
+- Creation and administration of Russian Telegram community unofficial: https://t.me/celestiaru
+- Informing our community about Celestia news through the Telegram group: https://t.me/letskynode
+
+
+
+### Testnet
+
+#### Public endpoints
+- Explorer: https://exp.utsa.tech/celestia-test/staking
+- RPC archive: https://t-celestia.archive.rpc.utsa.tech/
+- API archive: https://t-celestia.archive.api.utsa.tech/
+- gRPC archive: t-celestia.archive.grpc.utsa.tech:443
+- Peer: 15eb02dd78fe034a9bb35ab325290004ddf67c9a@138.201.122.61:36656
+
+#### Public state-sync
+- State-sync: https://utsa.gitbook.io/services/testnet/celestia/state-sync-consensus-node
+
+#### Public snapshots
+- Consensus pruned: https://utsa.gitbook.io/services/testnet/celestia/snapshots#consensus-node
+- Consensus archive: https://utsa.gitbook.io/services/testnet/celestia/snapshots#snapshot-archive
+- Bridge: https://utsa.gitbook.io/services/testnet/celestia/snapshots#bridge-node
+- Full: https://utsa.gitbook.io/services/testnet/celestia/snapshots#full-node
+- Light: https://utsa.gitbook.io/services/testnet/celestia/snapshots#light-node
+
+#### Public useguides
+- Consensus node installation RU: https://teletype.in/@lesnik13utsa/Pxyw1cdBaoZ
+- Consensus node installation ENG: https://utsa.gitbook.io/services/testnet/celestia/consensus-node
+- Bridge node installation RU: https://teletype.in/@lesnik13utsa/A21vqDkyfT2
+- Bridge node installation ENG: https://utsa.gitbook.io/services/testnet/celestia/bridge-node
+- Full node installation RU: https://teletype.in/@lesnik13utsa/sMnD6QJAlWP
+- Full node installation ENG: https://utsa.gitbook.io/services/testnet/celestia/full-node
+- Light node installation RU: https://teletype.in/@lesnik13utsa/m9uG9osJVpN
+- Light node installation ENG: https://utsa.gitbook.io/services/testnet/celestia/light-node
+
+#### Other public services
+- Consensus Dashboard Grafana: 
+- Creation and administration of Russian Telegram community unofficial: https://t.me/celestiaru
+- Informing our community about Celestia news through the Telegram group: https://t.me/letskynode
+
+---
