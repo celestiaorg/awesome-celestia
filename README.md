@@ -175,6 +175,10 @@ celestia1q6cc9u0x5r3fkjcex0rgxee5qlu86w8rxq438l
 * RPC:  [https://rpc-1.testnet.celestia.nodes.guru](https://rpc-1.testnet.celestia.nodes.guru)
 * API:  [https://api-1.testnet.celestia.nodes.guru](https://api-1.testnet.celestia.nodes.guru)
 * GRPC: `grpc-1.testnet.celestia.nodes.guru:10790`
+#### Monitoring
+* [Celestia Bridge Health Monitor](https://github.com/NodesGuru/celestia-bridge-healthcheck)
+#### Documentation
+* [Setup your DA node to use on-fly compression with ZFS](https://github.com/celestiaorg/docs/pull/1694)
 
 ---
 
