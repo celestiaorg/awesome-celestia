@@ -1258,14 +1258,6 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 - Light node installation ENG: https://utsa.gitbook.io/services/mainnet/celestia/light-node
 - Analysis of the Bridge Node ENG: https://utsa.gitbook.io/services/mainnet/celestia/analysis-of-the-bridge-node
 
-#### Relayer networks Celestia <> Osmosis `https://relayers.smartstake.io/relayer/A0B5FF00B5460153`
-
-#### Other public services
-- Consensus Dashboard Grafana: 
-- Creation and administration of Russian Telegram community unofficial: https://t.me/celestiaru
-- Informing our community about Celestia news through the Telegram group: https://t.me/letskynode
-
-
 
 ### Testnet
 
@@ -1296,9 +1288,16 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 - Light node installation RU: https://teletype.in/@lesnik13utsa/m9uG9osJVpN
 - Light node installation ENG: https://utsa.gitbook.io/services/testnet/celestia/light-node
 
-#### Other public services
-- Consensus Dashboard Grafana: 
-- Creation and administration of Russian Telegram community unofficial: https://t.me/celestiaru
-- Informing our community about Celestia news through the Telegram group: https://t.me/letskynode
+### Relayer networks
+- Celestia <> Osmosis https://relayers.smartstake.io/relayer/A0B5FF00B5460153
+
+### Community management
+- Creation and administration of CIS Telegram community unofficial with over 1.2k members: https://t.me/celestiaru
+- Media posts and community support Celestia news' in the Telegram group with over 14k: https://t.me/letskynode
+- Media support uisng private Telegram channel: https://t.me/utsa_channel
+
+### Other public services
+- Dashboard Grafana: https://grafana.com/grafana/dashboards/22036-celestia2/
+- Guide Dashboard Grafana: https://github.com/skyman-dev/celestia_dashboard
 
 ---
