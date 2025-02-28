@@ -114,6 +114,37 @@ An Awesome List of Celestia Resources
 
 ## Node operator contributions
 
+### Contributions by [Everstake](https://everstake.one/)
+#### Mainnet
+* Validator: [celestiavaloper1eualhqh07w7p45g45hvrjagkcxsfnflzdw5jzg](https://www.mintscan.io/celestia/validators/celestiavaloper1eualhqh07w7p45g45hvrjagkcxsfnflzdw5jzg)
+* Bridge: 
+```12D3KooWMTCoR1cVLGoriL3MJ7EwLbtJmfpwWHZtsJGGjehsVya1```
+#### Testnet:
+
+* Validator: [celestiavaloper1xskun28mac3ea3k2fy8k0dxq3qlx7alwgy3aex](https://www.mintscan.io/celestia-testnet/validators/celestiavaloper1xskun28mac3ea3k2fy8k0dxq3qlx7alwgy3aex)
+* Bridge: 
+```12D3KooWH4wjJvFMwRsxpF78X4BBVpXswNFTM3QbAcashftUFf9u```
+
+#### Community, Educational Materials and Events
+* [Annual report](https://everstake.one/crypto-reports/celestia-staking-insights-and-analysis-2024-annual-report) covering key developments.
+* Active community engagement: we actively engage with the community by spreading the word about Celestia on social media platforms, including Everstake's official X account, a dedicated Cosmos account by Everstake, and [Everstake’s blog.](https://everstake.one/blog/tagged/celestia):
+    * Overview articles:
+         - <https://everstake.one/blog/how-to-deploy-rollup-on-celestia>
+         - <https://everstake.one/blog/why-is-milkyway-the-future-of-celestia-staking> 
+         - <https://everstake.one/blog/celestia-the-first-modular-blockchain>
+         - <https://everstake.one/blog/modular-vs-monolith-blockchains-basics-differences-advantages>
+         - <https://everstake.one/blog/a-comprehensive-guide-to-analyzing-the-celestia-network>
+     * Staking tutorials:
+          - <https://everstake.one/blog/how-to-stake-celestia-tia-using-keplr-wallet>
+          - <https://everstake.one/blog/how-to-stake-celestia-tia-via-cosmostation-mobile-wallet>
+          - <https://everstake.one/blog/how-to-stake-celestia-tia-via-leap-mobile-wallet>
+          - <https://everstake.one/blog/how-to-stake-celestia-tia-via-keplr>
+     * Created a dedicated [Celestia staking page](https://everstake.one/staking/celestia) with a FAQ section.
+* Support for the Celestia Mammothon (assisting in [gathering participants](https://x.com/everstake_pool/status/1872599508242284656?s=46) from the Ukrainian developer community, university and [media](https://incrypted.com/ua/ukrajinskyh-rozrobnykiv-zaprosyly-doluchytys-do-hakatonu-vid-celestia/) outreach, hosting [AMAs](https://x.com/everstake_pool/status/1881726825631494195) and providing [participant support](https://x.com/braveryandglory/status/1885008665243246628))
+* Participation in the community AMAs such as [1) Everstake X Leap Wallet X Hyperlane AMA](https://x.com/everstake_pool/status/1737147230442635761); 2) Celestia team and validators AMA.
+* Participated in the Blockspace Race, Celestia's incentivized testnet program. This involved completing tasks, preparing technical articles, and ultimately securing a place in the Top 75 Blockspace Race Validator Winners.     
+---
+
 ### [StakingCabin](https://stakingcabin.com)
 #### Mainnet
 ##### [Services(Snapshot, State-sync, Installation Guide)](https://www.stakingcabin.com/service/celestia)
