@@ -1362,5 +1362,8 @@ Tracking key activities and important posts on X (Twitter):
 1. [Announcement 1](https://x.com/validexis/status/1894354657708786121) – **Celestia Bridges: A New Era of Scalability & Security**  
 2. [Announcement 2](https://x.com/validexis/status/1894654995074592833) – **Effortless validator management!** 
 3. [Announcement 3](https://x.com/validexis/status/1895033853309227323) – **Effortless reward tracking!**
-4. [Announcement 4](https://x.com/validexis/status/1895094350562107717) – **Stay on top of your validator’s status!**      
+4. [Announcement 4](https://x.com/validexis/status/1895094350562107717) – **Stay on top of your validator’s status!**    
+5. [Announcement 5](https://x.com/validexis/status/1896553057510682625) – **Easily manage your validator and bridges!**
+6. [Announcement 6](https://x.com/validexis/status/1896567398075138453) – **Huge thanks and congrats to all Mammothon participants!**
+7. [Announcement 7](https://x.com/validexis/status/1896561328594296888) – **Experience the best staking and validator tracking!**  
 
