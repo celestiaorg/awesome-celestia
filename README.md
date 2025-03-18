@@ -956,21 +956,9 @@ Speaker French Event WEB3connect :
 ##### Public RPC/LCD/gRPC
 | Service | URL |
 |---------|-----|
-| **RPC** | [`celestia-mainnet-rpc.kingsuper.services`](https://celestia-mainnet-rpc.kingsuper.services/) |
-| **LCD** | [`celestia-mainnet-lcd.kingsuper.services`](https://celestia-mainnet-lcd.kingsuper.services/) |
-| **gRPC** | [`celestia-mainnet-grpc.kingsuper.services`](https://celestia-mainnet-grpc.kingsuper.services/) |
-
-#### Snapshots
-##### Mainnet
-| **Snapshot** | URL |
-|--------------|-----|
-| **Celestia Bridge Mainnet** | [`celestia-bridge-mainnet`](https://encapsulate.xyz/snapshots/celestia-bridge-mainnet) |
-| **Celestia App Mainnet** | [`celestia-app-mainnet`](https://encapsulate.xyz/snapshots/celestia-app-mainnet) |
-
-##### Testnet
-| **Snapshot** | URL |
-|--------------|-----|
-| **Celestia Bridge Testnet** | [`celestia-bridge-testnet`](https://encapsulate.xyz/snapshots/celestia-bridge-testnet) |
+| **RPC** | [`rpc.celestia.mainnet.encapsulate.xyz`](https://rpc.celestia.mainnet.encapsulate.xyz/) |
+| **LCD** | [`api.celestia.mainnet.encapsulate.xyz`](https://api.celestia.mainnet.encapsulate.xyz/) |
+| **gRPC** | [`grpc.celestia.mainnet.encapsulate.xyz`](https://grpc.celestia.mainnet.encapsulate.xyz/) |
 
 #### Community
 | **Tools** | URL |
