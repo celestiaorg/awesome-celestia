@@ -1236,7 +1236,7 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 
   Validator: [celestiavaloper1murrqgqahxevedty0nzqrn5hj434fvffxufxcl](https://celestia.explorers.guru/validator/celestiavaloper1murrqgqahxevedty0nzqrn5hj434fvffxufxcl) \
   Bridge: `12D3KooWJGCU4X5LG8NANfudRZjAHjuCeNBYVBKGNaQYoAMVhnV6` \
-  Future bootstraper: `celestia-mainnet-boot.01node.com`
+  Bootstraper: `celestia-mainnet-boot.01node.com`
 
 
 #### Testnet:
@@ -1248,7 +1248,7 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 
   Validator: [celestiavaloper12wtmpdzgssf0l03ajkvzxsqzlwfu2yn657e3dr](https://testnet.celestia.explorers.guru/validator/celestiavaloper12wtmpdzgssf0l03ajkvzxsqzlwfu2yn657e3dr) \
   Bridge: `12D3KooWRQt7nS6ZCoHQRprQJnAeNST48yg7Cm3iHW1cb5QxfSb1` \
-  Future bootstraper: `celestia-testnet-boot.01node.com` 
+  Bootstraper: `celestia-testnet-boot.01node.com` 
 
 ---
 
