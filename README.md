@@ -1225,3 +1225,8 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 - 31 Posts about Celesta - https://docs.google.com/document/d/1BYJ9o4NAngU6Ma7BcPycwAQFdzLeIH_QG7WcTgDVuRw
 
 ---
+
+### Contributions by [SenseiNode](https://senseinode.com) validator
+
+We created a repository for running a light client easily, using docker compose: https://github.com/Sensei-Node/celestia-lightnode
+
