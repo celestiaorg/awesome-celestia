@@ -1225,3 +1225,9 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 - 31 Posts about Celesta - https://docs.google.com/document/d/1BYJ9o4NAngU6Ma7BcPycwAQFdzLeIH_QG7WcTgDVuRw
 
 ---
+
+### Contributions by [CosmoWiz](https://cosmowiz.com/) validator
+
+#### Celestia Tooling
+- Mainnet and testnet bridge alerting (serverless): https://celemon.io
+- Network scanner: [https://celemon.io](https://cosmowiz.com/network/celestia)
