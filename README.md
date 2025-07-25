@@ -1225,3 +1225,18 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 - 31 Posts about Celesta - https://docs.google.com/document/d/1BYJ9o4NAngU6Ma7BcPycwAQFdzLeIH_QG7WcTgDVuRw
 
 ---
+
+### Contributions by [Kleomedes](https://kleomed.es/)
+
+#### [Stake-Hub](https://stake-hub.xyz/) 
+- User Centric Validator Agnostic Staking Platform featuring Celestia 
+- Features Drop Integration for dTIA 
+- Customized reporting for validator performance analytics & foundation delegation management
+
+#### Public Endpoints - Mainnet 
+- celestia-grpc.kleomedes.network:443
+---
+
+
+
+
