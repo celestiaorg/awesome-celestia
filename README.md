@@ -1225,3 +1225,46 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 - 31 Posts about Celesta - https://docs.google.com/document/d/1BYJ9o4NAngU6Ma7BcPycwAQFdzLeIH_QG7WcTgDVuRw
 
 ---
+
+### [Easy 2 Stake](https://easy2stake.com)
+### Mainnet
+##### Snapshots & State Sync
+- Snapshots and state sync server: [https://sync.easy2stake.com](https://sync.easy2stake.com)
+  - Full archive database available
+  - State-sync guide and endpoints
+
+##### Endpoints
+- Archive (with state history) RPC (slower): https://celestia-rpc-arch.easy2stake.com
+- Archive (with state history) API/LCD (slower): https://celestia-lcd-arch.easy2stake.com
+- RPC (faster): https://celestia-rpc.easy2stake.com
+- LCD (faster): https://celestia-lcd.easy2stake.com
+- gRPC (faster): https://celestia-grpc.easy2stake.com
+
+##### Seeds/Peers
+Seed: `edc6bc6ee3c37a698225e17bd4b8c687ee05f977@celestia-seed.easy2stake.com:26756`
+
+Persistent Peers: `372f0ee5553cf34fc5cf9fc6294f42b09048fb1b@138.201.63.38:26756,edc6bc6ee3c37a698225e17bd4b8c687ee05f977@138.201.63.42:26756`
+
+##### Relayer
+Address: `celestia1e6um7tt9xmwsx6h8u80g4m02nf2tgtu7swp89z`
+
+### Testnet
+##### Snapshots & State Sync
+- Snapshots and state sync server: https://sync.easy2stake.com
+  - Full archive database available
+  - State-sync guide and endpoints
+
+##### Endpoints
+- Full Node RPC: https://celestia-rpc.easy2stake.com
+- Full Node LCD: https://celestia-lcd.easy2stake.com
+- Full Node gRPC: https://celestia-grpc.easy2stake.com
+
+##### Seed Node
+Seed: `8badeed7f48eefd5d43af7eb7662f2b578304a27@mocha-seed.easy2stake.com:26686`
+
+#### Tools
+##### Monitoring
+- Bridge node prometheus metrics exporter: https://github.com/easy2stake/celestia-bridge-metrics
+
+
+
