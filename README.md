@@ -1225,3 +1225,45 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 - 31 Posts about Celesta - https://docs.google.com/document/d/1BYJ9o4NAngU6Ma7BcPycwAQFdzLeIH_QG7WcTgDVuRw
 
 ---
+
+## Contributions by [Endorphine Stake](https://endorphinestake.com/)
+
+### Mainnet 
+
+#### Monitoring Tool with IP Telephony Integration, that supports both consensus and DA layers (real-time explorers, charts, incident reports in ~180 countries worldwide via VOIP and SMS...):
+- https://buzznodes.com/
+
+#### Public endpoints
+- https://celestia-rpc.endorphinestake.com
+- https://celestia-api.endorphinestake.com
+- celestia-grpc.endorphinestake.com:9190
+- wss://celestia-ws.endorphinestake.com/websocket
+
+#### Archive consensus snapshot (once a day):
+- https://celestia-snapshots.endorphinestake.com/
+
+#### Archive bridge snapshot (once a day):
+- https://celestia-bridge-snapshots.endorphinestake.com/
+
+All services for mainnet here: https://services.endorphinestake.com/mainnets/Celestia
+
+### Testnet 
+
+#### Monitoring Tool with IP Telephony Integration, that supports both consensus and DA layers (real-time explorers, charts, incident reports in ~180 countries worldwide via VOIP and SMS...):
+- https://buzznodes.com/
+
+#### Public endpoints
+- https://celestia-testnet-rpc.endorphinestake.com
+- https://celestia-testnet-api.endorphinestake.com
+- celestia-testnet-grpc.endorphinestake.com:9290
+- wss://celestia-testnet-ws.endorphinestake.com/websocket
+
+#### Pruned consensus snapshot (every 5 hours):
+- https://celestia-testnet-snapshots.endorphinestake.com/
+
+#### Archive bridge snapshot (once a day):
+- https://celestia-testnet-bridge-snapshots.endorphinestake.com/
+
+All services for testnet here: https://services.endorphinestake.com/testnets/Celestia
+
+---
