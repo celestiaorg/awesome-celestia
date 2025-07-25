@@ -1225,3 +1225,21 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 - 31 Posts about Celesta - https://docs.google.com/document/d/1BYJ9o4NAngU6Ma7BcPycwAQFdzLeIH_QG7WcTgDVuRw
 
 ---
+
+### Contributions by [0xFury](https://0xfury.com/)
+#### Mainnet (celestia)
+- **Validator:** `4b19506a0432de219ee2db883c53756c1b3cbdfb@89.187.156.100:26686`
+- **RPC Node:** `98e1ae515f35c039ccdc006124ca33c22d74fb31@89.187.156.100:26706`
+- **RPC Node (archival):** `a4fd8b14c39ab2d3b374bcce8a5d7521819f49b9@89.187.156.100:26707`
+- **Bridge Node (archival):** `12D3KooWMfjA8jD6rUuLAMFfUrWdHLzypEN59UsMBmPyaAMRkcij`
+- **Full Node (archival):** `12D3KooWMdx1JZEqqm2XUYdzXbdnQSCTaFBWjh6JH7iWyhGrAjN9`
+- **Light Node:** `12D3KooWJqAymhWT3UgFQmPKiyvGkDBmU3h88fAEUkSNQTKwkcK5`
+
+#### Testnet (mocha-4)
+- **Validator:** `97c5a8ec4dbaabf905d2383fd1ddae778b2ae5a5@89.187.156.100:26697`
+- **RPC Node (archival):** `aea85cf7e03258e9b02cdd8854f64857e9046d73@89.187.156.100:26698`
+- **Bridge Node (archival):** `12D3KooWCWsnhP6YXnQdh9y7JucC3ajB6dCBZNpw3uoo1FAZazc4`
+- **Full Node (archival):** `12D3KooWSGR6h3myq5TDdHaoz5XzfWnbCA6jrrMCipk6X7Yx6TaA`
+- **Light Node:** `12D3KooWPk1ozatdTFK1Tn1dh85BpVfRHorJpTRw6MnzN6vge75R`
+
+---
