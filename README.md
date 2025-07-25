@@ -1225,3 +1225,166 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 - 31 Posts about Celesta - https://docs.google.com/document/d/1BYJ9o4NAngU6Ma7BcPycwAQFdzLeIH_QG7WcTgDVuRw
 
 ---
+
+### Contributions by [VALIDEXIS](https://validexis.com/)
+
+### Security & Monitoring  
+#### Validator Security  
+- [Enhancing SSH Security for a Validator](https://services.validexis.com/validator-security-our-approach-and-protection-measures/enhancing-ssh-security-for-a-validator) — Harden SSH access to reduce unauthorized login attempts.  
+- [TMKMS for Remote Signing](https://services.validexis.com/validator-security-our-approach-and-protection-measures/tmkms-for-remote-signing) — Use Tendermint Key Management System for secure remote signing.  
+- [Horcrux](https://services.validexis.com/validator-security-our-approach-and-protection-measures/horcrux) — Implement threshold signing by splitting validator keys.  
+- [Protecting Validator from DDoS Attacks](https://services.validexis.com/validator-security-our-approach-and-protection-measures/protecting-validator-from-ddos-attacks) — Set up defenses against network overloads and attacks.  
+- [Multi-Factor Authentication (MFA) for a Validator](https://services.validexis.com/validator-security-our-approach-and-protection-measures/multi-factor-authentication-mfa-for-a-validator) — Add an extra layer of identity verification.
+#### Monitoring  
+- [Node-exporter + Prometheus + Grafana](https://services.validexis.com/monitoring/node-exporter-+-prometheus-+-grafana) — Collect and visualize metrics with Prometheus & Grafana stack.  
+- [TenderDuty for Node Monitoring](https://services.validexis.com/monitoring/tenderduty-for-node-monitoring) — Receive alerts when your validator misses blocks or goes offline.
+
+### Guides & Tutorials  
+#### Validator Node Guides  
+- Install → [Testnet](https://services.validexis.com/testnets/celestia/validator-node-installation) | [Mainnet](https://services.validexis.com/mainnets/celestia/validator-node-installation)  
+- Upgrade → [Testnet](https://services.validexis.com/testnets/celestia/validator-node-installation/upgrade) | [Mainnet](https://services.validexis.com/mainnets/celestia/validator-node-installation/upgrade)  
+- Useful Commands → [Testnet](https://services.validexis.com/testnets/celestia/validator-node-installation/useful-commands) | [Mainnet](https://services.validexis.com/mainnets/celestia/validator-node-installation/useful-commands)
+#### Consensus Full Node Guides  
+- Install → [Testnet](https://services.validexis.com/testnets/celestia/full-node-installation) | [Mainnet](https://services.validexis.com/mainnets/celestia/full-node-installation)  
+- Upgrade → [Testnet](https://services.validexis.com/testnets/celestia/full-node/upgrade) | [Mainnet](https://services.validexis.com/mainnets/celestia/full-node-installation/upgrade)  
+- Useful Commands → [Testnet](https://services.validexis.com/testnets/celestia/full-node-installation/useful-commands) | [Mainnet](https://services.validexis.com/mainnets/celestia/full-node-installation/useful-commands)
+#### Bridge Node Guides  
+- Install → [Testnet](https://services.validexis.com/testnets/celestia/bridge-node-installation) | [Mainnet](https://services.validexis.com/mainnets/celestia/bridge-node-installation)  
+- Upgrade → [Testnet](https://services.validexis.com/testnets/celestia/bridge-node-installation/upgrade) | [Mainnet](https://services.validexis.com/mainnets/celestia/bridge-node-installation/upgrade)  
+- Useful Commands → [Testnet](https://services.validexis.com/testnets/celestia/bridge-node-installation/useful-commands) | [Mainnet](https://services.validexis.com/mainnets/celestia/bridge-node-installation/useful-commands)
+#### Light Node Guides  
+- Install → [Testnet](https://services.validexis.com/testnets/celestia/light-node-installation) | [Mainnet](https://services.validexis.com/mainnets/celestia/light-node-installation)  
+- Upgrade → [Testnet](https://services.validexis.com/testnets/celestia/light-node-installation/upgrade) | [Mainnet](https://services.validexis.com/mainnets/celestia/light-node-installation/upgrade)  
+- Useful Commands → [Testnet](https://services.validexis.com/testnets/celestia/light-node-installation/useful-commands) | [Mainnet](https://services.validexis.com/mainnets/celestia/light-node-installation/useful-commands)
+
+### Automation & Scripts  
+#### Celestia Setup Scripts  
+ **Validator Node Setup** → [Testnet](https://github.com/validexisinfra/Celestia?tab=readme-ov-file#%EF%B8%8F-validator-node-setup-1) | [Mainnet](https://github.com/validexisinfra/Celestia?tab=readme-ov-file#%EF%B8%8F-validator-node-setup-1)   
+ **Consensus Full Node Setup** → [Testnet](https://github.com/validexisinfra/Celestia?tab=readme-ov-file#%EF%B8%8F-consensus-full-node-setup) | [Mainnet](https://github.com/validexisinfra/Celestia?tab=readme-ov-file#%EF%B8%8F-consensus-full-node-setup-1)  
+ **Bridge Node Setup** → [Testnet](https://github.com/validexisinfra/Celestia?tab=readme-ov-file#%EF%B8%8F-consensus-full-node-setup-1) | [Mainnet](https://github.com/validexisinfra/Celestia?tab=readme-ov-file#%EF%B8%8F-bridge-node-setup-1)  
+#### Celestia Upgrade Scripts  
+ **Upgrade Celestia App** → [Testnet](https://github.com/validexisinfra/Celestia?tab=readme-ov-file#-upgrade-testnet-app) | [Mainnet](https://github.com/validexisinfra/Celestia?tab=readme-ov-file#-upgrade-mainnet-app)  
+ **Upgrade Node** → [Testnet](https://github.com/validexisinfra/Celestia?tab=readme-ov-file#-upgrade-mainnet-app) | [Mainnet](https://github.com/validexisinfra/Celestia?tab=readme-ov-file#-upgrade-mainnet-bridge)  
+
+### Networks & Endpoints  
+### Mainnet
+#### Endpoints
+- **API**: [`https://api-celestia-mainnet.validexis.com/`](https://api-celestia-mainnet.validexis.com/)  
+- **RPC**: [`https://rpc-celestia-mainnet.validexis.com/`](https://rpc-celestia-mainnet.validexis.com/)  
+- **gRPC**: `grpc-celestia-mainnet.validexis.com:443`
+#### Persistent Peer
+- `a48c5bb03ff416f6cb0245e0aa42523cc6c9f430@peer-celestia-mainnet.validexis.com:26656`
+#### Seed
+- `0074b06d366fe8e1d6a2a53b6752bd55e33267f6@seed-celestia-mainnet.validexis.com:37656`
+#### AddrBook (updated hourly)
+```bash
+wget -O $HOME/.celestia-app/config/addrbook.json https://mainnets1.validexis.com/celestia/addrbook.json
+```
+#### Genesis File
+```bash
+wget -O $HOME/.celestia-app/config/genesis.json https://mainnets1.validexis.com/celestia/genesis.json
+```
+#### State Syns
+[`https://services.validexis.com/mainnets/celestia/state-syns`](https://services.validexis.com/mainnets/celestia/state-syns)
+
+### Testnet
+#### Endpoints
+- **API**: [`https://api-celestia-testnet.validexis.com/`](https://api-celestia-testnet.validexis.com/)  
+- **RPC**: [`https://rpc-celestia-testnet.validexis.com/`](https://rpc-celestia-testnet.validexis.com/)  
+- **gRPC**: `grpc-celestia-testnet.validexis.com:443`
+#### Persistent Peer
+- `fac5acd6540dd788dc804c8bd307b5169e666e68@peer-celestia-testnet.validexis.com:26656`
+#### Seed
+- `30a8f6668043544ee2d9af9369f0f68ff8cf2c43@seed-celestia-testnet.validexis.com:26656`
+#### AddrBook (updated hourly)
+```bash
+wget -O $HOME/.celestia-app/config/addrbook.json https://testnets.validexis.com/celestia/addrbook.json
+```
+####  Genesis File
+```bash
+wget -O $HOME/.celestia-app/config/genesis.json https://testnets.validexis.com/celestia/genesis.json
+```
+#### State Syns
+[`https://services.validexis.com/testnets/celestia/state-syns`](https://services.validexis.com/mainnets/celestia/state-syns)
+
+### Snapshots
+#### Mainnet
+Available types at  
+[`https://services.validexis.com/mainnets/celestia/snapshot`](https://services.validexis.com/mainnets/celestia/snapshot):
+- **Pruned Node Snapshot** — faster sync, minimal storage  
+- **Archive Node Snapshot** — full history, for indexers  
+- **Bridge Node Snapshot** — for Celestia Bridge nodes
+#### Testnet
+Available types at  
+[`https://services.validexis.com/testnets/celestia/snapshot`](https://services.validexis.com/testnets/celestia/snapshot):
+- **Pruned Node Snapshot** — faster sync, minimal storage  
+- **Archive Node Snapshot** — full history, for indexers  
+- **Bridge Node Snapshot** — for Celestia Bridge nodes
+
+### IBC Relayer  
+#### Setup Guide  
+-  [Connecting Celestia to IBC with Hermes](https://services.validexis.com/setting-up-connection-to-ibc-with-hermes)  
+  Detailed tutorial on configuring Hermes relayer to establish IBC connectivity for your Celestia node.
+#### Relayer Status  
+-  [Validexis Relayer on SmartStake](https://relayers.smartstake.io/relayer/34DA4858CF0FBA77)  
+  Real-time IBC relaying metrics, channel statuses, and transaction flow from Validexis.
+
+### Bots & Notifications  
+We present to you [**Celestia UltraBot**](https://validexis.com/celestiaultrabot) - a versatile tool for participants in the Celestia ecosystem. The bot provides real-time information on staking, validator monitoring, and AI-powered solutions.  
+With Celestia UltraBot, you can:  
+- Track validator performance  
+- Receive detailed earnings reports  
+- Manage wallet balances  
+- Get instant notifications about key network events  
+- Utilize AI support for technical issues  
+- Stay updated on governance proposals and network news  
+All features are easily accessible via Telegram, ensuring seamless access to essential information anytime!
+
+#### 🎉 Celestia UltraBot Twitter Challenge
+Participate in the [**Celestia UltraBot Twitter Challenge**](https://services.validexis.com/celestiaultrabot/contest) – a community contest designed to promote engagement with the Celestia ecosystem.  
+🪙 **Prize Pool:** 1000 TIA  
+ **What You Can Do to Win:**  
+- Use Celestia UltraBot actively  
+- Share your experience and insights on Twitter  
+- Invite friends to use the bot  
+- Complete bonus tasks to earn more points  
+Top participants will be rewarded based on their activity and creativity. This is a great opportunity to both support the network and earn rewards!
+Learn more and join the challenge here: [https://services.validexis.com/celestiaultrabot/contest](https://services.validexis.com/celestiaultrabot/contest)
+
+###  Celestia Bridge Explorer  
+#### Dashboard  
+- [Celestia Bridge Explorer](https://celestiabridge.com/)  
+  **Celestia Bridge Explorer** is a web-based dashboard that visualizes the performance, uptime, sync status, geographic distribution, and upgrade adoption of Celestia bridge nodes using open OTEL metrics.  
+  Built for both the community and the Celestia core team, it enables real-time monitoring of bridge reliability, upgrade responsiveness, and overall network health in a single, accessible interface.
+#### Overview
+- Tracks **uptime**, **sync status**, and **version adoption** across all bridge nodes.
+- Shows **decentralization trends** by provider, country, region, and city.
+- Offers real-time insight into **performance metrics** like latency, memory usage, and GC pause.
+#### Upgrades
+- Displays current **version status** and **24h adoption rate** after each release.
+- Links each release to an **OTEL snapshot** for transparent, time-consistent upgrade tracking.
+- Useful for assessing upgrade responsiveness — especially important for **Foundation Delegation**.
+#### Node Details
+- Full technical profiles for each bridge node:
+  - Software version, uptime, sync status.
+  - Hosting provider, geographic location.
+  - Real-time latency and performance charts.
+- Includes upgrade history with 24h adoption markers and snapshot references.
+- Node scoring across **reliability**, **performance**, and **decentralization**.
+#### Analytics
+- Global analytics view of bridge network health.
+- Metrics include:
+  - Memory usage  
+  - Latency & GC pause  
+  - Missed blocks  
+  - Staked tokens
+- Integrated with **Telegram alerts** (via CelestiaUltraBot) for validator activity, wallet transactions, bridge performance, and staking events.
+
+### X Activities  
+-  [Celestia Bridges: A New Era of Scalability & Security](https://x.com/validexis/status/1894354657708786121)  
+  Discover how Celestia is revolutionizing blockchain scalability with innovative bridge solutions.
+-  [Effortless Validator Management with CelestiaUltraBot](https://x.com/validexis/status/1894654995074592833)  
+  Maximize your staking experience using our unique bot designed for seamless validator operations.
+-  [Effortless Reward Tracking with CelestiaUltraBot](https://x.com/validexis/status/1895033853309227323)  
+  Easily monitor your balance and gain insights into your current and projected rewards.
+
