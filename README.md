@@ -1225,3 +1225,21 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 - 31 Posts about Celesta - https://docs.google.com/document/d/1BYJ9o4NAngU6Ma7BcPycwAQFdzLeIH_QG7WcTgDVuRw
 
 ---
+
+### Contributions by [Architect Nodes](https://architectnodes.com) validator
+
+#### Relaying
+- Architect Nodes relayer: https://relayers.smartstake.io/relayer/AB730C3A241BB718
+- Networks relayed with Celestia : Osmosis, Stride, Neutron, Umee, Archway 
+
+#### Mainnet Endpoints
+- RPC: https://rpc-celestia-mainnet.architectnodes.com
+- gRPC: grpc-celestia-mainnet.architectnodes.com:1443
+- API: https://rest-celestia-mainnet.architectnodes.com
+
+#### Testnet Endpoints
+- RPC: https://rpc-celestia-mocha.architectnodes.com
+- gRPC: grpc-celestia-mocha.architectnodes.com:1443
+- API: https://rest-celestia-mocha.architectnodes.com
+
+---
