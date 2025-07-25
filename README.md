@@ -1225,3 +1225,15 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 - 31 Posts about Celesta - https://docs.google.com/document/d/1BYJ9o4NAngU6Ma7BcPycwAQFdzLeIH_QG7WcTgDVuRw
 
 ---
+
+### [SpectrumStaking](https://spectrumstaking.net/)
+
+#### Testnet (technical)
+- [Issue4045](https://github.com/celestiaorg/celestia-node/issues/4045)
+- [Issue4018](https://github.com/celestiaorg/celestia-app/issues/4018)
+
+#### SaltStack Solution
+We released a completely automated SaltStack solution for deploying and managing DA and Consensus nodes. The solution works on both the mainnet and the testnet (Mocha) versions. It allows you to build, upgrade, drain, or failover nodes. 
+- Celestia Salt Stack: https://github.com/Spectrum-Staking/celestia-saltstack
+
+---
