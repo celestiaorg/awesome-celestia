@@ -1225,3 +1225,27 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 - 31 Posts about Celesta - https://docs.google.com/document/d/1BYJ9o4NAngU6Ma7BcPycwAQFdzLeIH_QG7WcTgDVuRw
 
 ---
+
+### Contributions by [ChainSafe Systems](https://chainsafe.io)
+
+- [go-schnorrkel](https://github.com/ChainSafe/go-schnorrkel): ChainSafe developed and maintains go-schnorkell, the Go implementation of the sr25519 signature alrgorithm (schnorr over ristretto25519). This is [used within Celestia](https://github.com/celestiaorg/celestia-app/blob/f217064d3d90acccf8a3d3f91f444beb8dd84ee7/go.mod#L50) for BLS threshold signatures and validator authentication, enhancing the ability to efficiently verify signatures in the data availability layer.
+
+#### Mainnet
+- Validator: [celestiavaloper1auqmdc2pnx5gxvakjdsc9v9zc4y2ga0hcaxg9x](https://celestia.explorers.guru/validator/celestiavaloper1auqmdc2pnx5gxvakjdsc9v9zc4y2ga0hcaxg9x)
+- Bridge: `12D3KooWPcd6YmZvEu9gsXmrCYLo9PbnJQBCMJwoXxYFuwXK7nLr`
+
+#### Testnet (Mocha)
+- Bridge: `12D3KooWKwhawozkhN6WmY6MMZP6gysiRzkQkPyBu94GoAxWSF83`
+
+#### Community
+- ChainSafe is a [core contributor](https://decrypt.co/244938/aavegotchi-members-only-ethereum-layer-3-gaming-chain) to B3.fun, a Layer-3 EVM gaming network that settles on Base using Celestia for the [DA layer](https://www.blockchaingamer.biz/features/interviews/37322/how-b3-is-building-the-open-gaming-ecosystem).
+- ChainSafe sponsored the [B3 Game Space event](https://lu.ma/qblylm6i), hosted by Celestia at DevCon 2024.
+
+#### Proposals
+- [Proposal to allocate Celestia’s community pool](https://forum.celestia.org/t/thoughts-on-incentives-and-community-building/1746)
+- [Proposal on increasing tax rate to fund ecosystem and long-term growth)](https://forum.celestia.org/t/community-tax-increase-temperature-check/1795)
+- [CIP: reduce inflation](https://forum.celestia.org/t/cip-reduce-inflation/1896) ([GitHub](https://github.com/celestiaorg/CIPs/pull/249))([X.com](https://x.com/deaneigenmann/status/1886784693867020529?s=46&t=0N0S9HONssiokXpdJK6Zbw))
+- [CIP: prevent auto claiming of rewards](https://github.com/celestiaorg/CIPs/pull/251)
+- [CIP: lockup account & staking rewards](https://github.com/celestiaorg/CIPs/pull/253)
+
+---
