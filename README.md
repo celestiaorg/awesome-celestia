@@ -1225,3 +1225,30 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 - 31 Posts about Celesta - https://docs.google.com/document/d/1BYJ9o4NAngU6Ma7BcPycwAQFdzLeIH_QG7WcTgDVuRw
 
 ---
+### Contributions by [01node](https://01node.com)
+
+#### Mainnet
+
+* RPC: https://celestia-mainnet-rpc.01node.com
+* API: https://celestia-mainnet-api.01node.com
+* Seed: `dc8967c3e8ba3699e1bec6a8a3fb60dcfb64d8e2@celestia-mainnet-seed.01node.com:26016`
+* Peer: `eda6c9d514615893c77c379f29ce7668b575953d@celestia-mainnet-peer.01node.com:26005`
+
+  Validator: [celestiavaloper1murrqgqahxevedty0nzqrn5hj434fvffxufxcl](https://celestia.explorers.guru/validator/celestiavaloper1murrqgqahxevedty0nzqrn5hj434fvffxufxcl) \
+  Bridge: `12D3KooWJGCU4X5LG8NANfudRZjAHjuCeNBYVBKGNaQYoAMVhnV6` \
+  Bootstraper: `celestia-mainnet-boot.01node.com`
+
+
+#### Testnet:
+
+* RPC: https://celestia-testnet-rpc.01node.com
+* API: https://celestia-testnet-api.01node.com
+* Seed: `dc8967c3e8ba3699e1bec6a8a3fb60dcfb64d8e2@celestia-testnet-seed.01node.com:26501`
+* Peer:  `d468354f164a374f9560d6ad46572668020a222e@celestia-testnet-peer.01node.com:26656`
+
+  Validator: [celestiavaloper12wtmpdzgssf0l03ajkvzxsqzlwfu2yn657e3dr](https://testnet.celestia.explorers.guru/validator/celestiavaloper12wtmpdzgssf0l03ajkvzxsqzlwfu2yn657e3dr) \
+  Bridge: `12D3KooWRQt7nS6ZCoHQRprQJnAeNST48yg7Cm3iHW1cb5QxfSb1` \
+  Bootstraper: `celestia-testnet-boot.01node.com` 
+
+---
+
