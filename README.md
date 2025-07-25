@@ -1225,3 +1225,29 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 - 31 Posts about Celesta - https://docs.google.com/document/d/1BYJ9o4NAngU6Ma7BcPycwAQFdzLeIH_QG7WcTgDVuRw
 
 ---
+
+### Contributions by [Stake🦑Squid](https://celestia.stakesquid.com)
+#### Mainnet
+##### Snapshots & State Sync
+- Snapsync dumps (every 8 hours): https://celestia.stakesquid.com/snapshots/mainnet
+- Archive dumps (every 7 days): https://celestia.stakesquid.com/snapshots/mainnet
+- State sync guide: https://celestia.stakesquid.com/statesync
+
+##### Endpoints
+- RPC: https://celestia-rpc-mainnet.stakesquid.com
+- gRPC: https://celestia-grpc-mainnet.stakesquid.com
+- API/LCD: https://celestia-lcd-mainnet.stakesquid.com
+- Peer: `fc529c4784ad9d6d25c82528fc29b517eecbd852@65.109.117.151:26656`
+
+#### Testnet (Mocha)
+##### Snapshots
+- Snapsync dumps (every 8 hours): https://celestia.stakesquid.com/snapshots/mocha
+- Archive dumps (every 7 days): https://celestia.stakesquid.com/snapshots/mocha
+
+##### Endpoints
+- RPC: https://celestia-rpc-mocha.stakesquid.com
+- gRPC: https://celestia-grpc-mocha.stakesquid.com
+- API/LCD: https://celestia-lcd-mocha.stakesquid.com
+- Peer: `70e9fe212bcc270f77e10ee26eeea45500823c5c@65.109.117.151:26756`
+
+---
