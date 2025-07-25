@@ -1225,3 +1225,59 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 - 31 Posts about Celesta - https://docs.google.com/document/d/1BYJ9o4NAngU6Ma7BcPycwAQFdzLeIH_QG7WcTgDVuRw
 
 ---
+
+### BonyNode Contribution  - https://bonynode.online/
+#### Mainnet
+- VALIDATOR : celestiavaloper13nwzm5dfd26ue74jr6sc39gyn3qze0rjn3rt4p
+#### Tools
+* Peer live - https://bonynode.online/services/mainnet/celestia/#peer
+* RPC Scanner - https://bonynode.online/services/mainnet/celestia/public-rpc/
+* Explorer - https://explorer.bonynode.online/celestia/staking
+##### Snapshots
+- Consensus Node Snapshot - https://bonynode.online/services/mainnet/celestia/#snap 
+- Bridge Node Snapshot - https://bonynode.online/services/mainnet/celestia/#snap-bridge
+##### Endpoints
+- RPC:  https://celestia-mainnet-rpc.bonynode.online 
+- API:  https://celestia-mainnet-api.bonynode.online 
+- gRPC: `celestia-mainnet-grpc.bonynode.online:443`
+##### RPC for DA nodes
+- Core IP:  `celestia-mainnet-consensus.bonynode.online`
+- gRPC Port: `30090`
+- RPC Port: `30657`
+##### Guides
+- Consensus Node installation - https://bonynode.online/services/mainnet/celestia/installation/ 
+- Bridhe Node installation - https://bonynode.online/services/mainnet/celestia/bridge-node/ 
+- Full Storage Node installation - https://bonynode.online/services/mainnet/celestia/full-node/ 
+- Light Node installation - https://bonynode.online/services/mainnet/celestia/light-node/ 
+##### DA Nodes Monitoring
+- Bridge, Full, Light Node monitoring script - https://bonynode.online/services/mainnet/celestia/monitoring/
+
+---
+
+#### Testnet
+- BRIDGE NODE : 12D3KooWDio7N4koiBHy5YGye1tr1z6pn46VMKRs6uZnpmCtanxg
+- VALIDATOR : celestiavaloper1ru0flq67247kepnppnax56lh0t7guj3gzd8d4f
+#### Tools
+* Peer live - https://bonynode.online/services/testnet/celestia/#peer
+* RPC Scanner - https://bonynode.online/services/testnet/celestia/public-rpc/
+* Explorer - https://explorer.bonynode.online/celestia-testnet/staking
+##### Snapshots
+- Consensus Node Snapshot - https://bonynode.online/services/testnet/celestia/#snap 
+- Bridge Node Snapshot - https://bonynode.online/services/testnet/celestia/#snap-bridge 
+##### Endpoints
+- RPC:  https://celestia-testnet-rpc.bonynode.online 
+- API:  https://celestia-testnet-api.bonynode.online 
+- gRPC: `celestia-testnet-grpc.bonynode.online:443`
+##### RPC for DA nodes
+- Core IP:  `celestia-testnet-consensus.bonynode.online`
+- gRPC Port: `12090`
+- RPC Port: `12057`
+##### Guides
+- Consensus Node installation - https://bonynode.online/services/testnet/celestia/installation/ 
+- Bridhe Node installation - https://bonynode.online/services/testnet/celestia/bridge-node/ 
+- Full Storage Node installation - https://bonynode.online/services/testnet/celestia/full-node/ 
+- Light Node installation - https://bonynode.online/services/testnet/celestia/light-node/ 
+##### DA Nodes Monitoring
+- Bridge, Full, Light Node monitoring script - https://bonynode.online/services/testnet/celestia/monitoring/
+
+---
