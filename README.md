@@ -1225,3 +1225,94 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 - 31 Posts about Celesta - https://docs.google.com/document/d/1BYJ9o4NAngU6Ma7BcPycwAQFdzLeIH_QG7WcTgDVuRw
 
 ---
+
+### [MZONDER](https://mzonder.com)
+
+### IBC
+Top-2 Relayer: https://relayers.smartstake.io/network/TIA
+
+#### Mainnet
+##### Mainnet Archive LB endpoints:
+```
+RPC:  https://rpc-celestia.mzonder.com
+API:  https://api-celestia.mzonder.com
+gRPC: grpc-celestia.mzonder.com:443
+```
+
+##### Mainnet Archive non-TLS Endpoints for DA nodes sync:
+```
+http://celestia-archive-rpc.mzonder.com
+  - gRPC: port 9090
+  - RPC:  port 26657
+```
+
+##### Mainnet Archival DA Full Storage node Endpoint (skip.auth):
+```
+http://celestia-da-full-storage.mzonder.com
+  - RPC:     port 27758
+  - Gateway: port 27759
+```
+
+##### Mainnet Guides:
+Consensus node setup guide (for goleveldb and pebbledb) and DA nodes setup guide:
+
+https://mzonder.notion.site/CELESTIA-celestia-f30ca070632e4046b8da2f479a0cd86e
+
+##### Mainnet Snapshots:
+Archive snapshots for Consensus (golevel and pebbledb) and DA nodes:
+```
+https://snapshot.mzonder.com/celestia/
+```
+
+##### Mainnet p2p:
+Seed node:
+```
+9aa8a73ea9364aa3cf7806d4dd25b6aed88d8152@celestia.seed.mzonder.com:13156
+```
+
+#### Testnet
+
+##### Testnet Archive LB endpoints:
+```
+RPC:  https://rpc-celestia-testnet.mzonder.com 
+API:  https://api-celestia-testnet.mzonder.com
+gRPC: grpc-celestia-testnet.mzonder.com:443
+```
+
+##### Testnet Archive non-TLS Endpoints for DA nodes sync:
+```
+http://celestia-mocha-archive-rpc.mzonder.com
+  - gRPC: port 9090
+  - RPC:  port 26657
+```
+
+##### Testnet Archival DA Full Storage node Endpoint (skip.auth):
+```
+http://celestia-testnet-da-full-storage.mzonder.com
+  - RPC:     port 27758
+  - Gateway: port 27759
+```
+
+##### Testnet Guides:
+Consensus node setup guide (for goleveldb and pebbledb) and DA nodes setup guide:
+
+https://mzonder.notion.site/CELESTIA-mocha-4-8b8e89820d114c8cb9b6a63b377302ee
+
+##### Testnet Snapshots:
+Archive snapshots for Consensus and DA nodes:
+```
+https://snapshot.mzonder.com/celestia/
+```
+
+##### Testnet p2p:
+Seed node:
+```
+9aa8a73ea9364aa3cf7806d4dd25b6aed88d8152@celestia-testnet.seed.mzonder.com:11156
+```
+
+#### Community && Ecosystem: 
+- I am working with Dymension, providing support to rollapps which are using Celestia DA layer;
+- Telegram ru-community moderator;
+- Discord ru-community moderator.
+
+---
