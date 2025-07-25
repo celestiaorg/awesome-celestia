@@ -1225,3 +1225,35 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 - 31 Posts about Celesta - https://docs.google.com/document/d/1BYJ9o4NAngU6Ma7BcPycwAQFdzLeIH_QG7WcTgDVuRw
 
 ---
+
+# Contributions by [Chainroot](https://explorer.chainroot.io/)
+
+**Chainroot provides an Explorer for tracking blockchain activity, Advanced Analytics for deeper data insights, and a Knowledge Base with documentation, snapshots, and API endpoints to support developers and users.**
+
+### Testnet Mocha
+- Bridge Node: 12D3KooWFT3o4qnZoy4VEHzaRA3cLWDeWFkFXctEhsm8ib4fUZJw
+- Validator: celestiavaloper1et0ysx7634d3kyndguje465xcg4cxwrye7u7rr
+
+### Explorer
+- Mainnet: https://explorer.chainroot.io/celestia
+
+### Mainnet Relayer Endpoints
+- REST: https://celestia-api.chainroot.io
+- RPC: https://celestia-rpc.chainroot.io
+- GRPC: celestia-grpc.chainroot.io:443
+- WGRPC: https://celestia-wgrpc.chainroot.io
+
+### Documents and Guides
+- [Introduction to Celestia Network](https://kb.chainroot.io/networks/celestia/documents)
+- [Celestia CLI Cheatsheet](https://kb.chainroot.io/networks/celestia/documents/cli-cheatsheet)
+- [Running a Celestia Node](https://kb.chainroot.io/networks/celestia/documents/running-a-node)
+- [Running a Validator on Celestia Network](https://kb.chainroot.io/networks/celestia/documents/running-a-validator)
+- [Snapshot Recovery on Celestia Network](https://kb.chainroot.io/networks/celestia/documents/snapshot-recovery)
+
+### Mainnet Services
+- Pruned Snapshot: https://kb.chainroot.io/networks/celestia/downloads
+- Addrbook File: https://s3.chainroot.io/addrbook/celestia/addrbook.json
+- Genesis File: https://s3.chainroot.io/genesis/celestia/genesis.json
+- Advanced Analytics: https://explorer.chainroot.io/advanced-analytics/celestia/chain-trends
+- Knowledge Base: https://kb.chainroot.io/networks/celestia
+- IBC Leaderboard: https://explorer.chainroot.io/ibc-leaderboard/celestia
