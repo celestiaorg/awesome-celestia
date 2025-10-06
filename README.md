@@ -1225,3 +1225,27 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 - 31 Posts about Celesta - https://docs.google.com/document/d/1BYJ9o4NAngU6Ma7BcPycwAQFdzLeIH_QG7WcTgDVuRw
 
 ---
+
+### Contributions by [Metatarz](https://metatarz.xyz)
+#### Mainnet
+* [Celestia Decentralization Map](https://metatarz.xyz/maps/celestia)
+##### Endpoints
+* RPC:  [https://celestia-rpc.metatarz.xyz](https://celestia-rpc.metatarz.xyz)
+* API:  [https://celestia-api.metatarz.xyz](https://celestia-api.metatarz.xyz)
+* GRPC: `celestia-grpc.metatarz.xyz:443`
+#### Testnet
+* [Celestia Testnet Decentralization Map](https://metatarz.xyz/maps/mocha-4)
+##### Endpoints
+* RPC:  [https://celestia-testnet-rpc.metatarz.xyz](https://celestia-rpc.metatarz.xyz)
+* API:  [https://celestia-testnet-api.metatarz.xyz](https://celestia-api.metatarz.xyz)
+* GRPC: `celestia-testnet-grpc.metatarz.xyz:443`
+#### Tools
+* [Celestia Node Mapper](https://github.com/metatarzxyz/celestia-node-mapper)
+#### Relayer networks `celestia1ledz626m75u2cq0dxmted4rw6qqg4493qzl9df` [Relayers](https://relayers.smartstake.io/relayer/61377DB87921E312)
+- Axelar
+- Dymension
+- Injective
+- Stride
+- Osmosis
+
+---
