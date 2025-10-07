@@ -114,6 +114,44 @@ An Awesome List of Celestia Resources
 
 ## Node operator contributions
 
+### StakeUs Contribution https://stakeus.xyz
+
+### Mainnet
+
+##### Explorer (Nodes Analytics & Network Metrics): https://celestia-nodes.stakeus.xyz
+- Deccentralization Analytics Dashboard: https://celestia-nodes.stakeus.xyz/analytics
+- Node Distribution & Decentralization Metrics
+- Real-time Node Statistics
+##### Bridge Explorer (Bridge Nodes Analytics & Network Metrics): https://celestia-bridges.stakeus.xyz
+- Deccentralization Analytics Dashboard: https://celestia-bridges.stakeus.xyz/map
+- Node Distribution & Decentralization Metrics
+- Real-time Node Statistics
+##### Bridge Stats and Alerts Telegram Bot: https://t.me/celestia_bridge_alerts_bot
+- Node Status Monitoring 
+- Multi-Network Support
+- Customizable Alert System
+- Node Management Dashboard
+##### Faucet: https://celestia-faucet.stakeus.xyz
+
+### Testnet
+#### All Testnet Services: https://celestia-services.stakeus.xyz
+##### Infrastructure Services
+- Public RPC Endpoint: https://celestia-testnet-rpc.stakeus.xyz
+- Public API Endpoint: https://celestia-testnet-api.stakeus.xyz
+- Public gRPC: celestia-testnet-grpc.stakeus.xyz
+- Full Consensus RPC (for DA nodes): mocha-4-consensus-full-rpc.stakeus.xyz
+- StakeUs Peer: 0d2001b7189c3cbf412bab89f36f710c9162b010@mocha-4-full-consensus-rpc.stakeus.xyz
+
+##### Node Resources
+- Full Node Setup Guide: https://celestia-services.stakeus.xyz
+- Bridge Node Setup Guide: https://celestia-services.stakeus.xyz
+- Genesis File: https://snapshots2.stakeus.xyz/celestia-testnet/genesis.json
+- Address Book: https://snapshots2.stakeus.xyz/celestia-testnet/addrbook.json
+- Node Snapshot (Archived): https://snapshots2.stakeus.xyz/celestia-testnet/
+- Bridge Node Snapshot (Archived): https://snapshots2.stakeus.xyz/celestia-testnet/
+
+
+
 ### [StakingCabin](https://stakingcabin.com)
 #### Mainnet
 ##### [Services(Snapshot, State-sync, Installation Guide)](https://www.stakingcabin.com/service/celestia)
