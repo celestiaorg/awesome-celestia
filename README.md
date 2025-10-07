@@ -114,6 +114,34 @@ An Awesome List of Celestia Resources
 
 ## Node operator contributions
 
+### AtlasNodes
+#### Website
+* [atlas-nodes.com](https://atlas-nodes.com/)
+
+#### Testnet
+##### Tools
+* [Light Explorer](https://light-explorer.atlas-nodes.info/)
+* [Oracle AI for Telegram](https://t.me/celestia_oracle_bot)
+* [Faucet Testnet](https://celetsia-faucet.atlas-nodes.info/)
+* [RPC Dashboard](https://celestia-rpc-testnet.atlas-nodes.info/)
+
+##### Explorer
+* [Own Explorer (Testnet/Mainnet)](https://celestia.explorer.atlas-nodes.info)
+
+##### Endpoints
+- RPC: [https://rpc-celestia-testnet.atlas-nodes.info/](https://rpc-celestia-testnet.atlas-nodes.info/)
+- API: [https://api-celestia-testnet.atlas-nodes.info/](https://api-celestia-testnet.atlas-nodes.info/)
+- gRPC: [https://grpc-celestia-testnet.atlas-nodes.info/](https://grpc-celestia-testnet.atlas-nodes.info/)
+
+#### Community Content
+* [Celestia Node Setup Guide](https://medium.com/@atlasnodes/celestia-node-setup-guide-f0850fdcb84a)
+* [Celestia Technical Guide for Developers](https://medium.com/@atlasnodes/celestia-technical-guide-for-developers-992131bd5b7c)
+* [Celestia: The Modular Blockchain Revolution](https://medium.com/@atlasnodes/celestia-the-modular-blockchain-revolution-702e6d617949)
+* [Twitter Thread](https://x.com/atlas_stake/status/1939617251470266372)
+
+---
+
+
 ### [StakingCabin](https://stakingcabin.com)
 #### Mainnet
 ##### [Services(Snapshot, State-sync, Installation Guide)](https://www.stakingcabin.com/service/celestia)
