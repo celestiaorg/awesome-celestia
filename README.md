@@ -345,24 +345,35 @@ https://telegra.ph/Content-contributions-for-Celestia-by-cryptomolot-07-02
 ### ITRocket
 #### Mainnet
 #### Tools
-* [Decentralization Analytics](https://itrocket.net/services/mainnet/celestia/decentralization/) #_validators, RPC, and all nodes_
+* [Validators Performance Dashboard](https://itrocket.net/services/mainnet/celestia/analytics/validators-performance/) #_uptime, slashes, proposals, history mode & filters_
+* [Decentralization Analytics](https://itrocket.net/services/mainnet/celestia/decentralization/) #_validators, RPC, Peers, and all nodes_
 * [Governance Bot](https://t.me/itrocket_mainnet_proposal_bot) #_with status & UPD timer notifications_
 * [Peer scanner](https://itrocket.net/services/mainnet/celestia/#peer) #_with real time peer uptime verification_
-* [RPC Scanner](https://itrocket.net/services/mainnet/celestia/public-rpc/) #_with Raw scan results_
+* [RPC Scanner](https://itrocket.net/services/mainnet/celestia/public-rpc/) #_with Raw scan results, including Archival RPC finder_
+* [Consensus Signal Tracker](https://itrocket.net/services/mainnet/celestia/analytics/consensus-signal-tracker/) #_signaling progress incl. /authz txs_
+* [Consensus Analytics](https://itrocket.net/services/mainnet/celestia/analytics/consensus/)
 * [Explorer](https://mainnet.itrocket.net/celestia/staking)
 ##### Snapshots
 - [Consensus Node Snapshot](https://itrocket.net/services/mainnet/celestia/#snap) #_pruned, upd every 4h_
-- [Bridge Node Snapshot](https://itrocket.net/services/mainnet/celestia/#snap-bridge) #_archive, upd every 2d_
+- [Consensus Node Snapshot](https://itrocket.net/services/mainnet/celestia/#snapshot-archive) #_archive, upd every 7d_
+- [Bridge Node Snapshot](https://itrocket.net/services/mainnet/celestia/#snap-bridge) #_archive, upd every 3d_
 ##### Endpoints
 - RPC:  [https://celestia-mainnet-rpc.itrocket.net](https://celestia-mainnet-rpc.itrocket.net) #_archive node_
 - API:  [https://celestia-mainnet-api.itrocket.net](https://celestia-mainnet-api.itrocket.net) #_archive node_
-- gRPC: `celestia-mainnet-grpc.itrocket.net:443`
+- gRPC: `celestia-mainnet-grpc.itrocket.net:443` #_archive node_
 - Peer: `d535cbf8d0efd9100649aa3f53cb5cbab33ef2d6@celestia-mainnet-peer.itrocket.net:40656`
 - Seed: `12ad7c73c7e1f2460941326937a039139aa78884@celestia-mainnet-seed.itrocket.net:40656`
-##### RPC for DA nodes
+##### RPC for DA nodes (archive)
 - Core IP:  `celestia-mainnet-consensus.itrocket.net`
 - gRPC Port: `9090`
 - RPC Port: `26657`
+##### DA Full Storage Node Endpoint (archive, skip.auth)
+- Endpoint: http://celestia-mainnet-da-full-storage.itrocket.net
+- RPC Port: 26658
+- Gateway Port: 26659
+#### IBC Relaying Support
+- celestia <-> elys-1
+- celestia <-> quicksilver-2
 ##### Guides
 - [Consensus Node installation](https://itrocket.net/services/mainnet/celestia/installation/) #_with Cheat sheet & upgrade guides_
 - [Bridhe Node installation](https://itrocket.net/services/mainnet/celestia/bridge-node/) #_with Cheat sheet & upgrade guides_
@@ -375,24 +386,35 @@ https://telegra.ph/Content-contributions-for-Celestia-by-cryptomolot-07-02
 
 #### Testnet
 #### Tools
+* [Validators Performance Dashboard](https://itrocket.net/services/testnet/celestia/analytics/validators-performance/) #_uptime, slashes, proposals, history mode & filters_
 * [Decentralization Analytics](https://itrocket.net/services/testnet/celestia/decentralization/) #_validators, RPC, and all nodes_
 * [Governance Bot](https://t.me/itrocket_testnet_proposal_bot) #_with status & UPD timer notifications_
 * [Peer scanner](https://itrocket.net/services/testnet/celestia/#peer) #_with real time peer uptime verification_
 * [RPC Scanner](https://itrocket.net/services/testnet/celestia/public-rpc/) #_with Raw scan results_
+* [Consensus Signal Tracker](https://itrocket.net/services/testnet/celestia/analytics/consensus-signal-tracker/) #_signaling progress incl. /authz txs_
+* [Consensus Analytics](https://itrocket.net/services/testnet/celestia/analytics/consensus/)
 * [Explorer](https://testnet.itrocket.net/celestia/staking)
 ##### Snapshots
 - [Consensus Node Snapshot](https://itrocket.net/services/testnet/celestia/#snap) #_pruned, upd every 4h_
+- [Consensus Node Snapshot](https://itrocket.net/services/testnet/celestia/#snapshot-archive) #_archive, upd every 5d_
 - [Bridge Node Snapshot](https://itrocket.net/services/testnet/celestia/#snap-bridge) #_archive, upd every 2d_
 ##### Endpoints
 - RPC:  [https://celestia-testnet-rpc.itrocket.net](https://celestia-testnet-rpc.itrocket.net) #_archive node_
 - API:  [https://celestia-testnet-api.itrocket.net](https://celestia-testnet-api.itrocket.net) #_archive node_
-- gRPC: `celestia-testnet-grpc.itrocket.net:443`
+- gRPC: `celestia-testnet-grpc.itrocket.net:443` #_archive node_
 - Peer: `daf2cecee2bd7f1b3bf94839f993f807c6b15fbf@celestia-testnet-peer.itrocket.net:11656`
 - Seed: `5d0bf034d6e6a8b5ee31a2f42f753f1107b3a00e@celestia-testnet-seed.itrocket.net:11656`
-##### RPC for DA nodes
+##### RPC for DA nodes (archive)
 - Core IP:  `celestia-testnet-consensus.itrocket.net`
 - gRPC Port: `9090`
 - RPC Port: `26657`
+##### DA Full Storage Node Endpoint (archive, skip.auth)
+- Endpoint: http://celestia-testnet-da-full-storage.itrocket.net
+- RPC Port: 26658
+- Gateway Port: 26659
+#### IBC Relaying Support
+- mocha-4 <-> prysm-devnet-1
+- mocha-4 <-> elysicstestnet-1
 ##### Guides
 - [Consensus Node installation](https://itrocket.net/services/testnet/celestia/installation/) #_with Cheat sheet & upgrade guides_
 - [Bridhe Node installation](https://itrocket.net/services/testnet/celestia/bridge-node/) #_with Cheat sheet & upgrade guides_
