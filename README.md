@@ -740,6 +740,27 @@ Telegram: @Brian_Provalidator
 
 ---
 
+### Contributions by [ValidatorVN](https://www.validatorvn.com/)
+
+#### Mainnet
+* Delegator dashboard: https://dashboard.validatorvn.com/. This dashboard tracks uptime and monitor commission changes of validators whom delegators stake to effortlessly. [Tutorial here](https://www.youtube.com/watch?v=6KexvTi945s)
+* IBC Relayer between [TIA](https://www.mintscan.io/celestia/address/celestia1cjhz8st5409k2nzfcpcnexehjxh7k2fg8env8s) <> OSMO, ATOM, AXL, ELYS, NAM
+* Upcoming support for RPC, API, Explorer, Bridge Node, and more 
+#### Testnet
+* Services including Explorer, RPC, API, Snapshots for both consensus & bridge nodes, peers & seeds and more
+* https://services.validatorvn.com/celestia
+* Celestia explorer: https://tiascan.org/
+* RPC: https://celestia-rpc.validatorvn.com
+* API: https://celestia-api.validatorvn.com
+* gRPC: celestia-grpc.validatorvn.com:443
+* Snapshot consensus node: https://snapshot.validatorvn.com/celestia/data.tar.lz4
+* Snapshot bridge node: https://snapshot.validatorvn.com/celestia/celestia-bridge.tar.lz4
+* Addrbook: https://snapshot.validatorvn.com/celestia/addrbook.json
+* Genesis: https://snapshot.validatorvn.com/celestia/genesis.json
+* Consensus node: https://testnet.celestia.explorers.guru/validator/celestiavaloper18d7ctra8jyafmyj0e669al73dyrxreq0dnpf3q
+* Bridge node: https://testnet.celestia.valopers.com/bridges/12D3KooW9rDtRQ7vFdBG8XuJLKF5qKhzb4Je1rrHt8BrozV6n21t
+
+---
 ### Contributions by [Moonlet](https://moonlet.io/)
 #### Mainnet
 - **Dashboard**: https://dashboard.moonlet.app/dashboard/?blockchain=TIA
