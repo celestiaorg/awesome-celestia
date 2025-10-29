@@ -975,30 +975,44 @@ Speaker French Event WEB3connect :
 
 ### [Pro-Nodes75](https://services.node75.org/chains/celestia-mainnet)
 
-#### IBC
-**[General IBC table](https://relayers.smartstake.io/network/TIA)** of Celestia Relayers from [SmartStake.io](https://smartstake.io/)
-
 #### Tools
 * Celestia Cluster [monitoring tool](https://github.com/the-node75/mon_celestia)
+* Celestia Mainnet Archival snapshot [service](https://snap-archive.celestia.node75.org)
 * Celestia IBC [information matrix](https://services.node75.org/ibc-matrix/celestia)
+* Celestia testnet `Mocha-4` [faucet](https://faucet.celestia.node75.org/)
 
 #### Mainnet
 ##### Endpoints
-- RPC:  https://rpc.celestia.node75.org
-- API:  https://api.celestia.node75.org
+- RPC:  `https://rpc.celestia.node75.org`
+- API:  `https://api.celestia.node75.org`
 - GRPC: `grpc.celestia.node75.org:9220`
-  
+
+- Archive RPC:  `https://rpc-archive.celestia.node75.org`
+- Archive API:  `https://api-archive.celestia.node75.org`
+- Archive GRPC: `grpc-archive.celestia.node75.org:9740`
+
 ##### Bootstrap node
 - Peer: `ce99d7da2530f75d05880d13d9eda384d5a1afe4@peer.celestia.node75.org:23356`
 - Seed: `86bd5cb6e762f673f1706e5889e039d5406b4b90@seed.celestia.node75.org:20356`
 
-##### Ecosystem
-* Kyve' [Celestia Data pools](https://app.kyve.network/#/pools/9/validators)
+##### DA node
+- Bridge ID: [12D3KooWRJDR9B9L84bRAY3KK2fkAWu7umaRSEmwdwAkaTygT4u1](https://celestia-metrics.chaintrails.io/d/fdz036p9r5pmoe/foundation-bridge-node-overview?orgId=1&refresh=15m&var-ds=fdze9rao6i51cf&var-instance_id=12D3KooWRJDR9B9L84bRAY3KK2fkAWu7umaRSEmwdwAkaTygT4u1&var-network=celestia%2FBridge&var-job=cel-foundation-otel-mainnet-scraper&from=now-90d&to=now)
+
+##### IBC
+**[General IBC table](https://relayers.smartstake.io/network/TIA)** of Celestia Relayers from [SmartStake.io](https://smartstake.io/)
+Relayer addresses:
+ - [celestia1wvj4kuv4jnwc8v6mc6wsddrp3qvwmylpw72s99](https://www.mintscan.io/celestia/address/celestia1wvj4kuv4jnwc8v6mc6wsddrp3qvwmylpw72s99)
+ - [celestia1fq884cew9kdqlcum0hfa27xzyhd3edet8hnk39](https://www.mintscan.io/celestia/address/celestia1fq884cew9kdqlcum0hfa27xzyhd3edet8hnk39)
+
 
 #### Testnet
 ##### Bootstrap node
-- Peer: `27971306bc55695fa7ca38b14df9181043aab5a1@peer.celestia.testnet.node75.org:26656`
+- Peer: `27971306bc55695fa7ca38b14df9181043aab5a1@peer.celestia.testnet.node75.org:32356`
 - Seed: `86bd5cb6e762f673f1706e5889e039d5406b4b90@seed.celestia.testnet.node75.org:37116`
+
+##### DA node
+- Bridge ID: [12D3KooWEHb2me2xF4uKKaxXmFEDEywkvbnWekbm78Dpb6rEjsYa](https://mocha-metrics.chaintrails.io/d/fdz036p9r5pmoe/foundation-bridge-node-overview?orgId=1&refresh=15m&var-ds=cdv9016f5siyoc&var-instance_id=12D3KooWEHb2me2xF4uKKaxXmFEDEywkvbnWekbm78Dpb6rEjsYa&var-network=mocha-4%2FBridge&var-job=cel-foundation-otel-testnet-collector&from=now-90d&to=now)
+- DA RPC-light node: `https://public-da-rpc.celestia.testnet.node75.org:443`
 
 ---
 
