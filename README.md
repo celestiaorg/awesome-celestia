@@ -660,12 +660,7 @@ https://testnet.celestia.explorers.guru/validator/celestiavaloper16kzqyl6rf8ph38
 #### Mainnet
 ##### Snapshots
 - Pruning node snapshot(Every 6 hours): [https://services.contributiondao.com/mainnet/celestia/snapshots](https://services.contributiondao.com/mainnet/celestia/snapshots)
-- Archive node snapshot(Every day): [https://services.contributiondao.com/mainnet/celestia/archive-snapshots](https://services.contributiondao.com/mainnet/celestia/archive-snapshots)
-- Bridge node snapshot(Every 5 days): [https://services.contributiondao.com/mainnet/celestia/bridge-snapshots](https://services.contributiondao.com/mainnet/celestia/bridge-snapshots)
 ##### Endpoint
-- RPC URL Endpoint (Archive Node): [https://celestia-archive-mainnet-rpc.contributiondao.com/](https://celestia-archive-mainnet-rpc.contributiondao.com/)
-- API URL Endpoint (Archive Node): [https://celestia-archive-mainnet-api.contributiondao.com/](https://celestia-archive-mainnet-api.contributiondao.com/)
-- GRPC URL Endpoint (Archive Node): [https://celestia-archive-mainnet-grpc.contributiondao.com/](https://celestia-archive-mainnet-grpc.contributiondao.com/)
 - RPC URL Endpoint: [https://celestia-rpc.contributiondao.com](https://celestia-rpc.contributiondao.com)
 - API URL Endpoint: [https://celestia-api.contributiondao.com](https://celestia-api.contributiondao.com)
 ##### Seed/Live peers
