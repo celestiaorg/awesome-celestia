@@ -791,6 +791,7 @@ https://github.com/DasRasyo/Celestia-mocha-4
 * [Consensus Node Snapshot](https://docs.services-ernventures.com/testnets/celestia/api-snapshot-addrbook#for-full-node) #_archive_
 * [Consensus Node Snapshot](https://docs.services-ernventures.com/testnets/celestia/api-snapshot-addrbook#snapshot-1) #_pruned_
 * [Bridge Node Snapshot](https://docs.services-ernventures.com/testnets/celestia/api-snapshot-addrbook#for-bridge-node) #_archive_
+* [Bridge Node Snapshot(new version)](https://docs.services-ernventures.com/testnets/celestia/api-snapshot-addrbook#for-bridge-node-v0.18.2-mocha) #_archive_
 #### Endpoints
 * RPC: `https://celestia.rpc.testnets.services-ernventures.com`
 * API: `https://celestia.api.testnets.services-ernventures.com` 
@@ -803,6 +804,7 @@ https://github.com/DasRasyo/Celestia-mocha-4
 * [Celestia Validator monitoring guide](https://docs.services-ernventures.com/testnets/celestia/celestia-validator-monitoring-guide-with-tenderduty) #_with tenderduty_
 * [Celestia bridge alert](https://docs.services-ernventures.com/testnets/celestia/celestia-bridge-alert)
 * [Useful command](https://docs.services-ernventures.com/testnets/celestia/useful-commands) 
+* [Managing Validator Keys with TMKMS](https://medium.com/@ernventures/server-protection-how-to-secure-access-and-save-validator-keys-dcc817a31956)
 
 ---
 
