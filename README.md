@@ -1193,6 +1193,26 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 
 ---
 
+---
+
+### Contributions by [KYVE](https://kyve.network)
+
+KYVE created a validated and decentralized archive of Celestia data since genesis that is stored on Arweave. The dataset is accessible as a **Public Good**.
+It provides an overall support for historical data management for chain scalability and ease of access to build with and access Celestia data and the rollups built on Celestia.
+
+#### Datasets
+- [Celestia app data](https://app.kyve.network/#/pools/9) consisting of blocks and block results, including transactions, events, and more.
+- [State-Sync snapshots](https://app.kyve.network/#/pools/10) with snapshots every 10.000 blocks
+
+#### Data Access Tools
+- Free and non-rate-limited API endpoint, providing historical blocks, block results, and blobs: https://data.services.kyve.network/#/celestia.
+- KSYNC - tool to sync your node (`celestia-app`) to any height in 2-5 minutes: https://docs.kyve.network/access-data-sets/ksync/quick-start?source=celestia
+- Google BigQuery dataset: https://console.cloud.google.com/bigquery/analytics-hub/discovery/projects/kyve-data-platform/locations/eu/dataExchanges/kyve_public_datasets_191a23b668b/listings/celestia_192095038ce
+- ETL Pipeline to load the datasets into Postgres or BigQuery: https://docs.kyve.network/access-data-sets/data-pipeline/data-load-tool
+
+
+---
+
 # List of Contributions from Spidey Validator(www.spidey.services)
 
 ## Mainnet:
