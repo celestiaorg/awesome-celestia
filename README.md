@@ -972,6 +972,50 @@ Speaker French Event WEB3connect :
 - Snapshot Pruned: https://services.nodeshub.online/testnet-networks/celestia/celestia-app/snapshot/pruned
 
 ---
+### [OriginStake](https://originstake.com)
+
+# Technical Contributions
+
+## Peers & Seed
+```
+Peers: 4a54b610785eeebc65b21fa104ee287f34cdb1c6@185.183.34.109:29656  
+Seed: 4a54b610785eeebc65b21fa104ee287f34cdb1c6@185.183.34.109:29656  
+```
+
+## Public Endpoint (Pruning Node)
+- **GRPC:** [https://tia-grpc-public.originstake.com](https://tia-grpc-public.originstake.com)  
+- **RPC:** [https://tia-rpc-public.originstake.com](https://tia-rpc-public.originstake.com)  
+- **API:** [https://tia-api-public.originstake.com](https://tia-api-public.originstake.com)
+
+#### Testnet
+
+- Bridge Node: 12D3KooWMviWfT4PgXou9RS8Bbw7tSUcXJiobhjBwrHSCwnNE5iJ
+- Validator: celestiavaloper10japprdfrs90n8lgyg7zu0d4denlu24h8kmwnl
+
+## Platform Contributions
+
+### [TiaHub.xyz - Celestia Hub](https://tiahub.xyz)
+- Built a platform for users, developers, and validators to access ecosystem insights, governance, and infrastructure resources.  
+- Aggregated key ecosystem data, including projects, developer activity, governance proposals, and analytics.  
+- Developed a **Validator Listing Page** and an **RPC & Infrastructure Monitor** to enhance transparency and accessibility.  
+
+### [docs.tiahub.xyz - Celestia Documentation Hub](https://docs.tiahub.xyz)
+- Created a comprehensive knowledge base with **guides, research, and technical documentation** on Celestia.  
+- Provides clear educational resources on staking, governance, and modular blockchain concepts.  
+- Maintains real-time updates to align with Celestia’s ongoing development.  
+
+## Content Contributions
+
+- [What is Celestia? The Future of Scalable Modular Blockchains](https://insight.originstake.com/celestia/what-is-celestia-the-future-of-scalable-modular-blockchains/)
+- [What is Data Availability? The Key to Scalable & Secure Blockchain](https://insight.originstake.com/celestia/what-is-data-availability-the-key-to-scalable-secure-blockchain/)
+- [Celestia: The Future of Scalable Blockchain Infrastructure](https://insight.originstake.com/celestia/celestia-the-future-of-scalable-blockchain-infrastructure/)
+- [How Modular Architecture Unlocks New Possibilities](https://insight.originstake.com/celestia/how-modular-architecture-unlocks-new-possibilities/)
+- [Celestia Modular Blockchain: The Key to Web3 Scalability](https://insight.originstake.com/celestia/celestia-modular-blockchain-the-key-to-web3-scalability/)
+- [Exploring Celestia’s Economic Model: Tokenomics, Incentives, and Sustainability](https://insight.originstake.com/celestia/exploring-celestias-economic-model-tokenomics-incentives-and-sustainability/)
+- [Modular Blockchains vs. Monolithic Blockchains: The Key to Scaling Web3](https://insight.originstake.com/celestia/modular-blockchains-vs-monolithic-blockchains-the-key-to-scaling-web3/)
+
+---
+
 
 ### [Pro-Nodes75](https://services.node75.org/chains/celestia-mainnet)
 
