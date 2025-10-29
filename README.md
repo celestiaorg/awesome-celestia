@@ -238,6 +238,23 @@ celestia1q6cc9u0x5r3fkjcex0rgxee5qlu86w8rxq438l
 
 ---
 
+### Contributions by [Stakely.io](https://stakely.io/)
+#### Services
+* [Celestia Faucet](https://stakely.io/faucet/celestia-tia)
+* [Load Balancer](https://stakely.io/web3-api-load-balancer/celestia)
+##### Endpoints
+* RPC:  [https://celestia-rpc.stakely.io](https://celestia-rpc.stakely.io)
+* API:  [https://celestia-lcd.stakely.io](https://celestia-lcd.stakely.io)
+#### Community
+* News and announcments coverage in English: [t.me/Stakely_ann](t.me/Stakely_ann)
+* News and announcments coverage in Spanish: [https://t.me/Stakely_noticias](https://t.me/Stakely_noticias)
+* Celestia staking information page with tutorials and a reward calculator: [https://stakely.io/staking/celestia-staking](https://stakely.io/staking/celestia-staking)
+* Youtube tutorials in English and Spanish to help users understand liquid staking options and how to interact with the network
+  * English: [https://www.youtube.com/watch?v=LC1c7HLoRn4](https://www.youtube.com/watch?v=LC1c7HLoRn4)
+  * Spanish: [https://www.youtube.com/watch?v=uSyFgRTmFKQ](https://www.youtube.com/watch?v=uSyFgRTmFKQ)
+
+---
+
 ### Contributions by [BlackBlocks](https://blackblocks.io)
 #### Mainnet
 * Wiki: https://wiki.blackblocks.io/en/public/services/mainnet/celestia
