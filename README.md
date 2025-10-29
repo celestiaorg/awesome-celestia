@@ -1172,10 +1172,22 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 
 ### Contributions by [Decentrio](https://decentrio.ventures/)
 ### Mainnet
-* Services(Snapshot, Installation Guide): https://decentrio.ventures/services/celestia
+* Services(Prune Snapshots, Archive Snapshots and Bridge Snapshots): https://decentrio.ventures/services/celestia
 * RPC: https://celestia.rpc.decentrio.ventures:443
-* gRPC: celestia-grpc.lavenderfive.com:443
+* gRPC: celestia.grpc.decentrio.com:9090
 * API: https://celestia.api.decentrio.ventures:443
+* Bridge Node: 12D3KooWCPqse6aFMoPjmX6eLavktXpUhH9emC9oVtaZrdJTqjxb
+
+### Testnet
+* Services(Prune Snapshots, Archive Snapshots and Bridge Snapshots): https://decentrio.ventures/services/testnets/celestia
+* RPC: https://celestia-testnet.rpc.decentrio.ventures:443
+* gRPC: celestia-testnet.grpc.decentrio.com:9090
+* API: https://celestia-testnet.api.decentrio.ventures:443
+* Bridge Node: 12D3KooWNvuS9sfBcoATfkuvTbTurzfEoy7h6zLtNGvXD7edwHx2
+
+### Tools
+* RPCscan (https://decentrio.ventures/tools/rpc-scanner/celestia)
+* Bot for governance, validator monitoring ,ibc related, check upgrande and check balance (https://github.com/decentrio/aio-bot)
 
 ### Code Contributions
 * We are working with Rollkit to assist them with various development, our team won the best Development Tooling Prize (https://x.com/RollkitDev/status/1798007102612656476)
