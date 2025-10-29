@@ -1270,20 +1270,32 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 - celestia-t-da-full-rpc.noders.services
 - celestia-t-da-full-api.noders.services
 
+### MegaNode
+#### Mainnet
+* [Services (Installation guides, snapshot, state sync and etc.)](https://meganodes-validator.gitbook.io/mega-node-validator)
+* [Mainnet explorer](https://explorer.meganode.top/celestia-mainnet)
+##### Endpoints
+- RPC : `rpc-mainnet-celestia.meganode.top`
+- API :  `api-mainnet-celestia.meganode.top`
+- GRPC : `grpc-mainnet-celestia.meganode.top`
+##### Peer & Seed
+- Seed: `12ad7c73c7e1f2460941326937a039139aa78884@celestia-mainnet-seed.itrocket.net:40656`
+- Peer: `d535cbf8d0efd9100649aa3f53cb5cbab33ef2d6@celestia-mainnet-peer.itrocket.net:40656,0c8ec01f1c37734274e7ac2f91021a55194bb0bb@65.109.26.242:11656,f1f7c34c58e35bff94b07df4080ca5d5b6ec98ee@51.81.49.176:11656,3911210547b03ff95b999f90a7dad8462318420c@65.109.53.22:43656,9a179402b03fa08f4b635439a0cd857184c87979@65.21.69.230:26656,e6d602f66559ee2a7280a46efbc5f87efe567bcb@139.84.143.106:10456,d535cbf8d0efd9100649aa3f53cb5cbab33ef2d6@65.109.30.26:26656,3b2c04d12b767d5b2f275523a731c579292094a4@45.14.135.25:26656,a67c494a9df17ce47cf42404916c8188c94f4dd9@65.109.35.170:26656,b519fc0c69726b43de28b82f998c8db7faf9741d@5.9.89.67:15670`
+#### Testnet
+* [Services (Installation guides, snapshot, state sync and etc.)](https://meganodes-validator.gitbook.io/mega-node-validator)
+* [Testnet explorer](https://explorer.meganode.top/celestia-testnet)
+##### Endpoints
+- RPC : `rpc-testnet-celestia.meganode.top`
+- API :  `api-testnet-celestia.meganode.top`
+- GRPC : `grpc-testnet-celestia.meganode.top`
+##### Peer & Seed
+- Seed: `5d0bf034d6e6a8b5ee31a2f42f753f1107b3a00e@celestia-testnet-seed.itrocket.net:11656`
+- Peer: `daf2cecee2bd7f1b3bf94839f993f807c6b15fbf@celestia-testnet-peer.itrocket.net:11656,6ac4d095a69c2b55c85725e05f9129c9e6b246c8@205.178.182.220:26656,58b6065b5ae0aafa31df9450ef4c158f350ab040@107.155.97.138:26656,6ec29df7709624d7deb589e0c5b0334be92bfa6b@37.59.57.210:26656,5786e4780a8d12f89d6263bb31ac58cf4f8331a3@195.224.80.26:36656,a8e6b8ba334ba7e9e7ffac6cbb3b1a6d99aed870@95.217.113.247:26656,1a2841989963eb1d117af18f3de52e604658f18a@65.109.54.91:21656,a831cf42d79aded9d25efd71b1a6629311c2f644@95.217.120.205:11656,e96d0885f8eeeb25b4603d0a43fb6f0d0a0e6488@65.109.106.214:11656,f07813ee16dabdeb370c7ffbdbbc73d9f4db48d5@139.45.205.58:28656,f05e6a065b772dda4c7c0cbed40894a8c43416c7@170.64.159.104:26656,bdde9be71fa7bb568e09068238cf5db1dc995258@65.109.84.33:11656,e1b058e5cfa2b836ddaa496b10911da62dcf182e@164.152.161.199:36656,f4d9be25c223c4db8838c3e26a56a410d9ce3d18@45.76.178.27:26656,5318579c8b99a9c063c145bdb2fcdd58e74b4448@65.108.228.199:10156,24f79d2f249d491daae85fdc774203c47b2fbcab@91.191.213.10:26656,3b5cfaef16c0affb426c9dd159cd3da6049159c2@217.160.102.31:26656,c5cc5b9f80be8dbe2a0996703d820004eca87cc3@45.8.22.165:26656,cee58e7a8724fea3022be98898d7346d12a0ef80@164.152.162.119:36656,5f5a8c2d974b1f7efd343d81b2c949c0fb70dafd@2.59.169.115:26656,e75abd230f227788bd2756901aa886c5c927fc58@51.158.54.62:26656`
 ### Community:
-#### Zealy (Celestia - Essential Module №3)
-- https://zealy.io/cw/noders/questboard
-#### X/Twitter Celestia HUB https://x.com/CelestiaHub - Giveaways And Tweets (Temporarily suspended)
-- 43 tweets - https://docs.google.com/document/d/1IbV7vW6VWm0blQYFmwJRkArZotmrfjdCuYbApKTmhQs
-#### Medium
-- 2 articles - https://docs.google.com/document/d/1VIYunKnLWbz65_C98CQ8MbANYnEbmc3StEteVByC57c
-#### Celestia Hub Academy
-- 17 articles - https://docs.google.com/document/d/1Q77MnVxqu6-ACvfYFzgJIProniNEB8uju9fLymCoATU
-#### X/Twitter https://x.com/NODERS_TEAM
-- 10 Tweets about Celesta - https://docs.google.com/document/d/1PIkfDi6o0JoW46B0K-wO-CmBCO6ZLX3nD77d_rDw00s
-#### Telegram https://t.me/nodersteam
-- 31 Posts about Celesta - https://docs.google.com/document/d/1BYJ9o4NAngU6Ma7BcPycwAQFdzLeIH_QG7WcTgDVuRw
-
+- **Community activities on X (formerly Twitter)**: I share the latest information and technical updates about Celestia to support the expansion of the ecosystem. In particular, I actively participate in important announcements and discussions to increase engagement.
+- **Translation and dissemination into Japanese**: I translate Celestia's official announcements and technical documents into Japanese and provide information so that the Japanese community can understand more easily. In particular, I aim to summarize the key points of official announcements in an easy-to-understand manner and help more Japanese users learn about Celestia.
+https://paragraph.xyz/@meganode
+I will continue to actively disseminate information and engage in community activities to contribute to the development of Celestia.
 ---
 
 ### Contributions by [Metatarz](https://metatarz.xyz)
