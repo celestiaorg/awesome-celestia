@@ -912,6 +912,46 @@ Speaker French Event WEB3connect :
 
 ---
 
+
+### ValiDAO
+#### Mainnet
+##### Validator
+- [ValiDAO](https://celestia.explorers.guru/validator/celestiavaloper1gfn5m2vjqk4kcdg2zwhzgpvu60jz0f9duhu594)
+##### Public Archive RPC
+- https://celestia.rpc.archives.validao.xyz
+- https://celestia.rest.archives.validao.xyz
+- https://celestia.grpc.archives.validao.xyz
+- wss://celestia.rpc.archives.validao.xyz
+##### Public RPC/LCD
+- https://celestia.rpc.interchain.validao.xyz
+- https://celestia.rest.interchain.validao.xyz
+- https://celestia.grpc.interchain.validao.xyz
+- wss://celestia.rpc.interchain.validao.xyz
+##### Public Seed Node
+- `3c731f492cb676606efa9dfbb17af2e05bc624df@celestia.seeds.validao.xyz:26656`
+##### Relayer
+- `celestia16p6lrlxf7f03c0ka8cv4sznr29rym27us7u4v6`
+##### Bridge Node
+- Bridge node ID: `12D3KooWDcDuXGkDkdJgJ7yiNZxLe8TfmYChoi2iU5HZExUMR1TL`
+#### Testnet
+##### Validator
+- [ValiDAO](https://testnet.celestia.explorers.guru/validator/celestiavaloper139y2ujypdhq76r3gt9utz948lwwy64ez6psc2w)
+##### Bridge Node
+- Bridge node ID: `12D3KooWSw33ydb3RERUvmjUNGn9D3qdc3D1HGxy45TSc3j79uWr`
+##### Staking Dashboard
+- Staking and Analytics: https://app.validao.xyz/stake/celestia
+##### Maps
+- Celestia Consensus Network Mainnet: https://validao.xyz/#maps-celestia
+- Celestia DA Network Mainnet: https://validao.xyz/#maps-celestia-da
+- Celestia Consensus Network Mainnet: https://validao.xyz/#maps-celestia-testnet
+- Celestia DA Network Mainnet: https://validao.xyz/#maps-celestia-testnet-da
+#### Community
+##### Articles
+- Celestia: An Introduction : https://x.com/validaoxyz/status/1895173437548830900
+- Celestia: Past, Present, Futre : https://mirror.xyz/validao.eth/GdWEEvzWg8n_k09oshak1VHnX6N4dufbBR9rnVF50Xg
+
+---
+
 ### Nodes Hub Contribution https://nodeshub.online
 
 #### Mainnet
