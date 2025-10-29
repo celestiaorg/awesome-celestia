@@ -299,15 +299,22 @@ https://telegra.ph/Content-contributions-for-Celestia-by-cryptomolot-07-02
 
 ### Contributions by [Lavender.Five Nodes](https://lavenderfive.com)
 #### Mainnet
-* Services(Snapshot, State-sync, Installation Guide): https://services.lavenderfive.com/mainnet/celestia
-* RPC: https://celestia-rpc.lavenderfive.com:443
-* gRPC: celestia-grpc.lavenderfive.com:443
-* API: https://celestia-api.lavenderfive.com:443
+* Services(Snapshot, State-sync, Installation Guide): https://www.lavenderfive.com/tools/celestia/overview
+* RPC: https://rpc.lavenderfive.com:443/celestia
+* gRPC: celestia.lavenderfive.com:443
+* API: https://rest.lavenderfive.com:443/celestia
+* Seed: `20e1000e88125698264454a884812746c2eb4807@seeds.lavenderfive.com:11656`
+* Archive Node
+* [IBC Relaying](https://relayers.smartstake.io/network/TIA)
+* Open Source monitoring w/ Grafana/Prometheus: https://github.com/LavenderFive/node-monitoring
+* Sole Tenderduty Maintainer: https://github.com/blockpane/tenderduty (archived, can now be found here: https://github.com/lavenderfive/tenderduty
 #### Testnet
-* Services(Snapshot, State-sync, Installation Guide): https://services.lavenderfive.com/testnet/celestia
-* RPC: https://testnet-celestia-rpc.lavenderfive.com:443
-* gRPC: testnet-celestia-grpc.lavenderfive.com:443
-* API: https://testnet-celestia-api.lavenderfive.com:443
+* Services(Snapshot, State-sync, Installation Guide): https://www.lavenderfive.com/tools/testnet_celestia/overview
+* RPC: https://testnet-rpc.lavenderfive.com:443/celestia
+* gRPC: testnet-celestia.lavenderfive.com:443
+* API: https://testnet-rest.lavenderfive.com:443/celestia
+* Seed: `20e1000e88125698264454a884812746c2eb4807@testnet-seeds.lavenderfive.com:11656`
+* Archive Node
 
 ---
 
