@@ -1137,7 +1137,7 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 
 ---
 
-### StakeTown
+### Contributions by StakeTown team
 #### Tools
 - Monitoring stack for DA nodes based on custom exporter and default alerting to specified discord channel 
   using prometheus, grafana, node exporter etc.: https://github.com/staketown/celestia-da-monitoring
@@ -1148,9 +1148,21 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 #### Mainnet
 - Installation Guide: https://services.stake-town.com/home/mainnet/celestia/installation
 - Snapshots, state-sync: https://services.stake-town.com/home/mainnet/celestia/sync
-- RPC: https://celestia-rpc.stake-town.com:443
-- gRPC: celestia-grpc.stake-town.com:443
-- API: https://celestia-api.stake-town.com:443
+
+Consensus node for DA Bridge nodes:
+- core RPC: http://celestia-consensus.stake-town.com:26657
+- core gRPC: http://celestia-consensus.stake-town.com:9090
+
+Pruned node API:
+- pruned RPC: https://celestia-pruned-rpc.stake-town.com:443
+- pruned gRPC: celestia-pruned-grpc.stake-town.com:443
+- pruned API: https://celestia-pruned-api.stake-town.com:443
+
+Archival node API:
+- archival RPC: https://celestia-rpc.stake-town.com:443
+- archival gRPC: celestia-grpc.stake-town.com:443
+- archival API: https://celestia-api.stake-town.com:443
+
 #### Testnet
 - Installation Guide: https://services.stake-town.com/home/testnet/celestia/installation 
 - Snapshots, state-sync: https://services.stake-town.com/home/testnet/celestia/sync
