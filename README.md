@@ -690,23 +690,35 @@ https://testnet.celestia.explorers.guru/validator/celestiavaloper16kzqyl6rf8ph38
 ---
 
 ### Cosmostation
-#### Services
-* Mintscan Explorer ([Mainnet](https://www.mintscan.io/celestia/) & [Testnet](https://www.mintscan.io/celestia-testnet/))
+
+#### Mainnet
+
+* [Mintscan Explorer](https://www.mintscan.io/celestia/)
 * [Mobile Wallet](https://cosmostation.io/products/cosmostation_mobile)
 * [Web Extension](https://cosmostation.io/products/cosmostation_extension)
 
-#### Mainnet
+##### Peers
+- Peer: `78f93af4449c5b7b8a590267b65dd661bccb0b23@184.107.182.146:16400`
+- Bridge: `12D3KooWJgWcLLiNnYqLihKW1PFuPDBT1uWoFengKXrTxVyiUwca`
+
 ##### Snapshots
+
 - [Pruning node snapshot(Every day)](https://snapshot.cosmostation.io/celestia/)
 
-##### Peers
-- Peer: d364357f55e37a038d9dbd143448ea792bb8edcf@15.235.115.156:16400
-- Bridge: `12D3KooWDnc9NAjoqN1f1LuVvsmKgFzFsu1KX99jqKSXDNUS6SJz`
-
 #### Testnet
+
+* [Mintscan Explorer](https://www.mintscan.io/celestia-testnet/)
+
 ##### Peers
-- Peer: 20b4f9207cdc9d0310399f848f057621f7251846@158.247.233.222:10000
-- Bridge: `12D3KooWDBrsgL6KpbbQK4fgBwCjMMVT5rFpYbvKbzLSzF9gexje`
+- Peer: `f0ffd8053bc05118ea094247d579639a29dc74a1@184.107.110.139:59300`
+- Bridge: `12D3KooWR176xChPV3YFEtRPwAd8hAjnSNQqBr6cuqkDa9FvBEmF`
+
+#### Community
+
+- [YouTube Content](https://youtu.be/rc6SKF2MsG0)
+- [Medium Article](https://medium.com/cosmostation/a-comprehensive-guide-to-setting-up-and-operating-a-celestia-validator-node-205cb86833b9)
+- [Medium Article](https://medium.com/cosmostation/the-celestia-explorer-mintscan-deb9392efd6c)
+- [Twitter](https://x.com/CosmostationVD/status/1651452038608465920)
 
 ---
 
