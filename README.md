@@ -912,64 +912,62 @@ Speaker French Event WEB3connect :
 
 ---
 
-### Nodes Hub Contribution https://nodeshub.online
-
-#### Mainnet
-- Bridge Node: 12D3KooWGVuLaknCyGU8v6G8iAsdF5PCdL3racdmar7yZZbwFVG9
+### Mainnet
 - Validator: celestiavaloper1w373v84xgmt0wt47xq0nu2565p90h3r8yqae95
 
-##### Explorer
+#### Explorer
 - Explorer: https://explorer.nodeshub.online/celestia
 
-##### Endpoints
-###### Endpoints Archive Node
-- Api: https://celestia.archive.api.nodeshub.online
-- Rpc: https://celestia.archive.rpc.nodeshub.online
-- gRpc: https://celestia.archive.grpc.nodeshub.online
-- Peer Archive: 81ca14a1bc274ece31b17115e938fe99135b5873@103.6.91.38:26657
-- Seed Node: 6f6a3a908634b79b6fe7c4988efec2553f188234@celestia.seed.nodeshub.online:11656
-
-###### Endpoint Relayer Node
+#### Endpoints
+# Endpoint Non-Archive RPC Node
 - Api: https://celestia.api.nodeshub.online
 - Rpc: https://celestia.rpc.nodeshub.online
 - gRpc: https://celestia.grpc.nodeshub.online
 - Peer Relayer:637077d431f618181597706810a65c826524fd74@78.46.19.116:11657
+- Seed Node: 6f6a3a908634b79b6fe7c4988efec2553f188234@celestia.seed.nodeshub.online:11656
 
 ##### Guides
-- Installation guide: https://services.nodeshub.online/mainnet-networks/celestia/celestia-app/installation
-- State-Sync: https://services.nodeshub.online/mainnet-networks/celestia/celestia-app/state-sync
-- Upgrade History: https://services.nodeshub.online/mainnet-networks/celestia/celestia-app/upgrade
+- Installation guide: https://services.nodeshub.online/mainnet/celestia/celestia-app/installation
+- Upgrade Instructions: https://services.nodeshub.online/mainnet/celestia/celestia-app/upgrade
 
-##### Snapshots
+##### Snapshots & Sync
 - Concensus Node Snapshot
-- Snapshot Archive: https://services.nodeshub.online/mainnet-networks/celestia/celestia-app/snapshot/archive
-- Snapshot Pruned: https://services.nodeshub.online/mainnet-networks/celestia/celestia-app/snapshot/pruned
+- Snapshot Pruned: https://services.nodeshub.online/mainnet/celestia/celestia-app/snapshot/pruned
+- State-Sync: https://services.nodeshub.online/mainnet/celestia/celestia-app/state-sync
 
-#### Testnet
 
-- Bridge Node: 12D3KooWHWmuydGajpZnJNPVjSS8efJ8UHBBQwPxS1WjhrVu37Mn
+
+###Testnet
+
+- Bridge Node Current: 12D3KooWKPR87yQvDxa1XmmR3fVPJ3WZqU583k5JKV2ZEU5o61Rn
+- Bridge Node OLD: 12D3KooWGqZB775Ni4R9pWfvRUmUFYzP6qnPFoSXcgVkE3ZM9NYo
 - Validator: celestiavaloper1zf7t8ahyt75vt0pctula20vs76ml6yprf5dm0c
 
-##### Explorer
+#### Explorer
 - Explorer: https://testnet.explorer.nodeshub.online/celestia
 
-##### Endpoints
+#### Endpoints
 - Endpoints Archive Node
 - Api: https://celestia.test.archive.api.nodeshub.online
 - Rpc: https://celestia.test.archive.rpc.nodeshub.online
 - gRpc: https://celestia.test.archive.grpc.nodeshub.online
-- Peer: 2fae9d7fffbd64f72b2b15645c3c7eb95e9ce961@136.175.9.193:26657
 - Seed Node: 6f6a3a908634b79b6fe7c4988efec2553f188234@celestia.test.seed.nodeshub.online:11656
 
-###### Guides
-- Installation https://services.nodeshub.online/testnet-networks/celestia/celestia-app/installation
-- State-Sync: https://services.nodeshub.online/testnet-networks/celestia/celestia-app/state-sync
-- Upgrade History: https://services.nodeshub.online/testnet-networks/celestia/celestia-app/upgrade
+- Endpoints Non-Archive Node
+- Api: https://celestia.test.api.nodeshub.online
+- Rpc: https://celestia.test.rpc.nodeshub.online
+- gRpc: https://celestia.test.grpc.nodeshub.online
 
-###### Snapshots
+
+##### Guides
+- Installation https://services.nodeshub.online/testnet/celestia/celestia-app/installation
+
+- Upgrade History: https://services.nodeshub.online/testnet/celestia/celestia-app/upgrade
+
+##### Snapshots & Sync
 - Concensus Node Snapshot
-- Snapshot Archive: https://services.nodeshub.online/testnet-networks/celestia/celestia-app/snapshot/archive
 - Snapshot Pruned: https://services.nodeshub.online/testnet-networks/celestia/celestia-app/snapshot/pruned
+- State-Sync: https://services.nodeshub.online/testnet/celestia/celestia-app/state-sync
 
 ---
 
