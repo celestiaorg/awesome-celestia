@@ -127,15 +127,15 @@ An Awesome List of Celestia Resources
 - **Celestia Full Node Setup**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=full-node-setup)
 - **State Sync**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=state-sync)  
 - **Celestia on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/celestia)
-- **Snapshots**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=snapshots)
+- **Snapshots**: [Link](https://snapshots.posthuman.digital/celestia-mainnet/)
 
 ##### Endpoints
-- **RPC**: [https://rpc.celestia-mainnet.posthuman.digital](https://rpc.celestia-mainnet.posthuman.digital) 
-- **RPC-archival**: [https://rpc.celestia-mainnet-archive.posthuman.digital](https://rpc.celestia-mainnet-archive.posthuman.digital)
-- **REST**: [https://rest.celestia-mainnet.posthuman.digital](https://rest.celestia-mainnet.posthuman.digital) 
-- **REST-archival**: [https://rest.celestia-mainnet-archive.posthuman.digital](https://rest.celestia-mainnet-archive.posthuman.digital)
-- **gRPC**: [https://grpc.celestiamainnet.posthuman.digital](https://grpc.celestiamainnet.posthuman.digital)  
-- **gRPC-archival**: [https://grpc.celestia-mainnet-archive.posthuman.digital](https://grpc.celestia-mainnet-archive.posthuman.digital)
+- **RPC**: [https://rpc-celestia-mainnet.posthuman.digital](https://rpc-celestia-mainnet.posthuman.digital) 
+- **RPC-archival**: [https://rpc-celestia-mainnet-archive.posthuman.digital](https://rpc-celestia-mainnet-archive.posthuman.digital)
+- **REST**: [https://rest-celestia-mainnet.posthuman.digital](https://rest-celestia-mainnet.posthuman.digital) 
+- **REST-archival**: [https://rest-celestia-mainnet-archive.posthuman.digital](https://rest-celestia-mainnet-archive.posthuman.digital)
+- **gRPC**: [https://grpc-celestiamainnet.posthuman.digital](https://grpc-celestiamainnet.posthuman.digital)  
+- **gRPC-archival**: [https://grpc-celestia-mainnet-archive.posthuman.digital](https://grpc-celestia-mainnet-archive.posthuman.digital)
 - **Peer**: `cd9f852141cd6f78e9443cea389911a6f0a5df72@8.52.247.252:26656`  
 
 ##### Block Explorer
@@ -154,16 +154,16 @@ An Awesome List of Celestia Resources
 - **Bridge node id**: `12D3KooWCSUWKNQxB6mb4Mb8VKAmvh9uituqBj2G6SnLKdhy8q2m` 
 - **State Sync**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=state-sync)  
 - **Celestia on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/celestia-testnet)
-- **Snapshots**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=snapshots)
+- **Snapshots**: [Link](https://snapshots.posthuman.digital/celestia-testnet/)
 - **One Liner**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=one-liner)
 
 ##### Testnet Endpoints
-- **RPC**: [https://rpc.celestia-testnet.posthuman.digital](https://rpc.celestia-testnet.posthuman.digital) 
-- **RPC-archival**: [https://rpc.celestia-testnet-archive.posthuman.digital](https://rpc.celestia-testnet-archive.posthuman.digital)
-- **REST**: [https://rest.celestia-testnet.posthuman.digital](https://rest.celestia-testnet.posthuman.digital) 
-- **REST-archival**: [https://rpc.celestia-testnet-archive.posthuman.digital](https://rpc.celestia-testnet-archive.posthuman.digital)
-- **gRPC**: [https://grpc.celestia-testnet.posthuman.digital](https://grpc.celestia-testnet.posthuman.digital)  
-- **gRPC-archival**: [https://rpc.celestia-testnet-archive.posthuman.digital](https://rpc.celestia-testnet-archive.posthuman.digital)
+- **RPC**: [https://rpc-celestia-testnet.posthuman.digital](https://rpc-celestia-testnet.posthuman.digital) 
+- **RPC-archival**: [https://rpc-celestia-testnet-archive.posthuman.digital](https://rpc-celestia-testnet-archive.posthuman.digital)
+- **REST**: [https://rest-celestia-testnet.posthuman.digital](https://rest-celestia-testnet.posthuman.digital) 
+- **REST-archival**: [https://rpc-celestia-testnet-archive.posthuman.digital](https://rpc-celestia-testnet-archive.posthuman.digital)
+- **gRPC**: [https://grpc-celestia-testnet.posthuman.digital](https://grpc-celestia-testnet.posthuman.digital)  
+- **gRPC-archival**: [https://rpc-celestia-testnet-archive.posthuman.digital](https://rpc-celestia-testnet-archive.posthuman.digital)
 - **Peer**: `f57805e824e984467f8b1f2560a5ef4c80077ed5@207.121.49.100:11656`
 
 ##### Testnet Block Explorer
