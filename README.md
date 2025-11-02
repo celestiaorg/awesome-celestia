@@ -145,7 +145,7 @@ An Awesome List of Celestia Resources
 - [Celestia restake](https://restake.app/celestia/celestiavaloper1snun9qqk9eussvyhkqm03lz6f265ekhnnlw043)
 
 #### Testnet
-##### [Services for Celestia testnet](https://nodes.posthuman.digital/chains/celestia](https://nodes.posthuman.digital/chains/celestia-testnet)
+##### [Services for Celestia testnet](https://nodes.posthuman.digital/chains/celestia-testnet)
 - **Installation Guide**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=installation-guide)
 - **Celestia Full Node Setup Tutorial**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=full-node-setup)
 - **Celestia Lightnode Setup Tutorial**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=light-node-setup)
