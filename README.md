@@ -134,7 +134,7 @@ An Awesome List of Celestia Resources
 - **RPC-archival**: [https://rpc-celestia-mainnet-archive.posthuman.digital](https://rpc-celestia-mainnet-archive.posthuman.digital)
 - **REST**: [https://rest-celestia-mainnet.posthuman.digital](https://rest-celestia-mainnet.posthuman.digital) 
 - **REST-archival**: [https://rest-celestia-mainnet-archive.posthuman.digital](https://rest-celestia-mainnet-archive.posthuman.digital)
-- **gRPC**: [https://grpc-celestiamainnet.posthuman.digital](https://grpc-celestiamainnet.posthuman.digital)  
+- **gRPC**: [https://grpc-celestiamainnet.posthuman.digital](https://grpc-celestiamainnet.posthuman.digital)
 - **gRPC-archival**: [https://grpc-celestia-mainnet-archive.posthuman.digital](https://grpc-celestia-mainnet-archive.posthuman.digital)
 - **Peer**: `cd9f852141cd6f78e9443cea389911a6f0a5df72@8.52.247.252:26656`  
 
@@ -151,7 +151,7 @@ An Awesome List of Celestia Resources
 - **Celestia Lightnode Setup Tutorial**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=light-node-setup)
 - **Celestia Bridge Node Setup**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=bridge-node-setup)
 - **Bridge node RPC**:  [Link](https://bridge.celestia-testnet.posthuman.digital)
-- **Bridge node id**: `12D3KooWCSUWKNQxB6mb4Mb8VKAmvh9uituqBj2G6SnLKdhy8q2m` 
+- **Bridge node id**: `12D3KooWR6eCBXNcxgehiUHrzK3UQS1yGDpHgxM77eb5u4ieUima` 
 - **State Sync**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=state-sync)  
 - **Celestia on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/celestia-testnet)
 - **Snapshots**: [Link](https://snapshots.posthuman.digital/celestia-testnet/)
