@@ -1309,3 +1309,31 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 - Osmosis
 
 ---
+
+### [Citizen Web3](https://citizenweb3.com)
+
+### Technical Contributions
+#### Mainnet
+##### [Services & Snapshots for Celestia](https://staking.citizenweb3.com/chains/celestia)
+
+##### Endpoints
+- **RPC**: [https://rpc.celestia.citizenweb3.com](https://rpc.celestia.citizenweb3.com)
+- **API**: [https://api.celestia.citizenweb3.com](https://api.celestia.citizenweb3.com)
+- **gRPC**: `grpc.celestia.citizenweb3.com:443`
+
+##### Seed / Peer
+- **Seed**: `7066852273cf94ec60003b40428010a4eac86f5b@mainnet.seednode.citizenweb3.com:27656`
+
+##### [Relayers](https://relayers.smartstake.io/relayer/DF0280597A20ACFE)
+- Stride
+- Quicksilver
+- Osmosis
+- Namada
+ Relayer addresses:
+  - `celestia12mchf67y67y3xnk2tkzkxa67w3vmhxjsda3230`
+  - `celestia1fl92605jdx79tu0hcynzy0fxmvrjaehvauff4u`
+
+##### Explorer
+- https://validatorinfo.com/networks/celestia/overview
+
+---
