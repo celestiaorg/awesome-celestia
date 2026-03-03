@@ -1309,3 +1309,41 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 - Osmosis
 
 ---
+
+### Validatus
+
+#### Mainnet
+##### Endpoints
+- RPC: [https://rpc.celestia.validatus.com](https://rpc.celestia.validatus.com)
+- API: [https://api.celestia.validatus.com](https://api.celestia.validatus.com)
+- gRPC: `grpc.celestia.validatus.com:2135`
+
+##### Archival Endpoints
+- RPC: [https://rpc.archive.celestia.validatus.com](https://rpc.archive.celestia.validatus.com)
+- API: [https://api.archive.celestia.validatus.com](https://api.archive.celestia.validatus.com)
+- gRPC: `grpc.archive.celestia.validatus.com:2125`
+
+##### Seed / Peer
+- Seed: `390859d59e98bb94131ff7bd89a0a241d0b75d91@seed.celestia.validatus.com:2130`
+- Peer: `390859d59e98bb94131ff7bd89a0a241d0b75d91@seed.celestia.validatus.com:2130`
+- Archival Peer: `65a6d964e0598e282b5b413a4884adda22a4f54a@seed.archive.celestia.validatus.com:2120`
+
+##### Snapshots
+- [https://quicksync.validatus.com/snapshots](https://quicksync.validatus.com/snapshots)
+
+##### Bridge
+- Bridge Node ID: `12D3KooWRCHDM1hyVzDwJJNXq7BSiaLsYRrBUhAo8Xh8GQEp2bu1`
+
+#### Testnet
+##### Endpoints
+- RPC: [https://rpc.celestia-testnet.validatus.com](https://rpc.celestia-testnet.validatus.com)
+- API: [https://api.celestia-testnet.validatus.com](https://api.celestia-testnet.validatus.com)
+- gRPC: `grpc.celestia-testnet.validatus.com:2135`
+
+##### Seed / Peer
+- Seed: `f62bd9b8ffd55b6147c62bcdfcae8a43003466ee@seed.celestia-testnet.validatus.com:2130`
+
+##### Bridge
+- Bridge Node ID: `12D3KooWFHxg9c4AqVF2dTuYwfRGzwvdHHMVwHw1HFnx8QtpGNtR`
+
+---
