@@ -1309,3 +1309,19 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 - Osmosis
 
 ---
+
+### Contributions by [Unity Nodes](https://unitynodes.com)
+
+#### Tools & Dashboards
+
+- **[Pulse](https://pulse.unitynodes.com/celestia)** - Observability dashboard for the post-Matcha performance model. Live uptime by block proposals, missed proposals per validator (24h/7d/30d), provider/country breakdown, economics (TIA price, on-chain APR, break-even calculator), upgrade tracking.
+
+- **[CelestiaHub](https://unityhub.dev/celestia)** - Curated entry point to the Celestia ecosystem for four audiences (Validators, Developers, Educational, Community).
+
+- **[runcelestia.xyz](https://runcelestia.xyz)** - Single-page validator onboarding guide: 3-phase journey map, readiness quiz, 10-step setup guide, hardware specs, hosting decentralization with FDP-rejected flags, Live Reference Node (2s updates), AI validator assistant + FAQ.
+
+#### Community
+
+- [Unity Nodes media contributions (articles, posts on X - 30+ works)](https://docs.google.com/document/d/15SnT_BI1_kRKIucLT8Tuv0dGOKAg40evSjtonQUyHfg/edit?usp=sharing)
+
+---
