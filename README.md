@@ -1101,50 +1101,32 @@ https://www.youtube.com/watch?v=nmpfNXf797U
 ### Contributions by [Cumulo](https://cumulo.pro/)
 #### Mainnet  
 ##### Endpoints  
--  https://celestia.cumulo.org.es:443  
--  https://celestia.api.cumulo.org.es:443  
--  celestia.grpc.cumulo.org.es:443  
-
-##### Archive Endpoints
--  https://rpc.archive.celestia.cumulo.com.es:443    
--  https://api.archive.celestia.cumulo.com.es:443   
--  grpc.archive.celestia.cumulo.com.es:443
--  wss://rpc.archive.celestia.cumulo.com.es/websocket
-
+- RPC: https://celestia.cumulo.org.es  
+- RPC WebSocket: wss://celestia.cumulo.org.es/websocket  
+- API: https://celestia.api.cumulo.org.es  
+- gRPC: celestia.grpc.cumulo.org.es  
 #### Testnet  
 ##### Endpoints  
--  https://mocha.celestia.rpc.cumulo.me:443  
--  https://mocha.api.cumulo.me:443  
--  mocha.grpc.cumulo.me:443  
-
-##### Archive Endpoints
--  https://rpc.archive.mocha.cumulo.com.es:443    
--  https://api.archive.mocha.cumulo.com.es:443   
--  grpc.archive.mocha.cumulo.com.es:443
-
+- RPC: https://mocha.celestia.rpc.cumulo.me  
+- RPC WebSocket: wss://mocha.celestia.rpc.cumulo.me/websocket  
+- API: https://mocha.api.cumulo.me  
+- gRPC: mocha.grpc.cumulo.me  
 ##### Celestia monitoring system  
 Dashboard for Consensus Nodes with all available metrics for Celestia:  
 - [Monitoring System Documentation](https://github.com/Cumulo-pro/Celestia-monitoring/blob/main/grafana_consensus%20/README.md)  
 - [Medium Guide](https://medium.com/@cumulo.pro/monitoring-a-celestia-consensus-node-with-grafana-prometheus-f73069b150e1)  
-- [Dashboard in Grafana](https://grafana.com/grafana/dashboards/21116-celestia-consensus-validator-node/)
-
-Monitor Bridge Nodes:  
-- [Celestia Bridge Monitoring & Grafana](https://github.com/Cumulo-pro/Celestia-monitoring/blob/main/bridge-monitor/README.md)  
-- [Celestia Bridge Node Dashboard in Grafana](https://grafana.com/grafana/dashboards/21116-celestia-consensus-validator-node/)
-
-##### Dashboards  
-[Celestia Front Chain](https://roller.frontchain.cumulo.pro/)    
-Introducing Celestia Front Chain. Everything you need to know about Celestia in one place...  
-
-[Modular Expansion](https://cumulo.pro/celestia/img/expansion.jpeg)  
-All the projects that use Celestia as a data availability layer  
-
-##### Other content  
-[Modular Summit](https://modular.cumulo.pro/)  
-Website dedicated to our content about Modular Summit events.
-
-[Guides Cumulo](https://cumulo.pro/services/celestia_mocha/content?page=content)  
-Compilation of technical guides and resources, such as node guides, monitoring systems, ...
+- [Dashboard in Grafana](https://grafana.com/grafana/dashboards/21116-celestia-consensus-validator-node/)  
+- [Dashboard in Grafana](https://github.com/Cumulo-pro/Celestia-monitoring/blob/main/bridge-monitor/README.md) — Grafana dashboard reference for node monitoring (service health and performance signals).  
+##### Tools  
+- [Celestia Block Explorer](https://cumulo.pro/services/celestia/stats) — Real-time multi-section block explorer covering validator uptime, governance proposals, live consensus state, recent transactions, and network statistics.  
+- [Cumulo Live Peers](https://cumulo.pro/services/cosmos/peers) — A live peer checker, updated every 30 minutes and available through both a public dashboard and API.  
+- [CIP Tracker](https://cumulo.pro/services/celestia/cips) — Designed to make it easier for teams, devs, validators and the broader community to follow how Celestia evolves at the protocol level: from proposals already live on mainnet to those currently under review or being discussed for upcoming upgrades.  
+- [Missed Proposals Tracker](https://cumulo.pro/services/celestia/missed-proposals) — Block-level tracking of missed proposal slots using the CometBFT weighted round-robin simulation. Identifies which validator missed their turn at each consensus round, with cumulative per-validator statistics and miss rate.  
+- [check_d — Endpoint Monitor](https://cumulo.pro/services/celestia_mocha/rpcscan) — Open-source tool that evaluates real availability, synchronization, historical uptime, and regional latency of public RPC, gRPC, and REST endpoints from multiple geographic regions. Useful for dApps, bridges, indexers, and backend services looking to audit and compare public infrastructure with objective operational data.  
+- [Celestia Activity Tracker](https://cumulo.pro/services/activity/?chain=Celestia) — Chronicle of all Cumulo activity on Celestia: upgrades, governance votes, deployments and other relevant operational events.  
+- [Celestia underneath: All the projects that use Celestia as a DA](https://celestia.frontchain.cumulo.pro/underneath) — Explorer-style dashboard listing projects building on Celestia as their data availability layer.  
+##### Guides  
+- [Compilation of technical guides and resources](https://cumulo.pro/services/celestia_mocha/content?page=content)
 
 
 ---
