@@ -1309,3 +1309,22 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 - Osmosis
 
 ---
+
+### Contributions by [Axionis](https://axionis.space)
+#### Mainnet
+##### Endpoints
+* RPC: [https://celestia-rpc.axionis.space](https://celestia-rpc.axionis.space)
+* REST: [https://celestia-api.axionis.space](https://celestia-api.axionis.space)
+* gRPC: `celestia-grpc.axionis.space:443`
+##### Services
+* [Installation guide, snapshots, state-sync, peers](https://axionis.space/services/mainnet/celestia)
+#### Testnet
+##### Services
+* [Mocha installation guide, snapshots, peers](https://axionis.space/services/testnet/celestia)
+#### Tools
+* [Builder Console](https://axionis.space/console) — CIP-19 namespace explorer, blob publisher, DA config generator, and cost calculator for Celestia developers ([source](https://github.com/axionis-hub/builder-console))
+* [celestia-tools](https://github.com/axionis-hub/celestia-tools) — Install, upgrade, and cheatsheet scripts for Celestia node operators
+#### Blog
+* [Common Celestia Namespace Mistakes](https://axionis.space/blog/celestia-namespace-mistakes) — Namespace encoding guide for rollup teams
+
+---
