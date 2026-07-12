@@ -1195,6 +1195,13 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 
 # List of Contributions from Spidey Validator(www.spidey.services)
 
+### [Orion](https://orionlabsone.cc)
+#### Tools
+* [Celestia AI Intelligence](https://orionlabsone.cc/celestia) - daily automated on-chain analysis of Celestia mainnet (metrics, anomaly signals, DA volume, staking) with a chat and an [RSS feed](https://orionlabsone.cc/api/rss); every figure links back to its on-chain source.
+* [MCP server for AI agents](https://orionlabsone.cc/for-ai) - exposes Orion's Celestia analysis to AI agents over the Model Context Protocol (Streamable HTTP at `https://orionlabsone.cc/mcp`, read-only), listed in the official MCP Registry as `cc.orionlabsone/orion-agent-kit`. Source: [orion-agent-kit](https://github.com/orioninfra/orion-agent-kit).
+
+---
+
 ## Mainnet:
 
 1. Mainnet RPC [https://celestia-rpc.spidey.services/](https://celestia-rpc.spidey.services/)
