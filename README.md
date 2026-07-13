@@ -643,6 +643,10 @@ Public enpoints:
 #### Celestia Bridge Status Checker – Web tool to check the health of bridge nodes:
    https://celestia-bridge-checker.luckyresearch.org/
 
+### CelestiaResource: a free hub that brings the essentials together in one place, for both Mainnet  and Mocha Testnet .
+
+https://celestiaresource.xyz/ 
+
  # Community Contributions
 
 * Official Discord Moderator for Celestia (global + Vietnamese channels since Dec 2022)
