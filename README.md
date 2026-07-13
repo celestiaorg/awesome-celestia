@@ -584,45 +584,112 @@ Public enpoints:
 ---
 
 ### Contributions by [LuckyResearch.org](https://luckyresearch.org/)
-Technical contributions
-#### Mainnet:
-* RPC: https://rpc-celestia-mainnet.luckyresearch.org/
-* API: https://api-celestia-mainnet.luckyresearch.org/
-* Explorer: https://explorer.luckyresearch.org/Celestia-Mainet
-* Services guide: https://services.luckyresearch.org/lucky-research-services/mainet/celestia
-* Bridge node: `12D3KooWPLLjhDvDtaPDNtr8o3ZfhDHXPa3ivJJRXVTmUaQECWPW`
-* We are operating the Mainnet validator in inactive set: ( Ensures immediate activation upon receiving  delegate program)
-https://celestia.explorers.guru/validator/celestiavaloper17hw6htgj2vadkutyurtq7568g9gz9kz4x7d5tm
-#### Testnet:
-* RPC: https://rpc-celestia-mocha.luckyresearch.org/
-* API: https://api-celestia-mocha.luckyresearch.org/
-* Explorer: https://explorer.luckyresearch.org/Celestia-Testnet
-* Services guide: https://services.luckyresearch.org/lucky-research-services/testnet/celestia
-* Bridge node: `12D3KooW9tcjEJSjLtXDQtrqxiGULcgqQV11u8yQBztpcs8p53W3`
-* We are operating the Mocha testnet validator in Active set: 
-https://testnet.celestia.explorers.guru/validator/celestiavaloper16kzqyl6rf8ph385v60u3r8sjgj5w9enq6znf6l
-* LuckyResearch participate Testnet Incentivized BlockSpace Race: Full Node
-#### Community contributions
-##### LuckyResearch is a Moderator community on the official Discord Celestia for both general and local channels ( Vietnamese channel) , dedicating my time and effort to supporting a active, clean, and positive community. 
-* Admin on telegram Vietnamese community Unoffical [Telegram](https://t.me/celestia_vn)
-* LuckyResearch strong support and building a Modular Blockchain community, diligently contributing to support the development of the Vietnamese community.
-* LuckyResearch is committed to contributing to the development of the blockchain community in Vietnam by sharing knowledge and supporting its continuous growth.
-* My goal is to create a friendly environment where ideas can grow and community members can thrive.
-* Translator Diamond role in discord Celestia and Proofreader Vietnamese in Crowdin Celestia
-* Content Celestia Vietnamese and Instruction community: 
-- https://luckyresearch.notion.site/H-ng-d-n-c-ch-ki-m-tra-i-u-ki-n-Claim-Genesis-Drop-c-a-Celestia-056c0de1863d42faaae150683e7bdb60
-- https://discord.com/channels/638338779505229824/804389559831232578/1168927959218913293
-- https://discord.com/channels/638338779505229824/1067048624841822238/1174218758089355285
-- https://luckyresearch.notion.site/Gi-i-thi-u-v-Celestia-v-Modular-Blockchain-c9bd267748e8471ea7da8ec85e75fa29?pvs=74
-- https://luckyresearch.notion.site/Chu-i-Nguy-n-kh-i-v-Chu-i-Modular-3fe8db677f01433ea581d9a56aa4baa1
-- https://luckyresearch.notion.site/Rollups-l-c-c-chu-i-c-ch-quy-n-8be093066c44400a9bee357d1812766a?pvs=74
-- https://luckyresearch.notion.site/Chu-i-Modular-c-l-i-ch-g-trong-s-ph-t-tri-n-blockchain-1595abadc3f34e36b165c8f09bd71ec6
-- https://luckyresearch.notion.site/Celestia-k-t-th-c-v-ng-g-i-v-n-h-t-gi-ng-tr-gi-1-5-tri-u-la-t-Interchain-Foundation-Binance-L-c9789aeb86f94cfc904536fa37b59538
-- https://luckyresearch.notion.site/Celestia-huy-ng-55-tri-u-la-ra-m-t-m-ng-l-i-blockchain-m-un-80dce22ed6c243e5867b99658023abe4?pvs=25
-- https://luckyresearch.notion.site/OKX-Ventures-th-ng-b-o-u-t-v-o-Celestia-cb89d911a08a49bf924a0cf6455edad2?pvs=25
-- https://x.com/LuckyResearchVN/status/1710620276491485297
-- https://x.com/LuckyResearchVN/status/1706859243155128789
-- https://x.com/LuckyResearchVN/status/1770134658145300735
+#Technical Contributions to Celestia
+
+#### Mainnet
+
+#### Operated a Mainnet Validator :
+  https://celestia.explorers.guru/validator/celestiavaloper17hw6htgj2vadkutyurtq7568g9gz9kz4x7d5tm
+
+* Hosted Core Infrastructure Services:
+
+  * RPC: https://rpc-celestia-mainnet.luckyresearch.org/
+
+  * API: https://api-celestia-mainnet.luckyresearch.org/
+
+  * Explorer: https://explorer.luckyresearch.org/Celestia-Mainet
+
+  * Services Guide: https://services.luckyresearch.org/lucky-research-services/mainet/celestia
+
+* Bridge Node: 12D3KooWPQ3Bz8huviBbvGeSKVnNUxnj3X5zYU2Dt65NKiMv4byL
+
+* Genesis: https://snapshot.luckyresearch.org/Celestia/Mainnet/genesis.json
+
+* Addrbook: https://snapshot.luckyresearch.org/Celestia/Mainnet/addrbook.json
+
+#### Mocha Testnet
+
+#### Operated an active testnet validator:
+  https://testnet.celestia.explorers.guru/validator/celestiavaloper16kzqyl6rf8ph385v60u3r8sjgj5w9enq6znf6l
+
+* Participated in the Blockspace Race Incentivized Testnet as Full Node operator.
+* Hosted Core Testnet Services:
+
+  * RPC: https://rpc-celestia-mocha.luckyresearch.org/
+
+  * API: https://api-celestia-mocha.luckyresearch.org/
+
+  * Explorer: https://explorer.luckyresearch.org/Celestia-Testnet
+
+  * Services Guide: https://services.luckyresearch.org/lucky-research-services/testnet/celestia
+
+* Bridge Node: 12D3KooWRyRKoAgGvsRuR7xEefCRVgTLVVphm72iHZSajY4jtYUb
+
+* Genesis: https://snapshot.luckyresearch.org/Celestia/Mocha/genesis.json
+
+* Addrbook: https://snapshot.luckyresearch.org/Celestia/Mocha/addrbook.json
+
+#### Snapshot Hub:https://snapshot.luckyresearch.org/Celestia/
+
+#### Relayer: https://relayers.smartstake.io/relayer/D5F5A78539B6C1CC
+
+#### GitHub Contribution: https://github.com/celestiaorg/celestia-app/issues/4961#issuecomment-2957298839
+
+#### Tooling Contributions
+
+#### Celestia Performance Status Bot – Telegram bot for validator & bridge node monitoring:
+   https://t.me/celestia_bridge_check_bot
+
+#### Celestia Bridge Status Checker – Web tool to check the health of bridge nodes:
+   https://celestia-bridge-checker.luckyresearch.org/
+
+### CelestiaResource: a free hub that brings the essentials together in one place, for both Mainnet  and Mocha Testnet .
+
+https://celestiaresource.xyz/ 
+
+ # Community Contributions
+
+* Official Discord Moderator for Celestia (global + Vietnamese channels since Dec 2022)
+* Admin of the unofficial Vietnamese Telegram community
+
+  * Diamond Translator role in Celestia Discord
+  * Proofreader for Vietnamese translations on Crowdin
+  * Educational Content Development:
+
+  ####  19+ instructional articles & summaries (English/Vietnamese):
+
+     https://docs.google.com/document/d/1ddeS6FvQndIuDhe-5-9chZt848tVCCLA4EzqXjOJxyk/edit?usp=sharing
+
+  ####   Celestia Content Hub Vietnam:
+     https://content-hub.luckyresearch.org/celestiavietnam
+
+  ####  11 articles published via Mirror:
+     https://docs.google.com/document/d/18dFxiZ8C3xmXOj07bdv3FOuRp1fuudeyEnOpQVdpjik/edit?usp=sharing
+
+####  Social Media Contributions:
+
+  ####  49 Telegram posts (LuckyResearch):
+ https://docs.google.com/document/d/1VRJIJ6NrOCzbxkNG-_RT8SgZPOUvJPmVu9jkYPfoXPI/edit?usp=sharing
+
+  ####  235 Telegram posts (Celestia Hub Vietnam):
+ https://docs.google.com/document/d/1byrhdRynw3Pmfn9sSRy8r5GKMsty3gc8YSvda-GL2_I/edit?usp=sharing
+
+####  27 posts on X (Celestia Hub VN):
+ https://docs.google.com/document/d/1dNOzVzWFm-nUf-nGql_-tUj5aLsTOnbWiUW9gSYP644/edit?usp=sharing
+
+####  40 posts on X (LuckyResearch Labs):
+ https://docs.google.com/document/d/1D16JqJmsFmF1G6LqfMGL8BFMPhk54ZlDSINj0ju7Cpc/edit?usp=sharing
+
+####  Educational & Onboarding Tools
+
+####  Celestia Resource Site – Comprehensive hub with DA node, validator, RPC guides & more:
+ https://www.celestiaresource.xyz/resource-celestia
+
+####  Celestia Community Assistant – Mamo (AI Chatbot) – GPT-based Celestia assistant:
+ https://chatgpt.com/g/g-6830309b0e3081918d883d2b71e2e794-celestia-community-assistant-mamo-by-luckyresearch
+
+####  Content Hub Celestia in Vietnamese https://content-hub.luckyresearch.org/celestiavietnam – A comprehensive knowledge base tailored specifically for the Vietnamese community, featuring guides, updates, and essential information to help anyone in Vietnam easily get started with Modular Blockchain and Celestia
+
 * Contact official and just only. If anyone impersonates from an address other than this one, please block and disregard it.
 🔭 X: https://twitter.com/LuckyResearchVN
 👯 Website: https://luckyresearch.org
