@@ -1309,3 +1309,10 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 - Osmosis
 
 ---
+
+### Contributions by NacionCrypto / Parceros
+#### Spanish educational resources
+* [Blockchain con Legos (Celestia)](https://www.youtube.com/watch?v=6FQHcvNc-p4) — An introduction to Celestia's blockchain architecture using LEGO.
+* [Blockchains Modulares (En vivo desde Medellín)](https://www.youtube.com/watch?v=kku0Pi2utP4) — A recorded community discussion about modular blockchains, including Celestia.
+
+---
