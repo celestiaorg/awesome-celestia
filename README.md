@@ -1338,3 +1338,11 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 * [UTSA Telegram channel](https://t.me/utsa_channel)
 
 ---
+
+### [Easy2Stake](https://www.easy2stake.com/)
+#### Snapshots
+* [Celestia mainnet and Mocha snapshots](https://sync.easy2stake.com)
+#### Monitoring
+* [Celestia bridge metrics exporter](https://github.com/easy2stake/celestia-bridge-metrics) — OpenTelemetry collector configuration for exporting bridge metrics to Prometheus.
+
+---
