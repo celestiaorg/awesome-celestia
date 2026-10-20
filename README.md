@@ -1318,3 +1318,23 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 * [Blockchains Modulares (En vivo desde Medellín)](https://www.youtube.com/watch?v=kku0Pi2utP4) — A recorded community discussion about modular blockchains, including Celestia.
 
 ---
+
+### Contributions by [UTSA](https://utsa.gitbook.io/services) & Let's Node
+
+#### Educational resources
+* [Celestia overview (Russian)](https://youtu.be/WdYnK7vPD48)
+* [Celestia overview (English)](https://youtu.be/0Q-uDf3ugWg)
+
+#### Archived node guides
+* [Mainnet Beta guides (historical)](https://utsa.gitbook.io/services/archive/celestia)
+* [Testnet guides (historical)](https://utsa.gitbook.io/services/archive/celestia-testnet)
+
+#### Monitoring
+* [Celestia Grafana dashboard](https://grafana.com/grafana/dashboards/22036-celestia2/) — Dashboard for Celestia node and host metrics.
+
+#### Community
+* [Unofficial Russian-speaking Celestia community](https://t.me/celestiaru)
+* [Let's Node Telegram channel](https://t.me/letskynode)
+* [UTSA Telegram channel](https://t.me/utsa_channel)
+
+---
