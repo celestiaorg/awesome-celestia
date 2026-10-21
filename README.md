@@ -1360,3 +1360,20 @@ Check each pool's current status and available heights before using its data.
 * [Data Load Tool](https://docs.kyve.network/access-data-sets/data-pipeline/data-load-tool) — Load KYVE datasets into PostgreSQL or BigQuery.
 
 ---
+
+### Contributions by [kjnodes team](https://kjnodes.com)
+
+#### Tools
+* [Validator Slashboard](https://services.kjnodes.com/mainnet/celestia/slashboard/) — Historical validator slashing data.
+* [Interchain RPC Scanner](https://services.kjnodes.com/mainnet/celestia/public-rpc/) — Public RPC endpoint discovery with downloadable scan results.
+* [DA bridge monitoring stack](https://github.com/kjnodes/celestia-bridge-monitoring) — OpenTelemetry, Prometheus, Grafana, and Alertmanager configuration.
+* [Telegram governance bot](https://services.kjnodes.com/bots/telegram-proposal/) — Setup instructions for proposal notifications.
+
+#### Node services
+* [Mainnet endpoints and peering](https://services.kjnodes.com/mainnet/celestia/)
+* [Archival snapshots](https://services.kjnodes.com/mainnet/celestia/snapshot-archive/)
+* [Pruned snapshots](https://services.kjnodes.com/mainnet/celestia/snapshot/)
+* [Testnet services](https://services.kjnodes.com/testnet/celestia/)
+* [IBC relayer dashboard](https://relayers.smartstake.io/network/TIA)
+
+---
