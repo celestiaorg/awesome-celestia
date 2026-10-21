@@ -1045,34 +1045,19 @@ Speaker French Event WEB3connect :
 
 ---
 
-### List of Contributions from [Encapsulate (fka KingSuper)](https://encapsulate.xyz/)
+### Contributions from [Encapsulate](https://encapsulate.xyz/)
 
-#### Services
+#### Historical open-source tools
+These examples use older node versions and APIs.
 
-##### Public RPC/LCD/gRPC
-| Service | URL |
-|---------|-----|
-| **RPC** | [`celestia-mainnet-rpc.kingsuper.services`](https://celestia-mainnet-rpc.kingsuper.services/) |
-| **LCD** | [`celestia-mainnet-lcd.kingsuper.services`](https://celestia-mainnet-lcd.kingsuper.services/) |
-| **gRPC** | [`celestia-mainnet-grpc.kingsuper.services`](https://celestia-mainnet-grpc.kingsuper.services/) |
+| Tool | Source |
+|------|--------|
+| Bridge node Ansible playbook | [celestia-bridge-ansible](https://github.com/encapsulate-xyz/celestia-bridge-ansible) |
+| Submit Pay for Blob UI (archived) | [celestia-pay-for-blob-ui](https://github.com/encapsulate-xyz/celestia-pay-for-blob-ui) |
+| Light Node Health Checker UI (archived) | [celestia-node-checker-ui](https://github.com/encapsulate-xyz/celestia-node-checker-ui) |
 
-#### Snapshots
-##### Mainnet
-| **Snapshot** | URL |
-|--------------|-----|
-| **Celestia Bridge Mainnet** | [`celestia-bridge-mainnet`](https://encapsulate.xyz/snapshots/celestia-bridge-mainnet) |
-| **Celestia App Mainnet** | [`celestia-app-mainnet`](https://encapsulate.xyz/snapshots/celestia-app-mainnet) |
-
-##### Testnet
-| **Snapshot** | URL |
-|--------------|-----|
-| **Celestia Bridge Testnet** | [`celestia-bridge-testnet`](https://encapsulate.xyz/snapshots/celestia-bridge-testnet) |
-
-#### Community
-| **Tools** | URL |
-|-------------|-----|
-| **Submit Pay for Blob** | [`celestia-pfb.kingsuper.services`](https://celestia-pfb.kingsuper.services/) |
-| **Light Node Health Checker** | [`celestia-node-checker.kingsuper.services`](https://celestia-node-checker.kingsuper.services/) |
+#### Research
+* [Historical Celestia testnet log analysis](https://encapsulate.xyz/blog/celestia-testnet-log-analysis) — [Analysis source](https://github.com/aditya-manit/celestia-log-analysis).
 
 ---
 ### Contributions by [Crouton Digital](https://crouton.digital/)
