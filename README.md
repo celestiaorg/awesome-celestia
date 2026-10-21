@@ -296,8 +296,6 @@ celestia1q6cc9u0x5r3fkjcex0rgxee5qlu86w8rxq438l
 ##### Snapshots
 * Bridge Archival: https://wiki.blackblocks.io/en/public/services/mainnet/celestia#bridge-node-archival-snapshot
 * Full Node Archival: https://wiki.blackblocks.io/en/public/services/mainnet/celestia#full-node-archival-snapshot
-##### Explorer
-* Dexplorer Fork: https://explorer.celestia-mainnet.blackblocks.io/ 
 #### Testnet
 * Wiki: https://wiki.blackblocks.io/en/public/services/testnet/celestia
 ##### Endpoints
@@ -325,7 +323,6 @@ https://telegra.ph/Content-contributions-for-Celestia-by-cryptomolot-07-02
 ### BlackNodes Contribution https://blacknodes.net
 #### Mainnet
 * Celestia Faucet By BlackNodes: https://celestia-faucet.blacknodes.net
-* Explorer (Ping-Pub based): https://explorer.blacknodes.net/celestia
 #### Testnet
 * Services(Snapshot,State-Sync,Endpoints,LivePeers,Node-Monitoring): https://services.blacknodes.net/Celestia
 * Node Tutorial Guide: https://github.com/blacknodes/Node-Services/tree/main/Projects/celestia
@@ -337,8 +334,6 @@ https://telegra.ph/Content-contributions-for-Celestia-by-cryptomolot-07-02
 * gRPC: celestia-testnet-grpc.blacknodes.net:17090
 * API: https://celestia-testnet-api.blacknodes.net
 * Archival-Node-RPC(for DA nodes to connect with): consensus-full-mocha.blacknodes.net
-#### Explorer
-* Explorer (Ping-Pub based): https://explorer.blacknodes.net/Celestia-Testnet
 #### BlockSpace Race
 * Blob CelestiaPFB_UI prototype: https://github.com/blacknodes/CelestiaPFB_UI
 * Sovereign Rollup: https://github.com/blacknodes/loanme
@@ -534,7 +529,6 @@ Examples:
 ### CrypTech
 #### Technical
 ##### Mainnet
-* [Explorer.Fork.Ping.Pub](https://explorers.cryptech.com.ua/Celestia-Mainnet)
 - RPC: [https://rpc-celestia.cryptech.com.ua](https://rpc-celestia.cryptech.com.ua)
 - API: [https://api-celestia.cryptech.com.ua](https://api-celestia.cryptech.com.ua)
 - GPRC: [https://grpc-celestia.cryptech.com.ua](https://grpc-celestia.cryptech.com.ua)
@@ -542,7 +536,6 @@ Examples:
 - Guide: [https://services.cryptech.com.ua/mainnet/celestia/installation/README/](https://services.cryptech.com.ua/mainnet/celestia/installation/README/)
 - Proposal_Bot: [https://t.me/Cryptech_ProposalBot](https://t.me/Cryptech_ProposalBot)
 ##### Testnet
-* [Explorer.Fork.Ping.Pub - with Archive Node](https://explorers.cryptech.com.ua/Celestia-Testnet)
 - Snapshots: [https://services.cryptech.com.ua/testnet/celestia/snapshot/README/](https://services.cryptech.com.ua/testnet/celestia/snapshot/README/)
 - Guide: [https://services.cryptech.com.ua/testnet/celestia/installation/README/](https://services.cryptech.com.ua/testnet/celestia/installation/README/)
 - Proposal_Bot: [https://t.me/Cryptech_ProposalBot](https://t.me/Cryptech_ProposalBot)
@@ -689,7 +682,6 @@ https://testnet.celestia.explorers.guru/validator/celestiavaloper16kzqyl6rf8ph38
 ### Suntzu
 #### Mainnet
 * [Services (Installation guides, snapshot, state sync and etc.)](https://services.suntzu.dev/mainnet/celestia/installation)
-* [Mainnet explorer](https://explorer.suntzu.dev/celestia-mainnet)
 ##### Tools
 - Monitor bridge/validator/system : [https://github.com/suntzu93/system_monitor](https://github.com/suntzu93/system_monitor)
 ##### Endpoints
@@ -700,7 +692,6 @@ https://testnet.celestia.explorers.guru/validator/celestiavaloper16kzqyl6rf8ph38
 - Peer: `a479fb1fe8ecf372c72b954f1eea59099dc86f6a@95.217.204.154:11156`
 #### Testnet
 * [Services (Installation guides, snapshot, state sync and etc.)](https://services.suntzu.dev/testnet/celestia/installation)
-* [Testnet explorer](https://explorer.suntzu.dev/celestia-testnet)
 ##### Endpoints
 - RPC :  [https://celestia-testnet-rpc.suntzu.dev](https://celestia-testnet-rpc.suntzu.dev)
 - API :  [https://celestia-testnet-api.suntzu.dev](https://celestia-testnet-api.suntzu.dev)
@@ -758,8 +749,7 @@ Governance Alert Bots(TG): https://github.com/Zenon-provalidator/celelstia_propo
 #### Testnet:
 * Public Goods(RPC, API, Snapshots, and more)
 https://nodeservice.provalidator.com/docs/Network/Celestia
-* We are operating the Mocha testnet validator in Active set( With +99% uptime ): 
-https://testnet.celestia.explorers.guru/validator/celestiavaloper1my99pndu4jeex2vmnrk2ej5j4rhl43w4qancc0e
+* We are operating the Mocha testnet validator in Active set( With +99% uptime )
 #### Community contributions
 * Although Provalidator does not currently manage a dedicated Celestia Korea Community, we actively engage with and amplify messages from the Celestia Ecosystem through our Cosmos & IBC Korea Communities, which boast over 6,000 active members.
 Cosmos Korea(TG): https://t.me/Cosmos_Korea
@@ -1196,22 +1186,11 @@ https://www.youtube.com/watch?v=nmpfNXf797U
 
 ---
 
-# List of Contributions from Spidey Validator(www.spidey.services)
+# List of Contributions from Spidey Validator
 
 ## Mainnet:
 
-1. Mainnet RPC [https://celestia-rpc.spidey.services/](https://celestia-rpc.spidey.services/)
-2. Mainnet gRPC [https://celestia-grpc.spidey.services/](https://celestia-grpc.spidey.services/)
-3. Mainnet API [https://celestia-api.spidey.services/](https://celestia-api.spidey.services/)
-4. Celestia mainnet Peer : celestia-mainnet.spidey.services
-5. Relayers on Mainnet osmosis<->celestia, axelar<->celestia and injective<->celestia: [Relayers](https://relayers.smartstake.io/relayer/09C32B1726F8AA86)
-6. Mainnet explorer [https://explorer.spidey.services/](https://explorer.spidey.services/)
-
-## Testnet:
-1. Mocha-4 testnet RPC: [Mocha-4 testnet RPC](http://rpc-mocha-4.spidey.services/)
-2. Mocha-4 testnet gRPC: [Mocha-4 testnet gRPC](http://grpc-mocha-4.spidey.services/)
-3. Mocha-4 testnet: API: [Mocha-4 testnet: API](http://api-mocha-4.spidey.services/)
-4. Mocha-4 testnet:Peer
+1. Relayers on Mainnet osmosis<->celestia, axelar<->celestia and injective<->celestia: [Relayers](https://relayers.smartstake.io/relayer/09C32B1726F8AA86)
 
 ## Public Useguides and toolkits
 1. Celestia toolkit [Link](https://github.com/spidey-169/testnets/tree/main/celestia_network/celestia_tools)
@@ -1225,7 +1204,6 @@ https://www.youtube.com/watch?v=nmpfNXf797U
 
 #### Celestia CommunityHub, Advanced Explorer and Ecosystem Overview
 - Production: https://celestiahub.org
-- Staging: https://noders-app-staging.web.app/explorer
 
 ### Mainnet
 #### Validator: https://celestia.explorers.guru/validator/celestiavaloper139mu0a0ucz0gmrkavm5wjar2lpx7yvxq3e25e5
