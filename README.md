@@ -1167,11 +1167,8 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 ---
 
 ### Contributions by [Decentrio](https://decentrio.ventures/)
-### Mainnet
-* Services(Snapshot, Installation Guide): https://decentrio.ventures/services/celestia
-* RPC: https://celestia.rpc.decentrio.ventures:443
-* gRPC: celestia-grpc.lavenderfive.com:443
-* API: https://celestia.api.decentrio.ventures:443
+#### Tools
+* [All-in-one validator services bot](https://github.com/decentrio/aio-bot) — Open-source validator monitoring and alerting for Cosmos SDK networks.
 
 ### Code Contributions
 * We are working with Rollkit to assist them with various development, our team won the best Development Tooling Prize (https://x.com/RollkitDev/status/1798007102612656476)
