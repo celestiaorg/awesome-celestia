@@ -114,6 +114,12 @@ An Awesome List of Celestia Resources
 
 ## Node operator contributions
 
+### Contributions by [Citizen Web3](https://citizenweb3.com/)
+#### Tools
+* [ValidatorInfo Celestia overview](https://validatorinfo.com/networks/celestia/overview) — Network and validator analytics. [Source](https://github.com/citizenweb3/validatorinfo).
+
+---
+
 ### Contributions by [VALIDEXIS](https://validexis.com/)
 #### Tools and operator resources
 * [Celestia platform](https://celestia.validexis.com/) — Network dashboards and operator resources.
