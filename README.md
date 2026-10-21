@@ -114,6 +114,66 @@ An Awesome List of Celestia Resources
 
 ## Node operator contributions
 
+### [POSTHUMAN](https://posthuman.digital/)
+
+### Technical Contributions
+#### Mainnet
+##### [Services for Celestia](https://nodes.posthuman.digital/chains/celestia)
+- **Installation Guide**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=installation-guide)
+- **Celestia Lightnode Setup Tutorial**: [Link](https://github.com/Validator-POSTHUMAN/contributions/blob/main/celestia%20light%20node%20setup%20tutorial.md)
+- **Celestia Bridge Node Setup**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=bridge-node-setup)
+- **Bridge node RPC**:  [Link](https://bridge.celestia-mainnet.posthuman.digital)
+- **Bridge node id**: `12D3KooWCSUWKNQxB6mb4Mb8VKAmvh9uituqBj2G6SnLKdhy8q2m` 
+- **Celestia Full Node Setup**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=full-node-setup)
+- **State Sync**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=state-sync)  
+- **Celestia on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/celestia)
+- **Snapshots**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=snapshots)
+
+##### Endpoints
+- **RPC**: [https://rpc.celestia-mainnet.posthuman.digital](https://rpc.celestia-mainnet.posthuman.digital) 
+- **RPC-archival**: [https://rpc.celestia-mainnet-archive.posthuman.digital](https://rpc.celestia-mainnet-archive.posthuman.digital)
+- **REST**: [https://rest.celestia-mainnet.posthuman.digital](https://rest.celestia-mainnet.posthuman.digital) 
+- **REST-archival**: [https://rest.celestia-mainnet-archive.posthuman.digital](https://rest.celestia-mainnet-archive.posthuman.digital)
+- **gRPC**: [https://grpc.celestiamainnet.posthuman.digital](https://grpc.celestiamainnet.posthuman.digital)  
+- **gRPC-archival**: [https://grpc.celestia-mainnet-archive.posthuman.digital](https://grpc.celestia-mainnet-archive.posthuman.digital)
+- **Peer**: `cd9f852141cd6f78e9443cea389911a6f0a5df72@8.52.247.252:26656`  
+
+##### Block Explorer
+- https://explorer.posthuman.digital/celestia (alpha version, in the process of the development)
+ 
+##### Restake
+- [Celestia restake](https://restake.app/celestia/celestiavaloper1snun9qqk9eussvyhkqm03lz6f265ekhnnlw043)
+
+#### Testnet
+##### [Services for Celestia testnet](https://nodes.posthuman.digital/chains/celestia](https://nodes.posthuman.digital/chains/celestia-testnet)
+- **Installation Guide**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=installation-guide)
+- **Celestia Full Node Setup Tutorial**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=full-node-setup)
+- **Celestia Lightnode Setup Tutorial**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=light-node-setup)
+- **Celestia Bridge Node Setup**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=bridge-node-setup)
+- **Bridge node RPC**:  [Link](https://bridge.celestia-testnet.posthuman.digital)
+- **Bridge node id**: `12D3KooWCSUWKNQxB6mb4Mb8VKAmvh9uituqBj2G6SnLKdhy8q2m` 
+- **State Sync**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=state-sync)  
+- **Celestia on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/celestia-testnet)
+- **Snapshots**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=snapshots)
+- **One Liner**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=one-liner)
+
+##### Testnet Endpoints
+- **RPC**: [https://rpc.celestia-testnet.posthuman.digital](https://rpc.celestia-testnet.posthuman.digital) 
+- **RPC-archival**: [https://rpc.celestia-testnet-archive.posthuman.digital](https://rpc.celestia-testnet-archive.posthuman.digital)
+- **REST**: [https://rest.celestia-testnet.posthuman.digital](https://rest.celestia-testnet.posthuman.digital) 
+- **REST-archival**: [https://rpc.celestia-testnet-archive.posthuman.digital](https://rpc.celestia-testnet-archive.posthuman.digital)
+- **gRPC**: [https://grpc.celestia-testnet.posthuman.digital](https://grpc.celestia-testnet.posthuman.digital)  
+- **gRPC-archival**: [https://rpc.celestia-testnet-archive.posthuman.digital](https://rpc.celestia-testnet-archive.posthuman.digital)
+- **Peer**: `f57805e824e984467f8b1f2560a5ef4c80077ed5@207.121.49.100:11656`
+
+##### Testnet Block Explorer
+- https://explorer.posthuman.digital/celestia-testnet (alpha version, in the process of the development)
+
+### Community and Marketing Contributions 
+It's too big list, that can be found [here](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Celestia.md) in the tab "Humanitarian Contributions"
+
+---
+
 ### [StakingCabin](https://stakingcabin.com)
 #### Mainnet
 ##### [Services(Snapshot, State-sync, Installation Guide)](https://www.stakingcabin.com/service/celestia)
@@ -175,6 +235,8 @@ celestia1q6cc9u0x5r3fkjcex0rgxee5qlu86w8rxq438l
 * RPC:  [https://rpc-1.testnet.celestia.nodes.guru](https://rpc-1.testnet.celestia.nodes.guru)
 * API:  [https://api-1.testnet.celestia.nodes.guru](https://api-1.testnet.celestia.nodes.guru)
 * GRPC: `grpc-1.testnet.celestia.nodes.guru:10790`
+#### Documentation
+* [Set up a DA node with on-the-fly ZFS compression](https://github.com/celestiaorg/docs/pull/1694)
 
 ---
 
@@ -600,12 +662,7 @@ https://testnet.celestia.explorers.guru/validator/celestiavaloper16kzqyl6rf8ph38
 #### Mainnet
 ##### Snapshots
 - Pruning node snapshot(Every 6 hours): [https://services.contributiondao.com/mainnet/celestia/snapshots](https://services.contributiondao.com/mainnet/celestia/snapshots)
-- Archive node snapshot(Every day): [https://services.contributiondao.com/mainnet/celestia/archive-snapshots](https://services.contributiondao.com/mainnet/celestia/archive-snapshots)
-- Bridge node snapshot(Every 5 days): [https://services.contributiondao.com/mainnet/celestia/bridge-snapshots](https://services.contributiondao.com/mainnet/celestia/bridge-snapshots)
 ##### Endpoint
-- RPC URL Endpoint (Archive Node): [https://celestia-archive-mainnet-rpc.contributiondao.com/](https://celestia-archive-mainnet-rpc.contributiondao.com/)
-- API URL Endpoint (Archive Node): [https://celestia-archive-mainnet-api.contributiondao.com/](https://celestia-archive-mainnet-api.contributiondao.com/)
-- GRPC URL Endpoint (Archive Node): [https://celestia-archive-mainnet-grpc.contributiondao.com/](https://celestia-archive-mainnet-grpc.contributiondao.com/)
 - RPC URL Endpoint: [https://celestia-rpc.contributiondao.com](https://celestia-rpc.contributiondao.com)
 - API URL Endpoint: [https://celestia-api.contributiondao.com](https://celestia-api.contributiondao.com)
 ##### Seed/Live peers
@@ -713,9 +770,9 @@ https://github.com/DasRasyo/Celestia-mocha-4
 
 ### Wavefive
 #### Mainnet
-1. Archive RPC [https://celestia-rpc.0xcryptovestor.com]
-2. Archive gRPC [https://celestia-grpc.0xcryptovestor.com]
-3. Archive API [https://celestia-api.0xcryptovestor.com]
+1. Archive RPC [https://celestia-rpc.wavefive.xyz]
+2. Archive gRPC (access on request) [https://celestia-grpc.wavefive.xyz]
+3. Archive API [https://celestia-api.wavefive.xyz]
 
 #### Testnet
 1. RPC [https://celestia-testnet-rpc.0xcryptovestor.com]
@@ -1225,30 +1282,120 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 - 31 Posts about Celesta - https://docs.google.com/document/d/1BYJ9o4NAngU6Ma7BcPycwAQFdzLeIH_QG7WcTgDVuRw
 
 ---
-### Contributions by [01node](https://01node.com)
 
+### Contributions by [Metatarz](https://metatarz.xyz)
 #### Mainnet
-
-* RPC: https://celestia-mainnet-rpc.01node.com
-* API: https://celestia-mainnet-api.01node.com
-* Seed: `dc8967c3e8ba3699e1bec6a8a3fb60dcfb64d8e2@celestia-mainnet-seed.01node.com:26016`
-* Peer: `eda6c9d514615893c77c379f29ce7668b575953d@celestia-mainnet-peer.01node.com:26005`
-
-  Validator: [celestiavaloper1murrqgqahxevedty0nzqrn5hj434fvffxufxcl](https://celestia.explorers.guru/validator/celestiavaloper1murrqgqahxevedty0nzqrn5hj434fvffxufxcl) \
-  Bridge: `12D3KooWJGCU4X5LG8NANfudRZjAHjuCeNBYVBKGNaQYoAMVhnV6` \
-  Bootstraper: `celestia-mainnet-boot.01node.com`
-
-
-#### Testnet:
-
-* RPC: https://celestia-testnet-rpc.01node.com
-* API: https://celestia-testnet-api.01node.com
-* Seed: `dc8967c3e8ba3699e1bec6a8a3fb60dcfb64d8e2@celestia-testnet-seed.01node.com:26501`
-* Peer:  `d468354f164a374f9560d6ad46572668020a222e@celestia-testnet-peer.01node.com:26656`
-
-  Validator: [celestiavaloper12wtmpdzgssf0l03ajkvzxsqzlwfu2yn657e3dr](https://testnet.celestia.explorers.guru/validator/celestiavaloper12wtmpdzgssf0l03ajkvzxsqzlwfu2yn657e3dr) \
-  Bridge: `12D3KooWRQt7nS6ZCoHQRprQJnAeNST48yg7Cm3iHW1cb5QxfSb1` \
-  Bootstraper: `celestia-testnet-boot.01node.com` 
+* [Celestia Decentralization Map](https://metatarz.xyz/maps/celestia)
+##### Endpoints
+* RPC:  [https://celestia-rpc.metatarz.xyz](https://celestia-rpc.metatarz.xyz)
+* API:  [https://celestia-api.metatarz.xyz](https://celestia-api.metatarz.xyz)
+* GRPC: `celestia-grpc.metatarz.xyz:443`
+#### Testnet
+* [Celestia Testnet Decentralization Map](https://metatarz.xyz/maps/mocha-4)
+##### Endpoints
+* RPC:  [https://celestia-testnet-rpc.metatarz.xyz](https://celestia-rpc.metatarz.xyz)
+* API:  [https://celestia-testnet-api.metatarz.xyz](https://celestia-api.metatarz.xyz)
+* GRPC: `celestia-testnet-grpc.metatarz.xyz:443`
+#### Tools
+* [Celestia Node Mapper](https://github.com/metatarzxyz/celestia-node-mapper)
+#### Relayer networks `celestia1ledz626m75u2cq0dxmted4rw6qqg4493qzl9df` [Relayers](https://relayers.smartstake.io/relayer/61377DB87921E312)
+- Axelar
+- Dymension
+- Injective
+- Stride
+- Osmosis
 
 ---
 
+### Contributions by NacionCrypto / Parceros
+#### Spanish educational resources
+* [Blockchain con Legos (Celestia)](https://www.youtube.com/watch?v=6FQHcvNc-p4) — An introduction to Celestia's blockchain architecture using LEGO.
+* [Blockchains Modulares (En vivo desde Medellín)](https://www.youtube.com/watch?v=kku0Pi2utP4) — A recorded community discussion about modular blockchains, including Celestia.
+
+---
+
+### Contributions by [UTSA](https://utsa.gitbook.io/services) & Let's Node
+
+#### Educational resources
+* [Celestia overview (Russian)](https://youtu.be/WdYnK7vPD48)
+* [Celestia overview (English)](https://youtu.be/0Q-uDf3ugWg)
+
+#### Archived node guides
+* [Mainnet Beta guides (historical)](https://utsa.gitbook.io/services/archive/celestia)
+* [Testnet guides (historical)](https://utsa.gitbook.io/services/archive/celestia-testnet)
+
+#### Monitoring
+* [Celestia Grafana dashboard](https://grafana.com/grafana/dashboards/22036-celestia2/) — Dashboard for Celestia node and host metrics.
+
+#### Community
+* [Unofficial Russian-speaking Celestia community](https://t.me/celestiaru)
+* [Let's Node Telegram channel](https://t.me/letskynode)
+* [UTSA Telegram channel](https://t.me/utsa_channel)
+
+---
+
+### [Easy2Stake](https://www.easy2stake.com/)
+#### Snapshots
+* [Celestia mainnet and Mocha snapshots](https://sync.easy2stake.com)
+#### Monitoring
+* [Celestia bridge metrics exporter](https://github.com/easy2stake/celestia-bridge-metrics) — OpenTelemetry collector configuration for exporting bridge metrics to Prometheus.
+
+---
+
+### Contributions by [KYVE](https://www.kyve.network/)
+
+#### Historical datasets
+Check each pool's current status and available heights before using its data.
+* [Celestia blocks and block results](https://app.kyve.network/#/pools/9)
+* [Celestia state-sync snapshot pool](https://app.kyve.network/#/pools/10)
+
+#### Data access tools
+* [KSYNC documentation](https://docs.kyve.network/access-data-sets/ksync/quick-start?source=celestia) — Synchronize Celestia nodes using data available in KYVE pools.
+* [Public BigQuery dataset documentation](https://docs.kyve.network/access-data-sets/data-pipeline/public-bigquery) — Includes the Celestia dataset listing; access requires a Google Cloud account.
+* [Data Load Tool](https://docs.kyve.network/access-data-sets/data-pipeline/data-load-tool) — Load KYVE datasets into PostgreSQL or BigQuery.
+
+---
+
+### Contributions by [kjnodes team](https://kjnodes.com)
+
+#### Tools
+* [Validator Slashboard](https://services.kjnodes.com/mainnet/celestia/slashboard/) — Historical validator slashing data.
+* [Interchain RPC Scanner](https://services.kjnodes.com/mainnet/celestia/public-rpc/) — Public RPC endpoint discovery with downloadable scan results.
+* [DA bridge monitoring stack](https://github.com/kjnodes/celestia-bridge-monitoring) — OpenTelemetry, Prometheus, Grafana, and Alertmanager configuration.
+* [Telegram governance bot](https://services.kjnodes.com/bots/telegram-proposal/) — Setup instructions for proposal notifications.
+
+#### Node services
+* [Mainnet endpoints and peering](https://services.kjnodes.com/mainnet/celestia/)
+* [Archival snapshots](https://services.kjnodes.com/mainnet/celestia/snapshot-archive/)
+* [Pruned snapshots](https://services.kjnodes.com/mainnet/celestia/snapshot/)
+* [Testnet services](https://services.kjnodes.com/testnet/celestia/)
+* [IBC relayer dashboard](https://relayers.smartstake.io/network/TIA)
+
+---
+
+### Contributions by [NakoTurk](https://github.com/okannako)
+
+#### Turkish community
+* [Celestia Türkiye Telegram group](https://t.me/CelestiaTurkey)
+
+#### Historical testnet resources in Turkish
+These resources document earlier testnets and are not current node installation instructions.
+* [Mamaki guides](https://github.com/okannako/celestia-mamaki)
+* [Blockspace Race guides](https://github.com/okannako/celestia-blockspacerace)
+* [Mamaki light-node walkthrough](https://www.youtube.com/watch?v=LQqGYLCL7So)
+* [Blockspace Race light-node walkthrough](https://www.youtube.com/watch?v=dzajavssoV4)
+* [Blockspace Race bridge-node walkthrough](https://www.youtube.com/watch?v=OZh2bN9PmQU)
+
+---
+
+### Contributions by [01node](https://01node.com)
+
+#### Mainnet endpoints
+* [RPC](https://celestia-mainnet-rpc.01node.com)
+* [REST API](https://celestia-mainnet-api.01node.com)
+
+#### Mocha testnet endpoints
+* [RPC](https://celestia-testnet-rpc.01node.com)
+* [REST API](https://celestia-testnet-api.01node.com)
+
+---
