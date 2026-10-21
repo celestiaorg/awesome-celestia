@@ -1418,3 +1418,11 @@ These resources document earlier testnets and are not current node installation 
 * [Stake Hub](https://www.stake-hub.xyz/) — Staking interface with Celestia support.
 
 ---
+
+### Contributions by [CosmoWiz](https://cosmowiz.com/)
+
+#### Tools
+* [Celemon](https://celemon.io/) — Celestia node monitoring.
+* [Celestia network scanner](https://cosmowiz.com/network/celestia) — Public endpoint discovery.
+
+---
