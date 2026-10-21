@@ -114,6 +114,20 @@ An Awesome List of Celestia Resources
 
 ## Node operator contributions
 
+### Validatus
+#### Mainnet
+* [RPC](https://rpc.celestia.validatus.com/)
+* [REST API](https://api.celestia.validatus.com/)
+* [Archive RPC](https://rpc.archive.celestia.validatus.com/)
+* [Archive REST API](https://api.archive.celestia.validatus.com/)
+* [Snapshot directory](https://quicksync.validatus.com/snapshots)
+
+#### Testnet
+* [RPC](https://rpc.celestia-testnet.validatus.com/)
+* [REST API](https://api.celestia-testnet.validatus.com/)
+
+---
+
 ### Contributions by [Citizen Web3](https://citizenweb3.com/)
 #### Tools
 * [ValidatorInfo Celestia overview](https://validatorinfo.com/networks/celestia/overview) — Network and validator analytics. [Source](https://github.com/citizenweb3/validatorinfo).
