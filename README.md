@@ -114,6 +114,87 @@ An Awesome List of Celestia Resources
 
 ## Node operator contributions
 
+### Contributions by [VALIDEXIS](https://validexis.com/)
+#### Tools and operator resources
+* [Celestia platform](https://celestia.validexis.com/) — Network dashboards and operator resources.
+* [Fibre server templates](https://github.com/validexisinfra/Celestia/tree/main/fibre) — Configuration and systemd examples for a separate Fibre host.
+* [Validator and Fibre monitoring](https://github.com/validexisinfra/Celestia/tree/main/monitoring) — Prometheus alert rules and OpenTelemetry configuration examples.
+
+---
+
+### Contributions by [BonyNode](https://bonynode.online/)
+#### Mainnet
+* [Services and guides](https://bonynode.online/services/mainnet/celestia/)
+* [RPC](https://celestia-mainnet-rpc.bonynode.online/)
+* [REST API](https://celestia-mainnet-api.bonynode.online/)
+
+#### Testnet
+* [Services and guides](https://bonynode.online/services/testnet/celestia/)
+* [RPC](https://celestia-testnet-rpc.bonynode.online/)
+* [REST API](https://celestia-testnet-api.bonynode.online/)
+
+---
+
+### [POSTHUMAN](https://posthuman.digital/)
+
+### Technical Contributions
+#### Mainnet
+##### [Services for Celestia](https://nodes.posthuman.digital/chains/celestia)
+- **Installation Guide**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=installation-guide)
+- **Celestia Lightnode Setup Tutorial**: [Link](https://github.com/Validator-POSTHUMAN/contributions/blob/main/celestia%20light%20node%20setup%20tutorial.md)
+- **Celestia Bridge Node Setup**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=bridge-node-setup)
+- **Bridge node RPC**:  [Link](https://bridge.celestia-mainnet.posthuman.digital)
+- **Bridge node id**: `12D3KooWCSUWKNQxB6mb4Mb8VKAmvh9uituqBj2G6SnLKdhy8q2m` 
+- **Celestia Full Node Setup**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=full-node-setup)
+- **State Sync**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=state-sync)  
+- **Celestia on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/celestia)
+- **Snapshots**: [Link](https://nodes.posthuman.digital/chains/celestia?tab=snapshots)
+
+##### Endpoints
+- **RPC**: [https://rpc.celestia-mainnet.posthuman.digital](https://rpc.celestia-mainnet.posthuman.digital) 
+- **RPC-archival**: [https://rpc.celestia-mainnet-archive.posthuman.digital](https://rpc.celestia-mainnet-archive.posthuman.digital)
+- **REST**: [https://rest.celestia-mainnet.posthuman.digital](https://rest.celestia-mainnet.posthuman.digital) 
+- **REST-archival**: [https://rest.celestia-mainnet-archive.posthuman.digital](https://rest.celestia-mainnet-archive.posthuman.digital)
+- **gRPC**: [https://grpc.celestiamainnet.posthuman.digital](https://grpc.celestiamainnet.posthuman.digital)  
+- **gRPC-archival**: [https://grpc.celestia-mainnet-archive.posthuman.digital](https://grpc.celestia-mainnet-archive.posthuman.digital)
+- **Peer**: `cd9f852141cd6f78e9443cea389911a6f0a5df72@8.52.247.252:26656`  
+
+##### Block Explorer
+- https://explorer.posthuman.digital/celestia (alpha version, in the process of the development)
+ 
+##### Restake
+- [Celestia restake](https://restake.app/celestia/celestiavaloper1snun9qqk9eussvyhkqm03lz6f265ekhnnlw043)
+
+#### Testnet
+##### [Services for Celestia testnet](https://nodes.posthuman.digital/chains/celestia](https://nodes.posthuman.digital/chains/celestia-testnet)
+- **Installation Guide**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=installation-guide)
+- **Celestia Full Node Setup Tutorial**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=full-node-setup)
+- **Celestia Lightnode Setup Tutorial**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=light-node-setup)
+- **Celestia Bridge Node Setup**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=bridge-node-setup)
+- **Bridge node RPC**:  [Link](https://bridge.celestia-testnet.posthuman.digital)
+- **Bridge node id**: `12D3KooWCSUWKNQxB6mb4Mb8VKAmvh9uituqBj2G6SnLKdhy8q2m` 
+- **State Sync**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=state-sync)  
+- **Celestia on**: [POSTHUMAN Nodes Tools](https://nodes.posthuman.digital/chains/celestia-testnet)
+- **Snapshots**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=snapshots)
+- **One Liner**: [Link](https://nodes.posthuman.digital/chains/celestia-testnet?tab=one-liner)
+
+##### Testnet Endpoints
+- **RPC**: [https://rpc.celestia-testnet.posthuman.digital](https://rpc.celestia-testnet.posthuman.digital) 
+- **RPC-archival**: [https://rpc.celestia-testnet-archive.posthuman.digital](https://rpc.celestia-testnet-archive.posthuman.digital)
+- **REST**: [https://rest.celestia-testnet.posthuman.digital](https://rest.celestia-testnet.posthuman.digital) 
+- **REST-archival**: [https://rpc.celestia-testnet-archive.posthuman.digital](https://rpc.celestia-testnet-archive.posthuman.digital)
+- **gRPC**: [https://grpc.celestia-testnet.posthuman.digital](https://grpc.celestia-testnet.posthuman.digital)  
+- **gRPC-archival**: [https://rpc.celestia-testnet-archive.posthuman.digital](https://rpc.celestia-testnet-archive.posthuman.digital)
+- **Peer**: `f57805e824e984467f8b1f2560a5ef4c80077ed5@207.121.49.100:11656`
+
+##### Testnet Block Explorer
+- https://explorer.posthuman.digital/celestia-testnet (alpha version, in the process of the development)
+
+### Community and Marketing Contributions 
+It's too big list, that can be found [here](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Celestia.md) in the tab "Humanitarian Contributions"
+
+---
+
 ### [StakingCabin](https://stakingcabin.com)
 #### Mainnet
 ##### [Services(Snapshot, State-sync, Installation Guide)](https://www.stakingcabin.com/service/celestia)
@@ -175,6 +256,8 @@ celestia1q6cc9u0x5r3fkjcex0rgxee5qlu86w8rxq438l
 * RPC:  [https://rpc-1.testnet.celestia.nodes.guru](https://rpc-1.testnet.celestia.nodes.guru)
 * API:  [https://api-1.testnet.celestia.nodes.guru](https://api-1.testnet.celestia.nodes.guru)
 * GRPC: `grpc-1.testnet.celestia.nodes.guru:10790`
+#### Documentation
+* [Set up a DA node with on-the-fly ZFS compression](https://github.com/celestiaorg/docs/pull/1694)
 
 ---
 
@@ -239,15 +322,14 @@ https://telegra.ph/Content-contributions-for-Celestia-by-cryptomolot-07-02
 
 ### Contributions by [Lavender.Five Nodes](https://lavenderfive.com)
 #### Mainnet
-* Services(Snapshot, State-sync, Installation Guide): https://services.lavenderfive.com/mainnet/celestia
-* RPC: https://celestia-rpc.lavenderfive.com:443
-* gRPC: celestia-grpc.lavenderfive.com:443
-* API: https://celestia-api.lavenderfive.com:443
-#### Testnet
-* Services(Snapshot, State-sync, Installation Guide): https://services.lavenderfive.com/testnet/celestia
-* RPC: https://testnet-celestia-rpc.lavenderfive.com:443
-* gRPC: testnet-celestia-grpc.lavenderfive.com:443
-* API: https://testnet-celestia-api.lavenderfive.com:443
+* RPC: https://rpc.lavenderfive.com/celestia
+* gRPC: `celestia.lavenderfive.com:443`
+* REST API: https://rest.lavenderfive.com/celestia
+
+#### Tools
+* [Service directory](https://www.lavenderfive.com/tools)
+* [Node monitoring configuration](https://github.com/LavenderFive/node-monitoring) — Prometheus, Grafana, and alerting configuration.
+* [Tenderduty fork](https://github.com/LavenderFive/tenderduty) — Validator monitoring and notifications.
 
 ---
 
@@ -285,6 +367,9 @@ https://telegra.ph/Content-contributions-for-Celestia-by-cryptomolot-07-02
 ### ITRocket
 #### Mainnet
 #### Tools
+* [Validators Performance Dashboard](https://itrocket.net/services/mainnet/celestia/analytics/validators-performance/)
+* [Consensus Signal Tracker](https://itrocket.net/services/mainnet/celestia/analytics/consensus-signal-tracker/)
+* [Consensus Analytics](https://itrocket.net/services/mainnet/celestia/analytics/consensus/)
 * [Decentralization Analytics](https://itrocket.net/services/mainnet/celestia/decentralization/) #_validators, RPC, and all nodes_
 * [Governance Bot](https://t.me/itrocket_mainnet_proposal_bot) #_with status & UPD timer notifications_
 * [Peer scanner](https://itrocket.net/services/mainnet/celestia/#peer) #_with real time peer uptime verification_
@@ -315,6 +400,9 @@ https://telegra.ph/Content-contributions-for-Celestia-by-cryptomolot-07-02
 
 #### Testnet
 #### Tools
+* [Validators Performance Dashboard](https://itrocket.net/services/testnet/celestia/analytics/validators-performance/)
+* [Consensus Signal Tracker](https://itrocket.net/services/testnet/celestia/analytics/consensus-signal-tracker/)
+* [Consensus Analytics](https://itrocket.net/services/testnet/celestia/analytics/consensus/)
 * [Decentralization Analytics](https://itrocket.net/services/testnet/celestia/decentralization/) #_validators, RPC, and all nodes_
 * [Governance Bot](https://t.me/itrocket_testnet_proposal_bot) #_with status & UPD timer notifications_
 * [Peer scanner](https://itrocket.net/services/testnet/celestia/#peer) #_with real time peer uptime verification_
@@ -411,9 +499,9 @@ Examples:
 ---
 
 ### Smart Stake
-* [Smart Stake Analytics](https://analytics.smartstake.io/celestia) - validator, network, richlists, and decentralization analytics for Celestia
-* [Decentralization Analytics](https://decentralization.smartstake.io) - decentralization analytics for 35+ networks
-* [Relayer Analytics](https://analytics.smartstake.io/celestia) - IBC Relayer analytics for Celestia Relayers and Relayers contributing to 100+ other networks
+* [Smart Stake Analytics](https://analytics.smartstake.io/celestia) - validator, network, richlist, and decentralization analytics for Celestia.
+* [Interchain Analytics](https://analytics.smartstake.io) - network and token analytics across the interchain.
+* [Relayer Analytics](https://relayers.smartstake.io/network/TIA) - IBC relayer analytics for Celestia.
 
 ---
 
@@ -600,12 +688,7 @@ https://testnet.celestia.explorers.guru/validator/celestiavaloper16kzqyl6rf8ph38
 #### Mainnet
 ##### Snapshots
 - Pruning node snapshot(Every 6 hours): [https://services.contributiondao.com/mainnet/celestia/snapshots](https://services.contributiondao.com/mainnet/celestia/snapshots)
-- Archive node snapshot(Every day): [https://services.contributiondao.com/mainnet/celestia/archive-snapshots](https://services.contributiondao.com/mainnet/celestia/archive-snapshots)
-- Bridge node snapshot(Every 5 days): [https://services.contributiondao.com/mainnet/celestia/bridge-snapshots](https://services.contributiondao.com/mainnet/celestia/bridge-snapshots)
 ##### Endpoint
-- RPC URL Endpoint (Archive Node): [https://celestia-archive-mainnet-rpc.contributiondao.com/](https://celestia-archive-mainnet-rpc.contributiondao.com/)
-- API URL Endpoint (Archive Node): [https://celestia-archive-mainnet-api.contributiondao.com/](https://celestia-archive-mainnet-api.contributiondao.com/)
-- GRPC URL Endpoint (Archive Node): [https://celestia-archive-mainnet-grpc.contributiondao.com/](https://celestia-archive-mainnet-grpc.contributiondao.com/)
 - RPC URL Endpoint: [https://celestia-rpc.contributiondao.com](https://celestia-rpc.contributiondao.com)
 - API URL Endpoint: [https://celestia-api.contributiondao.com](https://celestia-api.contributiondao.com)
 ##### Seed/Live peers
@@ -635,18 +718,8 @@ https://testnet.celestia.explorers.guru/validator/celestiavaloper16kzqyl6rf8ph38
 * [Mobile Wallet](https://cosmostation.io/products/cosmostation_mobile)
 * [Web Extension](https://cosmostation.io/products/cosmostation_extension)
 
-#### Mainnet
-##### Snapshots
-- [Pruning node snapshot(Every day)](https://snapshot.cosmostation.io/celestia/)
-
-##### Peers
-- Peer: d364357f55e37a038d9dbd143448ea792bb8edcf@15.235.115.156:16400
-- Bridge: `12D3KooWDnc9NAjoqN1f1LuVvsmKgFzFsu1KX99jqKSXDNUS6SJz`
-
-#### Testnet
-##### Peers
-- Peer: 20b4f9207cdc9d0310399f848f057621f7251846@158.247.233.222:10000
-- Bridge: `12D3KooWDBrsgL6KpbbQK4fgBwCjMMVT5rFpYbvKbzLSzF9gexje`
+#### Education
+* [Celestia explainer with Nick White](https://www.youtube.com/watch?v=rc6SKF2MsG0) — Korean subtitles.
 
 ---
 
@@ -713,9 +786,9 @@ https://github.com/DasRasyo/Celestia-mocha-4
 
 ### Wavefive
 #### Mainnet
-1. Archive RPC [https://celestia-rpc.0xcryptovestor.com]
-2. Archive gRPC [https://celestia-grpc.0xcryptovestor.com]
-3. Archive API [https://celestia-api.0xcryptovestor.com]
+1. Archive RPC [https://celestia-rpc.wavefive.xyz]
+2. Archive gRPC (access on request) [https://celestia-grpc.wavefive.xyz]
+3. Archive API [https://celestia-api.wavefive.xyz]
 
 #### Testnet
 1. RPC [https://celestia-testnet-rpc.0xcryptovestor.com]
@@ -936,9 +1009,9 @@ Speaker French Event WEB3connect :
 * Kyve' [Celestia Data pools](https://app.kyve.network/#/pools/9/validators)
 
 #### Testnet
-##### Bootstrap node
-- Peer: `27971306bc55695fa7ca38b14df9181043aab5a1@peer.celestia.testnet.node75.org:26656`
-- Seed: `86bd5cb6e762f673f1706e5889e039d5406b4b90@seed.celestia.testnet.node75.org:37116`
+* [Mocha service directory and peering information](https://services.node75.org/chains/celestia-testnet)
+* [Mocha faucet](https://faucet.celestia.node75.org/)
+* DA RPC: `https://public-da-rpc.celestia.testnet.node75.org:443`
 
 ---
 
@@ -1111,11 +1184,8 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 ---
 
 ### Contributions by [Decentrio](https://decentrio.ventures/)
-### Mainnet
-* Services(Snapshot, Installation Guide): https://decentrio.ventures/services/celestia
-* RPC: https://celestia.rpc.decentrio.ventures:443
-* gRPC: celestia-grpc.lavenderfive.com:443
-* API: https://celestia.api.decentrio.ventures:443
+#### Tools
+* [All-in-one validator services bot](https://github.com/decentrio/aio-bot) — Open-source validator monitoring and alerting for Cosmos SDK networks.
 
 ### Code Contributions
 * We are working with Rollkit to assist them with various development, our team won the best Development Tooling Prize (https://x.com/RollkitDev/status/1798007102612656476)
@@ -1226,165 +1296,160 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 
 ---
 
-### Contributions by [VALIDEXIS](https://validexis.com/)
-
-### Security & Monitoring  
-#### Validator Security  
-- [Enhancing SSH Security for a Validator](https://services.validexis.com/validator-security-our-approach-and-protection-measures/enhancing-ssh-security-for-a-validator) — Harden SSH access to reduce unauthorized login attempts.  
-- [TMKMS for Remote Signing](https://services.validexis.com/validator-security-our-approach-and-protection-measures/tmkms-for-remote-signing) — Use Tendermint Key Management System for secure remote signing.  
-- [Horcrux](https://services.validexis.com/validator-security-our-approach-and-protection-measures/horcrux) — Implement threshold signing by splitting validator keys.  
-- [Protecting Validator from DDoS Attacks](https://services.validexis.com/validator-security-our-approach-and-protection-measures/protecting-validator-from-ddos-attacks) — Set up defenses against network overloads and attacks.  
-- [Multi-Factor Authentication (MFA) for a Validator](https://services.validexis.com/validator-security-our-approach-and-protection-measures/multi-factor-authentication-mfa-for-a-validator) — Add an extra layer of identity verification.
-#### Monitoring  
-- [Node-exporter + Prometheus + Grafana](https://services.validexis.com/monitoring/node-exporter-+-prometheus-+-grafana) — Collect and visualize metrics with Prometheus & Grafana stack.  
-- [TenderDuty for Node Monitoring](https://services.validexis.com/monitoring/tenderduty-for-node-monitoring) — Receive alerts when your validator misses blocks or goes offline.
-
-### Guides & Tutorials  
-#### Validator Node Guides  
-- Install → [Testnet](https://services.validexis.com/testnets/celestia/validator-node-installation) | [Mainnet](https://services.validexis.com/mainnets/celestia/validator-node-installation)  
-- Upgrade → [Testnet](https://services.validexis.com/testnets/celestia/validator-node-installation/upgrade) | [Mainnet](https://services.validexis.com/mainnets/celestia/validator-node-installation/upgrade)  
-- Useful Commands → [Testnet](https://services.validexis.com/testnets/celestia/validator-node-installation/useful-commands) | [Mainnet](https://services.validexis.com/mainnets/celestia/validator-node-installation/useful-commands)
-#### Consensus Full Node Guides  
-- Install → [Testnet](https://services.validexis.com/testnets/celestia/full-node-installation) | [Mainnet](https://services.validexis.com/mainnets/celestia/full-node-installation)  
-- Upgrade → [Testnet](https://services.validexis.com/testnets/celestia/full-node/upgrade) | [Mainnet](https://services.validexis.com/mainnets/celestia/full-node-installation/upgrade)  
-- Useful Commands → [Testnet](https://services.validexis.com/testnets/celestia/full-node-installation/useful-commands) | [Mainnet](https://services.validexis.com/mainnets/celestia/full-node-installation/useful-commands)
-#### Bridge Node Guides  
-- Install → [Testnet](https://services.validexis.com/testnets/celestia/bridge-node-installation) | [Mainnet](https://services.validexis.com/mainnets/celestia/bridge-node-installation)  
-- Upgrade → [Testnet](https://services.validexis.com/testnets/celestia/bridge-node-installation/upgrade) | [Mainnet](https://services.validexis.com/mainnets/celestia/bridge-node-installation/upgrade)  
-- Useful Commands → [Testnet](https://services.validexis.com/testnets/celestia/bridge-node-installation/useful-commands) | [Mainnet](https://services.validexis.com/mainnets/celestia/bridge-node-installation/useful-commands)
-#### Light Node Guides  
-- Install → [Testnet](https://services.validexis.com/testnets/celestia/light-node-installation) | [Mainnet](https://services.validexis.com/mainnets/celestia/light-node-installation)  
-- Upgrade → [Testnet](https://services.validexis.com/testnets/celestia/light-node-installation/upgrade) | [Mainnet](https://services.validexis.com/mainnets/celestia/light-node-installation/upgrade)  
-- Useful Commands → [Testnet](https://services.validexis.com/testnets/celestia/light-node-installation/useful-commands) | [Mainnet](https://services.validexis.com/mainnets/celestia/light-node-installation/useful-commands)
-
-### Automation & Scripts  
-#### Celestia Setup Scripts  
- **Validator Node Setup** → [Testnet](https://github.com/validexisinfra/Celestia?tab=readme-ov-file#%EF%B8%8F-validator-node-setup-1) | [Mainnet](https://github.com/validexisinfra/Celestia?tab=readme-ov-file#%EF%B8%8F-validator-node-setup-1)   
- **Consensus Full Node Setup** → [Testnet](https://github.com/validexisinfra/Celestia?tab=readme-ov-file#%EF%B8%8F-consensus-full-node-setup) | [Mainnet](https://github.com/validexisinfra/Celestia?tab=readme-ov-file#%EF%B8%8F-consensus-full-node-setup-1)  
- **Bridge Node Setup** → [Testnet](https://github.com/validexisinfra/Celestia?tab=readme-ov-file#%EF%B8%8F-consensus-full-node-setup-1) | [Mainnet](https://github.com/validexisinfra/Celestia?tab=readme-ov-file#%EF%B8%8F-bridge-node-setup-1)  
-#### Celestia Upgrade Scripts  
- **Upgrade Celestia App** → [Testnet](https://github.com/validexisinfra/Celestia?tab=readme-ov-file#-upgrade-testnet-app) | [Mainnet](https://github.com/validexisinfra/Celestia?tab=readme-ov-file#-upgrade-mainnet-app)  
- **Upgrade Node** → [Testnet](https://github.com/validexisinfra/Celestia?tab=readme-ov-file#-upgrade-mainnet-app) | [Mainnet](https://github.com/validexisinfra/Celestia?tab=readme-ov-file#-upgrade-mainnet-bridge)  
-
-### Networks & Endpoints  
-### Mainnet
-#### Endpoints
-- **API**: [`https://api-celestia-mainnet.validexis.com/`](https://api-celestia-mainnet.validexis.com/)  
-- **RPC**: [`https://rpc-celestia-mainnet.validexis.com/`](https://rpc-celestia-mainnet.validexis.com/)  
-- **gRPC**: `grpc-celestia-mainnet.validexis.com:443`
-#### Persistent Peer
-- `a48c5bb03ff416f6cb0245e0aa42523cc6c9f430@peer-celestia-mainnet.validexis.com:26656`
-#### Seed
-- `0074b06d366fe8e1d6a2a53b6752bd55e33267f6@seed-celestia-mainnet.validexis.com:37656`
-#### AddrBook (updated hourly)
-```bash
-wget -O $HOME/.celestia-app/config/addrbook.json https://mainnets1.validexis.com/celestia/addrbook.json
-```
-#### Genesis File
-```bash
-wget -O $HOME/.celestia-app/config/genesis.json https://mainnets1.validexis.com/celestia/genesis.json
-```
-#### State Syns
-[`https://services.validexis.com/mainnets/celestia/state-syns`](https://services.validexis.com/mainnets/celestia/state-syns)
-
-### Testnet
-#### Endpoints
-- **API**: [`https://api-celestia-testnet.validexis.com/`](https://api-celestia-testnet.validexis.com/)  
-- **RPC**: [`https://rpc-celestia-testnet.validexis.com/`](https://rpc-celestia-testnet.validexis.com/)  
-- **gRPC**: `grpc-celestia-testnet.validexis.com:443`
-#### Persistent Peer
-- `fac5acd6540dd788dc804c8bd307b5169e666e68@peer-celestia-testnet.validexis.com:26656`
-#### Seed
-- `30a8f6668043544ee2d9af9369f0f68ff8cf2c43@seed-celestia-testnet.validexis.com:26656`
-#### AddrBook (updated hourly)
-```bash
-wget -O $HOME/.celestia-app/config/addrbook.json https://testnets.validexis.com/celestia/addrbook.json
-```
-####  Genesis File
-```bash
-wget -O $HOME/.celestia-app/config/genesis.json https://testnets.validexis.com/celestia/genesis.json
-```
-#### State Syns
-[`https://services.validexis.com/testnets/celestia/state-syns`](https://services.validexis.com/mainnets/celestia/state-syns)
-
-### Snapshots
+### Contributions by [Metatarz](https://metatarz.xyz)
 #### Mainnet
-Available types at  
-[`https://services.validexis.com/mainnets/celestia/snapshot`](https://services.validexis.com/mainnets/celestia/snapshot):
-- **Pruned Node Snapshot** — faster sync, minimal storage  
-- **Archive Node Snapshot** — full history, for indexers  
-- **Bridge Node Snapshot** — for Celestia Bridge nodes
+* [Celestia Decentralization Map](https://metatarz.xyz/maps/celestia)
+##### Endpoints
+* RPC:  [https://celestia-rpc.metatarz.xyz](https://celestia-rpc.metatarz.xyz)
+* API:  [https://celestia-api.metatarz.xyz](https://celestia-api.metatarz.xyz)
+* GRPC: `celestia-grpc.metatarz.xyz:443`
 #### Testnet
-Available types at  
-[`https://services.validexis.com/testnets/celestia/snapshot`](https://services.validexis.com/testnets/celestia/snapshot):
-- **Pruned Node Snapshot** — faster sync, minimal storage  
-- **Archive Node Snapshot** — full history, for indexers  
-- **Bridge Node Snapshot** — for Celestia Bridge nodes
+* [Celestia Testnet Decentralization Map](https://metatarz.xyz/maps/mocha-4)
+##### Endpoints
+* RPC:  [https://celestia-testnet-rpc.metatarz.xyz](https://celestia-rpc.metatarz.xyz)
+* API:  [https://celestia-testnet-api.metatarz.xyz](https://celestia-api.metatarz.xyz)
+* GRPC: `celestia-testnet-grpc.metatarz.xyz:443`
+#### Tools
+* [Celestia Node Mapper](https://github.com/metatarzxyz/celestia-node-mapper)
+#### Relayer networks `celestia1ledz626m75u2cq0dxmted4rw6qqg4493qzl9df` [Relayers](https://relayers.smartstake.io/relayer/61377DB87921E312)
+- Axelar
+- Dymension
+- Injective
+- Stride
+- Osmosis
 
-### IBC Relayer  
-#### Setup Guide  
--  [Connecting Celestia to IBC with Hermes](https://services.validexis.com/setting-up-connection-to-ibc-with-hermes)  
-  Detailed tutorial on configuring Hermes relayer to establish IBC connectivity for your Celestia node.
-#### Relayer Status  
--  [Validexis Relayer on SmartStake](https://relayers.smartstake.io/relayer/34DA4858CF0FBA77)  
-  Real-time IBC relaying metrics, channel statuses, and transaction flow from Validexis.
+---
 
-### Bots & Notifications  
-We present to you [**Celestia UltraBot**](https://validexis.com/celestiaultrabot) - a versatile tool for participants in the Celestia ecosystem. The bot provides real-time information on staking, validator monitoring, and AI-powered solutions.  
-With Celestia UltraBot, you can:  
-- Track validator performance  
-- Receive detailed earnings reports  
-- Manage wallet balances  
-- Get instant notifications about key network events  
-- Utilize AI support for technical issues  
-- Stay updated on governance proposals and network news  
-All features are easily accessible via Telegram, ensuring seamless access to essential information anytime!
+### Contributions by NacionCrypto / Parceros
+#### Spanish educational resources
+* [Blockchain con Legos (Celestia)](https://www.youtube.com/watch?v=6FQHcvNc-p4) — An introduction to Celestia's blockchain architecture using LEGO.
+* [Blockchains Modulares (En vivo desde Medellín)](https://www.youtube.com/watch?v=kku0Pi2utP4) — A recorded community discussion about modular blockchains, including Celestia.
 
-#### 🎉 Celestia UltraBot Twitter Challenge
-Participate in the [**Celestia UltraBot Twitter Challenge**](https://services.validexis.com/celestiaultrabot/contest) – a community contest designed to promote engagement with the Celestia ecosystem.  
-🪙 **Prize Pool:** 1000 TIA  
- **What You Can Do to Win:**  
-- Use Celestia UltraBot actively  
-- Share your experience and insights on Twitter  
-- Invite friends to use the bot  
-- Complete bonus tasks to earn more points  
-Top participants will be rewarded based on their activity and creativity. This is a great opportunity to both support the network and earn rewards!
-Learn more and join the challenge here: [https://services.validexis.com/celestiaultrabot/contest](https://services.validexis.com/celestiaultrabot/contest)
+---
 
-###  Celestia Bridge Explorer  
-#### Dashboard  
-- [Celestia Bridge Explorer](https://celestiabridge.com/)  
-  **Celestia Bridge Explorer** is a web-based dashboard that visualizes the performance, uptime, sync status, geographic distribution, and upgrade adoption of Celestia bridge nodes using open OTEL metrics.  
-  Built for both the community and the Celestia core team, it enables real-time monitoring of bridge reliability, upgrade responsiveness, and overall network health in a single, accessible interface.
-#### Overview
-- Tracks **uptime**, **sync status**, and **version adoption** across all bridge nodes.
-- Shows **decentralization trends** by provider, country, region, and city.
-- Offers real-time insight into **performance metrics** like latency, memory usage, and GC pause.
-#### Upgrades
-- Displays current **version status** and **24h adoption rate** after each release.
-- Links each release to an **OTEL snapshot** for transparent, time-consistent upgrade tracking.
-- Useful for assessing upgrade responsiveness — especially important for **Foundation Delegation**.
-#### Node Details
-- Full technical profiles for each bridge node:
-  - Software version, uptime, sync status.
-  - Hosting provider, geographic location.
-  - Real-time latency and performance charts.
-- Includes upgrade history with 24h adoption markers and snapshot references.
-- Node scoring across **reliability**, **performance**, and **decentralization**.
-#### Analytics
-- Global analytics view of bridge network health.
-- Metrics include:
-  - Memory usage  
-  - Latency & GC pause  
-  - Missed blocks  
-  - Staked tokens
-- Integrated with **Telegram alerts** (via CelestiaUltraBot) for validator activity, wallet transactions, bridge performance, and staking events.
+### Contributions by [UTSA](https://utsa.gitbook.io/services) & Let's Node
 
-### X Activities  
--  [Celestia Bridges: A New Era of Scalability & Security](https://x.com/validexis/status/1894354657708786121)  
-  Discover how Celestia is revolutionizing blockchain scalability with innovative bridge solutions.
--  [Effortless Validator Management with CelestiaUltraBot](https://x.com/validexis/status/1894654995074592833)  
-  Maximize your staking experience using our unique bot designed for seamless validator operations.
--  [Effortless Reward Tracking with CelestiaUltraBot](https://x.com/validexis/status/1895033853309227323)  
-  Easily monitor your balance and gain insights into your current and projected rewards.
+#### Educational resources
+* [Celestia overview (Russian)](https://youtu.be/WdYnK7vPD48)
+* [Celestia overview (English)](https://youtu.be/0Q-uDf3ugWg)
 
+#### Archived node guides
+* [Mainnet Beta guides (historical)](https://utsa.gitbook.io/services/archive/celestia)
+* [Testnet guides (historical)](https://utsa.gitbook.io/services/archive/celestia-testnet)
+
+#### Monitoring
+* [Celestia Grafana dashboard](https://grafana.com/grafana/dashboards/22036-celestia2/) — Dashboard for Celestia node and host metrics.
+
+#### Community
+* [Unofficial Russian-speaking Celestia community](https://t.me/celestiaru)
+* [Let's Node Telegram channel](https://t.me/letskynode)
+* [UTSA Telegram channel](https://t.me/utsa_channel)
+
+---
+
+### [Easy2Stake](https://www.easy2stake.com/)
+#### Snapshots
+* [Celestia mainnet and Mocha snapshots](https://sync.easy2stake.com)
+#### Monitoring
+* [Celestia bridge metrics exporter](https://github.com/easy2stake/celestia-bridge-metrics) — OpenTelemetry collector configuration for exporting bridge metrics to Prometheus.
+
+---
+
+### Contributions by [KYVE](https://www.kyve.network/)
+
+#### Historical datasets
+Check each pool's current status and available heights before using its data.
+* [Celestia blocks and block results](https://app.kyve.network/#/pools/9)
+* [Celestia state-sync snapshot pool](https://app.kyve.network/#/pools/10)
+
+#### Data access tools
+* [KSYNC documentation](https://docs.kyve.network/access-data-sets/ksync/quick-start?source=celestia) — Synchronize Celestia nodes using data available in KYVE pools.
+* [Public BigQuery dataset documentation](https://docs.kyve.network/access-data-sets/data-pipeline/public-bigquery) — Includes the Celestia dataset listing; access requires a Google Cloud account.
+* [Data Load Tool](https://docs.kyve.network/access-data-sets/data-pipeline/data-load-tool) — Load KYVE datasets into PostgreSQL or BigQuery.
+
+---
+
+### Contributions by [kjnodes team](https://kjnodes.com)
+
+#### Tools
+* [Validator Slashboard](https://services.kjnodes.com/mainnet/celestia/slashboard/) — Historical validator slashing data.
+* [Interchain RPC Scanner](https://services.kjnodes.com/mainnet/celestia/public-rpc/) — Public RPC endpoint discovery with downloadable scan results.
+* [DA bridge monitoring stack](https://github.com/kjnodes/celestia-bridge-monitoring) — OpenTelemetry, Prometheus, Grafana, and Alertmanager configuration.
+* [Telegram governance bot](https://services.kjnodes.com/bots/telegram-proposal/) — Setup instructions for proposal notifications.
+
+#### Node services
+* [Mainnet endpoints and peering](https://services.kjnodes.com/mainnet/celestia/)
+* [Archival snapshots](https://services.kjnodes.com/mainnet/celestia/snapshot-archive/)
+* [Pruned snapshots](https://services.kjnodes.com/mainnet/celestia/snapshot/)
+* [Testnet services](https://services.kjnodes.com/testnet/celestia/)
+* [IBC relayer dashboard](https://relayers.smartstake.io/network/TIA)
+
+---
+
+### Contributions by [NakoTurk](https://github.com/okannako)
+
+#### Turkish community
+* [Celestia Türkiye Telegram group](https://t.me/CelestiaTurkey)
+
+#### Historical testnet resources in Turkish
+These resources document earlier testnets and are not current node installation instructions.
+* [Mamaki guides](https://github.com/okannako/celestia-mamaki)
+* [Blockspace Race guides](https://github.com/okannako/celestia-blockspacerace)
+* [Mamaki light-node walkthrough](https://www.youtube.com/watch?v=LQqGYLCL7So)
+* [Blockspace Race light-node walkthrough](https://www.youtube.com/watch?v=dzajavssoV4)
+* [Blockspace Race bridge-node walkthrough](https://www.youtube.com/watch?v=OZh2bN9PmQU)
+
+---
+
+### Contributions by [01node](https://01node.com)
+
+#### Mainnet endpoints
+* [RPC](https://celestia-mainnet-rpc.01node.com)
+* [REST API](https://celestia-mainnet-api.01node.com)
+
+#### Mocha testnet endpoints
+* [RPC](https://celestia-testnet-rpc.01node.com)
+* [REST API](https://celestia-testnet-api.01node.com)
+
+---
+
+### Contributions by [ChainSafe Systems](https://chainsafe.io)
+
+#### Software
+* [go-schnorrkel](https://github.com/ChainSafe/go-schnorrkel) — Go implementation of the sr25519 signature algorithm; listed as an indirect dependency in [this Celestia App revision](https://github.com/celestiaorg/celestia-app/blob/f217064d3d90acccf8a3d3f91f444beb8dd84ee7/go.mod#L50).
+
+#### Merged CIP contributions
+* [Reduce inflation](https://github.com/celestiaorg/CIPs/pull/249)
+* [Prevent automatic reward claiming](https://github.com/celestiaorg/CIPs/pull/251)
+* [Lockup accounts and staking rewards](https://github.com/celestiaorg/CIPs/pull/253)
+
+---
+
+### Contributions by [OriginStake](https://originstake.com)
+
+#### Education
+* [What is Data Availability?](https://insight.originstake.com/celestia/what-is-data-availability-the-key-to-scalable-secure-blockchain/) — Introductory article published in December 2024.
+
+---
+
+### Contributions by [Everstake](https://everstake.com)
+
+#### Research
+* [Celestia staking insights and analysis: 2024 annual report](https://everstake.com/resources/crypto-reports/celestia-staking-insights-and-analysis-2024-annual-report) — Historical staking and ecosystem analysis for 2024.
+
+---
+
+### Contributions by [Kleomedes](https://kleomedes.cloud/)
+
+#### Tools
+* [Stake Hub](https://www.stake-hub.xyz/) — Staking interface with Celestia support.
+
+---
+
+### Contributions by [CosmoWiz](https://cosmowiz.com/)
+
+#### Tools
+* [Celemon](https://celemon.io/) — Celestia node monitoring.
+* [Celestia network scanner](https://cosmowiz.com/network/celestia) — Public endpoint discovery.
+
+---
