@@ -1411,3 +1411,10 @@ These resources document earlier testnets and are not current node installation 
 * [Celestia staking insights and analysis: 2024 annual report](https://everstake.com/resources/crypto-reports/celestia-staking-insights-and-analysis-2024-annual-report) — Historical staking and ecosystem analysis for 2024.
 
 ---
+
+### Contributions by [Kleomedes](https://kleomedes.cloud/)
+
+#### Tools
+* [Stake Hub](https://www.stake-hub.xyz/) — Staking interface with Celestia support.
+
+---
