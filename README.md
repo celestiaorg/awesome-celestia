@@ -1397,3 +1397,10 @@ These resources document earlier testnets and are not current node installation 
 * [Lockup accounts and staking rewards](https://github.com/celestiaorg/CIPs/pull/253)
 
 ---
+
+### Contributions by [OriginStake](https://originstake.com)
+
+#### Education
+* [What is Data Availability?](https://insight.originstake.com/celestia/what-is-data-availability-the-key-to-scalable-secure-blockchain/) — Introductory article published in December 2024.
+
+---
