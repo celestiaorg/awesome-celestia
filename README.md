@@ -114,6 +114,19 @@ An Awesome List of Celestia Resources
 
 ## Node operator contributions
 
+### Contributions by [BonyNode](https://bonynode.online/)
+#### Mainnet
+* [Services and guides](https://bonynode.online/services/mainnet/celestia/)
+* [RPC](https://celestia-mainnet-rpc.bonynode.online/)
+* [REST API](https://celestia-mainnet-api.bonynode.online/)
+
+#### Testnet
+* [Services and guides](https://bonynode.online/services/testnet/celestia/)
+* [RPC](https://celestia-testnet-rpc.bonynode.online/)
+* [REST API](https://celestia-testnet-api.bonynode.online/)
+
+---
+
 ### [POSTHUMAN](https://posthuman.digital/)
 
 ### Technical Contributions
