@@ -1404,3 +1404,10 @@ These resources document earlier testnets and are not current node installation 
 * [What is Data Availability?](https://insight.originstake.com/celestia/what-is-data-availability-the-key-to-scalable-secure-blockchain/) — Introductory article published in December 2024.
 
 ---
+
+### Contributions by [Everstake](https://everstake.com)
+
+#### Research
+* [Celestia staking insights and analysis: 2024 annual report](https://everstake.com/resources/crypto-reports/celestia-staking-insights-and-analysis-2024-annual-report) — Historical staking and ecosystem analysis for 2024.
+
+---
