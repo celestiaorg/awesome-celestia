@@ -992,9 +992,9 @@ Speaker French Event WEB3connect :
 * Kyve' [Celestia Data pools](https://app.kyve.network/#/pools/9/validators)
 
 #### Testnet
-##### Bootstrap node
-- Peer: `27971306bc55695fa7ca38b14df9181043aab5a1@peer.celestia.testnet.node75.org:26656`
-- Seed: `86bd5cb6e762f673f1706e5889e039d5406b4b90@seed.celestia.testnet.node75.org:37116`
+* [Mocha service directory and peering information](https://services.node75.org/chains/celestia-testnet)
+* [Mocha faucet](https://faucet.celestia.node75.org/)
+* DA RPC: `https://public-da-rpc.celestia.testnet.node75.org:443`
 
 ---
 
