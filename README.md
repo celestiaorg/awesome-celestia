@@ -1387,3 +1387,15 @@ These resources document earlier testnets and are not current node installation 
 * [Blockspace Race bridge-node walkthrough](https://www.youtube.com/watch?v=OZh2bN9PmQU)
 
 ---
+
+### Contributions by [01node](https://01node.com)
+
+#### Mainnet endpoints
+* [RPC](https://celestia-mainnet-rpc.01node.com)
+* [REST API](https://celestia-mainnet-api.01node.com)
+
+#### Mocha testnet endpoints
+* [RPC](https://celestia-testnet-rpc.01node.com)
+* [REST API](https://celestia-testnet-api.01node.com)
+
+---
