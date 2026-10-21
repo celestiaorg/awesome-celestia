@@ -1385,3 +1385,15 @@ These resources document earlier testnets and are not current node installation 
 * [REST API](https://celestia-testnet-api.01node.com)
 
 ---
+
+### Contributions by [ChainSafe Systems](https://chainsafe.io)
+
+#### Software
+* [go-schnorrkel](https://github.com/ChainSafe/go-schnorrkel) — Go implementation of the sr25519 signature algorithm; listed as an indirect dependency in [this Celestia App revision](https://github.com/celestiaorg/celestia-app/blob/f217064d3d90acccf8a3d3f91f444beb8dd84ee7/go.mod#L50).
+
+#### Merged CIP contributions
+* [Reduce inflation](https://github.com/celestiaorg/CIPs/pull/249)
+* [Prevent automatic reward claiming](https://github.com/celestiaorg/CIPs/pull/251)
+* [Lockup accounts and staking rewards](https://github.com/celestiaorg/CIPs/pull/253)
+
+---
