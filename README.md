@@ -301,15 +301,14 @@ https://telegra.ph/Content-contributions-for-Celestia-by-cryptomolot-07-02
 
 ### Contributions by [Lavender.Five Nodes](https://lavenderfive.com)
 #### Mainnet
-* Services(Snapshot, State-sync, Installation Guide): https://services.lavenderfive.com/mainnet/celestia
-* RPC: https://celestia-rpc.lavenderfive.com:443
-* gRPC: celestia-grpc.lavenderfive.com:443
-* API: https://celestia-api.lavenderfive.com:443
-#### Testnet
-* Services(Snapshot, State-sync, Installation Guide): https://services.lavenderfive.com/testnet/celestia
-* RPC: https://testnet-celestia-rpc.lavenderfive.com:443
-* gRPC: testnet-celestia-grpc.lavenderfive.com:443
-* API: https://testnet-celestia-api.lavenderfive.com:443
+* RPC: https://rpc.lavenderfive.com/celestia
+* gRPC: `celestia.lavenderfive.com:443`
+* REST API: https://rest.lavenderfive.com/celestia
+
+#### Tools
+* [Service directory](https://www.lavenderfive.com/tools)
+* [Node monitoring configuration](https://github.com/LavenderFive/node-monitoring) — Prometheus, Grafana, and alerting configuration.
+* [Tenderduty fork](https://github.com/LavenderFive/tenderduty) — Validator monitoring and notifications.
 
 ---
 
