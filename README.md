@@ -1346,3 +1346,17 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 * [Celestia bridge metrics exporter](https://github.com/easy2stake/celestia-bridge-metrics) — OpenTelemetry collector configuration for exporting bridge metrics to Prometheus.
 
 ---
+
+### Contributions by [KYVE](https://www.kyve.network/)
+
+#### Historical datasets
+Check each pool's current status and available heights before using its data.
+* [Celestia blocks and block results](https://app.kyve.network/#/pools/9)
+* [Celestia state-sync snapshot pool](https://app.kyve.network/#/pools/10)
+
+#### Data access tools
+* [KSYNC documentation](https://docs.kyve.network/access-data-sets/ksync/quick-start?source=celestia) — Synchronize Celestia nodes using data available in KYVE pools.
+* [Public BigQuery dataset documentation](https://docs.kyve.network/access-data-sets/data-pipeline/public-bigquery) — Includes the Celestia dataset listing; access requires a Google Cloud account.
+* [Data Load Tool](https://docs.kyve.network/access-data-sets/data-pipeline/data-load-tool) — Load KYVE datasets into PostgreSQL or BigQuery.
+
+---
