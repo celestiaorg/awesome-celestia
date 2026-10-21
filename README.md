@@ -114,6 +114,13 @@ An Awesome List of Celestia Resources
 
 ## Node operator contributions
 
+### Contributions by [Unity Nodes](https://unitynodes.com/)
+#### Tools and guides
+* [Pulse](https://pulse.unitynodes.com/celestia) — Celestia network and validator dashboard.
+* [runcelestia.xyz](https://runcelestia.xyz/) — Validator onboarding guide and links to official documentation.
+
+---
+
 ### Validatus
 #### Mainnet
 * [RPC](https://rpc.celestia.validatus.com/)
