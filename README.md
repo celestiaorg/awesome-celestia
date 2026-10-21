@@ -1377,3 +1377,18 @@ Check each pool's current status and available heights before using its data.
 * [IBC relayer dashboard](https://relayers.smartstake.io/network/TIA)
 
 ---
+
+### Contributions by [NakoTurk](https://github.com/okannako)
+
+#### Turkish community
+* [Celestia Türkiye Telegram group](https://t.me/CelestiaTurkey)
+
+#### Historical testnet resources in Turkish
+These resources document earlier testnets and are not current node installation instructions.
+* [Mamaki guides](https://github.com/okannako/celestia-mamaki)
+* [Blockspace Race guides](https://github.com/okannako/celestia-blockspacerace)
+* [Mamaki light-node walkthrough](https://www.youtube.com/watch?v=LQqGYLCL7So)
+* [Blockspace Race light-node walkthrough](https://www.youtube.com/watch?v=dzajavssoV4)
+* [Blockspace Race bridge-node walkthrough](https://www.youtube.com/watch?v=OZh2bN9PmQU)
+
+---
