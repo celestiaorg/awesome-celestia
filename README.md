@@ -17,6 +17,9 @@ An Awesome List of Celestia Resources
 * [Reading Lists](https://celestia.org/resources/reading-list/)
 * [Glossary](https://celestia.org/glossary/)
 
+## Fibre Resources
+* [Fibre Doctor Kit](https://github.com/ttt-labs/fibre-doctor-kit) — Read-only Linux CLI and TUI for Celestia Fibre operators. Collects local diagnostics, checks configuration and capacity, compares snapshots, and can export an optional HTML report.
+
 ## International (unofficial)
 ### Russia
 #### Community
