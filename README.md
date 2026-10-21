@@ -114,6 +114,14 @@ An Awesome List of Celestia Resources
 
 ## Node operator contributions
 
+### Contributions by [VALIDEXIS](https://validexis.com/)
+#### Tools and operator resources
+* [Celestia platform](https://celestia.validexis.com/) — Network dashboards and operator resources.
+* [Fibre server templates](https://github.com/validexisinfra/Celestia/tree/main/fibre) — Configuration and systemd examples for a separate Fibre host.
+* [Validator and Fibre monitoring](https://github.com/validexisinfra/Celestia/tree/main/monitoring) — Prometheus alert rules and OpenTelemetry configuration examples.
+
+---
+
 ### Contributions by [BonyNode](https://bonynode.online/)
 #### Mainnet
 * [Services and guides](https://bonynode.online/services/mainnet/celestia/)
