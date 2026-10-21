@@ -114,6 +114,13 @@ An Awesome List of Celestia Resources
 
 ## Node operator contributions
 
+### Contributions by [Orion](https://orionlabsone.cc/)
+#### Tools
+* [Celestia network analysis](https://orionlabsone.cc/celestia) — Automated mainnet reports with source links. [RSS feed](https://orionlabsone.cc/api/rss).
+* [MCP server](https://orionlabsone.cc/for-ai) — Read-only access to network reports and metrics at `https://orionlabsone.cc/mcp`. [Source](https://github.com/orioninfra/orion-agent-kit).
+
+---
+
 ### Contributions by [Unity Nodes](https://unitynodes.com/)
 #### Tools and guides
 * [Pulse](https://pulse.unitynodes.com/celestia) — Celestia network and validator dashboard.
