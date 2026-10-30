@@ -645,14 +645,20 @@ Public enpoints:
   * API: https://api-celestia-mainnet.luckyresearch.org/
 
   * Explorer: https://explorer.luckyresearch.org/Celestia-Mainet
+ 
+  * Fibre: running on a dedicated server, registered and live since v10 activation: https://celestiaresource.xyz/validators/celestiavaloper1avucsu4m8megk3h2sy8fzagag0upa4zyjst24t
+    fibre.luckyresearch.org:7980
 
   * Services Guide: https://services.luckyresearch.org/lucky-research-services/mainet/celestia
+ 
+  * Snapshot: https://snapshot.luckyresearch.org/celestia/mainnet/
 
-* Bridge Node: 12D3KooWPQ3Bz8huviBbvGeSKVnNUxnj3X5zYU2Dt65NKiMv4byL
+* Genesis: https://snapshot.luckyresearch.org/celestia/Mainnet/genesis.json
 
-* Genesis: https://snapshot.luckyresearch.org/Celestia/Mainnet/genesis.json
+* Addrbook: https://snapshot.luckyresearch.org/celestia/Mainnet/addrbook.json
 
-* Addrbook: https://snapshot.luckyresearch.org/Celestia/Mainnet/addrbook.json
+* Bridge Node: 12D3KooWPQ3Bz8huviBbvGeSKVnNUxnj3X5zYU2Dt65NKiMv4byL (Shutdown)
+
 
 #### Mocha Testnet
 
@@ -668,17 +674,23 @@ Public enpoints:
 
   * Explorer: https://explorer.luckyresearch.org/Celestia-Testnet
 
+  * Fibre: running on same validator server, registered and live since v10 activation: https://celestiaresource.xyz/validators/celestiavaloper16kzqyl6rf8ph385v60u3r8sjgj5w9enq6znf6l
+    93.115.25.159:7980
+
   * Services Guide: https://services.luckyresearch.org/lucky-research-services/testnet/celestia
 
-* Bridge Node: 12D3KooWRyRKoAgGvsRuR7xEefCRVgTLVVphm72iHZSajY4jtYUb
+* Snapshot: https://snapshot.luckyresearch.org/celestia/mocha/
 
 * Genesis: https://snapshot.luckyresearch.org/Celestia/Mocha/genesis.json
 
 * Addrbook: https://snapshot.luckyresearch.org/Celestia/Mocha/addrbook.json
 
-#### Snapshot Hub:https://snapshot.luckyresearch.org/Celestia/
+*  Bridge Node: 12D3KooWRyRKoAgGvsRuR7xEefCRVgTLVVphm72iHZSajY4jtYUb (Shutdown)
 
-#### Relayer: https://relayers.smartstake.io/relayer/D5F5A78539B6C1CC
+
+#### Snapshot Hub:https://snapshot.luckyresearch.org/celestia/
+
+#### Relayer: celestia10lk3rtplccpe8xgk8wcrdw748ydqgkk7k23rg5 
 
 #### GitHub Contribution: https://github.com/celestiaorg/celestia-app/issues/4961#issuecomment-2957298839
 
@@ -690,9 +702,19 @@ Public enpoints:
 #### Celestia Bridge Status Checker – Web tool to check the health of bridge nodes:
    https://celestia-bridge-checker.luckyresearch.org/
 
-### CelestiaResource: a free hub that brings the essentials together in one place, for both Mainnet  and Mocha Testnet .
+### CelestiaResource: a free hub with node setup guides, systemd configs, metrics docs, validator resources and RPC info for Mainnet and Mocha, made especially for newcomers who don't know where to start, for both Mainnet and Mocha Testnet .
 
 https://celestiaresource.xyz/ 
+
+- Fibre: resources for operators running Fibre servers on Mainnet and Mocha: https://celestiaresource.xyz/fibre
+  
+- Peers: up-to-date peer lists to help node operators connect and sync: https://celestiaresource.xyz/peers
+  
+- CIPs: an overview of Celestia Improvement Proposals to follow protocol changes: https://celestiaresource.xyz/cips
+  
+- Upgrade signals: tracks validator signaling for network upgrades: https://celestiaresource.xyz/signal
+  
+- Governance proposals: onchain proposals and their voting status: https://celestiaresource.xyz/proposals
 
  # Community Contributions
 
@@ -702,13 +724,21 @@ https://celestiaresource.xyz/
   * Diamond Translator role in Celestia Discord
   * Proofreader for Vietnamese translations on Crowdin
   * Educational Content Development:
+ 
+####  Educational & Onboarding Tools
+
+####  Celestia Resource Site – Academy, Articles & Validators contributors : 
+- Celestia Academy: structured learning material for newcomers getting started with Celestia: https://celestiaresource.xyz/academy
+- Articles: guides and articles about Celestia, all in one place: https://celestiaresource.xyz/articles
+- Validators contributors: a page highlighting community members who contribute content and resources: https://celestiaresource.xyz/contributors
 
   ####  19+ instructional articles & summaries (English/Vietnamese):
 
      https://docs.google.com/document/d/1ddeS6FvQndIuDhe-5-9chZt848tVCCLA4EzqXjOJxyk/edit?usp=sharing
 
-  ####   Celestia Content Hub Vietnam:
-     https://content-hub.luckyresearch.org/celestiavietnam
+  ####   Celestia Content Vietnamese : A comprehensive knowledge base tailored specifically for the Vietnamese community, featuring guides, updates, and essential information to help anyone in Vietnam easily get started with Modular Blockchain and Celestia
+
+     https://luckyresearch.notion.site/celestiavietnam
 
   ####  11 articles published via Mirror:
      https://docs.google.com/document/d/18dFxiZ8C3xmXOj07bdv3FOuRp1fuudeyEnOpQVdpjik/edit?usp=sharing
@@ -718,30 +748,26 @@ https://celestiaresource.xyz/
   ####  49 Telegram posts (LuckyResearch):
  https://docs.google.com/document/d/1VRJIJ6NrOCzbxkNG-_RT8SgZPOUvJPmVu9jkYPfoXPI/edit?usp=sharing
 
-  ####  235 Telegram posts (Celestia Hub Vietnam):
+  ####  50 Telegram posts (Celestia Hub Vietnam):
  https://docs.google.com/document/d/1byrhdRynw3Pmfn9sSRy8r5GKMsty3gc8YSvda-GL2_I/edit?usp=sharing
 
-####  27 posts on X (Celestia Hub VN):
+####  40 posts on X (Celestia Hub VN):
  https://docs.google.com/document/d/1dNOzVzWFm-nUf-nGql_-tUj5aLsTOnbWiUW9gSYP644/edit?usp=sharing
 
-####  40 posts on X (LuckyResearch Labs):
+####  48 posts on X (LuckyResearch Labs):
  https://docs.google.com/document/d/1D16JqJmsFmF1G6LqfMGL8BFMPhk54ZlDSINj0ju7Cpc/edit?usp=sharing
 
-####  Educational & Onboarding Tools
-
-####  Celestia Resource Site – Comprehensive hub with DA node, validator, RPC guides & more:
- https://www.celestiaresource.xyz/resource-celestia
 
 ####  Celestia Community Assistant – Mamo (AI Chatbot) – GPT-based Celestia assistant:
  https://chatgpt.com/g/g-6830309b0e3081918d883d2b71e2e794-celestia-community-assistant-mamo-by-luckyresearch
 
-####  Content Hub Celestia in Vietnamese https://content-hub.luckyresearch.org/celestiavietnam – A comprehensive knowledge base tailored specifically for the Vietnamese community, featuring guides, updates, and essential information to help anyone in Vietnam easily get started with Modular Blockchain and Celestia
+# Forum: CelestiaResource: a community resource hub & explorer for Celestia
+https://forum.celestia.org/t/celestiaresource-a-community-resource-hub-explorer-for-celestia/2260/1
 
 * Contact official and just only. If anyone impersonates from an address other than this one, please block and disregard it.
 🔭 X: https://twitter.com/LuckyResearchVN
 👯 Website: https://luckyresearch.org
-👯 LuckyResearch community Channel: https://t.me/luckyresearch_ann
-- Github: https://github.com/LuckyResearch
+- Github: https://github.com/LuckyResearch and https://github.com/LuckyResearchOrg
 - Email: contact@luckyresearch.org 
 
 ---
