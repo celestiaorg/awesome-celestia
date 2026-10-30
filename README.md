@@ -696,12 +696,6 @@ Public enpoints:
 
 #### Tooling Contributions
 
-#### Celestia Performance Status Bot – Telegram bot for validator & bridge node monitoring:
-   https://t.me/celestia_bridge_check_bot
-
-#### Celestia Bridge Status Checker – Web tool to check the health of bridge nodes:
-   https://celestia-bridge-checker.luckyresearch.org/
-
 ### CelestiaResource: a free hub with node setup guides, systemd configs, metrics docs, validator resources and RPC info for Mainnet and Mocha, made especially for newcomers who don't know where to start, for both Mainnet and Mocha Testnet .
 
 https://celestiaresource.xyz/ 
@@ -718,9 +712,23 @@ https://celestiaresource.xyz/
 
  # Community Contributions
 
-* Official Discord Moderator for Celestia (global + Vietnamese channels since Dec 2022)
-* Admin of the unofficial Vietnamese Telegram community
+* Official Discord Moderator for Celestia (global + Vietnamese channels since Dec 2022). Additionally, I provide support for other language channels—such as those for Chinese, Japanese, and Korean whenever a moderator is not present; this includes posting updates and ensuring the community remains safe and actively engaged.
+  
+* Admin of the unofficial Vietnamese Telegram community:
+https://t.me/celestia_vn
+https://t.me/celestia_vnanno
 
+* Admin Celestia Vietnam Community on X: https://x.com/Celestiavnhub
+
+* Support community on Celestia Telegram Official:
+  
+https://t.me/CelestiaCommunity/245336
+https://t.me/CelestiaCommunity/246690
+https://t.me/CelestiaCommunity/247161
+https://t.me/CelestiaCommunity/247890
+and more
+
+  
   * Diamond Translator role in Celestia Discord
   * Proofreader for Vietnamese translations on Crowdin
   * Educational Content Development:
