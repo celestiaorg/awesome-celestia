@@ -1424,3 +1424,18 @@ These resources document earlier testnets and are not current node installation 
 * [Celestia network scanner](https://cosmowiz.com/network/celestia) — Public endpoint discovery.
 
 ---
+
+### Contributions by [deNodes](https://denodes.io/)
+#### Tools
+* [dePortal](https://celestia.deportal.io/) — Celestia explorer with validator, staking and governance analytics and a network map.
+* [SnapsVault](https://celestia.snapsvault.xyz/) — Open snapshot marketplace with Celestia snapshots from several providers in one catalog, a CLI and a REST API. [Docs](https://docs.snapsvault.xyz/). [Source](https://github.com/denodesxyz/snapsvault).
+
+#### Mainnet
+* [RPC](https://celestia-mainnet-rpc.denodes.xyz/)
+* [Snapshots](https://celestia.deportal.io/snapshots)
+* [State sync](https://celestia.deportal.io/state-sync)
+
+#### Testnet
+* [Snapshots](https://celestia.deportal.io/snapshots)
+
+---
