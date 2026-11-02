@@ -1517,3 +1517,11 @@ These resources document earlier testnets and are not current node installation 
 - [Celestia Fibre explained](https://nodestake.org/blog/celestia-fibre-explained) ([Chinese](https://nodestake.org/blog/celestia-fibre-explained/zh)) — Illustrated architecture and benchmark guide.
 
 ---
+
+### Contributions by [Decentra](https://decentra.cloud/)
+
+#### Tools
+- [Celestia Validator Revenue Calculator](https://celestia.decentra.cloud) — Estimates validator revenue and operating costs from adjustable stake, commission, fee and network assumptions.
+- [Celestia Hardware Compatibility List](https://celestia.decentra.cloud/hcl) — Reported CPU benchmarks, hardware planning guidance and links to official Fibre requirements. Validate the exact production host before deployment.
+
+---
