@@ -1203,7 +1203,7 @@ https://www.youtube.com/watch?v=nmpfNXf797U
 ### Contributions by [NODERS](https://noders.team/)
 
 #### Celestia Blob Archive
-- Free public archive of every blob on Mainnet Beta and Mocha, each stored with its share proof to the data root: https://celestia-blob-archive.noders.services
+- Public blob archive for Mainnet Beta and Mocha, with share proofs and published coverage manifests: https://celestia-blob-archive.noders.services
 - celestia-node compatible read API (`blob.Get`, `GetAll`, `GetProof`, `Included`): https://celestia-blobs-rpc.noders.services (Mainnet), https://celestia-t-blobs-rpc.noders.services (Mocha)
 - Open data manifests: https://celestia-blobs.noders.services/manifest.json , https://celestia-t-blobs.noders.services/manifest.json
 - Fibre blobs archived together with payment promises and validator signatures
@@ -1215,7 +1215,7 @@ https://www.youtube.com/watch?v=nmpfNXf797U
 - Explorer for Mainnet and Mocha (blocks, transactions, validators, proposals, blobs and namespaces): https://celestiahub.org/explorer
 - Fibre Explorer for Mainnet and Mocha (Fibre nodes per validator, endorsement and availability, per-blob signatures): https://celestiahub.org/explorer/fibre , https://celestiahub.org/explorer/fibre-blobs
 - Ecosystem directory: https://celestiahub.org/ecosystem
-- Academy, 85 guides and videos: https://celestiahub.org/academy
+- Academy guides and videos: https://celestiahub.org/academy
 - Celestia AI assistant: https://celestiahub.org/chat
 - RPC list and developer tools: https://celestiahub.org/devtools
 
@@ -1243,7 +1243,7 @@ https://www.youtube.com/watch?v=nmpfNXf797U
 - 55717b51b521d3c34bce3c1ad0ec697616a5256b@93.159.130.40:11059
 - a353a362313a9b35ee33f728b2ddfd8d4cbc0f5b@65.109.18.169:11633
 #### Snapshots and addrbook
-- https://noders.services/mainnet-networks/celestia/snapshot/
+- https://noders.services/mainnet/celestia/snapshot/
 - https://config.noders.services/celestia/addrbook.json
 #### Guides
 - https://noders.services/mainnet/celestia/
@@ -1269,7 +1269,7 @@ https://www.youtube.com/watch?v=nmpfNXf797U
 #### Seed node
 - 0b91e5ce659d9b245bf925ef0db99bab90b2f260@93.159.130.43:32233
 #### Snapshots
-- https://noders.services/testnet-networks/celestia/snapshot/
+- https://noders.services/testnet/celestia/snapshot/
 #### Faucet
 - https://faucet.noders.services/celestia
 
