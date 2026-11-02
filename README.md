@@ -407,32 +407,38 @@ https://telegra.ph/Content-contributions-for-Celestia-by-cryptomolot-07-02
 ### ITRocket
 #### Mainnet
 #### Tools
-* [Validators Performance Dashboard](https://itrocket.net/services/mainnet/celestia/analytics/validators-performance/)
+* [Validators Performance Dashboard](https://itrocket.net/services/mainnet/celestia/analytics/validators-performance/) #_uptime, signed & proposed blocks, gov votes & slashing, & API_
 * [Consensus Signal Tracker](https://itrocket.net/services/mainnet/celestia/analytics/consensus-signal-tracker/)
-* [Consensus Analytics](https://itrocket.net/services/mainnet/celestia/analytics/consensus/)
-* [Decentralization Analytics](https://itrocket.net/services/mainnet/celestia/decentralization/) #_validators, RPC, and all nodes_
+* [Consensus Analytics](https://itrocket.net/services/mainnet/celestia/analytics/consensus/) #_real-time consensus state & prevotes/precommits_
+* [Decentralization Analytics](https://itrocket.net/services/mainnet/celestia/decentralization/) #_validators, RPC, and all nodes
+* [Community Tab](https://itrocket.net/services/mainnet/celestia/community/useful-tools/) #_useful tools, explorers, seeds & snapshots_
 * [Governance Bot](https://t.me/itrocket_mainnet_proposal_bot) #_with status & UPD timer notifications_
 * [Peer scanner](https://itrocket.net/services/mainnet/celestia/#peer) #_with real time peer uptime verification_
 * [RPC Scanner](https://itrocket.net/services/mainnet/celestia/public-rpc/) #_with Raw scan results_
-* [Explorer](https://mainnet.itrocket.net/celestia/staking)
+* [Native Explorer](https://itrocket.net/services/mainnet/celestia/explorer/) #_archival endpoints
+* [Fibre Explorer](https://itrocket.net/services/mainnet/celestia/analytics/fibre-monitor/) #_Fibre providers, analytics & API_
 ##### Snapshots
 - [Consensus Node Snapshot](https://itrocket.net/services/mainnet/celestia/#snap) #_pruned, upd every 4h_
-- [Bridge Node Snapshot](https://itrocket.net/services/mainnet/celestia/#snap-bridge) #_archive, upd every 2d_
 ##### Endpoints
 - RPC:  [https://celestia-mainnet-rpc.itrocket.net](https://celestia-mainnet-rpc.itrocket.net) #_archive node_
 - API:  [https://celestia-mainnet-api.itrocket.net](https://celestia-mainnet-api.itrocket.net) #_archive node_
-- gRPC: `celestia-mainnet-grpc.itrocket.net:443`
-- Peer: `d535cbf8d0efd9100649aa3f53cb5cbab33ef2d6@celestia-mainnet-peer.itrocket.net:40656`
+- wss: `wss://celestia-mainnet-rpc.itrocket.net/websocket` #_archive node_
+- gRPC: `celestia-mainnet-grpc.itrocket.net:443` #_archive node_
+- Peer: `d535cbf8d0efd9100649aa3f53cb5cbab33ef2d6@celestia-mainnet-peer.itrocket.net:26656`
 - Seed: `12ad7c73c7e1f2460941326937a039139aa78884@celestia-mainnet-seed.itrocket.net:40656`
+##### DA Bridge node Endpoints
+- RPC:  [https://celestia-mainnet-da.itrocket.net](https://celestia-mainnet-da.itrocket.net) #_archive node_
 ##### RPC for DA nodes
-- Core IP:  `celestia-mainnet-consensus.itrocket.net`
+- Core IP:  `celestia-mainnet-consensus.itrocket.net` #_archive node_
 - gRPC Port: `9090`
-- RPC Port: `26657`
 ##### Guides
 - [Consensus Node installation](https://itrocket.net/services/mainnet/celestia/installation/) #_with Cheat sheet & upgrade guides_
 - [Bridhe Node installation](https://itrocket.net/services/mainnet/celestia/bridge-node/) #_with Cheat sheet & upgrade guides_
 - [Full Storage Node installation](https://itrocket.net/services/mainnet/celestia/full-node/) #_with Cheat sheet & upgrade guides_
 - [Light Node installation](https://itrocket.net/services/mainnet/celestia/light-node/) #_with Cheat sheet & upgrade guides_
+- [Fibre Node installation](https://itrocket.net/services/mainnet/celestia/fibre/) #_with register, useful commands & update guides_
+- [TMKMS setup](https://itrocket.net/services/mainnet/celestia/tmkms/) #_remote signer for validator key protection_
+- [Sentry Nodes setup](https://itrocket.net/services/mainnet/celestia/sentry/) #_validator DDoS protection_
 ##### DA Nodes Monitoring
 - [Bridge, Full, Light Node monitoring script](https://itrocket.net/services/mainnet/celestia/monitoring/)
 
@@ -440,33 +446,39 @@ https://telegra.ph/Content-contributions-for-Celestia-by-cryptomolot-07-02
 
 #### Testnet
 #### Tools
-* [Validators Performance Dashboard](https://itrocket.net/services/testnet/celestia/analytics/validators-performance/)
+* [Validators Performance Dashboard](https://itrocket.net/services/testnet/celestia/analytics/validators-performance/) #_uptime, signed & proposed blocks, gov votes & slashing, & API_
 * [Consensus Signal Tracker](https://itrocket.net/services/testnet/celestia/analytics/consensus-signal-tracker/)
-* [Consensus Analytics](https://itrocket.net/services/testnet/celestia/analytics/consensus/)
+* [Consensus Analytics](https://itrocket.net/services/testnet/celestia/analytics/consensus/) #_real-time consensus state & prevotes/precommits_
 * [Decentralization Analytics](https://itrocket.net/services/testnet/celestia/decentralization/) #_validators, RPC, and all nodes_
+* [Community Tab](https://itrocket.net/services/testnet/celestia/community/useful-tools/) #_useful tools, explorers, seeds & snapshots_
 * [Governance Bot](https://t.me/itrocket_testnet_proposal_bot) #_with status & UPD timer notifications_
 * [Peer scanner](https://itrocket.net/services/testnet/celestia/#peer) #_with real time peer uptime verification_
 * [RPC Scanner](https://itrocket.net/services/testnet/celestia/public-rpc/) #_with Raw scan results_
-* [Explorer](https://testnet.itrocket.net/celestia/staking)
+* [Native Explorer](https://itrocket.net/services/testnet/celestia/explorer/) #_archival endpoints
+* [Fibre Explorer](https://itrocket.net/services/testnet/celestia/analytics/fibre-monitor/) #_Fibre providers, analytics & API_
 ##### Snapshots
 - [Consensus Node Snapshot](https://itrocket.net/services/testnet/celestia/#snap) #_pruned, upd every 4h_
-- [Bridge Node Snapshot](https://itrocket.net/services/testnet/celestia/#snap-bridge) #_archive, upd every 2d_
 ##### Endpoints
 - RPC:  [https://celestia-testnet-rpc.itrocket.net](https://celestia-testnet-rpc.itrocket.net) #_archive node_
 - API:  [https://celestia-testnet-api.itrocket.net](https://celestia-testnet-api.itrocket.net) #_archive node_
-- gRPC: `celestia-testnet-grpc.itrocket.net:443`
+- wss: `wss://celestia-testnet-rpc.itrocket.net/websocket` #_archive node_
+- gRPC: `celestia-testnet-grpc.itrocket.net:443` #_archive node_
 - Peer: `daf2cecee2bd7f1b3bf94839f993f807c6b15fbf@celestia-testnet-peer.itrocket.net:11656`
-- Seed: `5d0bf034d6e6a8b5ee31a2f42f753f1107b3a00e@celestia-testnet-seed.itrocket.net:11656`
+- Seed: `b402fe40f3474e9e208840702e1b7aa37f2edc4b@celestia-testnet-seed.itrocket.net:14656`
+##### DA Bridge node Endpoints
+- RPC:  [https://celestia-testnet-da.itrocket.net](https://celestia-testnet-da.itrocket.net) #_archive node_
 ##### RPC for DA nodes
 - Core IP:  `celestia-testnet-consensus.itrocket.net`
 - gRPC Port: `9090`
-- RPC Port: `26657`
 ##### Guides
 - [Consensus Node installation](https://itrocket.net/services/testnet/celestia/installation/) #_with Cheat sheet & upgrade guides_
 - [Bridhe Node installation](https://itrocket.net/services/testnet/celestia/bridge-node/) #_with Cheat sheet & upgrade guides_
 - [Full Storage Node installation](https://itrocket.net/services/testnet/celestia/full-node/) #_with Cheat sheet & upgrade guides_
 - [Light Node installation](https://itrocket.net/services/testnet/celestia/light-node/) #_with Cheat sheet & upgrade guides_
 - [Deploy your own Celestia sovereign rollup](https://github.com/itrocket-team/testnet_guides/tree/main/celestia/sovereign_rollup)
+- [Fibre Node installation](https://itrocket.net/services/testnet/celestia/fibre/) #_same or separate server from validator
+- [TMKMS setup](https://itrocket.net/services/testnet/celestia/tmkms/) #_remote signer for validator key protection_
+- [Sentry Nodes setup](https://itrocket.net/services/testnet/celestia/sentry/) #_validator DDoS protection_
 ##### DA Nodes Monitoring
 - [Bridge, Full, Light Node monitoring script](https://itrocket.net/services/testnet/celestia/monitoring/)
 
