@@ -356,24 +356,26 @@ https://telegra.ph/Content-contributions-for-Celestia-by-cryptomolot-07-02
 
 ---
 
-### BlackNodes Contribution https://blacknodes.net
-#### Mainnet
-* Celestia Faucet By BlackNodes: https://celestia-faucet.blacknodes.net
-#### Testnet
-* Services(Snapshot,State-Sync,Endpoints,LivePeers,Node-Monitoring): https://services.blacknodes.net/Celestia
-* Node Tutorial Guide: https://github.com/blacknodes/Node-Services/tree/main/Projects/celestia
-* Node-Monitoring Guide: https://github.com/blacknodes/Node-Services/tree/main/Projects/celestia/Celestia-Node-Monitoring
-* BlackNodes Peer: af73ecc4d2084643fe77657d260a07240872d91f@celestia-testnet.blacknodes.net:26656
-* Snapshot (Pruned): https://files.blacknodes.net/celestia/celestia_mocha-4.tar.lz4
-#### Endpoints
-* RPC: https://celestia-testnet-rpc.blacknodes.net
-* gRPC: celestia-testnet-grpc.blacknodes.net:17090
-* API: https://celestia-testnet-api.blacknodes.net
-* Archival-Node-RPC(for DA nodes to connect with): consensus-full-mocha.blacknodes.net
-#### BlockSpace Race
-* Blob CelestiaPFB_UI prototype: https://github.com/blacknodes/CelestiaPFB_UI
-* Sovereign Rollup: https://github.com/blacknodes/loanme
-* OneClickNode: https://github.com/blacknodes/OneClickNodeCelestia
+### Contributions by [BlackNodes](https://blacknodes.net/)
+
+#### Tools
+
+* [Fibre Operations Lab](https://fibre.blacknodes.net/) — Mainnet Fibre registry coverage, voting-power concentration, endpoint failure scenarios, and storage/receive-buffer planning with exportable operator briefs.
+* [Fibre Signal](https://fibre.blacknodes.net/index.html) — Fibre endpoint TLS observations, observation history, consensus endpoint freshness, and block-hash comparisons at matching heights. Transport reachability does not establish successful blob retrieval.
+* Public observation APIs: [status](https://fibre.blacknodes.net/api/v1/status) and [analytics](https://fibre.blacknodes.net/api/v1/analytics).
+
+#### Node resources and education
+
+* [Celestia services directory](https://services.blacknodes.net/Celestia/) — BlackNodes Celestia tools and node resources.
+* Mocha-5 genesis mirror: [genesis.json](https://files.blacknodes.net/celestia/mocha-5/genesis.json) and [SHA256 checksums](https://files.blacknodes.net/celestia/mocha-5/SHA256SUMS).
+* [Celestia articles](https://blog.blacknodes.net/celestia) — Educational articles on Celestia upgrades, applications, and community events.
+
+#### Earlier open-source contributions
+
+* [Node monitoring guide and Grafana dashboard](https://github.com/blacknodes/Node-Services/tree/main/Projects/celestia/Celestia-Node-Monitoring) — Earlier Prometheus/Grafana monitoring resources.
+* [CelestiaPFB_UI](https://github.com/blacknodes/CelestiaPFB_UI) — Blockspace Race PayForBlobs interface prototype.
+* [LoanMe](https://github.com/blacknodes/loanme) — Rollkit sovereign-rollup demonstration.
+* [OneClickNodeCelestia](https://github.com/blacknodes/OneClickNodeCelestia) — Earlier light-node setup tooling.
 
 ---
 
