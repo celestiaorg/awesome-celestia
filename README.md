@@ -1789,3 +1789,17 @@ These resources document earlier testnets and are not current node installation 
 * [Snapshots](https://celestia.deportal.io/snapshots)
 
 ---
+
+### Contributions by [Krews](https://krews.xyz/)
+
+#### Tools
+* [Celestia Dashboard](https://celestia-dashboard.krews.xyz/) — Validator analytics suite for Mainnet and Mocha: validators, missed proposals, bridge nodes, decentralization, snapshots and Fibre. [Mainnet](https://celestia-dashboard.krews.xyz/celestia/validators) · [Mocha](https://celestia-dashboard.krews.xyz/celestia-mocha/validators).
+* [Fibre dashboard](https://celestia-dashboard.krews.xyz/celestia/fibre) — Live Fibre network state: validator reachability probed every minute from six regions, settled blobs, signatures, fees, escrow and shard retention, with a Fibre profile for every validator. [Mainnet](https://celestia-dashboard.krews.xyz/celestia/fibre) · [Mocha](https://celestia-dashboard.krews.xyz/celestia-mocha/fibre).
+* [Missed Proposals](https://celestia-dashboard.krews.xyz/celestia-mocha/missed-proposals) — Proposer-miss tracking with per-validator totals, last-24h stats and block times. [Mainnet](https://celestia-dashboard.krews.xyz/celestia/missed-proposals) · [Mocha](https://celestia-dashboard.krews.xyz/celestia-mocha/missed-proposals).
+* [Public API](https://celestia-dashboard.krews.xyz/celestia/api) — Free, read-only JSON API (OpenAPI 3.1, no key) for validators, blocks, missed proposals, nodes, snapshots and Fibre data at `https://celestia-dashboard-api.krews.xyz/api/v1`.
+* [MCP server](https://celestia-dashboard.krews.xyz/celestia/api#mcp) — Read-only access to the same data for AI agents at `https://celestia-dashboard-api.krews.xyz/mcp` (Streamable HTTP, 19 tools).
+
+#### Node services
+* [Snapshots](https://celestia-dashboard.krews.xyz/celestia/snapshots) — Reproducible node snapshots with integrity checks and command-ready restore steps. [Mainnet](https://celestia-dashboard.krews.xyz/celestia/snapshots) · [Mocha](https://celestia-dashboard.krews.xyz/celestia-mocha/snapshots).
+
+---
