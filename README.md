@@ -126,8 +126,27 @@ An Awesome List of Celestia Resources
 
 ### Contributions by [Unity Nodes](https://unitynodes.com/)
 #### Tools and guides
-* [Pulse](https://pulse.unitynodes.com/celestia) — Celestia network and validator dashboard.
-* [runcelestia.xyz](https://runcelestia.xyz/) — Validator onboarding guide and links to official documentation.
+* [Pulse](https://pulse.unitynodes.com/celestia) - Celestia network and validator dashboard.
+* [Pulse Datacenters](https://pulse.unitynodes.com/celestia/datacenters) - Server search for validator, bridge and Fibre nodes, filtered by Celestia hardware requirements and hosting guidance (Hetzner/OVH, EU/NA).
+* [runcelestia.xyz](https://runcelestia.xyz/) - Validator onboarding guide and links to official documentation.
+* [Blobpedia](https://blobpedia.org/) - Searchable Celestia knowledge hub: CIPs, docs, forum, GitHub discussions, releases and videos.
+* [Blobpedia MCP server](https://blobpedia.org/for-ai) - Read-only access for AI agents at `https://blobpedia.org/mcp`.
+#### Mainnet
+* [RPC](https://rpc-celestia.unitynodes.com)
+* [REST API](https://api-celestia.unitynodes.com)
+* gRPC: `grpc-celestia.unitynodes.com:443`
+* [Snapshot](https://snapshots.unitynodes.com/celestia-mainnet/)
+* Peer: `60433bc8dc3730442012da4bacfd66cc8e60cce8@95.217.229.173:38656`
+#### Mocha testnet
+* [RPC](https://rpc-celestia-mocha.unitynodes.com)
+* [REST API](https://api-celestia-mocha.unitynodes.com)
+* gRPC: `grpc-celestia-mocha.unitynodes.com:443`
+* [Snapshot](https://snapshots.unitynodes.com/celestia-mocha/)
+* Peer: `41115ce4008ef08e63ea7e2538b01124919620ee@37.27.231.238:44656`
+#### Content
+* [Moving Fibre off the validator host: private VLAN + mTLS (mocha-5)](https://forum.celestia.org/t/moving-fibre-off-the-validator-host-private-vlan-mtls-mocha-5/2314)
+* [Celestia Datacenters in Pulse, provider incidents, and the same data for AI agents through BlobPedia](https://forum.celestia.org/t/celestia-datacenters-in-pulse-provider-incidents-and-the-same-data-for-ai-agents-through-blobpedia/2316)
+
 
 ---
 
