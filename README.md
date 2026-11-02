@@ -1164,24 +1164,68 @@ https://www.youtube.com/watch?v=nmpfNXf797U
 ---
 
 ### Contributions by [Cumulo](https://cumulo.pro/)
+Infrastructure, open-source tooling and public data for Celestia mainnet and Mocha testnet.
+
 #### Mainnet endpoints
 * [RPC](https://celestia.cumulo.org.es/)
+* WebSocket: `wss://celestia.cumulo.org.es/websocket`
 * [REST API](https://celestia.api.cumulo.org.es/)
 * gRPC: `celestia.grpc.cumulo.org.es:443`
+* [Addrbook](https://files3.cumulo.me/mainnet/celestia/addrbook.json) (updated hourly)
 
-#### Monitoring
+#### Mocha testnet endpoints
+* [RPC](https://mocha5.celestia.rpc.cumulo.me/)
+* WebSocket: `wss://mocha5.celestia.rpc.cumulo.me/websocket`
+* [REST API](https://mocha5.celestia.api.cumulo.me/)
+* gRPC: `mocha5.celestia.grpc.cumulo.me:443`
+
+#### Node bootstrapping
+* Snapshot: [Mainnet](https://cumulo.pro/services/celestia/snapshot) · [Mocha](https://cumulo.pro/services/celestia_mocha/snapshot)
+* State-sync: [Mainnet](https://cumulo.pro/services/celestia/state-sync) · [Mocha](https://cumulo.pro/services/celestia_mocha/state-sync)
+* Live peers, scored and TCP-probed every 30 min: [Mainnet](https://cumulo.pro/services/celestia/peers) · [Mocha](https://cumulo.pro/services/celestia_mocha/peers) · [Docs](https://github.com/Cumulo-pro/Cumulo-Front-Chain/blob/main/check_peers/PEERS_SYSTEM.md)
+
+#### Fibre
+Open monitoring and data platform for Celestia Fibre: network readiness against the 2/3 stake threshold, validator Fibre hosts, signatures, verified blob retention, infrastructure concentration and Fibre activity.
+* [Fibre Network Monitor](https://cumulo.pro/services/celestia_mocha/fibre): network and per-validator dashboard
+* [Fibre Network API](https://cumulo.pro/services/celestia_mocha/fibre-api): public read-only API with OpenAPI docs, Prometheus metrics and status badges · [Quick start](https://github.com/Cumulo-pro/cumulo-celestia-infra/blob/main/docs/fibre_api/README.md) · [Badge dashboard example](https://github.com/Cumulo-pro/cumulo-celestia-infra/blob/main/docs/fibre_api/fibre-network-dashboard.md)
+* [Network reports](https://cumulo.pro/services/celestia_mocha/fibre-report): weekly, monthly and yearly reports · [Methodology](https://cumulo.pro/services/celestia_mocha/fibre-methodology)
+* [@CumuloFibreBot](https://t.me/CumuloFibreBot): Fibre network and validator reports in Telegram
+
+#### Operational transparency
+* [Operational Transparency Layer (OTL)](https://cumulo.pro/services/celestia/otl): live, scored view of Cumulo's validator, RPC, snapshot, bridge node and IBC relayers
+* [OTL methodology & scoring](https://cumulo.pro/services/celestia/otl-docs) · [Audit report](https://cumulo.pro/services/celestia/otl-report) · [Live API (JSON)](https://otl-api.cumulo.com.es/otl/v2/celestia/mainnet/posture) · [Spec & API schema](https://github.com/Cumulo-pro/cumulo-otl)
+* Activity tracker (upgrades, governance votes, incidents): [Mainnet](https://cumulo.pro/services/celestia/activity?chain=Celestia) · [Mocha](https://cumulo.pro/services/celestia_mocha/activity?chain=Celestia)
+
+#### Explorers & network analytics
+* Block explorer: [Mainnet](https://cumulo.pro/services/celestia/stats) · [Mocha](https://cumulo.pro/services/celestia_mocha/stats)
+* Missed proposals tracker: [Mainnet](https://cumulo.pro/services/celestia/missed-proposals) · [Mocha](https://cumulo.pro/services/celestia_mocha/missed-proposals) · [Docs](https://github.com/Cumulo-pro/cumulo-block-explorer/blob/main/docs/celestia-missed-proposals.md)
+* [CIP tracker](https://cumulo.pro/services/celestia/cips)
+* [Projects using Celestia for data availability](https://celestia.frontchain.cumulo.pro/underneath)
+
+#### Endpoint monitoring (check_d)
+Multi-region (US, EU, CA) checks of public RPC and REST endpoints with latency, height and 7-day reliability.
+* RPC scan: [Mainnet](https://cumulo.pro/services/celestia/rpcscan) · [Mocha](https://cumulo.pro/services/celestia_mocha/rpcscan)
+* API scan: [Mainnet](https://cumulo.pro/services/celestia/apiscan) · [Mocha](https://cumulo.pro/services/celestia_mocha/apiscan)
+* [Documentation](https://github.com/Cumulo-pro/Cumulo-Front-Chain/tree/main/check_End-Points)
+
+#### Validator resources directory
+Curated directory of public validator resources (endpoints, peers, snapshots, state-sync, tools), with live snapshot and state-sync checkers. Validators can add theirs via PR.
+* [Mainnet](https://cumulo.pro/services/celestia/resources) · [Mocha](https://cumulo.pro/services/celestia_mocha/resources)
+* Data: [validators.json](https://github.com/Cumulo-pro/Cumulo-Front-Chain/blob/main/Celestia/data/validators.json) · [validators_testnet.json](https://github.com/Cumulo-pro/Cumulo-Front-Chain/blob/main/Celestia/data/validators_testnet.json)
+
+#### IBC relaying
+* [IBC relayer dashboard](https://cumulo.pro/services/ibc/)
+* [Hermes setup & runbooks](https://github.com/Cumulo-pro/cumulo-cosmoshub-infra/blob/main/ibc/hermes/README.md)
+
+#### Node monitoring
+* [Celestia monitoring repository](https://github.com/Cumulo-pro/Celestia-monitoring)
 * [Consensus node monitoring](https://github.com/Cumulo-pro/Celestia-monitoring/blob/main/grafana_consensus%20/README.md)
 * [Consensus node Grafana dashboard](https://grafana.com/grafana/dashboards/21116-celestia-consensus-validator-node/)
 * [Bridge node monitoring](https://github.com/Cumulo-pro/Celestia-monitoring/blob/main/bridge-monitor/README.md)
 
-#### Tools
-* [Celestia block explorer](https://cumulo.pro/services/celestia/stats)
-* [CIP tracker](https://cumulo.pro/services/celestia/cips)
-* [Missed proposals tracker](https://cumulo.pro/services/celestia/missed-proposals)
-* [Endpoint monitor](https://cumulo.pro/services/celestia_mocha/rpcscan)
-* [Projects using Celestia for data availability](https://celestia.frontchain.cumulo.pro/underneath)
-* [Technical guides and resources](https://cumulo.pro/services/celestia_mocha/content?page=content)
-
+#### Guides & articles
+* Technical guides: [Mainnet](https://cumulo.pro/services/celestia/content?page=content) · [Mocha](https://cumulo.pro/services/celestia_mocha/content?page=content)
+* [Beyond uptime: how Celestia validator performance metrics changed after Matcha v6](https://medium.com/cumulo-pro/beyond-uptime-how-celestia-validators-performance-metrics-changed-after-matcha-v6-9cbbcbdcfec1)
 ---
 
 ### StakeTown
