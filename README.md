@@ -1540,3 +1540,40 @@ These resources document earlier testnets and are not current node installation 
 * Seed: `f204e31fc7fe9dfca764ba7b09c14cbcfe638848@celestia-mocha-seed.kynraze.com:46657`
 
 ---
+
+### Contributions by [Cosmic Validator](https://cosmicvalidator.com)
+
+#### Tools
+[celestia-services](https://celestia-services.cosmicvalidator.com/) - Public Celestia services dashboard for Mainnet and Mocha-5
+
+#### Mainnet Node Services
+- Public RPC: `https://celestia-rpc.cosmicvalidator.com`
+- Public API: `https://celestia-api.cosmicvalidator.com`
+- gRPC: `celestia-grpc.cosmicvalidator.com:443`
+- WebSocket: `wss://celestia-rpc.cosmicvalidator.com/websocket`
+- State Sync RPC: `https://celestia-rpc.cosmicvalidator.com:443`
+- Snapshot API: `https://celestia-snapshots.cosmicvalidator.com/snapshot-api/mainnet/latest.json`
+- Address Book: `https://celestia-snapshots.cosmicvalidator.com/snapshots/celestia/addrbook.json`
+
+- Bridge Node
+    - `12D3KooWFoiqwVGf1VTdqxWj7a5ikUfP9L8p6L8cLNwMHz8i49FQ`
+
+- Seed Node: `fd207296b4ece8bcaf2d2b8599963b520658c8bb@celestia-seed-node.cosmicvalidator.com:26656`
+- Celestia–Osmosis Relayer:
+  - Osmosis: `osmo15swxp4kl8zkm6jjusy2a9dx9l6e9smjusm2paf`
+  - Celestia:`celestia15swxp4kl8zkm6jjusy2a9dx9l6e9smjuf2gp3k`
+
+#### Testnet Node Services
+- public RPC: `https://celestia-testnet-rpc.cosmicvalidator.com`
+- public API: `https://celestia-testnet-api.cosmicvalidator.com`
+- gRPC: `celestia-testnet-grpc.cosmicvalidator.com:443`
+- WebSocket: `wss://celestia-testnet-rpc.cosmicvalidator.com/websocket`
+- State Sync RPC: `https://celestia-testnet-rpc.cosmicvalidator.com:443`
+- Snapshot API: `https://celestia-snapshots.cosmicvalidator.com/snapshot-api/testnet/latest.json`
+- Address Book: `https://celestia-snapshots.cosmicvalidator.com/snapshots/celestia-testnet/addrbook.json`
+
+- Seed Node: `46be3bddeed5840dc1362dae2b0bf046a6b0ec88@celestia-testnet-seed-node.cosmicvalidator.com:12056`
+- Bridge Node: `12D3KooWRMXoDkpo3vXK1BP4N7CNxoYUvdXZE4G3FsKKaNU3WJTD`
+
+
+---
