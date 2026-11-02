@@ -1443,3 +1443,42 @@ These resources document earlier testnets and are not current node installation 
 * [Celestia network scanner](https://cosmowiz.com/network/celestia) — Public endpoint discovery.
 
 ---
+
+### Contributions by [NodeStake](https://nodestake.org/)
+
+#### Tools
+
+- **Celestia TrackerBot**: Wallet, validator, Bridge alerts and Fibre alerts on Telegram Bot. [Mainnet](https://t.me/Celestia_TrackerBot) · [Testnet](https://t.me/Celestia_Testnet_TrackerBot)
+- **NodeStake Explorer**: Blocks, transactions, staking and governance. [Mainnet](https://explorer.nodestake.org/celestia) · [Testnet](https://explorer.nodestake.org/celestia-testnet)
+- **Fibre Explorer**: Providers, parameters, indexed settlements and signatures. [Mainnet](https://explorer.nodestake.org/celestia/tools/fibre) · [Testnet](https://explorer.nodestake.org/celestia-testnet/tools/fibre)
+- **Celestia MCP**: Eight read-only chain and account tools; history depends on node retention. [Mainnet](https://nodestake.org/networks/celestia/mainnet?tab=mcp) · [Testnet](https://nodestake.org/networks/celestia/testnet?tab=mcp)
+- **Bridge node monitoring**: Reported sync, versions, locations and history. [Mainnet](https://explorer.nodestake.org/celestia/tools/bridges) · [Testnet](https://explorer.nodestake.org/celestia-testnet/tools/bridges)
+- **Missed proposal estimates**: Estimates from finalized block rounds. [Mainnet](https://explorer.nodestake.org/celestia/tools/missed-proposals) · [Testnet](https://explorer.nodestake.org/celestia-testnet/tools/missed-proposals)
+
+#### Mainnet
+
+- [RPC](https://rpc.celestia.nodestake.org/)
+- [REST API](https://api.celestia.nodestake.org/)
+- gRPC: `grpc.celestia.nodestake.org:443`
+- [Installation guide](https://nodestake.org/networks/celestia/mainnet?tab=guide)
+- [Snapshots](https://nodestake.org/networks/celestia/mainnet?tab=snapshots)
+- [State Sync](https://nodestake.org/networks/celestia/mainnet?tab=state-sync)
+- [Seed and live peers](https://nodestake.org/networks/celestia/mainnet?tab=peers)
+- [Addrbook](https://nodestake.org/networks/celestia/mainnet?tab=addrbook)
+
+#### Testnet
+
+- [RPC](https://rpc-t.celestia.nodestake.org/)
+- [REST API](https://api-t.celestia.nodestake.org/)
+- gRPC: `grpc-t.celestia.nodestake.org:443`
+- [Installation guide](https://nodestake.org/networks/celestia/testnet?tab=guide)
+- [Snapshots](https://nodestake.org/networks/celestia/testnet?tab=snapshots)
+- [State Sync](https://nodestake.org/networks/celestia/testnet?tab=state-sync)
+- [Seed and live peers](https://nodestake.org/networks/celestia/testnet?tab=peers)
+- [Addrbook](https://nodestake.org/networks/celestia/testnet?tab=addrbook)
+
+#### Education
+
+- [Celestia Fibre explained](https://nodestake.org/blog/celestia-fibre-explained) ([Chinese](https://nodestake.org/blog/celestia-fibre-explained/zh)) — Illustrated architecture and benchmark guide.
+
+---
