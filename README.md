@@ -1138,8 +1138,8 @@ Open monitoring and data platform for Celestia Fibre: network readiness against 
 * [Fibre Network Monitor](https://cumulo.pro/services/celestia_mocha/fibre): network and per-validator dashboard
 * [Fibre Network API](https://cumulo.pro/services/celestia_mocha/fibre-api): public read-only API with OpenAPI docs, Prometheus metrics and status badges · [Quick start](https://github.com/Cumulo-pro/cumulo-celestia-infra/blob/main/docs/fibre_api/README.md) · [Badge dashboard example](https://github.com/Cumulo-pro/cumulo-celestia-infra/blob/main/docs/fibre_api/fibre-network-dashboard.md)
 * [Network reports](https://cumulo.pro/services/celestia_mocha/fibre-report): weekly, monthly and yearly reports · [Methodology](https://cumulo.pro/services/celestia_mocha/fibre-methodology)
-* [@CumuloFibreBot](https://t.me/CumuloFibreBot): Fibre network and validator reports in Telegram  
-  
+* [@CumuloFibreBot](https://t.me/CumuloFibreBot): Fibre network and validator reports in Telegram
+
 #### Operational transparency
 * [Operational Transparency Layer (OTL)](https://cumulo.pro/services/celestia/otl): live, scored view of Cumulo's validator, RPC, snapshot, bridge node and IBC relayers
 * [OTL methodology & scoring](https://cumulo.pro/services/celestia/otl-docs) · [Audit report](https://cumulo.pro/services/celestia/otl-report) · [Live API (JSON)](https://otl-api.cumulo.com.es/otl/v2/celestia/mainnet/posture) · [Spec & API schema](https://github.com/Cumulo-pro/cumulo-otl)
