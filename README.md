@@ -900,20 +900,26 @@ https://github.com/DasRasyo/Celestia-mocha-4
 
 ---
 
-### NakoTurk
-#### Mainnet
-Celestia Mainnet Beta Turkish Validator, Bridge, Full Storage ve Light Node Step by Step Guide
-https://github.com/okannako/celestiamainnet
+### [NakoTurk](https://github.com/okannako)
 
-Celestia Mainnet Beta Turkish Validator, Bridge, Full Storage ve Light Node Script Guide
-https://github.com/okannako/celestiamainnetscript
+#### Tools (Mainnet & Mocha)
+
+- Validator + Fibre Health Check and Telegram Alerts: <https://github.com/okannako/celestiawatch-en>
+- Validator + Fibre Health Check and Telegram Alerts (Turkish): <https://github.com/okannako/celestiawatch-tr>
+
+#### Mainnet Beta
+
+- Mainnet Beta Validator, Fibre, Bridge and Light Node Step by Step Guide: <https://github.com/okannako/celestiamainnet-en>
+- Mainnet Beta Turkish Validator, Fibre, Bridge and Light Node Step by Step Guide: <https://github.com/okannako/celestiamainnet-tr>
+- Mainnet Beta Validator, Fibre, Bridge and Light Node Script Guide: <https://github.com/okannako/celestiamainnetscript-en>
+- Mainnet Beta Turkish Validator, Fibre, Bridge and Light Node Script Guide: <https://github.com/okannako/celestiamainnetscript-tr>
 
 #### Testnet
-Celestia Mocha Testnet Turkish Validator, Bridge, Full Storage ve Light Node Step by Step Guide
-https://github.com/okannako/celestiamocha
 
-Celestia Mocha Testnet Turkish Validator, Bridge, Full Storage ve Light Node Script Guide 
-https://github.com/okannako/celestiamochascript
+- Mocha Testnet Validator, Fibre, Bridge and Light Node Step by Step Guide: <https://github.com/okannako/celestiamocha-en>
+- Mocha Testnet Turkish Validator, Fibre, Bridge and Light Node Step by Step Guide: <https://github.com/okannako/celestiamocha-tr>
+- Mocha Testnet Validator, Fibre, Bridge and Light Node Script Guide: <https://github.com/okannako/celestiamochascript-en>
+- Mocha Testnet Turkish Validator, Fibre, Bridge and Light Node Script Guide: <https://github.com/okannako/celestiamochascript-tr>
 
 ---
 
