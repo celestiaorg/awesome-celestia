@@ -1756,3 +1756,21 @@ These resources document earlier testnets and are not current node installation 
 - **RPC**: [https://rpc.apollo-validator.eu/celestia/](https://rpc.apollo-validator.eu/celestia/)
 
 ---
+
+### Contributions by [StakeUs](https://stakeus.xyz/)
+
+#### Tools
+
+* [StakeUs Atlas](https://mocha.stakeus.xyz/atlas/) — Celestia research with locally hosted semantic search, source-linked notes, network history and ecosystem references. Its map shows approximate endpoint geography and coverage limits, not a complete node census.
+* [Node Launch Workbench](https://mocha.stakeus.xyz/atlas/#deploy) — Setup-kit generator for light, bridge and non-validator consensus nodes on Mainnet and Mocha, with resource checks, location comparisons and release checksum verification. New binaries are staged for review; the installer is a pilot awaiting fresh-host end-to-end validation.
+* [Resource Lab](https://mocha.stakeus.xyz/atlas/#metrics) — Storage, retention and bandwidth planning with adjustable assumptions and exportable scenarios. Estimates are kept separate from observed network metrics.
+* [Commit Radar](https://mocha.stakeus.xyz/lab/) — Mocha commit participation, absent/nil observations, validator comparisons, block intervals and CSV export. Observation gaps are shown; commit inclusion is not an uptime or slashing record.
+* [Mocha Workbench](https://mocha.stakeus.xyz/) — Consensus endpoint freshness, matching-height block-hash comparisons and Fibre transport observations with sampling history.
+
+#### Mocha endpoints and data
+
+* Read-only [RPC status](https://mocha.stakeus.xyz/rpc/status) and [REST node info](https://mocha.stakeus.xyz/rest/cosmos/base/tendermint/v1beta1/node_info) — Bounded query access; no transaction broadcast or WebSocket service.
+* Public observation APIs: [status](https://mocha.stakeus.xyz/api/v1/status) and [analytics](https://mocha.stakeus.xyz/api/v1/analytics).
+* [Services directory](https://services.stakeus.xyz/) — Current StakeUs tools, node resources and endpoint links.
+
+---
