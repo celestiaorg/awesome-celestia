@@ -631,12 +631,12 @@ Public enpoints:
 ---
 
 ### Contributions by [LuckyResearch.org](https://luckyresearch.org/)
-#Technical Contributions to Celestia
+#### Technical contributions
 
 #### Mainnet
 
 #### Operated a Mainnet Validator :
-  https://celestia.explorers.guru/validator/celestiavaloper17hw6htgj2vadkutyurtq7568g9gz9kz4x7d5tm
+  https://celestia.explorers.guru/validator/celestiavaloper1avucsu4m8megk3h2sy8fzagag0upa4zyjst24t
 
 * Hosted Core Infrastructure Services:
 
@@ -645,17 +645,17 @@ Public enpoints:
   * API: https://api-celestia-mainnet.luckyresearch.org/
 
   * Explorer: https://explorer.luckyresearch.org/Celestia-Mainet
- 
-  * Fibre: running on a dedicated server, registered and live since v10 activation: https://celestiaresource.xyz/validators/celestiavaloper1avucsu4m8megk3h2sy8fzagag0upa4zyjst24t
+
+  * Fibre validator resource: https://celestiaresource.xyz/validators/celestiavaloper1avucsu4m8megk3h2sy8fzagag0upa4zyjst24t
     fibre.luckyresearch.org:7980
 
   * Services Guide: https://services.luckyresearch.org/lucky-research-services/mainet/celestia
- 
+
   * Snapshot: https://snapshot.luckyresearch.org/celestia/mainnet/
 
-* Genesis: https://snapshot.luckyresearch.org/celestia/Mainnet/genesis.json
+* Genesis: https://snapshot.luckyresearch.org/celestia/mainnet/genesis.json
 
-* Addrbook: https://snapshot.luckyresearch.org/celestia/Mainnet/addrbook.json
+* Addrbook: https://snapshot.luckyresearch.org/celestia/mainnet/addrbook.json
 
 * Bridge Node: 12D3KooWPQ3Bz8huviBbvGeSKVnNUxnj3X5zYU2Dt65NKiMv4byL (Shutdown)
 
@@ -674,23 +674,23 @@ Public enpoints:
 
   * Explorer: https://explorer.luckyresearch.org/Celestia-Testnet
 
-  * Fibre: running on same validator server, registered and live since v10 activation: https://celestiaresource.xyz/validators/celestiavaloper16kzqyl6rf8ph385v60u3r8sjgj5w9enq6znf6l
+  * Fibre validator resource: https://celestiaresource.xyz/validators/celestiavaloper16kzqyl6rf8ph385v60u3r8sjgj5w9enq6znf6l
     93.115.25.159:7980
 
   * Services Guide: https://services.luckyresearch.org/lucky-research-services/testnet/celestia
 
 * Snapshot: https://snapshot.luckyresearch.org/celestia/mocha/
 
-* Genesis: https://snapshot.luckyresearch.org/Celestia/Mocha/genesis.json
+* Genesis: https://snapshot.luckyresearch.org/celestia/mocha/genesis.json
 
-* Addrbook: https://snapshot.luckyresearch.org/Celestia/Mocha/addrbook.json
+* Addrbook: https://snapshot.luckyresearch.org/celestia/mocha/addrbook.json
 
 *  Bridge Node: 12D3KooWRyRKoAgGvsRuR7xEefCRVgTLVVphm72iHZSajY4jtYUb (Shutdown)
 
 
 #### Snapshot Hub:https://snapshot.luckyresearch.org/celestia/
 
-#### Relayer: celestia10lk3rtplccpe8xgk8wcrdw748ydqgkk7k23rg5 
+#### Relayer: celestia10lk3rtplccpe8xgk8wcrdw748ydqgkk7k23rg5
 
 #### GitHub Contribution: https://github.com/celestiaorg/celestia-app/issues/4961#issuecomment-2957298839
 
@@ -698,22 +698,22 @@ Public enpoints:
 
 ### CelestiaResource: a free hub with node setup guides, systemd configs, metrics docs, validator resources and RPC info for Mainnet and Mocha, made especially for newcomers who don't know where to start, for both Mainnet and Mocha Testnet .
 
-https://celestiaresource.xyz/ 
+https://celestiaresource.xyz/
 
 - Fibre: resources for operators running Fibre servers on Mainnet and Mocha: https://celestiaresource.xyz/fibre
-  
+
 - Peers: up-to-date peer lists to help node operators connect and sync: https://celestiaresource.xyz/peers
-  
+
 - CIPs: an overview of Celestia Improvement Proposals to follow protocol changes: https://celestiaresource.xyz/cips
-  
+
 - Upgrade signals: tracks validator signaling for network upgrades: https://celestiaresource.xyz/signal
-  
+
 - Governance proposals: onchain proposals and their voting status: https://celestiaresource.xyz/proposals
 
- # Community Contributions
+#### Community contributions
 
 * Official Discord Moderator for Celestia (global + Vietnamese channels since Dec 2022). Additionally, I provide support for other language channels—such as those for Chinese, Japanese, and Korean whenever a moderator is not present; this includes posting updates and ensuring the community remains safe and actively engaged.
-  
+
 * Admin of the unofficial Vietnamese Telegram community:
 https://t.me/celestia_vn
 https://t.me/celestia_vnanno
@@ -721,21 +721,21 @@ https://t.me/celestia_vnanno
 * Admin Celestia Vietnam Community on X: https://x.com/Celestiavnhub
 
 * Support community on Celestia Telegram Official:
-  
+
 https://t.me/CelestiaCommunity/245336
 https://t.me/CelestiaCommunity/246690
 https://t.me/CelestiaCommunity/247161
 https://t.me/CelestiaCommunity/247890
 and more
 
-  
+
   * Diamond Translator role in Celestia Discord
   * Proofreader for Vietnamese translations on Crowdin
   * Educational Content Development:
- 
+
 ####  Educational & Onboarding Tools
 
-####  Celestia Resource Site – Academy, Articles & Validators contributors : 
+####  Celestia Resource Site – Academy, Articles & Validators contributors :
 - Celestia Academy: structured learning material for newcomers getting started with Celestia: https://celestiaresource.xyz/academy
 - Articles: guides and articles about Celestia, all in one place: https://celestiaresource.xyz/articles
 - Validators contributors: a page highlighting community members who contribute content and resources: https://celestiaresource.xyz/contributors
@@ -769,14 +769,14 @@ and more
 ####  Celestia Community Assistant – Mamo (AI Chatbot) – GPT-based Celestia assistant:
  https://chatgpt.com/g/g-6830309b0e3081918d883d2b71e2e794-celestia-community-assistant-mamo-by-luckyresearch
 
-# Forum: CelestiaResource: a community resource hub & explorer for Celestia
+#### Forum: CelestiaResource: a community resource hub & explorer for Celestia
 https://forum.celestia.org/t/celestiaresource-a-community-resource-hub-explorer-for-celestia/2260/1
 
 * Contact official and just only. If anyone impersonates from an address other than this one, please block and disregard it.
 🔭 X: https://twitter.com/LuckyResearchVN
 👯 Website: https://luckyresearch.org
 - Github: https://github.com/LuckyResearch and https://github.com/LuckyResearchOrg
-- Email: contact@luckyresearch.org 
+- Email: contact@luckyresearch.org
 
 ---
 
