@@ -1219,70 +1219,93 @@ https://www.youtube.com/watch?v=nmpfNXf797U
 
 ---
 
-### Contributions by [NODERS](https://noders.team/) validator
+### Contributions by [NODERS](https://noders.team/)
 
-#### Celestia CommunityHub, Advanced Explorer and Ecosystem Overview
-- Production: https://celestiahub.org
+#### Celestia Blob Archive
+- Public blob archive for Mainnet Beta and Mocha, with share proofs and published coverage manifests: https://celestia-blob-archive.noders.services
+- celestia-node compatible read API (`blob.Get`, `GetAll`, `GetProof`, `Included`): https://celestia-blobs-rpc.noders.services (Mainnet), https://celestia-t-blobs-rpc.noders.services (Mocha)
+- Open data manifests: https://celestia-blobs.noders.services/manifest.json , https://celestia-t-blobs.noders.services/manifest.json
+- Fibre blobs archived together with payment promises and validator signatures
+- `cba` CLI to inspect, verify and export blobs, open source (Apache-2.0): https://github.com/noders-team/celestia-blob-archive
+- S3 fallback for OP Stack rollups using Celestia alt-DA: Nillion, Manta, Derive, Orderly, Towns
+
+#### Celestia Hub
+- Community app with explorer, ecosystem directory and Academy: https://celestiahub.org
+- Explorer for Mainnet and Mocha (blocks, transactions, validators, proposals, blobs and namespaces): https://celestiahub.org/explorer
+- Fibre Explorer for Mainnet and Mocha (Fibre nodes per validator, endorsement and availability, per-blob signatures): https://celestiahub.org/explorer/fibre , https://celestiahub.org/explorer/fibre-blobs
+- Ecosystem directory: https://celestiahub.org/ecosystem
+- Academy guides and videos: https://celestiahub.org/academy
+- Celestia AI assistant: https://celestiahub.org/chat
+- RPC list and developer tools: https://celestiahub.org/devtools
+
+#### Fibre tooling
+- Fibre indexer API: https://fibre-idx.mainnet.noders.services/api/fibre/stats , https://fibre-idx.testnet.noders.services/api/fibre/stats
+
+#### APIs and AI tooling
+- Indexer REST API with Swagger: https://celestia.noders.services/swagger/index.html (Mainnet), https://celestia-testnet.noders.services/swagger/index.html (Mocha)
+- MCP servers for AI agents: https://celestia-mcp.noders.services/mcp (Mainnet), https://celestia-testnet-mcp.noders.services/mcp (Mocha); setup guide: https://noders.services/mainnet/celestia/mcp/ , https://noders.services/testnet/celestia/mcp/
+- x402 payer for pay-per-call archive RPC in TIA: https://github.com/noders-team/x402-celestia-rpc-payer ; archive RPC and x402 guide: https://noders.services/mainnet/celestia/archive-rpc/ , https://noders.services/testnet/celestia/archive-rpc/
 
 ### Mainnet
 #### Validator: https://celestia.explorers.guru/validator/celestiavaloper139mu0a0ucz0gmrkavm5wjar2lpx7yvxq3e25e5
-#### Bridge: 12D3KooWDLxFz1bjSGBpNJD8qs2JaVdMRgVt59oZszvMmxSqqWp4
+#### Bridge (archival): 12D3KooWKV1aSWKVCwcj2VvvV6XJUGAYyCuCR4FTd7J6DtW7xYsz
 #### Public endpoints
-- https://celestia-rpc.noders.services
-- https://celestia-api.noders.services
-- celestia-grpc.noders.services:11090
-#### Seed node
-- e27a5da20a00afbfe2b9ca81cf8bc2e23de831c4@65.109.54.91:11059
-#### Endpoints list
-- https://cosmoslist.co/mainnet/celestia
-#### Services
-- https://noders.services/mainnet-networks/celestia
-#### Consensus node
-- celestia-consensus-mainnet.noders.services:26557
-- celestia-consensus-mainnet.noders.services:9080
-#### DA node
-- celestia-da-full-rpc.noders.services
-- celestia-da-full-api.noders.services
-#### Relayer networks `celestia14n8p425hz5l6xxcrq4ml00djkmwezm0mta38sc`
-- Axelar
-- Dymension
-- Injective
-- Jackal
-- Osmosis
+- RPC: https://celestia-rpc.noders.services
+- REST: https://celestia-api.noders.services
+- gRPC: celestia-grpc.noders.services:443
+#### Archive endpoints (from block 1)
+- RPC: https://celestia-archive-rpc.noders.services (pay-per-call via x402)
+- REST: https://celestia-archive-api.noders.services
+- gRPC: celestia-archive-grpc.noders.services:443
+- DA (bridge) JSON-RPC: https://celestia-archive-da.noders.services
+#### Seed nodes (our tenderseed build for celestia-core v0.42, so v10 nodes get peers)
+- 55717b51b521d3c34bce3c1ad0ec697616a5256b@93.159.130.40:11059
+- a353a362313a9b35ee33f728b2ddfd8d4cbc0f5b@65.109.18.169:11633
+#### Snapshots and addrbook
+- https://noders.services/mainnet/celestia/snapshot/
+- https://config.noders.services/celestia/addrbook.json
+#### Guides
+- https://noders.services/mainnet/celestia/
+#### IBC relayer `celestia14n8p425hz5l6xxcrq4ml00djkmwezm0mta38sc`
+- Celestia <> Osmosis (transfer, channel-2)
+- Celestia <> Neutron (transfer, channel-8)
+- Celestia <> Stride (transfer, channel-4)
+- Celestia <> Injective (transfer, channel-7)
+- Celestia <> Dymension (transfer, channel-27)
 
-### Testnet
-#### Validator: https://testnet.celestia.explorers.guru/validator/celestiavaloper1zzxrq7tjlsqvv0jtqtlt8gjaa68racukf5n9xh
-#### Bridge: 12D3KooWBhUb82ozNWR52s7MWkTsGhpoXz6EYB4w2rTJaVWLMwgH
+### Testnet (Mocha)
+#### Validator: celestiavaloper154v5mkdk87cz7lafaqt3sfd0a873wdy646vtdz
+#### Bridge (archival): 12D3KooWH52y1QTieUt87v7zckuvgCihrzMb2z3FhR6bsPV1p8Z7
 #### Public endpoints
-- https://celestia-t-rpc.noders.services
-- https://celestia-t-api.noders.services
-- celestia-t-grpc.noders.services:21090
+- RPC: https://celestia-t-rpc.noders.services
+- REST: https://celestia-t-api.noders.services
+- gRPC: celestia-t-grpc.noders.services:443
+#### Archive endpoints (from genesis)
+- RPC: https://celestia-t-archive-rpc.noders.services (pay-per-call via x402)
+- REST: https://celestia-t-archive-api.noders.services
+- Free archive RPC: https://celestia-t-archive-internal.noders.services
+- DA (bridge) JSON-RPC: https://celestia-t-archive-da.noders.services
 #### Seed node
-- 8587162e70023e301fa7265ac5750a438e5b2692@65.109.54.91:21059
-#### Endpoints list
-- https://cosmoslist.co/testnet/celestia
-#### Services
-- https://noders.services/testnet-networks/celestia
-#### Consensus node
-- celestia-consensus-testnet.noders.services:26357
-- celestia-consensus-testnet.noders.services:9070
-#### DA node
-- celestia-t-da-full-rpc.noders.services
-- celestia-t-da-full-api.noders.services
+- 0b91e5ce659d9b245bf925ef0db99bab90b2f260@93.159.130.43:32233
+#### Snapshots
+- https://noders.services/testnet/celestia/snapshot/
+#### Faucet
+- https://faucet.noders.services/celestia
 
-### Community:
-#### Zealy (Celestia - Essential Module №3)
-- https://zealy.io/cw/noders/questboard
-#### X/Twitter Celestia HUB https://x.com/CelestiaHub - Giveaways And Tweets (Temporarily suspended)
-- 43 tweets - https://docs.google.com/document/d/1IbV7vW6VWm0blQYFmwJRkArZotmrfjdCuYbApKTmhQs
+### Network participation
+- Celestia testnets since Mamaki (2022), Blockspace Race (2023), Mainnet Beta genesis validator (2023), Mocha-4 and Mocha-5 validator
+
+### Community
 #### Medium
-- 2 articles - https://docs.google.com/document/d/1VIYunKnLWbz65_C98CQ8MbANYnEbmc3StEteVByC57c
-#### Celestia Hub Academy
-- 17 articles - https://docs.google.com/document/d/1Q77MnVxqu6-ACvfYFzgJIProniNEB8uju9fLymCoATU
-#### X/Twitter https://x.com/NODERS_TEAM
-- 10 Tweets about Celesta - https://docs.google.com/document/d/1PIkfDi6o0JoW46B0K-wO-CmBCO6ZLX3nD77d_rDw00s
-#### Telegram https://t.me/nodersteam
-- 31 Posts about Celesta - https://docs.google.com/document/d/1BYJ9o4NAngU6Ma7BcPycwAQFdzLeIH_QG7WcTgDVuRw
+- [Quick Guide to Celestia Light Nodes](https://medium.com/@NODERS_TEAM/quick-guide-to-celestia-light-nodes-0c8c27bba7be)
+- [Technical Review of Celestia: Architecture and Interaction Protocols](https://medium.com/@NODERS_TEAM/technical-review-of-celestia-architecture-and-interaction-protocols-722c2121be43)
+- [Getting Started with Celestia: An Introduction to Modular Blockchains](https://medium.com/@NODERS_TEAM/getting-started-with-celestia-an-introduction-to-modular-blockchains-29b723224260)
+- [How to Use TIA Tokens for Network Governance and Voting](https://medium.com/@NODERS_TEAM/how-to-use-tia-tokens-from-celestia-for-network-governance-and-voting-46cc26167cdb)
+- All articles: https://medium.com/@NODERS_TEAM
+#### X/Twitter
+- https://x.com/NODERS_TEAM
+#### Telegram
+- https://t.me/nodersteam
 
 ---
 
