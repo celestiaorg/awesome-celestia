@@ -117,6 +117,23 @@ An Awesome List of Celestia Resources
 
 ## Node operator contributions
 
+### Contributions by [Ruby Nodes](https://rubynodes.io/)
+#### Tools
+* [Fibre Canary](https://github.com/ruby-nodes/fibre-canary) — End-to-end Fibre operational probe that publishes a blob, retrieves it, and verifies byte integrity.
+
+#### Upstream engineering (focused on Fibre tooling)
+* [Fibre server configuration validation](https://github.com/celestiaorg/celestia-app/pull/8035) — Merged change that rejects unknown server configuration keys instead of silently ignoring operator mistakes.
+* [Read-only Fibre store inspection](https://github.com/celestiaorg/celestia-app/pull/8154) — Merged first phase of the [Fibre store operator-tooling workstream](https://github.com/celestiaorg/celestia-app/issues/7822), adding store statistics and filtered marker inspection without reading shard payloads or modifying the database.
+* [Fibre storage startup observability](https://github.com/celestiaorg/celestia-app/pull/8200) — Merged startup diagnostics for the effective storage backend and object namespace, including warnings for invalid object-storage configuration.
+* [Fibre store operator tooling](https://github.com/celestiaorg/celestia-app/issues/7822) — Ongoing work with the Celestia team on object-store connectivity checks; recovery, export, and orphan-management tooling remain planned follow-up phases.
+
+#### Testnet
+* [Mocha validator](https://testnet.celestia.valopers.com/validators/celestiavaloper1gxmhld3mqc7qdxnl2h0uyguw0jffc36ln5aap3)
+* Mocha bridge node — `12D3KooWPCRtL4iXpTabaFFuhtSsL4vccdr7LyvLPJSWSb62bAjL` at `/ip4/185.246.84.120/tcp/2121/p2p/12D3KooWPCRtL4iXpTabaFFuhtSsL4vccdr7LyvLPJSWSb62bAjL`.
+* [Mocha seed-node contribution](https://github.com/celestiaorg/networks/pull/594) — Merged PR adding Ruby Nodes' seed to the official Mocha seed list.
+
+---
+
 ### Contributions by [Orion](https://orionlabsone.cc/)
 #### Tools
 * [Celestia network analysis](https://orionlabsone.cc/celestia) — Automated mainnet reports with source links. [RSS feed](https://orionlabsone.cc/api/rss).
