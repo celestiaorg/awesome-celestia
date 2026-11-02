@@ -884,22 +884,19 @@ https://github.com/DasRasyo/Celestia-mocha-4
 ---
 
 ### [F5 Nodes](https://f5nodes.com)
-#### Tools
-* [Monitoring tool for Celestia DA nodes](https://github.com/f5nodes/celestia-collector) - a robust monitoring tool designed to enhance the performance tracking of all types of Celestia data availability nodes with installation script and public Grafana dashboard: https://celestia.f5nodes.com.
-* [Celestia Wiki](https://wiki.f5nodes.com/celestia) - an open-source platform that provides a collection of developer resources, troubleshooting tips, useful validator tools, and all things Celestia network in one place.
-* [DA Nodes Management Script](https://github.com/f5nodes/celestia) - automated script to deploy, update and manage your Full, Bridge, and Light nodes in a few clicks.
-#### Mainnet Endpoints (archive node)
-- RPC: [https://celestia-rpc.f5nodes.com](https://celestia-rpc.f5nodes.com)
-- API: [https://celestia-api.f5nodes.com](https://celestia-api.f5nodes.com)
-- gRPC: `celestia-grpc.f5nodes.com:9390`
-- Seed node: `ec39096b831861bcda43896d098771fa9587ebce@seed.f5nodes.com:61456`
-#### Mainnet Snapshots
-- Archive snapshots (taken every 24 hours): https://celestia-snapshots-archive.f5nodes.com 
-- Pruned snapshots (taken every 6 hours): https://celestia-snapshots.f5nodes.com 
-#### Testnet Endpoints
-- RPC: [https://celestia-testnet-rpc.f5nodes.com](https://celestia-testnet-rpc.f5nodes.com)
-- API: [https://celestia-testnet-api.f5nodes.com](https://celestia-testnet-api.f5nodes.com)
-- gRPC: `celestia-testnet-grpc.f5nodes.com`
+#### Monitoring and alerts
+* **Celestia Watchtower** - Discord bots that alert validator teams when their validator or Fibre server needs attention. The bots are built around Celestia's signing and block-proposal rules, with escalation logic, recovery notices, daily reminders and status checks. Live in [#celestia-status-bot](https://discord.com/channels/638338779505229824/1169279514522693815) and [#mocha-status-bot](https://discord.com/channels/638338779505229824/1138033989282697317) on the Celestia Discord.
+* [Celestia Endpoints Ninja](https://celestia.endpoints.ninja) - endpoint discovery and analytics for nearly all providers on mainnet and testnet. Shows which endpoints are up, how fast they respond, how performant they are over time, if they're synced and on the latest release, plus incident history and 24h/7d/30d/90d uptime for each provider. Anyone relying on those providers, or even the providers themselves, can also subscribe to Discord alerts to know about an outage the moment it happens and when it's resolved.
+* [Celestia Collector](https://github.com/f5nodes/celestia-collector) - open-source monitoring tool for bridge and light nodes, with a public Grafana dashboard, server performance tracking and an automated setup script.
+
+#### Network tools and resources
+* [Celestia Network Atlas](https://celestia-atlas.f5nodes.com) - live visualizer of Celestia's consensus network that shows how decentralized it is. An interactive 3D globe shows where mainnet nodes run and how they connect, with a searchable node list and concentration by region, country or hosting provider.
+* [Celestia Wiki](https://wiki.f5nodes.com/celestia) - open-source platform we've been running since 2023 with developer resources, troubleshooting guides, validator and community tools, reliable endpoints and more in one place. [Open Wiki GitHub repository](https://github.com/f5nodes/wiki).
+
+#### Community
+* [Celestia UA Telegram group](https://t.me/celestia_ua) - Ukrainian Celestia community we've been running and moderating since October 2022. We share ecosystem and validator updates, educational content, technical explanations and network upgrades.
+* [Celestia Ukrainian Space](https://notion.f5nodes.com/celestia/space) - knowledge hub in Ukrainian with Celestia's technology, news, research, articles, FAQ and useful links. We keep adding new materials.
+* **AMA sessions** - join the AMAs we organize and keep an eye out for announcements on our [socials](https://x.com/f5nodes).
 
 ---
 
