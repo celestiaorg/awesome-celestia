@@ -392,34 +392,52 @@ https://telegra.ph/Content-contributions-for-Celestia-by-cryptomolot-07-02
 
 ---
 
-### DTEAM
+### Contributions by [DTEAM](https://dteam.tech/)
+
+#### Tools
+
+* [FibreStats](https://fibrestats.com) — Celestia Fibre analytics dashboard for Mainnet and Mocha, covering provider availability, voting power, decentralization, blob settlements, reconstruction checks and network economics.
+* [Fibre Monitoring](https://github.com/DTEAMTECH/fibre-monitoring) — Self-hosted Grafana monitoring stack for Celestia Fibre operators. Tracks upload/download traffic and latency, storage budget, payment-promise signing and Go runtime metrics. Includes Docker Compose setup and optional Telegram, Discord or webhook notifications.
+* [DA Layer Monitoring](https://github.com/DTEAMTECH/da-layer-monitoring) — Community-focused tool for monitoring Celestia DA node health and reliability. Available in the [official Celestia Discord server](https://discord.com/channels/638338779505229824/1374362956136976426).
+* [Community Discord Faucet](https://discord.gg/HxF8ecYWQC) — Lightweight Discord bot for distributing Celestia testnet tokens in the DTEAM community server. [Source](https://github.com/DTEAMTECH/celestia-discord-faucet).
+* [Bridge Health Checker — Web](https://celestia-bridge-checker.dteam.tech/) — Web tool for checking Celestia bridge node health. [Source](https://github.com/DTEAMTECH/celestia-bridge-health-checker).
+* [Bridge Health Checker — Discord](https://discord.gg/HxF8ecYWQC) — Discord bot for checking Celestia bridge node health in the DTEAM community server. [Source](https://github.com/DTEAMTECH/celestia-bridge-health-checker-discord).
+
 #### Mainnet
-* [Services (Installation guides, snapshot, state sync and etc.)](https://dteam.tech/services/mainnet/overview/celestia)
-* [Mainnet explorer](https://explorer.mainnet.dteam.tech/celestia)
-##### Tools
-- Bridge node checker / website: [https://celestia-bridge-checker.dteam.tech/](https://celestia-bridge-checker.dteam.tech/) / [Usage](https://github.com/DTEAMTECH/contributions/blob/main/celestia/README.md#celestia-bridge-health-checker-usage)
-- Bridge node checker / Discord: [https://discord.com/invite/BCeXe63Mm8](https://discord.com/invite/BCeXe63Mm8) / [Usage](https://github.com/DTEAMTECH/contributions/blob/main/celestia/README.md#celestia-bridge-health-checker-usage)
-##### Endpoints
-- RPC / Archive:  [https://rpc.archive.celestia.mainnet.dteam.tech](https://rpc.archive.celestia.mainnet.dteam.tech)
-- API / Archive:  [https://api.archive.celestia.mainnet.dteam.tech](https://api.archive.celestia.mainnet.dteam.tech)
-- GRPC / Archive: `grpc.archive.celestia.mainnet.dteam.tech:28090`
-##### Seed / Peer
-- Seed: `9b1d22c3a78487d1a664a4b6a331fce527d14fb4@seed.celestia.mainnet.dteam.tech:27656`
-- Peer: `076c9cc9de3039819a98522aeea39e8c72b49682@peer.celestia.mainnet.dteam.tech:28656`
-#### Testnet
-* [Services (Installation guides, snapshot, state sync and etc.)](https://dteam.tech/services/testnet/overview/celestia)
-* [Testnet explorer](https://explorer.testnet.dteam.tech/celestia)
-##### Tools
-- Bridge node checker / website: [https://celestia-bridge-checker.dteam.tech/](https://celestia-bridge-checker.dteam.tech/) / [Usage](https://github.com/DTEAMTECH/contributions/blob/main/celestia/README.md#celestia-bridge-health-checker-usage)
-- Bridge node checker / Discord: [https://discord.com/invite/BCeXe63Mm8](https://discord.com/invite/BCeXe63Mm8) / [Usage](https://github.com/DTEAMTECH/contributions/blob/main/celestia/README.md#celestia-bridge-health-checker-usage)
-- Community faucet(10TIA / 24h): [https://discord.com/invite/BCeXe63Mm8](https://discord.com/invite/BCeXe63Mm8) / [Usage](https://github.com/DTEAMTECH/contributions/blob/main/celestia/README.md#celestia-community-discord-faucet-usage)
-##### Endpoints
-- RPC / Archive:  [https://rpc.archive.celestia.testnet.dteam.tech](https://rpc.archive.celestia.testnet.dteam.tech)
-- API / Archive:  [https://api.archive.celestia.testnet.dteam.tech](https://api.archive.celestia.testnet.dteam.tech)
-- GRPC / Archive: `grpc.archive.celestia.testnet.dteam.tech:27090`
-##### Seed / Peer
-- Seed: `70e8a8941f32dc5f696e46ee836c27620e773065@seed.celestia.testnet.dteam.tech:26656`
-- Peer: `76ed983017167d96c62b166725250940deb783563@peer.celestia.testnet.dteam.tech:27656`
+
+* [Overview](https://dteam.tech/services/overview/celestia/mainnet) — Celestia resources, DTEAM validator status, network parameters and staking calculator.
+* Installation guides: [Consensus](https://dteam.tech/services/installation-guide/celestia/mainnet) · [Cosmovisor](https://dteam.tech/services/installation-guide/celestia/mainnet?tab=cosmovisor) · [Bridge](https://dteam.tech/services/installation-guide/celestia/mainnet?tab=bridge) · [Full](https://dteam.tech/services/installation-guide/celestia/mainnet?tab=full) · [Light](https://dteam.tech/services/installation-guide/celestia/mainnet?tab=light).
+* [Snapshots](https://dteam.tech/services/snapshot/celestia/mainnet)
+* [State sync](https://dteam.tech/services/state-sync/celestia/mainnet)
+* [Endpoints](https://dteam.tech/services/endpoints/celestia/mainnet)
+* [Addrbook](https://dteam.tech/services/addrbook/celestia/mainnet)
+* [Genesis](https://dteam.tech/services/genesis/celestia/mainnet)
+* [Persistent peers](https://dteam.tech/services/peers/celestia/mainnet)
+* [Seed node](https://dteam.tech/services/seeds/celestia/mainnet)
+* [Useful commands / Cheatsheet](https://dteam.tech/services/useful-commands/celestia/mainnet)
+* [Explorer](https://explorer.mainnet.dteam.tech/celestia)
+* Seed: `d581875538d794fec5c15ab26d79933c03885d06@seed.celestia.mainnet.dteam.tech:27656`
+* Peer: `076c9cc9de3039819a98522aeea39e8c72b49682@peer.celestia.mainnet.dteam.tech:26656`
+
+#### Mocha testnet
+
+* [Overview](https://dteam.tech/services/overview/celestia/testnet) — Celestia resources, DTEAM validator status, network parameters and staking calculator.
+* Installation guides: [Consensus](https://dteam.tech/services/installation-guide/celestia/testnet) · [Cosmovisor](https://dteam.tech/services/installation-guide/celestia/testnet?tab=cosmovisor) · [Bridge](https://dteam.tech/services/installation-guide/celestia/testnet?tab=bridge) · [Full](https://dteam.tech/services/installation-guide/celestia/testnet?tab=full) · [Light](https://dteam.tech/services/installation-guide/celestia/testnet?tab=light).
+* [Snapshots](https://dteam.tech/services/snapshot/celestia/testnet)
+* [State sync](https://dteam.tech/services/state-sync/celestia/testnet)
+* [Endpoints](https://dteam.tech/services/endpoints/celestia/testnet)
+* [Addrbook](https://dteam.tech/services/addrbook/celestia/testnet)
+* [Genesis](https://dteam.tech/services/genesis/celestia/testnet)
+* [Persistent peers](https://dteam.tech/services/peers/celestia/testnet)
+* [Seed node](https://dteam.tech/services/seeds/celestia/testnet)
+* [Useful commands / Cheatsheet](https://dteam.tech/services/useful-commands/celestia/testnet)
+* [Explorer](https://explorer.testnet.dteam.tech/celestia)
+* Seed: `85241b539d8f5445acc834849e99c548c7fe1e65@seed.celestia.testnet.dteam.tech:26656`
+* Peer: `a2b2f74676249a354ceb3a7d921c2e484f69a612@peer.celestia.testnet.dteam.tech:26656`
+
+#### Other contributions
+
+* [Additional DTEAM contributions](https://github.com/DTEAMTECH/contributions/tree/main/celestia) — Further details on documentation and ecosystem contributions, community resources and educational content.
 
 ---
 
