@@ -1803,3 +1803,13 @@ These resources document earlier testnets and are not current node installation 
 * [Snapshots](https://celestia-dashboard.krews.xyz/celestia/snapshots) — Reproducible node snapshots with integrity checks and command-ready restore steps. [Mainnet](https://celestia-dashboard.krews.xyz/celestia/snapshots) · [Mocha](https://celestia-dashboard.krews.xyz/celestia-mocha/snapshots).
 
 ---
+
+### Contributions by [R1M](https://r1m.team/)
+
+#### Tools
+* [FaucetList](https://faucet.r1m.team/celestia) — Earn 1 TIA every 24 hours to support your testing and development workflows. Add WL for validators. Built with a robust anti-abuse system: IP rate limiting, Wallet rate limiting. Reliable. Fair. Developer-friendly.
+* [R1M Sentinel](https://sentinel.r1m.team/) — Track your Celestia validators 24/7 via Telegram. Monitors missed block, node uptime, and Fibre.
+* [R1M Community App](https://app.r1m.team/celestia/) — Tracks Celestia market data, tokenomics/vesting, ecosystem projects, news and articles; monitors validators (stake, uptime, blocks, timeouts), geographic decentralization, live consensus, Signal Tracker for upgrade quorum, and Fibre (providers, PayForFibre activity, and Fibre-node decentralization).
+* [CELESTIA AI-POWERED DA DASHBOARD](https://da-dashboard.r1m.team/) — Uses AI to classify blobs (rollup, ZK, spam, test), detect anomalies, and build analytics charts.
+
+---
