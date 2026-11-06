@@ -1803,3 +1803,10 @@ These resources document earlier testnets and are not current node installation 
 * [Snapshots](https://celestia-dashboard.krews.xyz/celestia/snapshots) — Reproducible node snapshots with integrity checks and command-ready restore steps. [Mainnet](https://celestia-dashboard.krews.xyz/celestia/snapshots) · [Mocha](https://celestia-dashboard.krews.xyz/celestia-mocha/snapshots).
 
 ---
+
+### Contributions by [Cogwheel ⚙️](https://cogwheel.zone)
+
+#### Services and dApps
+* The Spectra Explorer - provides full blockchain transaction history. It allows user to create authz grants, stake, redelegate and undelegate TIA from validators, and create and vote on the governance proposals. The explorer also shows stats about about Fibre, who endorsed each blob and many more features available at: [mainnet](https://thespectra.io/celestia) and [testnet](https://thespectra.io/celestia_testnet).
+* The Spectra Portal - Spectra Portal is a standalone dApp that extends the functionality of the Spectra Explorer. This DApp provides an interface that grants users a way to bridge tokens across different chains using the Inter Blockchain Communication Protocol, and swap tokens across different chains using the Osmosis DEX. The TIA token and Celestia Network are fully supported. It is available at: [portal](https://portal.thespectra.io), the backend that resolves the routes and provides the data, Pathfinder is also public at [pathfinder](https://pathfinder.thespectra.io/). The project is fully open sourced under AGPL license and can be found [here](https://github.com/Cogwheel-Validator/spectra-portal).
+* Node setup docs and chain endpoints - setup for the Celestia nodes and some CLI commands that can be helpful. Also the Cogwheel hosted chain endpoints are available such as REST, RPC, WSS and gRPC are present and can links can be found at the [docs](https://docs.cogwheel.zone) page for both testnet and mainnet Celestia networks.
