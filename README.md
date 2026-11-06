@@ -1803,3 +1803,16 @@ These resources document earlier testnets and are not current node installation 
 * [Snapshots](https://celestia-dashboard.krews.xyz/celestia/snapshots) — Reproducible node snapshots with integrity checks and command-ready restore steps. [Mainnet](https://celestia-dashboard.krews.xyz/celestia/snapshots) · [Mocha](https://celestia-dashboard.krews.xyz/celestia-mocha/snapshots).
 
 ---
+
+### Contributions by [Endorphine Stake](https://endorphinestake.com)
+
+#### Tools
+* [Buzznodes](https://buzznodes.com/en/) —  The first monitoring solution built around IP telephony for real-time incident alerts.
+* [Macro on Fibre](https://macro.endorphinestake.com) — An application that generates real network traffic on Celestia Fibre using real-world macroeconomic and commodity data (gold, silver, copper, and other indicators) sourced from Trading Economics. Currently running on the mocha-5 testnet.
+* [EFK Monitoring](https://github.com/endorphinestake/celestia-loglume) — A monitoring solution for Celestia nodes built using Elasticsearch, Fluent Bit, and Kibana.
+
+#### Marketing
+* [Footsteps of Celestia Validators](https://drive.google.com/file/d/1RtRVST0CsEze-09L4X76TfhwzA4gWa8t) —  Produced the first printed samples of "Footsteps of Celestia Validators", a journal concept originally developed in [2025](https://x.com/endorphinestake/status/1937595990971756886?a=E_NV7fwiY7kDUM-vphw&s). We plan to distribute copies within the local Celestia community and showcase the publication at international cryptocurrency conferences and events.
+
+---
+
