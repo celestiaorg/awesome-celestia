@@ -1291,6 +1291,8 @@ Infrastructure, open-source tooling and public data for Celestia mainnet and Moc
 Open monitoring and data platform for Celestia Fibre: network readiness against the 2/3 stake threshold, validator Fibre hosts, signatures, verified blob retention, infrastructure concentration and Fibre activity.
 * [Fibre Network Monitor](https://cumulo.pro/services/celestia_mocha/fibre): network and per-validator dashboard
 * [Fibre Network API](https://cumulo.pro/services/celestia_mocha/fibre-api): public read-only API with OpenAPI docs, Prometheus metrics and status badges · [Quick start](https://github.com/Cumulo-pro/cumulo-celestia-infra/blob/main/docs/fibre_api/README.md) · [Badge dashboard example](https://github.com/Cumulo-pro/cumulo-celestia-infra/blob/main/docs/fibre_api/fibre-network-dashboard.md)
+* [Fibre on Grafana](https://fibre-grafana.cumulo.com.es/public-dashboards/e93d8dad529140739cff1616d89ffc3e): public read-only dashboards for mainnet and Mocha (readiness & quorum, decentralization, latency, validators, signatures & DA, market)
+* [My validator Grafana dashboard](https://github.com/Cumulo-pro/cumulo-celestia-infra/tree/main/tools/fibre-grafana-dashboard): importable per-validator dashboard for your own Grafana (Prometheus or Infinity version, with example alert rules)
 * [Network reports](https://cumulo.pro/services/celestia_mocha/fibre-report): weekly, monthly and yearly reports · [Methodology](https://cumulo.pro/services/celestia_mocha/fibre-methodology)
 * [@CumuloFibreBot](https://t.me/CumuloFibreBot): Fibre network and validator reports in Telegram
 
