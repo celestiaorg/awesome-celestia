@@ -117,6 +117,18 @@ An Awesome List of Celestia Resources
 
 ## Node operator contributions
 
+### Contributions by [bitszn](https://bitszn.com/)
+
+#### Tools
+
+* [Valopers Celestia Explorer](https://celestia.valopers.com/) — Block explorer with transactions, validators, staking, governance and uptime monitoring. [Mocha testnet](https://testnet.celestia.valopers.com/).
+* [Celestia decentralization analytics](https://celestia.valopers.com/analytics) — P2P peer geography, hosting-provider distribution and network footprint. [Mocha testnet](https://testnet.celestia.valopers.com/analytics).
+* [Fibre dashboard](https://celestia.valopers.com/fibre) — Registered providers, endpoint reachability, on-chain endorsement participation, blob activity, namespaces and escrow payments. [Mocha testnet](https://testnet.celestia.valopers.com/fibre).
+* [Fibre node map](https://celestia.valopers.com/fibre/analytics) — GeoIP-based server locations, hosting-provider distribution and stake-weighted reachability. [Mocha testnet](https://testnet.celestia.valopers.com/fibre/analytics).
+* [DA bridge monitor](https://celestia.valopers.com/bridges) — Bridge-node liveness, synchronization, software versions and geographic distribution.
+* [Mocha testnet faucet](https://testnet.celestia.valopers.com/faucet) — Testnet TIA for experimenting with transfers, staking and governance.
+
+
 ### Contributions by [Ruby Nodes](https://rubynodes.io/)
 #### Tools
 * [Fibre Canary](https://github.com/ruby-nodes/fibre-canary) — End-to-end Fibre operational probe that publishes a blob, retrieves it, and verifies byte integrity.
