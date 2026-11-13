@@ -1844,7 +1844,7 @@ These resources document earlier testnets and are not current node installation 
 * [EFK Monitoring](https://github.com/endorphinestake/celestia-loglume) — A monitoring solution for Celestia nodes built using Elasticsearch, Fluent Bit, and Kibana.
 
 #### Marketing
-* [Footsteps of Celestia Validators](https://drive.google.com/file/d/1RtRVST0CsEze-09L4X76TfhwzA4gWa8t) —  Produced the first printed samples of "Footsteps of Celestia Validators", a journal concept originally developed in [2025](https://x.com/endorphinestake/status/1937595990971756886?a=E_NV7fwiY7kDUM-vphw&s). We plan to distribute copies within the local Celestia community and showcase the publication at international cryptocurrency conferences and events.
+* [Footsteps of Celestia Validators](https://drive.google.com/file/d/1RtRVST0CsEze-09L4X76TfhwzA4gWa8t) —  Produced the first printed samples of "Footsteps of Celestia Validators", a journal concept originally developed in [2025](https://x.com/endorphinestake/status/1937595990971756886). We plan to distribute copies within the local Celestia community and showcase the publication at international cryptocurrency conferences and events.
 
 ---
 
@@ -1854,13 +1854,13 @@ These resources document earlier testnets and are not current node installation 
 * [FaucetList](https://faucet.r1m.team/celestia) — Earn 1 TIA every 24 hours to support your testing and development workflows. Add WL for validators. Built with a robust anti-abuse system: IP rate limiting, Wallet rate limiting. Reliable. Fair. Developer-friendly.
 * [R1M Sentinel](https://sentinel.r1m.team/) — Track your Celestia validators 24/7 via Telegram. Monitors missed block, node uptime, and Fibre.
 * [R1M Community App](https://app.r1m.team/celestia/) — Tracks Celestia market data, tokenomics/vesting, ecosystem projects, news and articles; monitors validators (stake, uptime, blocks, timeouts), geographic decentralization, live consensus, Signal Tracker for upgrade quorum, and Fibre (providers, PayForFibre activity, and Fibre-node decentralization).
-* [CELESTIA AI-POWERED DA DASHBOARD](https://da-dashboard.r1m.team/) — Uses AI to classify blobs (rollup, ZK, spam, test), detect anomalies, and build analytics charts.
+* [Celestia AI-powered DA dashboard](https://da-dashboard.r1m.team/) — Uses AI to classify blobs (rollup, ZK, spam, test), detect anomalies, and build analytics charts.
 
 ---
 
 ### Contributions by [Cogwheel ⚙️](https://cogwheel.zone)
 
 #### Services and dApps
-* The Spectra Explorer - provides full blockchain transaction history. It allows user to create authz grants, stake, redelegate and undelegate TIA from validators, and create and vote on the governance proposals. The explorer also shows stats about about Fibre, who endorsed each blob and many more features available at: [mainnet](https://thespectra.io/celestia) and [testnet](https://thespectra.io/celestia_testnet).
+* The Spectra Explorer - provides full blockchain transaction history. It allows user to create authz grants, stake, redelegate and undelegate TIA from validators, and create and vote on the governance proposals. The explorer also shows stats about Fibre, who endorsed each blob and many more features available at: [mainnet](https://thespectra.io/celestia) and [testnet](https://thespectra.io/celestia_testnet).
 * The Spectra Portal - Spectra Portal is a standalone dApp that extends the functionality of the Spectra Explorer. This DApp provides an interface that grants users a way to bridge tokens across different chains using the Inter Blockchain Communication Protocol, and swap tokens across different chains using the Osmosis DEX. The TIA token and Celestia Network are fully supported. It is available at: [portal](https://portal.thespectra.io), the backend that resolves the routes and provides the data, Pathfinder is also public at [pathfinder](https://pathfinder.thespectra.io/). The project is fully open sourced under AGPL license and can be found [here](https://github.com/Cogwheel-Validator/spectra-portal).
 * Node setup docs and chain endpoints - setup for the Celestia nodes and some CLI commands that can be helpful. Also the Cogwheel hosted chain endpoints are available such as REST, RPC, WSS and gRPC are present and can links can be found at the [docs](https://docs.cogwheel.zone) page for both testnet and mainnet Celestia networks.
