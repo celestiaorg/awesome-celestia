@@ -117,6 +117,18 @@ An Awesome List of Celestia Resources
 
 ## Node operator contributions
 
+### Contributions by [bitszn](https://bitszn.com/)
+
+#### Tools
+
+* [Valopers Celestia Explorer](https://celestia.valopers.com/) — Block explorer with transactions, validators, staking, governance and uptime monitoring. [Mocha testnet](https://testnet.celestia.valopers.com/).
+* [Celestia decentralization analytics](https://celestia.valopers.com/analytics) — P2P peer geography, hosting-provider distribution and network footprint. [Mocha testnet](https://testnet.celestia.valopers.com/analytics).
+* [Fibre dashboard](https://celestia.valopers.com/fibre) — Registered providers, endpoint reachability, on-chain endorsement participation, blob activity, namespaces and escrow payments. [Mocha testnet](https://testnet.celestia.valopers.com/fibre).
+* [Fibre node map](https://celestia.valopers.com/fibre/analytics) — GeoIP-based server locations, hosting-provider distribution and stake-weighted reachability. [Mocha testnet](https://testnet.celestia.valopers.com/fibre/analytics).
+* [DA bridge monitor](https://celestia.valopers.com/bridges) — Bridge-node liveness, synchronization, software versions and geographic distribution.
+* [Mocha testnet faucet](https://testnet.celestia.valopers.com/faucet) — Testnet TIA for experimenting with transfers, staking and governance.
+
+
 ### Contributions by [Ruby Nodes](https://rubynodes.io/)
 #### Tools
 * [Fibre Canary](https://github.com/ruby-nodes/fibre-canary) — End-to-end Fibre operational probe that publishes a blob, retrieves it, and verifies byte integrity.
@@ -392,34 +404,52 @@ https://telegra.ph/Content-contributions-for-Celestia-by-cryptomolot-07-02
 
 ---
 
-### DTEAM
+### Contributions by [DTEAM](https://dteam.tech/)
+
+#### Tools
+
+* [FibreStats](https://fibrestats.com) — Celestia Fibre analytics dashboard for Mainnet and Mocha, covering provider availability, voting power, decentralization, blob settlements, reconstruction checks and network economics.
+* [Fibre Monitoring](https://github.com/DTEAMTECH/fibre-monitoring) — Self-hosted Grafana monitoring stack for Celestia Fibre operators. Tracks upload/download traffic and latency, storage budget, payment-promise signing and Go runtime metrics. Includes Docker Compose setup and optional Telegram, Discord or webhook notifications.
+* [DA Layer Monitoring](https://github.com/DTEAMTECH/da-layer-monitoring) — Community-focused tool for monitoring Celestia DA node health and reliability. Available in the [official Celestia Discord server](https://discord.com/channels/638338779505229824/1374362956136976426).
+* [Community Discord Faucet](https://discord.gg/HxF8ecYWQC) — Lightweight Discord bot for distributing Celestia testnet tokens in the DTEAM community server. [Source](https://github.com/DTEAMTECH/celestia-discord-faucet).
+* [Bridge Health Checker — Web](https://celestia-bridge-checker.dteam.tech/) — Web tool for checking Celestia bridge node health. [Source](https://github.com/DTEAMTECH/celestia-bridge-health-checker).
+* [Bridge Health Checker — Discord](https://discord.gg/HxF8ecYWQC) — Discord bot for checking Celestia bridge node health in the DTEAM community server. [Source](https://github.com/DTEAMTECH/celestia-bridge-health-checker-discord).
+
 #### Mainnet
-* [Services (Installation guides, snapshot, state sync and etc.)](https://dteam.tech/services/mainnet/overview/celestia)
-* [Mainnet explorer](https://explorer.mainnet.dteam.tech/celestia)
-##### Tools
-- Bridge node checker / website: [https://celestia-bridge-checker.dteam.tech/](https://celestia-bridge-checker.dteam.tech/) / [Usage](https://github.com/DTEAMTECH/contributions/blob/main/celestia/README.md#celestia-bridge-health-checker-usage)
-- Bridge node checker / Discord: [https://discord.com/invite/BCeXe63Mm8](https://discord.com/invite/BCeXe63Mm8) / [Usage](https://github.com/DTEAMTECH/contributions/blob/main/celestia/README.md#celestia-bridge-health-checker-usage)
-##### Endpoints
-- RPC / Archive:  [https://rpc.archive.celestia.mainnet.dteam.tech](https://rpc.archive.celestia.mainnet.dteam.tech)
-- API / Archive:  [https://api.archive.celestia.mainnet.dteam.tech](https://api.archive.celestia.mainnet.dteam.tech)
-- GRPC / Archive: `grpc.archive.celestia.mainnet.dteam.tech:28090`
-##### Seed / Peer
-- Seed: `9b1d22c3a78487d1a664a4b6a331fce527d14fb4@seed.celestia.mainnet.dteam.tech:27656`
-- Peer: `076c9cc9de3039819a98522aeea39e8c72b49682@peer.celestia.mainnet.dteam.tech:28656`
-#### Testnet
-* [Services (Installation guides, snapshot, state sync and etc.)](https://dteam.tech/services/testnet/overview/celestia)
-* [Testnet explorer](https://explorer.testnet.dteam.tech/celestia)
-##### Tools
-- Bridge node checker / website: [https://celestia-bridge-checker.dteam.tech/](https://celestia-bridge-checker.dteam.tech/) / [Usage](https://github.com/DTEAMTECH/contributions/blob/main/celestia/README.md#celestia-bridge-health-checker-usage)
-- Bridge node checker / Discord: [https://discord.com/invite/BCeXe63Mm8](https://discord.com/invite/BCeXe63Mm8) / [Usage](https://github.com/DTEAMTECH/contributions/blob/main/celestia/README.md#celestia-bridge-health-checker-usage)
-- Community faucet(10TIA / 24h): [https://discord.com/invite/BCeXe63Mm8](https://discord.com/invite/BCeXe63Mm8) / [Usage](https://github.com/DTEAMTECH/contributions/blob/main/celestia/README.md#celestia-community-discord-faucet-usage)
-##### Endpoints
-- RPC / Archive:  [https://rpc.archive.celestia.testnet.dteam.tech](https://rpc.archive.celestia.testnet.dteam.tech)
-- API / Archive:  [https://api.archive.celestia.testnet.dteam.tech](https://api.archive.celestia.testnet.dteam.tech)
-- GRPC / Archive: `grpc.archive.celestia.testnet.dteam.tech:27090`
-##### Seed / Peer
-- Seed: `70e8a8941f32dc5f696e46ee836c27620e773065@seed.celestia.testnet.dteam.tech:26656`
-- Peer: `76ed983017167d96c62b166725250940deb783563@peer.celestia.testnet.dteam.tech:27656`
+
+* [Overview](https://dteam.tech/services/overview/celestia/mainnet) — Celestia resources, DTEAM validator status, network parameters and staking calculator.
+* Installation guides: [Consensus](https://dteam.tech/services/installation-guide/celestia/mainnet) · [Cosmovisor](https://dteam.tech/services/installation-guide/celestia/mainnet?tab=cosmovisor) · [Bridge](https://dteam.tech/services/installation-guide/celestia/mainnet?tab=bridge) · [Full](https://dteam.tech/services/installation-guide/celestia/mainnet?tab=full) · [Light](https://dteam.tech/services/installation-guide/celestia/mainnet?tab=light).
+* [Snapshots](https://dteam.tech/services/snapshot/celestia/mainnet)
+* [State sync](https://dteam.tech/services/state-sync/celestia/mainnet)
+* [Endpoints](https://dteam.tech/services/endpoints/celestia/mainnet)
+* [Addrbook](https://dteam.tech/services/addrbook/celestia/mainnet)
+* [Genesis](https://dteam.tech/services/genesis/celestia/mainnet)
+* [Persistent peers](https://dteam.tech/services/peers/celestia/mainnet)
+* [Seed node](https://dteam.tech/services/seeds/celestia/mainnet)
+* [Useful commands / Cheatsheet](https://dteam.tech/services/useful-commands/celestia/mainnet)
+* [Explorer](https://explorer.mainnet.dteam.tech/celestia)
+* Seed: `d581875538d794fec5c15ab26d79933c03885d06@seed.celestia.mainnet.dteam.tech:27656`
+* Peer: `076c9cc9de3039819a98522aeea39e8c72b49682@peer.celestia.mainnet.dteam.tech:26656`
+
+#### Mocha testnet
+
+* [Overview](https://dteam.tech/services/overview/celestia/testnet) — Celestia resources, DTEAM validator status, network parameters and staking calculator.
+* Installation guides: [Consensus](https://dteam.tech/services/installation-guide/celestia/testnet) · [Cosmovisor](https://dteam.tech/services/installation-guide/celestia/testnet?tab=cosmovisor) · [Bridge](https://dteam.tech/services/installation-guide/celestia/testnet?tab=bridge) · [Full](https://dteam.tech/services/installation-guide/celestia/testnet?tab=full) · [Light](https://dteam.tech/services/installation-guide/celestia/testnet?tab=light).
+* [Snapshots](https://dteam.tech/services/snapshot/celestia/testnet)
+* [State sync](https://dteam.tech/services/state-sync/celestia/testnet)
+* [Endpoints](https://dteam.tech/services/endpoints/celestia/testnet)
+* [Addrbook](https://dteam.tech/services/addrbook/celestia/testnet)
+* [Genesis](https://dteam.tech/services/genesis/celestia/testnet)
+* [Persistent peers](https://dteam.tech/services/peers/celestia/testnet)
+* [Seed node](https://dteam.tech/services/seeds/celestia/testnet)
+* [Useful commands / Cheatsheet](https://dteam.tech/services/useful-commands/celestia/testnet)
+* [Explorer](https://explorer.testnet.dteam.tech/celestia)
+* Seed: `85241b539d8f5445acc834849e99c548c7fe1e65@seed.celestia.testnet.dteam.tech:26656`
+* Peer: `a2b2f74676249a354ceb3a7d921c2e484f69a612@peer.celestia.testnet.dteam.tech:26656`
+
+#### Other contributions
+
+* [Additional DTEAM contributions](https://github.com/DTEAMTECH/contributions/tree/main/celestia) — Further details on documentation and ecosystem contributions, community resources and educational content.
 
 ---
 
@@ -1291,6 +1321,8 @@ Infrastructure, open-source tooling and public data for Celestia mainnet and Moc
 Open monitoring and data platform for Celestia Fibre: network readiness against the 2/3 stake threshold, validator Fibre hosts, signatures, verified blob retention, infrastructure concentration and Fibre activity.
 * [Fibre Network Monitor](https://cumulo.pro/services/celestia_mocha/fibre): network and per-validator dashboard
 * [Fibre Network API](https://cumulo.pro/services/celestia_mocha/fibre-api): public read-only API with OpenAPI docs, Prometheus metrics and status badges · [Quick start](https://github.com/Cumulo-pro/cumulo-celestia-infra/blob/main/docs/fibre_api/README.md) · [Badge dashboard example](https://github.com/Cumulo-pro/cumulo-celestia-infra/blob/main/docs/fibre_api/fibre-network-dashboard.md)
+* [Fibre on Grafana](https://fibre-grafana.cumulo.com.es/public-dashboards/e93d8dad529140739cff1616d89ffc3e): public read-only dashboards for mainnet and Mocha (readiness & quorum, decentralization, latency, validators, signatures & DA, market)
+* [My validator Grafana dashboard](https://github.com/Cumulo-pro/cumulo-celestia-infra/tree/main/tools/fibre-grafana-dashboard): importable per-validator dashboard for your own Grafana (Prometheus or Infinity version, with example alert rules)
 * [Network reports](https://cumulo.pro/services/celestia_mocha/fibre-report): weekly, monthly and yearly reports · [Methodology](https://cumulo.pro/services/celestia_mocha/fibre-methodology)
 * [@CumuloFibreBot](https://t.me/CumuloFibreBot): Fibre network and validator reports in Telegram
 
@@ -1801,6 +1833,28 @@ These resources document earlier testnets and are not current node installation 
 
 #### Node services
 * [Snapshots](https://celestia-dashboard.krews.xyz/celestia/snapshots) — Reproducible node snapshots with integrity checks and command-ready restore steps. [Mainnet](https://celestia-dashboard.krews.xyz/celestia/snapshots) · [Mocha](https://celestia-dashboard.krews.xyz/celestia-mocha/snapshots).
+
+---
+
+### Contributions by [Endorphine Stake](https://endorphinestake.com)
+
+#### Tools
+* [Buzznodes](https://buzznodes.com/en/) —  The first monitoring solution built around IP telephony for real-time incident alerts.
+* [Macro on Fibre](https://macro.endorphinestake.com) — An application that generates real network traffic on Celestia Fibre using real-world macroeconomic and commodity data (gold, silver, copper, and other indicators) sourced from Trading Economics. Currently running on the mocha-5 testnet.
+* [EFK Monitoring](https://github.com/endorphinestake/celestia-loglume) — A monitoring solution for Celestia nodes built using Elasticsearch, Fluent Bit, and Kibana.
+
+#### Marketing
+* [Footsteps of Celestia Validators](https://drive.google.com/file/d/1RtRVST0CsEze-09L4X76TfhwzA4gWa8t) —  Produced the first printed samples of "Footsteps of Celestia Validators", a journal concept originally developed in [2025](https://x.com/endorphinestake/status/1937595990971756886?a=E_NV7fwiY7kDUM-vphw&s). We plan to distribute copies within the local Celestia community and showcase the publication at international cryptocurrency conferences and events.
+
+---
+
+### Contributions by [R1M](https://r1m.team/)
+
+#### Tools
+* [FaucetList](https://faucet.r1m.team/celestia) — Earn 1 TIA every 24 hours to support your testing and development workflows. Add WL for validators. Built with a robust anti-abuse system: IP rate limiting, Wallet rate limiting. Reliable. Fair. Developer-friendly.
+* [R1M Sentinel](https://sentinel.r1m.team/) — Track your Celestia validators 24/7 via Telegram. Monitors missed block, node uptime, and Fibre.
+* [R1M Community App](https://app.r1m.team/celestia/) — Tracks Celestia market data, tokenomics/vesting, ecosystem projects, news and articles; monitors validators (stake, uptime, blocks, timeouts), geographic decentralization, live consensus, Signal Tracker for upgrade quorum, and Fibre (providers, PayForFibre activity, and Fibre-node decentralization).
+* [CELESTIA AI-POWERED DA DASHBOARD](https://da-dashboard.r1m.team/) — Uses AI to classify blobs (rollup, ZK, spam, test), detect anomalies, and build analytics charts.
 
 ---
 
