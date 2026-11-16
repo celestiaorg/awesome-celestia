@@ -723,6 +723,8 @@ Public enpoints:
   * RPC: https://rpc-celestia-mainnet.luckyresearch.org/
 
   * API: https://api-celestia-mainnet.luckyresearch.org/
+ 
+  * gRPC: https://grpc-celestia-mainnet.luckyresearch.org/
 
   * Explorer: https://explorer.luckyresearch.org/Celestia-Mainet
 
@@ -751,6 +753,8 @@ Public enpoints:
   * RPC: https://rpc-celestia-mocha.luckyresearch.org/
 
   * API: https://api-celestia-mocha.luckyresearch.org/
+ 
+  * gRPC: https://grpc-celestia-mocha.luckyresearch.org/
 
   * Explorer: https://explorer.luckyresearch.org/Celestia-Testnet
 
